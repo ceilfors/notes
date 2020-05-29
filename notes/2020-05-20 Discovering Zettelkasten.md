@@ -1,0 +1,13 @@
+# 2020-05-20 Discovering Zettelkasten
+<!-- #transient #discovery -->
+
+I first made a discovery on this method when I was reading about Roam Research. These are the articles that I’m mainly going back to again and again to understand the method more:
+
+- [Zettelkasten — How One German Scholar Was So Freakishly Productive](https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125). The most useful of all. Should check out the principles again and again.
+- [Andy Matuschak - §Note-writing systems](https://notes.andymatuschak.org/zhmLXArqiCMDr9Q13ViqN3hh3SmrKzjQxWAr)
+- [Andy Matuschak - Taxonomy of note types](https://notes.andymatuschak.org/z6f6xgGG4NKjkA5NA1kDd46whJh2Gt5rAmfX)
+- [Zettlr | “Wtf is a Zettelkasten?”](https://www.zettlr.com/post/what-is-a-zettelkasten)
+
+Before I discovered this method, I have been trying to approach my reading and learning with [[Mind map]].  Unfortunately I found the mind map approach to have too much friction. First, a mind map has to be stored in a proprietary format. Second, I can’t easily add notes to the map. The way I think about the Zettelkasten method at the moment is its very similar to Mind mapping, but without the graph.
+
+<!-- {BearID:0A866777-7DE3-4C31-83FC-74E88F4BB304-81713-000632FF220425D8} -->
