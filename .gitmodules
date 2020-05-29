@@ -1,0 +1,3 @@
+[submodule ".cron/Bear-Markdown-Export"]
+	path = .cron/Bear-Markdown-Export
+	url = git@github.com:ceilfors/Bear-Markdown-Export.git
