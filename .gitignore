@@ -2,3 +2,9 @@
 .export-time.log
 .sync-time.log
 bear_export_sync_log.txt
+
+# node
+node_modules
+
+# vuepress
+dist
