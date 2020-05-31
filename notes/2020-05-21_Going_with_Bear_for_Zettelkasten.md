@@ -1,5 +1,4 @@
 # 2020-05-21 Going with Bear for Zettelkasten
-<!-- #transient #tools -->
 
 I’ve been evaluating the software that I can use to practice [[2020-05-20 Discovering Zettelkasten]].
 
@@ -25,5 +24,9 @@ One of the other benefit of using Bear is I really like what Andy Matuschak has 
 ## Reference
 * This is a very reliable source. I ended up using Bear because of this [Mac app comparison for Zettelkasten - Google Sheets](https://docs.google.com/spreadsheets/d/1nyztusx7HAJpc8Vlvm11rG21X8jzx63H2Owmr5s-arE/edit#gid=0)
 * [Zettelkasten Software Comparison - Google Sheets](https://docs.google.com/spreadsheets/d/1q3AyC3EyBFD90xOgfZOhAKqBozgoS-HdSH-YvfBO7Xw/edit#gid=227657679)
+
+## Backlinks
+* [[My note writing system]]
+	* I’ve decided that I’m [[2020-05-21 Going with Bear for Zettelkasten]]. Therefore there are constraints that are set by Bear. These constraints are good as it restricts my template convention to pure Markdown file.
 
 <!-- {BearID:0A9029D2-7452-442B-9F4F-C2D3C1D02736-81713-000632ECD5EBA8BA} -->

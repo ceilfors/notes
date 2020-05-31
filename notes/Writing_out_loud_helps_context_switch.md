@@ -1,5 +1,4 @@
 # Writing out loud helps context switch
-<!-- #evergreen #remotework -->
 
 When I was writing [[2020-05-22]], I was remote working from home. During that time in the morning, my 4yo was very active and would like to play with me —  I typically played with her during the pandemic from 8 am to 10 am except on a single workday that disrupt her routine.
 

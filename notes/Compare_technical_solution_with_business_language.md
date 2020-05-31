@@ -1,5 +1,4 @@
 # Compare technical solution with business language
-<!-- #evergreen #architecture -->
 
 I was designing [the technical solution for the dynamic aggregate problem](https://strategy.upmooffices.io/decisions/0008-introduce-aggregate-api.html), it occurred to me that it’ll be useful if I can weigh the solutions more effectively by myself. Unfortunately I find it to be difficult when I contemplating the choice by myself. [[To write is to rubber duck]] is really helpful, but it wasn’t enough for me to weigh the choice.
 

@@ -1,5 +1,4 @@
 # 2020-05-20 Discovering Zettelkasten
-<!-- #transient #discovery -->
 
 I first made a discovery on this method when I was reading about Roam Research. These are the articles that I’m mainly going back to again and again to understand the method more:
 
@@ -9,5 +8,9 @@ I first made a discovery on this method when I was reading about Roam Research. 
 - [Zettlr | “Wtf is a Zettelkasten?”](https://www.zettlr.com/post/what-is-a-zettelkasten)
 
 Before I discovered this method, I have been trying to approach my reading and learning with [[Mind map]].  Unfortunately I found the mind map approach to have too much friction. First, a mind map has to be stored in a proprietary format. Second, I can’t easily add notes to the map. The way I think about the Zettelkasten method at the moment is its very similar to Mind mapping, but without the graph.
+
+## Backlinks
+* [[2020-05-21 Going with Bear for Zettelkasten]]
+	* I’ve been evaluating the software that I can use to practice [[2020-05-20 Discovering Zettelkasten]].
 
 <!-- {BearID:0A866777-7DE3-4C31-83FC-74E88F4BB304-81713-000632FF220425D8} -->

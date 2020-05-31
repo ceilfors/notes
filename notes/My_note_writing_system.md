@@ -1,5 +1,4 @@
 # My note writing system
-<!-- #evergreen #writing -->
 
 This system has been inspired by these systems:
 - Zettelkasten: [Zettelkasten knowledge and info management • Zettelkasten Method](https://zettelkasten.de/) and [Zettelkasten — How One German Scholar Was So Freakishly Productive](https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125)
@@ -43,8 +42,6 @@ This is my dumping ground. May or may not contain ideas.
 
 Template:
 ```
-<!-- #yyyy-mm-dd -->
-<!-- #daily -->
 
 Here is the content.
 - [ ] really transient idea
@@ -56,8 +53,6 @@ Evergreen notes won’t emerge by itself. Transient note is meant to be a very f
 Transient notes generally will start without any tags so that it’ll be processed further in our workflow.
 
 ```
-<!-- #yyyy-mm-dd The Title -->
-<!-- #transient #tag1 #tag2 -->
 
 Here is the content.
 ```
@@ -67,7 +62,6 @@ Evergreen note is a processed transient note(s). It will evolve and overtime be 
 
 ```
 # The Title
-<!-- #evergreen #tag1 #tag2 -->
 
 Here is the content.
 
@@ -83,7 +77,6 @@ When you have many random notes and finally you can see how they are connected t
 
 ```
 # The Title
-<!-- #evergreen #connection #tag1 #tag2 -->
 
 Here is the content.
 ```
@@ -92,7 +85,6 @@ Here is the content.
 Interlinks and sequence all other notes into a narrative. This note can grow and is not dated.
 ```
 # §The Title
-<!-- #outline #tag1 #tag2 -->
 
 Here is the content.
 ```
@@ -110,5 +102,9 @@ I have no idea what § is for, it’s [practiced](https://notes.andymatuschak.or
 [Name of reference](link)
 > quote from the reference
 ```
+
+## Backlinks
+* [[To write is to rubber duck]]
+	* I was presented with a technical challenge to improve our search experience. I started to do things differently today, and started to write my thoughts at the [[2020-05-22]] daily log. This frictionless writing in a daily log is part of my workflow from [[My note writing system]]. This exercise helped me think clearer. It reminds me of the experience that I get from rubber ducking someone to solve a programming problem.
 
 <!-- {BearID:CAB21B59-A446-4221-B9EC-3B674F3AF2EC-5962-00000FA1AC26E170} -->
