@@ -1,6 +1,5 @@
 # My note writing system
 <!-- #evergreen #writing -->
-2020-05-20
 
 This system has been inspired by these systems:
 - Zettelkasten: [Zettelkasten knowledge and info management • Zettelkasten Method](https://zettelkasten.de/) and [Zettelkasten — How One German Scholar Was So Freakishly Productive](https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125)
@@ -69,7 +68,6 @@ Evergreen note is a processed transient note(s). It will evolve and overtime be 
 ```
 # The Title
 <!-- #evergreen #tag1 #tag2 -->
-yyyy-mm-dd
 
 Here is the content.
 
@@ -77,6 +75,8 @@ Here is the content.
 ## Revision
 yyyy-mm-dd: ...
 ```
+
+Even though the creation date of the note is important, I couldn’t find a good way to include that in markdown file nicely. What I ended up relying on is the Bear stored creation date.
 
 ### Connection note
 When you have many random notes and finally you can see how they are connected to each other, create a ([connection note](https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125)).

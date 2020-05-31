@@ -1,6 +1,5 @@
 # To write is to rubber duck
 <!-- #evergreen #writing #thinking -->
-2020-05-22
 
 I was presented with a technical challenge to improve our search experience. I started to do things differently today, and started to write my thoughts at the [[2020-05-22]] daily log. This frictionless writing in a daily log is part of my workflow from [[My note writing system]]. This exercise helped me think clearer. It reminds me of the experience that I get from rubber ducking someone to solve a programming problem.
 
