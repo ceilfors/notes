@@ -21,7 +21,7 @@ Bear is really great. I immediately fell in love with the tool, and I have paid 
 One of the other benefit of using Bear is I really like what Andy Matuschak has written, and he has also produced the above Bear related scripts!
 ---
 
-## Reference
+## References
 * This is a very reliable source. I ended up using Bear because of this [Mac app comparison for Zettelkasten - Google Sheets](https://docs.google.com/spreadsheets/d/1nyztusx7HAJpc8Vlvm11rG21X8jzx63H2Owmr5s-arE/edit#gid=0)
 * [Zettelkasten Software Comparison - Google Sheets](https://docs.google.com/spreadsheets/d/1q3AyC3EyBFD90xOgfZOhAKqBozgoS-HdSH-YvfBO7Xw/edit#gid=227657679)
 

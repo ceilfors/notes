@@ -25,8 +25,7 @@ Initially, the system started as an attempt for copy the Zettelkasten method, un
 [The Difference Between Good and Bad Tags • Zettelkasten Method](https://zettelkasten.de/posts/object-tags-vs-topic-tags/)
 > I try to come up with a similar problem in my programming notes. I learned a lot of Python in recent weeks, but it doesn’t make sense to put # Python anywhere I *talk about* the language. Or say I come up with an algorithm to illustrate something, and the algorithm is written in Python — I wouldn’t tag the note with # python at all, since it’s not a note *about* Python. When I compare code snippets in 5 different languages, I apply tags for all 5 languages, though.
 
-> but I found this doesn’t scale. It creates the same problems like directory hierarchies, where topics come up in different contexts, like in “
-> # productivity/reading” and  # hobby/reading, or # webdesign/layout and # print/layout. 
+> but I found this doesn’t scale. It creates the same problems like directory hierarchies, where topics come up in different contexts, like in # productivity/reading and  # hobby/reading, or # webdesign/layout and # print/layout. 
 
 ## Building blocks
 
