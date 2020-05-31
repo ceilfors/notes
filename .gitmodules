@@ -1,5 +1,5 @@
 [submodule ".cron/Bear-Markdown-Export"]
-	path = .cron/Bear-Markdown-Export
+	path = .script/Bear-Markdown-Export
 	url = git@github.com:ceilfors/Bear-Markdown-Export.git
 [submodule ".vuepress/markdown-it-wikilinks"]
 	path = .vuepress/markdown-it-wikilinks

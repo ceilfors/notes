@@ -10,7 +10,8 @@
   },
   "scripts": {
     "dev": "vuepress dev .",
-    "build": "vuepress build ."
+    "build": "vuepress build .",
+    "export": "(cd .script; ./export.sh)"
   },
   "repository": {
     "type": "git",
