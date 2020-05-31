@@ -3,4 +3,4 @@
 	url = git@github.com:ceilfors/Bear-Markdown-Export.git
 [submodule ".vuepress/markdown-it-wikilinks"]
 	path = .vuepress/markdown-it-wikilinks
-	url = git@github.com:ceilfors/markdown-it-wikilinks.git
+	url = https://github.com/ceilfors/markdown-it-wikilinks.git
