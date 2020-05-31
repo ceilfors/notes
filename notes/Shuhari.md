@@ -8,7 +8,7 @@ Shuhari describes 3 stages to mastery: Shu, Ha, and Ri. I first discovered this 
 
 What I find interesting from Shuhari is the sequence of stages described, where students are emphasised to copy first before making an attempt to understand, because copying is how children naturally learn.
 
-There are many times people would skip the stage of copying rigorously and set to the *Ha* stage too early. Breaking free too early may result in a semantic diffusion, e.g., developers using the term “TDD” to mean “writing unit test," or using “refactoring” to mean “fixing something”. Breaking free too early is also an opportunity lost for developers to pick up a skill properly which may make themselves more effective.
+There are many times people would skip the stage of copying rigorously and set to the *Ha* stage too early. Breaking free too early may result in a semantic diffusion, e.g., developers using the term “TDD” to mean “writing unit test," or using “refactoring” to mean “fixing something”. Breaking free too early is also an opportunity lost for developers to master a skill.
 
 Martin Fowler has also written a [bliki](https://martinfowler.com/bliki/ShuHaRi.html) on Shuhari. He shared a different model of mastery from Clark Terry’s:  [Imitate, Assimilate, Innovate](http://jazzadvice.com/clark-terrys-3-steps-to-learning-improvisation/).
 
