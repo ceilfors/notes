@@ -1,5 +1,4 @@
 # Note-writing system
-
 ## Workflow
 1. Process daily note todo list
 2. Process untagged notes:
@@ -17,6 +16,7 @@ This is my dumping ground. Any notes that I take during the day will start here.
 Template:
 ```
 # yyyy-mm-dd
+.#daily
 
 Here is the content.
 - [ ] really transient idea
@@ -69,7 +69,7 @@ Here is the content.
 I have no idea what § is for, it’s [practiced](https://notes.andymatuschak.org/zhmLXArqiCMDr9Q13ViqN3hh3SmrKzjQxWAr) by Andy Matuschak.
 
 ### References
-It’s important to keep references, so follow this format.
+It’s important to keep references, so follow this format. When referencing a book, we should cite the book with [ZoteroBib](https://zbib.org/).
 ```
 ...content...
 
@@ -82,6 +82,13 @@ It’s important to keep references, so follow this format.
 ```
 
 ## Tagging
+Tagging should be done at the end of the post to prevent conflict with `note-link-nanitor`. These are the tags we want to use
+- Transient: transient
+- Evergreen: evergreen
+- Connection: connection evergreen
+- Outline: evergreen
+
+Some useful principles:
 - Don’t use nested tags
 - Tag the object, not topic
 
@@ -104,5 +111,7 @@ Initially, the system started as an attempt for copy the Zettelkasten method ([[
 ## Backlinks
 * [[To write is to rubber duck]]
 	* I was presented with an architectural problem, and couldn’t really think clearly on what my options are. As I’m experimenting with my [[Note-writing system]], I started to pour down my thoughts into my daily log. To my surprise, after writing for roughly 1 hour, I progressed really well and got down into a solution. This revelation reminds me of the experience that I got from rubber ducking debugging.
+
+<!-- #evergreen #writing -->
 
 <!-- {BearID:CAB21B59-A446-4221-B9EC-3B674F3AF2EC-5962-00000FA1AC26E170} -->

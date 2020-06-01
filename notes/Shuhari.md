@@ -1,5 +1,4 @@
 # Shuhari
-
 Shuhari describes 3 stages to mastery: Shu, Ha, and Ri. I first discovered this Shuhari from [Simon Wardley’s tweet](https://twitter.com/swardley/status/1259795847279230976). According to Shuhari, a student will go through 3 stages to master a skill:
 
 1. Shu: To obey. In this stage, the student will copy the teacher rigorously. The student must not modify what’s being taught to ensure solid foundation.
@@ -9,5 +8,7 @@ Shuhari describes 3 stages to mastery: Shu, Ha, and Ri. I first discovered this 
 What I find interesting from Shuhari is the sequence of stages described, where students are emphasised to copy first before making an attempt to understand, because copying is how children naturally learn.
 
 Martin Fowler has also written a [bliki](https://martinfowler.com/bliki/ShuHaRi.html) on Shuhari. He shared a different model of mastery from Clark Terry’s:  [Imitate, Assimilate, Innovate](http://jazzadvice.com/clark-terrys-3-steps-to-learning-improvisation/).
+
+<!-- #evergreen #mastery -->
 
 <!-- {BearID:30565046-0BDE-45CA-85B6-E10CFF56D8AE-81713-00062FC48251C43B} -->

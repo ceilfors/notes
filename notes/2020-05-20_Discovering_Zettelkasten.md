@@ -1,5 +1,4 @@
 # 2020-05-20 Discovering Zettelkasten
-
 I first made a discovery on Zettelkasten when I was reading about Roam Research. These are the articles that I’m mainly going back to again and again to understand the method more:
 
 - [Zettelkasten — How One German Scholar Was So Freakishly Productive](https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125)
@@ -14,5 +13,7 @@ Before I discovered this method, I have been approaching my reading and learning
 	* Initially, the system started as an attempt for copy the Zettelkasten method ([[2020-05-20 Discovering Zettelkasten]]), until I realise that [Andy Matuschak’s evergreen note is different to Zettelkasten](https://notes.andymatuschak.org/z4AX7pHAu5uUfmrq4K4zig9x8jmmF62XgaMXm):
 * [[2020-05-21 Going with Bear for Zettelkasten]]
 	* I’ve been evaluating the software that I can use to practice [[2020-05-20 Discovering Zettelkasten]].
+
+<!-- #transient #writing -->
 
 <!-- {BearID:0A866777-7DE3-4C31-83FC-74E88F4BB304-81713-000632FF220425D8} -->
