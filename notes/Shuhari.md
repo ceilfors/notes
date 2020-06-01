@@ -11,4 +11,4 @@ Martin Fowler has also written a [bliki](https://martinfowler.com/bliki/ShuHaRi.
 
 <!-- #evergreen #mastery -->
 
-<!-- {BearID:30565046-0BDE-45CA-85B6-E10CFF56D8AE-81713-00062FC48251C43B} -->
+<!-- {BearID:D67018D1-F4AB-4F20-A157-5BC8156E1CA5-1211-000031C0A5DECF43} -->

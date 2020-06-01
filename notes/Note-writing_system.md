@@ -16,7 +16,6 @@ This is my dumping ground. Any notes that I take during the day will start here.
 Template:
 ```
 # yyyy-mm-dd
-.#daily
 
 Here is the content.
 - [ ] really transient idea
@@ -114,4 +113,4 @@ Initially, the system started as an attempt for copy the Zettelkasten method ([[
 
 <!-- #evergreen #writing -->
 
-<!-- {BearID:CAB21B59-A446-4221-B9EC-3B674F3AF2EC-5962-00000FA1AC26E170} -->
+<!-- {BearID:40AB3F4F-7EAC-4477-9584-C1061D99E2EE-1211-000031C0A43A6902} -->

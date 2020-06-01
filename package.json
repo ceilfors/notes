@@ -14,8 +14,8 @@
     "dev": "vuepress dev .",
     "build": "vuepress build .",
     "export:backlink": "note-link-janitor notes",
-    "export:bear": "(cd .script; ./export.sh)",
-    "export": "run-s export:bear export:backlink"
+    "export:bear": "(cd .script; ./sync.sh)",
+    "export": "run-s export:bear export:backlink export:bear"
   },
   "repository": {
     "type": "git",

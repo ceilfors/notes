@@ -2,6 +2,7 @@
 .export-time.log
 .sync-time.log
 bear_export_sync_log.txt
+.cron-backup
 
 # node
 node_modules

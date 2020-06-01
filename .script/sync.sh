@@ -1,0 +1,1 @@
+python3 ./Bear-Markdown-Export/bear_export_sync.py --out ../notes --backup .cron-backup
