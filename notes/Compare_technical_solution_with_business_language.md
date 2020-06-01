@@ -13,6 +13,6 @@ These sentences describe technical problems well, but they didn’t really descr
 2. Slower performance on our search experience
 3. We can’t support more than 100 active offices
 
-It’s becoming quite obvious now on how I can weigh my options. Writing them in business language also turns the options into business decisions. Most architectural problems are business problems. It’s quite apparent that Option 3 is a business limiting decision, and it’s a decision that you should make with the business.
+Writing them in business language also turns the options into business decisions, as most architectural problems are business problems. It’s becoming quite obvious now on how I can weigh my options. I was actually about to go with Option 3 if I haven’t compared the options with business language. Even though Option 3 is more desirable from technical point of view, the option is a business limiting decision. It’s a decision that I should make with the business.
 
 <!-- {BearID:A367412E-F85C-4D54-8CF3-92BCEEDEA04D-9954-000042561D5F0F52} -->
