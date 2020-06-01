@@ -16,6 +16,7 @@ This is my dumping ground. Any notes that I take during the day will start here.
 
 Template:
 ```
+# yyyy-mm-dd
 
 Here is the content.
 - [ ] really transient idea
@@ -28,6 +29,7 @@ Transient notes generally will start without any tags so that it’ll be process
 
 Template:
 ```
+# yyyy-mm-dd The Title
 
 Here is the content.
 ```
