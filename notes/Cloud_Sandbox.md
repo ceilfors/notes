@@ -11,9 +11,13 @@ Replicating cloud services locally is expensive, but fortunately the open source
 
 Even though you can replicate the cloud services locally, there are risks where the behaviour of these replicated services to not be the same with the cloud. These risks may reduce confidence in your test. The cloud providers are also moving rapidly, which means new features might not be replicated locally yet. This problem can be seen in the recently created issues in the [localstack](https://github.com/localstack/localstack/issues/2481) [issue](https://github.com/localstack/localstack/issues/2443#issue-621809232) [tracker](https://github.com/localstack/localstack/issues/2483)). 
 
-By creating a cloud sandbox, the behaviour of your application will exactly be the same with the higher deployment environments. This inspires confidence in testing, as it’s guaranteed that your code change will work when you push to the mainline. You will also be able to leverage the new features from the cloud services.
+By creating a cloud sandbox on the other hand, the behaviour of your application will exactly be the same with the higher deployment environments. This inspires confidence in testing, as it’s guaranteed that your code change will work when you push to the mainline. You will also be able to leverage the new features from the cloud services.
 
 Having an exactly like for like environment would also mean that it’s harder to mock the cloud services. How would you induce a failure in AWS S3, for example? A sandbox should be isolated for every developers, that means for every cloud sandbox that you provision, there’s an associated cost to that. If you normally work offline, this approach will also not work for you.
+
+## Backlinks
+* [[Cloud Sandbox necessitates Infrastructure as code]]
+	* [[Cloud Sandbox]] brings the pain of your infrastructure automation forward. Taking the example of a new product development again, the number of developers you have will scale faster than the number of deployment environments you have. It’s quite common for a team to have 4 - 6 developers, even when a product is not launched yet. Making infrastructure change manually to every sandboxes will be a pain. Cloud sandbox therefore necessitates infrastructure as code, and you should invest in infrastructure as code as early as possible.
 
 <!-- #evergreen #test -->
 
