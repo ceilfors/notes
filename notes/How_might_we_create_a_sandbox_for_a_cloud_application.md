@@ -15,7 +15,7 @@ Having an exactly like for like environment would also mean that it’s harder t
 
 ## Backlinks
 * [[Prefer Cloud Sandbox for serverless architecture]]
-	* [[Fake Sandbox]] and [[Cloud Sandbox]] comes with their own advantages and disadvantages ([[How might we create a sandbox for a cloud application?]]. It is difficult to choose an option when there’s no context is given. Given a context that you are building serverless architecture, you should default to the cloud sandbox approach. All of the downsides of cloud sandbox are invalid when you’re building serverless architecture.
+	* [[Fake Sandbox]] and [[Cloud Sandbox]] comes with their own advantages and disadvantages ([[How might we create a sandbox for a cloud application?]]). It is difficult to choose an option when there’s no context is given. Given a context that you are building serverless architecture, you should default to the cloud sandbox approach. All of the downsides of cloud sandbox are invalid when you’re building serverless architecture.
 * [[§Serverless]]
 	* [[How might we create a sandbox for a cloud application?]]
 
