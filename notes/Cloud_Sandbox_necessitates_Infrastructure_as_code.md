@@ -17,6 +17,6 @@ One of the principle from XP is if something is painful, we should do it more of
 * [[§Serverless]]
 	* [[Cloud Sandbox necessitates Infrastructure as code]]
 
-<!-- #evergreen #infrastructure #test**** -->
+<!-- #evergreen #infrastructure #test -->
 
 <!-- {BearID:05347D32-1E36-452B-89E6-7EC97846C762-1211-000031C0A9A55371} -->
