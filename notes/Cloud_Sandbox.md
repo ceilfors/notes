@@ -1,5 +1,5 @@
 # Cloud Sandbox
-Cloud sandbox is an approach of creating a [[Sandbox Environment]] in the cloud. This approach can be seen as unconventional as a sandbox is normally running in developers’ local machine. In order for you to test your application, you would have to deploy your changes to the cloud, and run your test against the cloud.
+Cloud sandbox is an approach of creating a [[Sandbox Environment]] in the cloud. This approach can be seen as unconventional as a sandbox is normally running in developers’ local machine. In order for you to test your application, you would have to deploy your changes to the cloud, and run your tests against the cloud.
 
 ## Backlinks
 * [[How might we create a sandbox for a cloud application?]]

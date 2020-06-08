@@ -8,7 +8,7 @@ Sandbox is an isolated environment where developers can safely test their code c
 
 ## Backlinks
 * [[Cloud Sandbox]]
-	* Cloud sandbox is an approach of creating a [[Sandbox Environment]] in the cloud. This approach can be seen as unconventional as a sandbox is normally running in developers’ local machine. In order for you to test your application, you would have to deploy your changes to the cloud, and run your test against the cloud.
+	* Cloud sandbox is an approach of creating a [[Sandbox Environment]] in the cloud. This approach can be seen as unconventional as a sandbox is normally running in developers’ local machine. In order for you to test your application, you would have to deploy your changes to the cloud, and run your tests against the cloud.
 * [[Fake Sandbox]]
 	* Fake sandbox is an approach of creating a [[Sandbox Environment]] that fakes all of your application external dependencies. The fake external dependencies you create are usually not suitable for production use as they are designed lightweight to be used on a local machine.
 * [[How might we create a sandbox for a cloud application?]]

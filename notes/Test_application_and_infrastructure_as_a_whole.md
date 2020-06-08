@@ -3,7 +3,7 @@ The importance of testing the integration between your application and infrastru
 
 [[Cloud sandbox]] allows you to test your application and infrastructure as a whole stack, altogether. That means, if there’s a system behaviour that you’d like to assert, you’ll be able to test it before you push changes to mainline.
 
-Even though you can achieve a similar test coverage with [[Fake Sandbox]], there is a risk of “but it works on my machine” — where integration doesn’t work in the cloud. It’s difficult to fake the cloud services well because [[You can’t fake unstable system]]. This late integration issue introduces a slow feedback cycle as you’ll only discover problems further in your deployment pipeline.
+Even though you can achieve a similar test coverage with [[Fake Sandbox]], there is a risk of “but it works on my machine” — where integration doesn’t work in the cloud. It’s difficult to fake the cloud services well because [[Can we fake unstable system?]]. This late integration issue introduces a slow feedback cycle as you’ll only discover problems further in your deployment pipeline.
 
 ## Backlinks
 * [[§Serverless]]
