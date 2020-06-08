@@ -1,5 +1,5 @@
 # How might we create a sandbox for a cloud application?
-Many applications are built on the cloud, leveraging many cloud services. A [[Sandbox Environment]] is typically being created in developers’ local machine, hence it’s difficult to create a sandbox when these cloud services are not available locally. These cloud services are not open sourced, and are fully managed by the cloud providers, like AWS S3, for example. You can’t run AWS S3 locally.
+Cloud applications are built on the cloud, leveraging many cloud services. A [[Sandbox Environment]] is typically being created in developers’ local machine, hence it’s difficult to create a sandbox when these cloud services are not available locally. These cloud services are not open sourced, and are fully managed by the cloud providers, like AWS S3, for example. You can’t run AWS S3 locally.
 
 How could you create a sandbox if you’re building a cloud-based application then? There are two approaches:
 1. [[Fake Sandbox]]: Create fake cloud services locally
