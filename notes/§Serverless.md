@@ -1,10 +1,10 @@
 # §Serverless
-- [[Prefer Cloud Sandbox for serverless architecture]]
-	- [[Cloud Sandbox]]
+- [[Prefer cloud sandbox for serverless architecture]]
+	- [[Cloud sandbox]]
 	- [[How might we create a sandbox for a cloud application?]]
-	- [[Cloud Sandbox necessitates Infrastructure as code]]
+	- [[Cloud sandbox necessitates Infrastructure as code]]
 	- [[Test application and infrastructure as a whole]]
-	- [[Cloud Sandbox tests IaC against production-like environment]]
+	- [[Cloud sandbox tests IaC against production-like environment]]
 
 <!-- #evergreen -->
 
