@@ -4,3 +4,6 @@
 [submodule ".vuepress/markdown-it-wikilinks"]
 	path = notes/.vuepress/markdown-it-wikilinks
 	url = https://github.com/ceilfors/markdown-it-wikilinks.git
+[submodule ".script/note-link-janitor"]
+	path = .script/note-link-janitor
+	url = https://github.com/ceilfors/note-link-janitor.git
