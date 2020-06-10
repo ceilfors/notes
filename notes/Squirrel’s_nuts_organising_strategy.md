@@ -1,4 +1,4 @@
-# Squirrel nuts organising strategy
+# Squirrel’s nuts organising strategy
 Average tree squirrels can bury up to 10000 nuts every fall, and only 10% of them are not retrieved back. How nuts is that? The strategy they use is very similar good organising practices we do:
 - They use visual cues, so that they remember where their stash is
 - They stash nuts by types, so that the amount of locations they have to remember is reduced
@@ -15,7 +15,7 @@ P.S. Squirrels can pretend to bury nuts to prevent nuts theft
 
 ## Backlinks
 * [[§Architecture is an art of organising]]
-	* [[Squirrel nuts organising strategy]]
+	* [[Squirrel’s nuts organising strategy]]
 
 <!-- #evergreen #architecture -->
 
