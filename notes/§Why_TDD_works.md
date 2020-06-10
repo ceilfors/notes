@@ -1,7 +1,8 @@
 # §Why TDD works
 - [[TDD alleviates brain limitation]]
 - [[Effective tools circumvent human limitations]]
-- [[Sequence is a crucial attribute of a processx]]
+- [[Humans are constrained by biological limitations]]
+- [[Sequence is a crucial attribute of a process]]
 - [[Habit removes self-negotiation]]
 
 <!-- #evergreen  #outline -->

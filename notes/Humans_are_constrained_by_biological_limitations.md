@@ -15,6 +15,10 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 *Blinkist*: Walker, Matthew P. *Why We Sleep: Unlocking the Power of Sleep and Dreams*. First Scribner hardcover edition. New York: Scribner, an imprint of Simon & Schuster, Inc, 2017.
 > Nestled deep in the folds of your brain is a primeval timepiece, an internal clock that ticks out your body’s personal circadian rhythm - a 24-hour cycle that, regardless of morning alarms and evening appointments, your body is naturally inclined to follow.
 
+## Backlinks
+* [[§Why TDD works]]
+	* [[Humans are constrained by biological limitations]]
+
 <!-- #evergreen -->
 
 <!-- {BearID:F134A112-FB88-4E81-BC66-EEDD193258F2-57831-0001039CFE616AAC} -->
