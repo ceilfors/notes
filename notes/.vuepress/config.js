@@ -1,5 +1,5 @@
 const wikilinks = require("@ceilfors/markdown-it-wikilinks")({
-  baseURL: "/notes/",
+  baseURL: "/",
 });
 
 module.exports = {

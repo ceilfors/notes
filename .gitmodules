@@ -2,5 +2,5 @@
 	path = .script/Bear-Markdown-Export
 	url = https://github.com/ceilfors/Bear-Markdown-Export.git
 [submodule ".vuepress/markdown-it-wikilinks"]
-	path = .vuepress/markdown-it-wikilinks
+	path = notes/.vuepress/markdown-it-wikilinks
 	url = https://github.com/ceilfors/markdown-it-wikilinks.git

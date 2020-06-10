@@ -6,13 +6,13 @@
   "dependencies": {},
   "devDependencies": {
     "@andymatuschak/note-link-janitor": "0.0.1",
-    "@ceilfors/markdown-it-wikilinks": "file:.vuepress/markdown-it-wikilinks",
+    "@ceilfors/markdown-it-wikilinks": "file:./notes/.vuepress/markdown-it-wikilinks",
     "npm-run-all": "^4.1.5",
     "vuepress": "^1.5.0"
   },
   "scripts": {
-    "dev": "vuepress dev .",
-    "build": "vuepress build .",
+    "dev": "vuepress dev notes",
+    "build": "vuepress build notes",
     "export:backlink": "note-link-janitor notes",
     "export:bear": "(cd .script; ./sync.sh)",
     "export": "run-s export:bear export:backlink export:bear"
