@@ -1,6 +1,6 @@
 # §Architecture is an art of organising
 - Kon mari
-- [[Squirrel’s nuts organising strategy]]
+- [[Squirrels' nut organising strategy]]
 
 <!-- #evergreen #outline -->
 
