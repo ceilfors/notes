@@ -5,7 +5,7 @@ Average tree squirrels can bury up to 10000 nuts every fall, and only 10% of the
 
 The last 10% that they have not managed to retrieve are not actually a waste, they grow as trees for their future generation. They are probably smarter than us humans.
 
-P.S. Squirrels can pretend to bury nuts so prevent nuts theft
+P.S. Squirrels can pretend to bury nuts to prevent nuts theft
 
 ---
 ## References
