@@ -12,7 +12,9 @@
   },
   "scripts": {
     "dev": "vuepress dev notes",
-    "build": "vuepress build notes",
+    "build:vuepress": "vuepress build notes",
+    "build:images": "cp -R notes/BearImages notes/.vuepress/dist",
+    "build": "run-s build:vuepress build:images",
     "export:backlink": "note-link-janitor notes",
     "export:bear": "(cd .script; ./sync.sh)",
     "export": "run-s export:bear export:backlink export:bear"
