@@ -6,7 +6,7 @@ The importance of testing the integration between your application and infrastru
 Even though you can achieve a similar test coverage with [[Fake sandbox]], there is a risk of “but it works on my machine” — where integration doesn’t work in the cloud. It’s difficult to fake the cloud services well because [[Can we fake unstable system?]]. This late integration issue introduces a slow feedback cycle as you’ll only discover problems further in your deployment pipeline.
 
 ## Backlinks
-* [[§Serverless]]
+* [[§Testing Serverless]]
 	* [[Test application and infrastructure as a whole]]
 
 <!-- #evergreen #infrastructure #serverless -->

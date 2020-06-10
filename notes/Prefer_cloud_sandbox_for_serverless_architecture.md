@@ -24,7 +24,7 @@ Even though it’s impossible to induce failures when you’re using a real serv
 > Implementing a Latency Monkey in your system is, at its core, a straightforward addition of an artificial delay to your running code. The very center of any Latency Monkey will be some variation on a sleep command. The key to getting an effective measurement from your system’s failure state is to implement “controllable chaos.”
 
 ## Backlinks
-* [[§Serverless]]
+* [[§Testing Serverless]]
 	* [[Prefer cloud sandbox for serverless architecture]]
 
 <!-- #evergreen #serverless -->

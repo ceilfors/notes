@@ -6,7 +6,7 @@
 > The purpose of a habit is to remove that action from self-negotiation. You no longer expend energy deciding whether to do it. You just do it. Good habits can range from telling the truth, to flossing.
 
 ## Backlinks
-* [[§Why you should adopt TDD as a 1x programmer]]
+* [[§Why TDD works]]
 	* [[Habit removes self-negotiation]]
 
 <!-- #evergreen #habit -->

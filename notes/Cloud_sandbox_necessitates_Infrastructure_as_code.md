@@ -14,7 +14,7 @@ One of the principle from XP is if something is painful, we should do it more of
 > The practice of continuous integration was invented to address these problems. CI (continuous integration) follows the XP (extreme programming) principle that if something is painful, we should do it more often, and bring the pain forward.
 
 ## Backlinks
-* [[§Serverless]]
+* [[§Testing Serverless]]
 	* [[Cloud sandbox necessitates Infrastructure as code]]
 
 <!-- #evergreen #infrastructure #test -->

@@ -1,4 +1,4 @@
-# §Why you should adopt TDD as a 1x programmer
+# §Why TDD works
 - [[TDD alleviates brain limitation]]
 - [[Effective tools circumvent human limitations]]
 - [[Sequence is a crucial attribute of a processx]]
