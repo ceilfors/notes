@@ -33,9 +33,12 @@ export default ({
   isServer // is this enhancement applied in server-rendering or client
 }) => {
   if (!isServer && typeof window !== 'undefined') {
+    // Server side refresh
     window.onload = () => {
       appendCustomDoms()
     };
+
+    // Client side refresh
     router.afterEach(async (to, from) => {
       Vue.nextTick(() => appendCustomDoms())
     });
