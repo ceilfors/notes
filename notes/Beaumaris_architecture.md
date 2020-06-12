@@ -2,11 +2,11 @@
 ![](BearImages/B485E486-E75B-4776-AA2E-98662FB9B553-57831-0001028028874B2D/41753333144_2b94fbb823_b.jpg)
 ([Beaumaris Castle - sign - The greatest castle never built!… | Flickr](https://www.flickr.com/photos/ell-r-brown/41753333144))
 
-There was a time when I visited the Beaumaris Castle. One of the sign immediately reminded me of many software architectures nowadays, it says:
+I visited the Beaumaris Castle during my holiday, one of the sign immediately reminded me of many software architectures that I saw throughout my career, it says:
 
 > The greatest castle never built!
 
-The work were need completed due to the lack of funding, constant disruptions and the lack of focus, and finally remained incomplete as the money ran out. Sound familiar?
+The castle were not completed due to the lack of funding, constant disruptions, the lack of focus, and finally remained incomplete as the money ran out. Sound familiar?
 
 ---
 ## References

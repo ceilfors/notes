@@ -4,6 +4,7 @@
 - [[Humans are constrained by biological limitations]]
 - [[Sequence is a crucial attribute of a process]]
 - [[Habit removes self-negotiation]]
+- It's not about code quality
 
 <!-- #evergreen  #outline -->
 
