@@ -3,7 +3,7 @@
     <div class="theme-default-content">
       <h1>Oops</h1>
 
-      <blockquote>This note is not ready yet</blockquote>
+      <blockquote>I might have renamed this note, or this note is not ready yet</blockquote>
 
       <a
         type="button"
