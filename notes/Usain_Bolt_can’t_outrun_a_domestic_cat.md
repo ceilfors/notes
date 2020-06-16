@@ -10,8 +10,8 @@ Usain Bolt hit the world record in 2009 with the speed of 44.72 km/h. With that 
 > Bolt was clocked at 44.72km/h, which is 27.8mph.
 
 ## Backlinks
-* [[Humans are constrained by biological limitations]]
-	* Whether we like or not, we are all constrained by our biological limitations. We have a limited short-term memory, we can’t imagine a five-dimensional cube, and our circadian rhythm will tell our sleep pattern. Even [[Usain Bolt can’t outrun a domestic cat]].
+* [[Humans are constrained by biological limits]]
+	* Whether we like or not, we are all constrained by our biological limits. We have [[Working memory limits]], we can’t imagine a five-dimensional cube, and our circadian rhythm will tell our sleep pattern. Even [[Usain Bolt can’t outrun a domestic cat]].
 
 <!-- #evergreen -->
 
