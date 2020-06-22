@@ -10,8 +10,6 @@ Cloud sandbox is an approach of creating a [[Sandbox environment]] in the cloud.
 	* [[Fake sandbox]] and [[Cloud sandbox]] comes with their own advantages and disadvantages ([[How might we create a sandbox for a cloud application?]]). It is difficult to choose an option when there’s no context is given. Given a context that you are building serverless architecture, you should default to the cloud sandbox approach. All of the downsides of cloud sandbox are invalid when you’re building serverless architecture.
 * [[Test application and infrastructure as a whole]]
 	* [[Cloud sandbox]] allows you to test your application and infrastructure as a whole stack, altogether. That means, if there’s a system behaviour that you’d like to assert, you’ll be able to test it before you push changes to mainline.
-* [[§Testing Serverless]]
-	* [[Cloud sandbox]]
 
 <!-- #evergreen #test -->
 

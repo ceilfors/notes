@@ -13,10 +13,6 @@ P.S. Squirrels can pretend to bury nuts to prevent nuts theft
 
 [Caching for where and what: evidence for a mnemonic strategy in a scatter-hoarder | Royal Society Open Science](https://royalsocietypublishing.org/doi/full/10.1098/rsos.170958)
 
-## Backlinks
-* [[§Architecture is an art of organising]]
-	* [[Squirrels' nut organising strategy]]
-
 <!-- #evergreen #architecture -->
 
 <!-- {BearID:3B878B9A-7501-4B25-B905-8711DED9CDCA-57831-00010EFF77509753} -->

@@ -13,10 +13,6 @@ Norman, Donald A. *The Design of Everyday Things*. Revised and Expanded edition.
 Hohpe, Gregor. *37 Things One Architect Knows about IT Transformation: A Chief Architect’s Journey*, 2016 (pp. 49-50).
 > Repeatedly asking questions can annoy people a slight bit, so it’s good to have the reference to the Toyota Production System handy to highlight that it’s a widely adopted and useful technique instead of you just being difficult. It’s also helpful to remind your counterparts that you are not challenging their work or competent but that your job requires you to understand systems and problems in detail so you can spot potential gaps or misalignments.
 
-## Backlinks
-* [[§The art of troubleshooting]]
-	* [[Five whys]]
-
 <!-- #evergreen #design -->
 
 <!-- {BearID:97FEB4FC-499D-42E6-B74B-F71F78EBC523-1543-0000FF995850BE97} -->

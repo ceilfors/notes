@@ -23,10 +23,6 @@ Even though it’s impossible to induce failures when you’re using a real serv
 [Chaos Engineering with Serverless](https://blog.thundra.io/chaos-engineering-with-serverless)
 > Implementing a Latency Monkey in your system is, at its core, a straightforward addition of an artificial delay to your running code. The very center of any Latency Monkey will be some variation on a sleep command. The key to getting an effective measurement from your system’s failure state is to implement “controllable chaos.”
 
-## Backlinks
-* [[§Testing Serverless]]
-	* [[Prefer cloud sandbox for serverless architecture]]
-
 <!-- #evergreen #serverless -->
 
 <!-- {BearID:1374B04D-C21E-486D-9B20-03889611E49C-1211-000038A2F36A3B17} -->

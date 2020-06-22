@@ -18,10 +18,6 @@ I first discovered this when I saw Dave Snowden’s talk in the Craft Conference
 [The quiddity of Cynefin - Cognitive Edge](http://cognitive-edge.com/blog/the-quiddity-of-cynefin/)
 > A model seeks to represent reality, a framework is a way of looking, a way of making sense which is very different
 
-## Backlinks
-* [[§Faster decision]]
-	* [[Cynefin framework]]
-
 <!-- #evergreen #thinking -->
 
 <!-- {BearID:C1764BB4-3347-4E87-B49C-4C485E860CB3-1543-0000D40A247D7699} -->

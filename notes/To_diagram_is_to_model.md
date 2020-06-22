@@ -5,10 +5,6 @@ I’ve attempted to follow this principle but it has never really worked for me,
 
 Diagrams as code works for lower level diagram, such as a sequence diagrams.
 
-## Backlinks
-* [[§Software that fits on paper]]
-	* [[To diagram is to model]]
-
 <!-- #evergreen #modeling -->
 
 <!-- {BearID:C3C52FE8-E0A4-4F41-B630-D4836C42131F-1211-000031C0A85F608C} -->
