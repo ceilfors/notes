@@ -7,12 +7,12 @@ We can't hold the information in our working memory for more than 30 seconds. Th
 
 ---
 ## References
+Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking: For Students, Academics and Nonfiction Book Writers*. CreateSpace, 2017 (p. 68).
+> Our short-term memory is also limited. We need strategies not to waste its capacity with thoughts we can better delegate to an external system. While the estimations of our long-term memory capacity are wildly diverse and rather speculative, psychologists used to tend to agree on a very specific number when it came to short-term memory: We can hold a maximum of seven things in our head at the same time, plus/minus two (Miller 1956).
+
 Miller, George A. ‘The Magical Number Seven, plus or Minus Two: Some Limits on Our Capacity for Processing Information.’ *Psychological Review*, vol. 63, no. 2, 1956, pp. 81–97. *DOI.org (Crossref)*, doi:10.1037/h0043158.
 
 Cowan, Nelson. ‘The Magical Number 4 in Short-Term Memory: A Reconsideration of Mental Storage Capacity’. *Behavioral and Brain Sciences*, vol. 24, no. 1, Feb. 2001, pp. 87–114. *DOI.org (Crossref)*, doi:10.1017/S0140525X01003922.
-
-Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking: For Students, Academics and Nonfiction Book Writers*. CreateSpace, 2017 (p. 68).
-> Our short-term memory is also limited. We need strategies not to waste its capacity with thoughts we can better delegate to an external system. While the estimations of our long-term memory capacity are wildly diverse and rather speculative, psychologists used to tend to agree on a very specific number when it came to short-term memory: We can hold a maximum of seven things in our head at the same time, plus/minus two (Miller 1956).
 
 [Scientific Secrets for Raising Kids Who Thrive Audiobook | Peter M. Vishton, The Great Courses | Audible.co.uk](https://www.audible.co.uk/pd/Scientific-Secrets-for-Raising-Kids-Who-Thrive-Audiobook/B00IB12F0S)  (Downloadable PDF)
 > We have a short-term memory that is limited in size to something like seven digits, words, or other units. The only way to hang on to information for a longer time period is to create a more durable representation, either by writing it down or encoding a long-term memory of it. 
