@@ -18,8 +18,12 @@ Cowan, Nelson. ‘The Magical Number 4 in Short-Term Memory: A Reconsideration o
 > We have a short-term memory that is limited in size to something like seven digits, words, or other units. The only way to hang on to information for a longer time period is to create a more durable representation, either by writing it down or encoding a long-term memory of it. 
 
 ## Backlinks
+* [[To write is to rubber duck]]
+	* Perhaps, one reason I felt stuck is because there are too many variables I’m playing in my head when I was presented with the architectural problem. I was hitting my [[Working memory limits]]. By writing them down, it’s as if I have more working memory to play with.
 * [[Humans are constrained by biological limits]]
 	* Whether we like or not, we are all constrained by our biological limits. We have [[Working memory limits]], we can’t imagine a five-dimensional cube, and our circadian rhythm will tell our sleep pattern. Even [[Usain Bolt can’t outrun a domestic cat]].
+* [[Writing notes makes thinking possible]]
+	* We need a good method to think because we have [[Working memory limits]]. If [[Effective tool circumvents human limits]], we need to find a tool that circumvents our working memory limit. The tool, or method of thinking that has been proven by science is note-writing. When there are too many variables that we're thinking about, note-writing let go of some of the variables (like remembering information), so that we can focus on the real thinking (like connecting ideas or understanding) (Ahrens 90).
 
 <!-- #evergreen #cognitive -->
 

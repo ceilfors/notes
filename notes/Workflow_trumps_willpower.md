@@ -3,7 +3,7 @@
 
 Instead of thinking about how we can have better willpower, we need to think about how we can do something without willpower (Ahrens 16), and this can be done by changing our environments. Fortunately, self-control also has much more to do with our environments than ourselves (Ahrens 3). You can't eat chocolates when none are around.
 
-When it comes to creative works, workflow is a way for us to define our environment. [[Good workflow enables positive feedback loop]], hence, not only having a good workflow will help us perform our tasks, but it will also provide a motivational loop for us to continue the tasks.
+When it comes to creative works, workflow is a way for us to define our environment. [[Well-defined workflow forms positive feedback loop]], hence, not only having a good workflow will help us perform our tasks, but it will also provide a motivational loop for us to continue the tasks.
 
 ---
 ## References
