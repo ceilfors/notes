@@ -9,10 +9,10 @@ I first made a discovery on Zettelkasten when I was reading about Roam Research.
 Before I discovered this method, I have been approaching my reading and learning with [[Mind map]].  Unfortunately I found the mind map approach to have too much friction for my liking. First, a mind map has to be stored in a proprietary format. Second, I can’t easily add notes to the map. The way I think about the Zettelkasten method at the moment is its very similar to Mind mapping, but it’s making the note first class, and the graph second.
 
 ## Backlinks
-* [[Note-writing system]]
-	* Initially, the system started as an attempt for copy the Zettelkasten method ([[2020-05-20 Discovering Zettelkasten]]), until I realise that [Andy Matuschak’s evergreen note is different to Zettelkasten](https://notes.andymatuschak.org/z4AX7pHAu5uUfmrq4K4zig9x8jmmF62XgaMXm):
 * [[2020-05-21 Going with Bear for Zettelkasten]]
 	* I’ve been evaluating the software that I can use to practice [[2020-05-20 Discovering Zettelkasten]].
+* [[Note-writing system]]
+	* Initially, the system started as an attempt for copy the Zettelkasten method ([[2020-05-20 Discovering Zettelkasten]]), until I realise that [Andy Matuschak’s evergreen note is different to Zettelkasten](https://notes.andymatuschak.org/z4AX7pHAu5uUfmrq4K4zig9x8jmmF62XgaMXm):
 
 <!-- #transient #writing -->
 
