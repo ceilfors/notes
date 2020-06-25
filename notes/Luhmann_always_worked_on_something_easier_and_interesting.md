@@ -1,4 +1,4 @@
-# Luhmann is always on something easier and interesting
+# Luhmann always worked on something easier and interesting
 Niklas Luhmann had written more than 70 books and 400 articles on various subjects. These amount of writing he had written is not only a matter of quantity, but of quality as well. Luhmann's "The Society of Society" was so radical that not only it changed sociology, but stirred debate in philosophy, education, political theory, and psychology as well (Ahrens 14).
 
 Despite the abnormally impressive productivity that Luhmann demonstrated, he never did anything that he thought was not interesting (Ahrens 15). From his interview:
