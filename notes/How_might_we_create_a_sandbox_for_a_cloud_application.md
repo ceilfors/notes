@@ -7,7 +7,7 @@ How could you create a sandbox if you’re building a cloud-based application th
 
 Fake sandbox is an attractive approach because of developers’ familiarity — a sandbox would normally run locally. Faking cloud services locally is expensive, but fortunately the open source community has put a joint effort to create [localstack](https://github.com/localstack/localstack). Fake sandbox is also an environment that you can control, and you’ll not have to pay the cloud as you’ll be utilising your local machine’s compute power.
 
-Even though you can fake the cloud services locally, there are risks where the behaviour of these fake services to not be the same with the cloud, which will reduce confidence in your test. The biggest problem though is how the cloud providers are moving rapidly, and [[Can we fake unstable system?]]
+Even though you can fake the cloud services locally, there are risks where the behaviour of these fake services to not be the same with the cloud, which will reduce confidence in your test. The biggest problem though is how the cloud providers are moving rapidly, and [[Can we fake a cloud platform?]]
 
 By creating a cloud sandbox on the other hand, the behaviour of your application will exactly be the same with the higher deployment environments. This inspires confidence in testing, as it’s guaranteed that your code change will work when you push to the mainline. You will also be able to leverage the new features from the cloud services.
 

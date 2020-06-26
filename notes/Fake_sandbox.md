@@ -14,7 +14,7 @@ This approach comes with the risk of “but it works on my machine” — where 
 * [[Prefer cloud sandbox for serverless architecture]]
 	* [[Fake sandbox]] and [[Cloud sandbox]] comes with their own advantages and disadvantages ([[How might we create a sandbox for a cloud application?]]). It is difficult to choose an option when there’s no context is given. Given a context that you are building serverless architecture, you should default to the cloud sandbox approach. All of the downsides of cloud sandbox are invalid when you’re building serverless architecture.
 * [[Test application and infrastructure as a whole]]
-	* Even though you can achieve a similar test coverage with [[Fake sandbox]], there is a risk of “but it works on my machine” — where integration doesn’t work in the cloud. It’s difficult to fake the cloud services well because [[Can we fake unstable system?]]. This late integration issue introduces a slow feedback cycle as you’ll only discover problems further in your deployment pipeline.
+	* Even though you can achieve a similar test coverage with [[Fake sandbox]], there is a risk of “but it works on my machine” — where integration doesn’t work in the cloud. It’s difficult to fake the cloud services well because [[Can we fake a cloud platform?]]. This late integration issue introduces a slow feedback cycle as you’ll only discover problems further in your deployment pipeline.
 
 <!-- #evergreen #test -->
 
