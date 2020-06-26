@@ -20,6 +20,10 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 
 Link to the interview (Ahrens 16 footnote): [Niklas Luhmann - Beobachter im Krähennest (eng sub) - YouTube](https://www.youtube.com/watch?v=qRSCKSPMuDc&feature=youtu.be)
 
+## Backlinks
+* [[Slow-motion multitasking]]
+	* Niklas Luhmann has also demonstrated pattern where it took him 29.5 years to finally publish "The Society of Society", whilst working on other ideas simultaneously in his slip-box. ([[Luhmann always worked on something easier and interesting]])
+
 <!-- #evergreen #thinking #writing -->
 
 <!-- {BearID:A3D65A48-CFFB-48E6-8755-4987756694E4-464-0000320B40F7D27C} -->

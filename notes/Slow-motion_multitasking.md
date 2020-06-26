@@ -1,0 +1,21 @@
+# Slow-motion multitasking
+Most of us recognise the significant breakthrough Charles Darwin's ideas bring. We, however, often neglect how much time he needed to finally publish the writing:
+
+- The Origin of Species: 22 years (1837 - 1859)
+- The Descent of Man: 32 years (1839 - 1871)
+- The Formation Of Vegetable Mold Through The Action Of Worms: 44 years (1837 - 1881)
+
+Notice how not only these ideas took time to develop, but they were also developing in parallel. Tim Hardford calls this idea slow-motion multitasking.
+
+Niklas Luhmann has also demonstrated pattern where it took him 29.5 years to finally publish "The Society of Society", whilst working on other ideas simultaneously in his slip-box. ([[Luhmann always worked on something easier and interesting]])
+
+---
+## References
+ [Tim Harford: How Can "Slow Motion Multitasking" Boost Our Creativity?  | TED Radio Hour](https://www.npr.org/2019/05/10/719575727/tim-harford-how-can-slow-motion-multitasking-boost-our-creativity) 
+
+Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking: For Students, Academics and Nonfiction Book Writers*. CreateSpace, 2017 (p. 14).
+> When he finished the final chapter, almost exactly 29 and a half years later, as a two-volume book with the title of "The Society of Society" (1997)
+
+<!-- #evergreen #creative -->
+
+<!-- {BearID:64771644-3FE8-44DE-BEA4-048F53DB968E-464-000031FB207C435B} -->
