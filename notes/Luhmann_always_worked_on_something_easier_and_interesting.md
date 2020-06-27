@@ -23,6 +23,8 @@ Link to the interview (Ahrens 16 footnote): [Niklas Luhmann - Beobachter im Krä
 ## Backlinks
 * [[Slow-motion multitasking]]
 	* Niklas Luhmann has also demonstrated pattern where it took him 29.5 years to finally publish "The Society of Society", whilst working on other ideas simultaneously in his slip-box. ([[Luhmann always worked on something easier and interesting]])
+* [[Context switching helps when you get stuck]]
+	* When Luhmann got stuck, he will write on a different book ([[Luhmann always worked on something easier and interesting]]). Authors, who are [[Slow-motion multitasking]], are also switching context when they got stuck. In the [Stack Overflow Developer Survey 2020](https://insights.stackoverflow.com/survey/2020#technology-what-do-you-do-when-you-get-stuck), 54.4% of the respondents would *Do other work and come back later* when they got stuck; considering that this is the highest option after *Visit Stack Overflow*, it is quite a significant number. Context switching, therefore, is a very useful when you get stuck. Getting stuck is unproductive, so context switching is *not always* harmful for productivity.
 
 <!-- #evergreen #thinking #writing -->
 
