@@ -68,7 +68,7 @@ Here is the content.
 I have no idea what § is for, it’s [practiced](https://notes.andymatuschak.org/zhmLXArqiCMDr9Q13ViqN3hh3SmrKzjQxWAr) by Andy Matuschak.
 
 ### References
-It’s important to keep references, so follow this format. When referencing a book, we should cite the book with [ZoteroBib](https://zbib.org/).
+It’s important to keep references, so follow this format. When referencing a book, we should cite the book with [ZoteroBib](https://zbib.org/) with "Modern Language Association 8th edition" style.
 ```
 ...content...
 
