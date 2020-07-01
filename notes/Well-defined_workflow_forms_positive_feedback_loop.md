@@ -5,15 +5,19 @@ An attempt to form the feedback externally, not from the work itself, on the oth
 
 ---
 ## References
-Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking: For Students, Academics and Nonfiction Book Writers*. CreateSpace, 2017 (p. 52).
+[[How to Take Smart Notes]] (p. 52).
 > A good workflow can easily turn into a virtuous circle, where the positive experience motivates us to take on the next task with ease, which helps us to get better at what we are doing, which in return makes it more likely for us to enjoy the work, and so on. [...] (Fishbac, Eyal and Finkelstein, 2010)
 
-Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking: For Students, Academics and Nonfiction Book Writers*. CreateSpace, 2017 (p. 52).
+[[How to Take Smart Notes]] (p. 52).
 > Any attempts to trick ourselves into work with external rewards (like doing something nice after finishing a chapter) are only short-term solutions with no prospect of establishing a positive feedback loop. [...] (DePasque and Tricomi, 2015)
 
 ## Backlinks
+* [[How to Take Smart Notes]]
+	* Evergreen note-writing works because [[Well-defined workflow forms positive feedback loop]]
 * [[Workflow trumps willpower]]
 	* When it comes to creative works, workflow is a way for us to define our environment. [[Well-defined workflow forms positive feedback loop]], hence, not only having a good workflow will help us perform our tasks, but it will also provide a motivational loop for us to continue the tasks.
+* [[Evergreen note-writing enables constant focus on interesting materials]]
+	* [[Luhmann always worked on something easier and interesting]], and that is made possible because [[Well-defined workflow forms positive feedback loop]]. The evergreen note-writing (which is inspired by Luhmann) consists of a well-defined workflow, therefore allowing the practitioners to focus on interesting and easier things. This is good to keep yourselves motivated.
 
 <!-- #evergreen #habit -->
 

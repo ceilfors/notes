@@ -6,7 +6,7 @@ Our intuition will tell us that the best indicator for an academic success will 
 [Scientific Secrets for Raising Kids Who Thrive Audiobook | Peter M. Vishton, The Great Courses | Audible.co.uk](https://www.audible.co.uk/pd/Scientific-Secrets-for-Raising-Kids-Who-Thrive-Audiobook/B00IB12F0S)  (Downloadable PDF)
 > Interestingly, about 10 years after the original marshmallow study, Mischel and his colleagues looked again at the children in the initial study, using a variety of surveys for both the subjects and their teachers. They also obtained access to records of the children’s grades. What Mischel found was unexpected and amazing. Those who, as 5-year-olds, managed to wait longer before eating the first marshmallow, tended to be more competent teenagers than their peers who ate the marshmallow after only a relatively short delay.
 
-Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking: For Students, Academics and Nonfiction Book Writers*. CreateSpace, 2017 (p. 2).
+[[How to Take Smart Notes]] (p. 2).
 > What does make a significant different along the whole intelligence spectrum is something else: how much self-discipline or self-control one uses to approach the tasks at hand (Duckworth and Seligman, 2005; Tangney, Baumeister, and Boone, 2004)
 
 ## Backlinks

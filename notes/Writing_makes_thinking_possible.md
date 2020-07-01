@@ -20,7 +20,7 @@ When there are too many variables that we're thinking about, note-writing let go
 * [[To write is to rubber duck]]
 	* Perhaps, one reason I felt stuck is because there are too many variables I’m playing in my head when I was presented with the architectural problem. I was hitting my [[Working memory limits]]. By writing them down, it’s as if I have more working memory to play with. [[Writing makes thinking possible]].
 * [[Documentation is the side effect of thinking]]
-	* On the first reaction, I don't actually write or draw them for keeping records, I do it because [[Writing makes thinking possible]]. And because the primary reason I write is for thinking (and draw for modelling [[To diagram is to model]]), the documents are just the side effect of the thinking process. As Feynman said (Ahrens 95):
+	* On the first reaction, I don't actually write or draw them for keeping records, I do it because [[Writing makes thinking possible]]. And because the primary reason I write is for thinking (and draw for modelling - [[To diagram is to model]]), the documents are just the side effect of the thinking process. As Feynman said (Ahrens 95):
 * [[To diagram is to model]]
 	* I’ve attempted to follow this principle but it has never really worked for me, I resorted to drawing the diagrams manually. The reason I do this manually is because of the same reason of I write, it helps me think ([[Writing makes thinking possible]]). Moving and creating boxes and lines help me think about boundaries, whether the system is getting too complicated, or is it evolving in the right direction.
 

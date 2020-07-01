@@ -1,7 +1,7 @@
 # To write is to rubber duck
 I was presented with an architectural problem, and couldn’t really think clearly on what my options are. As I’m experimenting with my [[Note-writing system]], I started to pour down my thoughts into my daily log. To my surprise, after writing for roughly 1 hour, I progressed really well and got down into a solution. This revelation reminds me of the experience that I got from rubber ducking debugging.
 
-Perhaps, one reason I felt stuck is because there are too many variables I’m playing in my head when I was presented with the architectural problem. I was hitting my [[Working memory limits]]. By writing them down, it’s as if I have more working memory to play with. [[Writing notes makes thinking possible]].
+Perhaps, one reason I felt stuck is because there are too many variables I’m playing in my head when I was presented with the architectural problem. I was hitting my [[Working memory limits]]. By writing them down, it’s as if I have more working memory to play with. [[Writing makes thinking possible]].
 
 The note that I took is not at all a tidy writing. It’s my running thought that has been presented in text format. It’s very similar to what I’m doing when I practice free writing. These really messy notes are then sanitised into an ADR.
 

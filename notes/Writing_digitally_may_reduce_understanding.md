@@ -1,7 +1,7 @@
 # Writing digitally may reduce understanding
 Writing digitally is a lot faster than writing by hands. The speed of typing therefore will allow you to copy what you have read or heard. This is good if what you're trying to do is to copy, but bad if what you're trying to do is to learn, or to understand. The tendency to copy will reduce understanding as you'll be too focused on copying. As it's impossible to copy what you read by hands, you will be forced to understand the essence of what you read or hear. Not only what you will handwrite is shorter, but also you will gain a better understanding (Ahrens 78).
 
-Personally I would still prefer to write my notes digitally as I wouldn't be able to afford a space to store all my physical notes. [[Quand on connait sa maladie, on est à moitié guéri]]. Be conscious that you shouldn't copy even when you're writing your notes digitally.
+Personally I would still prefer to write my notes digitally as I wouldn't be able to afford a space to store all my physical notes. [[When you know your sickness, you are halfway cured]]. Be conscious that you shouldn't copy even when you're writing your notes digitally.
 
 ---
 ## References

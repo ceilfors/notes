@@ -13,12 +13,12 @@ Niklas Luhmann has also demonstrated pattern where it took him 29.5 years to fin
 ## References
  [Tim Harford: How Can "Slow Motion Multitasking" Boost Our Creativity?  | TED Radio Hour](https://www.npr.org/2019/05/10/719575727/tim-harford-how-can-slow-motion-multitasking-boost-our-creativity) 
 
-Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking: For Students, Academics and Nonfiction Book Writers*. CreateSpace, 2017 (p. 14).
+[[How to Take Smart Notes]] (p. 14).
 > When he finished the final chapter, almost exactly 29 and a half years later, as a two-volume book with the title of "The Society of Society" (1997)
 
 ## Backlinks
 * [[Context switching helps when you get stuck]]
-	* When Luhmann got stuck, he will write on a different book ([[Luhmann always worked on something easier and interesting]]). Authors, who are [[Slow-motion multitasking]], are also switching context when they got stuck. In the [Stack Overflow Developer Survey 2020](https://insights.stackoverflow.com/survey/2020#technology-what-do-you-do-when-you-get-stuck), 54.4% of the respondents would *Do other work and come back later* when they got stuck; considering that this is the highest option after *Visit Stack Overflow*, it is quite a significant number. Context switching, therefore, is a very useful when you get stuck. Getting stuck is unproductive, so context switching is *not always* harmful for productivity.
+	* When Luhmann got stuck, he will write on a different book ([[Luhmann always worked on something easier and interesting]]). Authors, who are [[Slow-motion multitasking]], also switched context when they got stuck. In the [Stack Overflow Developer Survey 2020](https://insights.stackoverflow.com/survey/2020#technology-what-do-you-do-when-you-get-stuck), 54.4% of the respondents would *Do other work and come back later* when they got stuck; considering that this is the highest option after *Visit Stack Overflow*, it is quite a significant number. Context switching, therefore, can be helpful when you get stuck. If getting stuck is unproductive, then context switching is *not always* harmful for productivity.
 
 <!-- #evergreen #creative -->
 
