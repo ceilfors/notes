@@ -12,13 +12,13 @@ Why does switching context help us get unstuck? It seems like not only it's slow
  [Tim Harford: How Can "Slow Motion Multitasking" Boost Our Creativity?  | TED Radio Hour](https://www.npr.org/2019/05/10/719575727/tim-harford-how-can-slow-motion-multitasking-boost-our-creativity) ([transcript](https://www.npr.org/transcripts/719575727)
 > The first is that when you switch out of a problem where you're a bit stuck, the new context helps you forget your old wrong answer. You know, you're - it's the crossword puzzle problem. You know, you're stuck on a crossword puzzle. You've got the wrong answer in your head. All you need to do is forget it for a second. So just a change of context helps you solve a problem.
 
-[[How to Take Smart Notes]] (p. 68).
+[[Ahrens, How to Take Smart Notes]] (p. 68).
 
 DeMarco, Tom, and Timothy R. Lister. *Peopleware: Productive Projects and Teams*. Third edition, Addison-Wesley, 2013 (p. 62).
 > Unfortunately, you can't turn on flow like a switch. It takes a slow descent into the subject, requiring 15 minutes or more of concentration before the state is locked in. During this immersion p period, you are particularly sensitive to noise and interruption. A disruptive environment can make it difficult or impossible to attain flow.
 
 ## Backlinks
-* [[How to Take Smart Notes]]
+* [[Ahrens, How to Take Smart Notes]]
 	* [[Context switching helps when you get stuck]] 
 
 <!-- #evergreen #productivity -->

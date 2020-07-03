@@ -5,17 +5,17 @@ When there are too many variables that we're thinking about, note-writing let go
 
 ---
 ## References
-[[How to Take Smart Notes]] (p. 5).
+[[Ahrens, How to Take Smart Notes]] (p. 5).
 > A good structure is something you can trust. It relieves you from the burden of remembering and keeping track of everything. If you can trust the system, you can let go of the attempt to hold everything together in your head and you can start focusing on what is important: The content, the argument and the ideas.
 
-[[How to Take Smart Notes]] (p. 90).
+[[Ahrens, How to Take Smart Notes]] (p. 90).
 > The slip-box takes care of storing facts and information. Thinking and understanding is what it can't take off your shoulders, which is why it makes sense to focus on this part of the work. That it facilitates learning as well is a nice side effect.
 
-[[How to Take Smart Notes]] (pp. 95-96).
+[[Ahrens, How to Take Smart Notes]] (pp. 95-96).
 > Philosophers, neuroscientists, educators and psychologists like to disagree in many different aspects on how the brain works. But they no longer disagree when it comes to the need for external scaffolding. Almost all agree nowadays that real thinking requires some kind of externalisation, especially in the form of writing. "Notes on paper, or on a computer screen [...] do not make contemporary physics or other kinds of intellectual endeavour easier, the make it possible" is one of the key takeaways in a contemporary handbook of neuroscientists (Levy 2011, 290).
 
 ## Backlinks
-* [[How to Take Smart Notes]]
+* [[Ahrens, How to Take Smart Notes]]
 	* [[Writing makes thinking possible]]
 * [[To write is to rubber duck]]
 	* Perhaps, one reason I felt stuck is because there are too many variables I’m playing in my head when I was presented with the architectural problem. I was hitting my [[Working memory limits]]. By writing them down, it’s as if I have more working memory to play with. [[Writing makes thinking possible]].

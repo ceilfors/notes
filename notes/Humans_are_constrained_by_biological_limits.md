@@ -3,7 +3,7 @@ Whether we like or not, we are all constrained by our biological limits. We have
 
 ---
 ## References
-[[How to Take Smart Notes]]
+[[Ahrens, How to Take Smart Notes]]
 > Our short-term memory is also limited. We need strategies not to waste its capacity with thoughts we can better delegate to an external system. While the estimations of our long-term memory capacity are wildly diverse and rather speculative, psychologists used to tend to agree on a very specific number when it came to short-term memory: We can hold a maximum of seven things in our head at the same time, plus/minus two (Miller 1956).
 
 *Blinkist*: Foer, Joshua. *Moonwalking with Einstein: The Art and Science of Remembering Everything*. Penguin Press, 2011.
@@ -16,7 +16,7 @@ Whether we like or not, we are all constrained by our biological limits. We have
 > Nestled deep in the folds of your brain is a primeval timepiece, an internal clock that ticks out your body’s personal circadian rhythm - a 24-hour cycle that, regardless of morning alarms and evening appointments, your body is naturally inclined to follow.
 
 ## Backlinks
-* [[How to Take Smart Notes]]
+* [[Ahrens, How to Take Smart Notes]]
 	* [[Humans are constrained by biological limits]]
 	* This is also a [[Humans are constrained by biological limits]]
 

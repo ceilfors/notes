@@ -13,7 +13,7 @@ Niklas Luhmann has also demonstrated pattern where it took him 29.5 years to fin
 ## References
  [Tim Harford: How Can "Slow Motion Multitasking" Boost Our Creativity?  | TED Radio Hour](https://www.npr.org/2019/05/10/719575727/tim-harford-how-can-slow-motion-multitasking-boost-our-creativity) 
 
-[[How to Take Smart Notes]] (p. 14).
+[[Ahrens, How to Take Smart Notes]] (p. 14).
 > When he finished the final chapter, almost exactly 29 and a half years later, as a two-volume book with the title of "The Society of Society" (1997)
 
 ## Backlinks

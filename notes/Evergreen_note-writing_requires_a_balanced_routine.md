@@ -5,17 +5,17 @@ Secondly, even though [[Evergreen note-writing disregards planning]], you will n
 
 ---
 ## References
-[[How to Take Smart Notes]] (p. 10).
+[[Ahrens, How to Take Smart Notes]] (p. 10).
 > Even the best tool will not improve your productivity considerably if you don't change your daily routines the tool is embedded in, just as the fastest car won't help you much if you don't have proper roads to drive it on. [...] Routines require simple, repeatable tasks that can become automatic and fit together seamlessly (cf. Mata, Todd, and Lippke, 2010).
 
-[[How to Take Smart Notes]] (p. 32).
+[[Ahrens, How to Take Smart Notes]] (p. 32).
 > If we try to use a tool without putting any thought into the way we work with it, even he best tool would not be of much help. The slip-box, for example, would most likely be used as an archive for notes - or worse: a graveyard for thoughts (cf. Hollier 2005, 40 on Mallarme's index cards).
 
-[[How to Take Smart Notes]] (p. 43).
+[[Ahrens, How to Take Smart Notes]] (p. 43).
 > The third typical mistake is, of course, to treat all notes as fleeting ones. You can easily spot this approach by the mess that comes with it, or rather by the cycle of slowly growing piles of material followed by the impulse for major clean-ups. Just collecting unprocessed fleeting notes inevitably leads to chaos. Even small amounts of unclear and unrelated notes lingering around your desk will soon induce the wish of starting from scratch.
 
 ## Backlinks
-* [[How to Take Smart Notes]]
+* [[Ahrens, How to Take Smart Notes]]
 	* [[Evergreen note-writing requires a balanced routine]]
 
 <!-- #evergreen #writing #habit -->

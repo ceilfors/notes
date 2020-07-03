@@ -7,19 +7,19 @@ When you plan too much, you'll also suffer from sunk cost fallacy because you'll
 
 ---
 ## References
-[[How to Take Smart Notes]] (p. 6)
+[[Ahrens, How to Take Smart Notes]] (p. 6)
 > Having a clear structure to work in is completely different from making plans about something. If you make a plan, you impose a structure on yourself; it makes you inflexible. To keep going according to plan, you have to push yourself and employ willpower.
 
-[[How to Take Smart Notes]] (p. 11)
+[[Ahrens, How to Take Smart Notes]] (p. 11)
 > Unfortunately, David Allen's technique cannot simply be transferred to the task of insightful writing. The first reason is that GTD relic on clearly defined objectives, whereas insight cannot be predetermined by definition. We usually start with rather vague ideas that are bound to change until they become clearer in the course of our research (cf. Ahrens, 2014, 134f.).
 > [...]
 > Writing is not a linear process. We constantly have to jump back and forth between different tasks. It wouldn't make any sense to micromanage ourselves on that level. Zooming out to the bigger picture does not really help, either, because then we have next steps. Like "writing a page".
 
-[[How to Take Smart Notes]] (p. 14)
+[[Ahrens, How to Take Smart Notes]] (p. 14)
 > While some career-oriented academics try to squeeze as many publications out of one idea as possible, Luhmann seemed to do the opposite. He constantly generated more ideas than he was able to write down. His texts read as if he is trying to squeeze as much insight and as many ideas into one publication.
 
 ## Backlinks
-* [[How to Take Smart Notes]]
+* [[Ahrens, How to Take Smart Notes]]
 	* [[Evergreen note-writing disregards planning]]
 * [[Evergreen note-writing requires a balanced routine]]
 	* Secondly, even though [[Evergreen note-writing disregards planning]], you will need to plan a good balance in your routine, especially on your material collection vs note-writing time. If you fail to dedicate enough time to note-writing, your archive might start to turn into chaos, a graveyard of ideas (Ahrens 32).

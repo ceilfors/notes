@@ -1,4 +1,4 @@
-# How to Take Smart Notes
+# Ahrens, How to Take Smart Notes
 Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking: For Students, Academics and Nonfiction Book Writers*. CreateSpace, 2017
 
 - [[Writing makes thinking possible]]
@@ -217,51 +217,51 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 
 ## Backlinks
 * [[Writing makes thinking possible]]
-	* [[How to Take Smart Notes]] (p. 5).
-	* [[How to Take Smart Notes]] (p. 90).
-	* [[How to Take Smart Notes]] (pp. 95-96).
+	* [[Ahrens, How to Take Smart Notes]] (p. 5).
+	* [[Ahrens, How to Take Smart Notes]] (p. 90).
+	* [[Ahrens, How to Take Smart Notes]] (pp. 95-96).
 * [[Working memory limits]]
-	* [[How to Take Smart Notes]] (p. 68).
+	* [[Ahrens, How to Take Smart Notes]] (p. 68).
 * [[Luhmann always worked on something easier and interesting]]
-	* [[How to Take Smart Notes]] (p. 14).
-	* [[How to Take Smart Notes]] (p. 15).
-	* [[How to Take Smart Notes]] (p. 141).
+	* [[Ahrens, How to Take Smart Notes]] (p. 14).
+	* [[Ahrens, How to Take Smart Notes]] (p. 15).
+	* [[Ahrens, How to Take Smart Notes]] (p. 141).
 * [[Well-defined workflow forms positive feedback loop]]
-	* [[How to Take Smart Notes]] (p. 52).
-	* [[How to Take Smart Notes]] (p. 52).
+	* [[Ahrens, How to Take Smart Notes]] (p. 52).
+	* [[Ahrens, How to Take Smart Notes]] (p. 52).
 * [[Workflow trumps willpower]]
-	* [[How to Take Smart Notes]] (pp. 2-3).
-	* [[How to Take Smart Notes]] (pp. 3).
-	* [[How to Take Smart Notes]] (pp. 16).
+	* [[Ahrens, How to Take Smart Notes]] (pp. 2-3).
+	* [[Ahrens, How to Take Smart Notes]] (pp. 3).
+	* [[Ahrens, How to Take Smart Notes]] (pp. 16).
 * [[Evergreen note-writing enables constant focus on interesting materials]]
-	* [[How to Take Smart Notes]] (p. 25).
-	* [[How to Take Smart Notes]] (p. 26).
-	* [[How to Take Smart Notes]] (pp. 50-51).
+	* [[Ahrens, How to Take Smart Notes]] (p. 25).
+	* [[Ahrens, How to Take Smart Notes]] (p. 26).
+	* [[Ahrens, How to Take Smart Notes]] (pp. 50-51).
 * [[Evergreen note-writing disregards planning]]
-	* [[How to Take Smart Notes]] (p. 6)
-	* [[How to Take Smart Notes]] (p. 11)
-	* [[How to Take Smart Notes]] (p. 14)
+	* [[Ahrens, How to Take Smart Notes]] (p. 6)
+	* [[Ahrens, How to Take Smart Notes]] (p. 11)
+	* [[Ahrens, How to Take Smart Notes]] (p. 14)
 * [[DNA structure was discovered on cancer treatment research]]
-	* [[How to Take Smart Notes]] (p. 138).
+	* [[Ahrens, How to Take Smart Notes]] (p. 138).
 * [[Self-control is a good indicator for academic success]]
-	* [[How to Take Smart Notes]] (p. 2).
+	* [[Ahrens, How to Take Smart Notes]] (p. 2).
 * [[Context switching helps when you get stuck]]
-	* [[How to Take Smart Notes]] (p. 68).
+	* [[Ahrens, How to Take Smart Notes]] (p. 68).
 * [[Documentation is the side effect of thinking]]
-	* [[How to Take Smart Notes]] (p. 95).
+	* [[Ahrens, How to Take Smart Notes]] (p. 95).
 * [[Evergreen note-writing requires a balanced routine]]
-	* [[How to Take Smart Notes]] (p. 10).
-	* [[How to Take Smart Notes]] (p. 32).
-	* [[How to Take Smart Notes]] (p. 43).
+	* [[Ahrens, How to Take Smart Notes]] (p. 10).
+	* [[Ahrens, How to Take Smart Notes]] (p. 32).
+	* [[Ahrens, How to Take Smart Notes]] (p. 43).
 * [[Humans are constrained by biological limits]]
-	* [[How to Take Smart Notes]]
+	* [[Ahrens, How to Take Smart Notes]]
 * [[Writing digitally may reduce understanding]]
-	* [[How to Take Smart Notes]] (p. 78).
+	* [[Ahrens, How to Take Smart Notes]] (p. 78).
 * [[Slow-motion multitasking]]
-	* [[How to Take Smart Notes]] (p. 14).
+	* [[Ahrens, How to Take Smart Notes]] (p. 14).
 * [[Positive thinking can result in negative outcome if it is not translated into actions]]
-	* [[How to Take Smart Notes]] (p. 142)
+	* [[Ahrens, How to Take Smart Notes]] (p. 142)
 
-<!-- #evergreen -->
+<!-- #literature #^inbox/book -->
 
 <!-- {BearID:B72954BD-125C-4A91-A0A2-45BE3D12F0C9-88256-0001A873B7780B19} -->

@@ -9,19 +9,19 @@ What is "something else" in Luhmann's world? If he's stuck, he would switch cont
 
 ---
 ## References
-[[How to Take Smart Notes]] (p. 14).
+[[Ahrens, How to Take Smart Notes]] (p. 14).
 > When he finished the final chapter, almost exactly 29 and a half years later, as a two-volume book with the title of "The Society of Society" (1997), it stirred up the scientific community. It was a radical new theory that not only changed sociology, but stirred heated discussions in philosophy, education, political theory and psychology as well. Not everyone was able to follow the discussions, though. What he did was unusually sophisticated, very different and highly complex.
 
-[[How to Take Smart Notes]] (p. 15).
+[[Ahrens, How to Take Smart Notes]] (p. 15).
 > He not only stressed that he never forced himself to do something he didn't feel like, he even said: "I only do what is easy. I only write when I immediately know how to do it. If I falter for a moment, I put the matter aside and do something else." (Luhmann et al., 1987, 154f.)
 
-[[How to Take Smart Notes]] (p. 141).
+[[Ahrens, How to Take Smart Notes]] (p. 141).
 > Remember: Luhmann's answer to the question of how one person could be so productive was that he never forced himself to do anything and only did what came easily to him. "When I am stuck for one moment, I leave it and do something else". When he was asked what else he did when he was stuck, his answer was: "Well, writing other books [...]" (Luhmann, Baecker, and Stanitzek 1987, 125-55)
 
 Link to the interview (Ahrens 16 footnote): [Niklas Luhmann - Beobachter im Krähennest (eng sub) - YouTube](https://www.youtube.com/watch?v=qRSCKSPMuDc&feature=youtu.be)
 
 ## Backlinks
-* [[How to Take Smart Notes]]
+* [[Ahrens, How to Take Smart Notes]]
 	* [[Luhmann always worked on something easier and interesting]]
 * [[Evergreen note-writing enables constant focus on interesting materials]]
 	* [[Luhmann always worked on something easier and interesting]], and that is made possible because [[Well-defined workflow forms positive feedback loop]]. The evergreen note-writing (which is inspired by Luhmann) consists of a well-defined workflow, therefore allowing the practitioners to focus on interesting and easier things. This is good to keep yourselves motivated.
