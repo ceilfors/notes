@@ -11,30 +11,26 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 - [[Documentation is the side effect of thinking]]
 - [[Writing digitally may reduce understanding]]
 - [[DNA structure was discovered on cancer treatment research]]
-
-In progress:
-- [[You can't plan for insights]]
-
+- [[Evergreen note-writing disregards planning]]
+- [[Evergreen note-writing requires a balanced routine]]
 
 ---
 ## Unsorted
 
-- Tools are only helpful if you give a time p10
-	- Story from colleague, where Any.do todo tools is giving up
-	- Fastest car won't help if there's no road
-	- A new routine must be simple, similar to [[Habit removes self-negotiation]]. [[All changes require marginal adjustment]]
+- §Why meetings don't work - Does workshops really work?
+	- Read more here as well: [Why Group Brainstorming Is a Waste of Time](https://hbr.org/2015/03/why-group-brainstorming-is-a-waste-of-time)
+		- Wow lot's of new material here, Social loafing, Social anxiety, Regression to the mean, and production blocking
+	- Do not brainstorm for a topic p25
+	- "In oral presentations, we easily get away with unfounded claims. We can distract from argumentative gaps with confident gestures or drop a casual "you know what I mean" irrespective of whether we know what we meant. In writing, these manoeuvres are a little too obvious. It is easy to check a statement like: "But that is what I said!" . p85
+	- > It makes things worse that we tend to like our first ideas the best and are very reluctant to let go of the, irrespective of their actual relevance (Strack and Mussweiler 1997). And before you now wonder if it would be a good idea to overcome the limitations of brainstorming by assembling a group of friends to brainstorm together, forget it: More people in a brainstorming group usually come up with less good ideas and restrict themselves inadvertently to a narrower range of topics (Mullen, Johnson, and Salas 1991). p.134
+		- This can be counterreacted
+		- Is workshop only useful because... Consultancy?
+	- There is also a reference to this in Theory of Constraints audiobook, where the daughter of the author asked his daughter that's a psychologist, on how to influence people in a meeting. His daughter isn't it obvious? There's already an experiment for this where people tend to agree with more people who have given the wrong answer.
+		- Found it! [Famous Social Psychology Experiments](https://www.verywellmind.com/famous-social-psychology-experiments-2795667)
+		- [Asch conformity experiments - Wikipedia](https://en.wikipedia.org/wiki/Asch_conformity_experiments)
 
 - Slip-box helps Lumann has a conversation p 13
-	- [[Effective tool circumvents human limits]]
-		- Therefore to have an effective tools  we need to understand our limits (how we think, learn and, generate ideas) p20
-	- Idea generation engine p 14
-		- career oriented academics squeeze many publications out of one idea, Niklas is doing the reverse
-		- Assistant didn't help on anything
-		- Lumann has an ordinary life, 3 kids, wife passed away, one housekeeper
 	- Good tools do not add features and more options to what we already have, but help to reduce distractions from the main work, which here is thinking - p 29
-	- When used wrongly it can become a graveyard for thought p32
-	- "having trouble finding the right topic is the symptom of the wrong attempt to rely heavily on the limitations of the brain, not the inevitable problematic starting point, as most study guide insinuate" p50
-	- Interesting motivational coach to turn couch potatoes to exercise (Segar, 2015) - focus on creating a satisfying and repeatable exercise, doesn't matter what the exercise is.
 
 - Unintuitively / Preconceieved / preconception of writing
 	- Great outcome requires great effort, is wrong p 16
@@ -64,9 +60,7 @@ In progress:
 		- It is not surprising that my friend has a book shelf filled with notebooks full of wonderful ideas, but not a single publication to show
 	- "Organise for retrieval, not storage" .. ?
 
-- Beware of the collector's fallacy
-	- Treat all notes as fleeting ones, a lot of mess, impulse of major clean ups... p43
-		- We need time to process the notes, habit is the more important part of this system.
+
 
 - You learn from what you already know
 	- [[New skills are built as a sum of other skills]]
@@ -95,6 +89,9 @@ In progress:
 		- This is similar to the idea of breaking down tasks in JIRA.
 
 - There are many types of attention, breaking task into smaller chunks will us utilise different types of attention
+	- 	- [[Effective tool circumvents human limits]]
+		- Therefore to have an effective tools  we need to understand our limits (how we think, learn and, generate ideas) p20
+	- "having trouble finding the right topic is the symptom of the wrong attempt to rely heavily on the limitations of the brain, not the inevitable problematic starting point, as most study guide insinuate" p50
 	- This is also a [[Humans are constrained by biological limits]]
 		- we can't multi task p58
 	- [[TDD chunks memory]]
@@ -130,11 +127,7 @@ In progress:
 	- Reflecting back, it seems like when we start a product development with a hypotheses, not only we'll have confirmation bias, but we'll have a sunk cost fallacy as we'll start the development in parallel. 
 		- There are many things in product development that utilises hypothesis, like LVT, or lean start up
 
-- §Why meetings don't work - Does workshops really work?
-	- Do not brainstorm for a topic p25
-	- "In oral presentations, we easily get away with unfounded claims. We can distract from argumentative gaps with confident gestures or drop a casual "you know what I mean" irrespective of whether we know what we meant. In writing, these manoeuvres are a little too obvious. It is easy to check a statement like: "But that is what I said!" . p85
-	- > It makes things worse that we tend to like our first ideas the best and are very reluctant to let go of the, irrespective of their actual relevance (Strack and Mussweiler 1997). And before you now wonder if it would be a good idea to overcome the limitations of brainstorming by assembling a group of friends to brainstorm together, forget it: More people in a brainstorming group usually come up with less good ideas and restrict themselves inadvertently to a narrower range of topics (Mullen, Johnson, and Salas 1991)
-	- There is also a reference to this in Theory of Constraints audiobook, where the daughter of the author asked his daughter that's a psychologist, on how to influence people in a meeting. His daughter isn't it obvious? There's already an experiment for this where people tend to agree with more people who have given the wrong answer.
+
 
 - write what you read
 	- "Re-reading is especially dangerous because of the mere-exposure effect: The moment we become familiar with something, we start believing we also understand it. Not op of that, we also tend to like it more (Bornstein 1989)." p86
@@ -240,24 +233,34 @@ In progress:
 	* [[How to Take Smart Notes]] (pp. 2-3).
 	* [[How to Take Smart Notes]] (pp. 3).
 	* [[How to Take Smart Notes]] (pp. 16).
+* [[Evergreen note-writing enables constant focus on interesting materials]]
+	* [[How to Take Smart Notes]] (p. 25).
+	* [[How to Take Smart Notes]] (p. 26).
+	* [[How to Take Smart Notes]] (pp. 50-51).
+* [[Evergreen note-writing disregards planning]]
+	* [[How to Take Smart Notes]] (p. 6)
+	* [[How to Take Smart Notes]] (p. 11)
+	* [[How to Take Smart Notes]] (p. 14)
+* [[DNA structure was discovered on cancer treatment research]]
+	* [[How to Take Smart Notes]] (p. 138).
 * [[Self-control is a good indicator for academic success]]
 	* [[How to Take Smart Notes]] (p. 2).
 * [[Context switching helps when you get stuck]]
 	* [[How to Take Smart Notes]] (p. 68).
-* [[DNA structure was discovered on cancer treatment research]]
-	* [[How to Take Smart Notes]] (p. 138).
 * [[Documentation is the side effect of thinking]]
 	* [[How to Take Smart Notes]] (p. 95).
-* [[Evergreen note-writing enables constant focus on interesting materials]]
-	* [[How to Take Smart Notes]] (p. 25)
-	* [[How to Take Smart Notes]] (p. 26)
-	* [[How to Take Smart Notes]] (pp. 50-51)
+* [[Evergreen note-writing requires a balanced routine]]
+	* [[How to Take Smart Notes]] (p. 10).
+	* [[How to Take Smart Notes]] (p. 32).
+	* [[How to Take Smart Notes]] (p. 43).
 * [[Humans are constrained by biological limits]]
 	* [[How to Take Smart Notes]]
 * [[Writing digitally may reduce understanding]]
 	* [[How to Take Smart Notes]] (p. 78).
 * [[Slow-motion multitasking]]
 	* [[How to Take Smart Notes]] (p. 14).
+* [[Positive thinking can result in negative outcome if it is not translated into actions]]
+	* [[How to Take Smart Notes]] (p. 142)
 
 <!-- #evergreen -->
 

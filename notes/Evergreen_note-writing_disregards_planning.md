@@ -21,6 +21,8 @@ When you plan too much, you'll also suffer from sunk cost fallacy because you'll
 ## Backlinks
 * [[How to Take Smart Notes]]
 	* [[Evergreen note-writing disregards planning]]
+* [[Evergreen note-writing requires a balanced routine]]
+	* Secondly, even though [[Evergreen note-writing disregards planning]], you will need to plan a good balance in your routine, especially on your material collection vs note-writing time. If you fail to dedicate enough time to note-writing, your archive might start to turn into chaos, a graveyard of ideas (Ahrens 32).
 
 <!-- #evergreen #writing #planning -->
 
