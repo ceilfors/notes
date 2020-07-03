@@ -18,7 +18,7 @@ Focusing just on the interesting things at the moment may sound like a risky app
 * [[Ahrens, How to Take Smart Notes]]
 	* [[Evergreen note-writing enables constant focus on interesting materials]]
 * [[Evergreen note-writing disregards planning]]
-	* Sticking to a plan, however, requires willpower (Ahrens 6). Willpower is not a sustainable way to writing, especially when what you write takes a multi year of research ([[Workflow trumps willpower]]). Sticking to a plan will also disregard new discoveries (Ahrens 11). The DNA structure won't be discovered if the scientists stick to their plan ([[DNA structure was discovered on cancer treatment research]]). You want to gain enjoyment from writing, and [[Evergreen note-writing enables constant focus on interesting materials]].
+	* Sticking to a plan, however, requires willpower (Ahrens 6). Willpower is not a sustainable way to writing, especially when what you write takes a multi year of research ([[Workflow trumps willpower]]). Sticking to a plan will also disregard new discoveries (Ahrens 11). The DNA structure won't be discovered if the scientists sticked to their plan ([[DNA structure was discovered on cancer treatment research]]). You want to gain enjoyment from writing, and [[Evergreen note-writing enables constant focus on interesting materials]].
 * [[Evergreen note-writing requires a balanced routine]]
 	* Even though [[Evergreen note-writing enables constant focus on interesting materials]], you wouldn't capture interesting materials (transient notes) and evergreen notes if you don't dedicate time or make a habit for it. A routine, therefore, is a necessary element in the practice of evergreen note-writing (Ahrens 10).
 
