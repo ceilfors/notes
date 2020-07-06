@@ -14,6 +14,15 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 - [[Evergreen note-writing disregards planning]]
 - [[Evergreen note-writing requires a balanced routine]]
 
+- [[Zettels should not have ephemeral tags]]
+- [[Zettels should capture an atomic concept]]
+- [[Limiting the length of your zettels can make them atomic]]
+- [[Creative work need enabling constraints]]
+
+Immediate todo: 
+- Therefore [[Zettels should have at least one link]]  (probably the exception is for notes that are root? Rename this)
+- [[Write what you read]]
+
 ---
 ## Unsorted
 
@@ -29,9 +38,6 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 		- Found it! [Famous Social Psychology Experiments](https://www.verywellmind.com/famous-social-psychology-experiments-2795667)
 		- [Asch conformity experiments - Wikipedia](https://en.wikipedia.org/wiki/Asch_conformity_experiments)
 
-- Slip-box helps Lumann has a conversation p 13
-	- Good tools do not add features and more options to what we already have, but help to reduce distractions from the main work, which here is thinking - p 29
-
 - Unintuitively / Preconceieved / preconception of writing
 	- Great outcome requires great effort, is wrong p 16
 	- zettelkasten not being picked up because
@@ -40,27 +46,13 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 				- [[Time is a universal constraint]]
 		- Most people don't expect much from simple ideas p 18
 
-- Taking the notes
-	- notes must be small p19
-		- may extend to other notes to extend thought.
-		- Size of A6 p31 (although can be extended)
-	- Permanent notes
-		- I don't like the word because it feels like I can't edit the note
-		- Make it brief, write for someone else even though it's private p24
-
-- Good way to tag (good way to organise things)
-	- Most students sort their material by topic of even by seminars and semester. From the perspective of someone who writes, that makes as much sense as sorting your errands by purchase date and store they were bought from p41
-		- Excellent analogy
-		- So what's the way we tag then? It seems like making sure that this is all evergreen notes, and tagging them with objects would work well for us
-
 - Good way to organise things 
 	- Similar to architecture, Kon mari?
 	- "If you sort by topic, you are faced with the dilemma of either adding more and more notes to one topic, which makes them increasingly hard to find, or adding more and more topics and subtopics to it, which only shifts the mess to another level. The first system id designed to find things you deliberately search for, putting all the responsibility on your brain. The slip-box is designed to present you with ideas you have already forgotten, allowing your brain o focus on thinking instead of remembering p41.
 	- "Optimise for search and context" p42
 		- It is not surprising that my friend has a book shelf filled with notebooks full of wonderful ideas, but not a single publication to show
 	- "Organise for retrieval, not storage" .. ?
-
-
+		- This is so good... Do we have any other quotes for this?
 
 - You learn from what you already know
 	- [[New skills are built as a sum of other skills]]
@@ -94,6 +86,7 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 	- "having trouble finding the right topic is the symptom of the wrong attempt to rely heavily on the limitations of the brain, not the inevitable problematic starting point, as most study guide insinuate" p50
 	- This is also a [[Humans are constrained by biological limits]]
 		- we can't multi task p58
+	- Good tools do not add features and more options to what we already have, but help to reduce distractions from the main work, which here is thinking - p 29
 	- [[TDD chunks memory]]
 		- "Proofreading, formulating and outlining are also different from the task of combining and developing thoughts. Working with the slip-box means playing with ideas and looking out for interesting connections and comparisons. It means building clusters, combining them with other clusters and preparing the order of notes for a project. Here, we need to puzzle with notes and find the best fit. It is much more associative, playful and creative than the other tasks and require a very different kind of attention as well." p62
 	- "In short, academic writing requires the whole spectrum of attention. To master the art of writing, we need to be able to apply whatever kind of attention and focus is needed." p63
@@ -128,16 +121,6 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 		- There are many things in product development that utilises hypothesis, like LVT, or lean start up
 
 
-
-- write what you read
-	- "Re-reading is especially dangerous because of the mere-exposure effect: The moment we become familiar with something, we start believing we also understand it. Not op of that, we also tend to like it more (Bornstein 1989)." p86
-	- "We will happily enjoy the feeling of getting smarter and more knowledgable while in reality staging as dumb as we were. This warm feeling disappears quickly when we try to explain what we read in our own words in writing" p86
-	- "We have to choose between feeling smarter or becoming smarter. And while writing down an idea feels like a detour, extra time spent, not writing it down is the real waste of time, as it renders most of what we read as ineffectual." p86
-
-- Learning requires deliberate practice
-	- "It requires effort"
-	- "Trying to skip this step would be like going to the gym and trying to work out with the least effort possible. That just doesn't make sense, just like it wouldn't make sense to hire a coach to do the heavy lifting" p87
-
 - The learning fallacy p88-89
 	- Teachers putting attempt to make learning easier. It's like fast food.
 		- Don't understand why a structure makes student dumber
@@ -160,7 +143,8 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 	- Lots of material at page 118
 		- Lot's of references to Charlie Munger
 		- "If you only have a hammer, everything is nail"
-		- "A wryly wise person is not someone who knows everything, but someone who is able to make sense of things by drawing from an extended resource of interpretation themes. Thi stands in harsh contrast to the common not-so-wise belief that we need to learn from experience. It is much better to learn from the experiences of others - especially when this experience is reflected on and turned into versatile "mental models" that can be used in different situations. "
+		- "A really wise person is not someone who knows everything, but someone who is able to make sense of things by drawing from an extended resource of interpretation themes. This stands in harsh contrast to the common not-so-wise belief that we need to learn from experience. It is much better to learn from the experiences of others - especially when this experience is reflected on and turned into versatile "mental models" that can be used in different situations. "
+			- What does this mean?? This contradicts a lot
 			- Conflict with Bloom's Taxonomy of understanding? Don't you have to learn first? Or is it really a conflict?
 			- Does this conflict with learning from failure?
 
@@ -171,21 +155,6 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 	- [[All changes require marginal adjustment]]
 	- Other post: Big changes in an illusion?
 	- "Most often, innovation is not the result of a sudden moment of realisation, anyway, but incremental steps toward improvement. Even groundbreaking paradigm shifts are most often the consequence of many small moves in the right direction instead of one big idea. This is why the search for small differences is key" p122
-
-- Put a constraint to notes - [[Limit your canvas]]
-	- > I highly recommend treating a digital note as if the space were limited. By restricting ourselves to one format, we also restrict ourselves to just one idea per note and force ourselves to be as precise and brief as possible [...] Each note should fit onto the screen and there should be no need of scrolling -- p130
-		- Link to [[§Software that fits on paper]]
-	 - There are many evergreen notes here! p131
-		 - Language is a standardisation and limited. 6 letters. Novels. p131
-		 - Thinking and creativity can flourish (cf stokes 2001; Rheinberger 1997)
-		 - Poetry, imposes rhythm, syllables or rhymes
-		 - Question When is it right to have a constraints? Seems like that's Cynefin again.
-			 - Many people seems to have not explored the many types of constraints that Cynefin is talking about
-	 - Limit the canvas!!!
-		 - A clear structure , artist, Lucio Fontana, cut into the canvas instead of painting it. 
-			 - It is not even true that a more complex structure provides more possibilities. Quite the contrary. The binary code is radically more limited than the alphabet, it contains one zero... etc
-	 - > The biggest threat to creativity and scientific progress is therefore the opposite: a lack of structure and restrictions. Without structure, we cannot differentiate, compare or experiment with ideas -- p131
-		 - > One thing is for sure: the common idea that we should liberate ourselves from any restrictions and "open ourselves up" to be more creative is very misleading indeed (Dean 213, 201) - 132
 
 - When is it a good idea to defer, and when is it a good idea to start small?
 	- If we start a product development by applying all the things that we know, it might be a waste.
@@ -237,10 +206,16 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 	* [[Ahrens, How to Take Smart Notes]] (p. 25).
 	* [[Ahrens, How to Take Smart Notes]] (p. 26).
 	* [[Ahrens, How to Take Smart Notes]] (pp. 50-51).
+* [[Zettels should not have ephemeral tags]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 41).
+* [[Creative work need enabling constraints]]
+	* [[Ahrens, How to Take Smart Notes]] (pp. 130-132).
 * [[Evergreen note-writing disregards planning]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 6)
 	* [[Ahrens, How to Take Smart Notes]] (p. 11)
 	* [[Ahrens, How to Take Smart Notes]] (p. 14)
+* [[Zettels should capture an atomic concept]]
+	* [[Ahrens, How to Take Smart Notes]] (pp. 18-19).
 * [[DNA structure was discovered on cancer treatment research]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 138).
 * [[Self-control is a good indicator for academic success]]
@@ -255,6 +230,8 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 	* [[Ahrens, How to Take Smart Notes]] (p. 43).
 * [[Humans are constrained by biological limits]]
 	* [[Ahrens, How to Take Smart Notes]]
+* [[Limiting the length of your zettels can make them atomic]]
+	* [[Ahrens, How to Take Smart Notes]] (pp. 129-130).
 * [[Writing digitally may reduce understanding]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 78).
 * [[Slow-motion multitasking]]
