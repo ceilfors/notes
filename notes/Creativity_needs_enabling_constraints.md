@@ -1,4 +1,4 @@
-# Creative work need enabling constraints
+# Creativity needs enabling constraints
 Setting a constraint, restriction, or a standard into creative work may sound very limiting. One common idea that many of us know is, if we want to be more creative, we'll have to open ourselves up, free from any restrictions. Counterintuitively, an enabling constraint is what enables us to be creative.
 
 Constraints allow us to be productive on top of what's been established. The amount of creativity that has been built on top of binary code, an extreme restriction of 0s and 1s, are limitless. The restricted amount of 26 letters have enabled us to write novels, theories, etc. All these creative works are only made possible because of these constraints.
@@ -17,10 +17,8 @@ Constraints also allow us to compare one idea with another. When you can't compa
 > One thing is for sure: the common idea that we should liberate ourselves from any restrictions and "open ourselves up" to be more creative is very misleading indeed (Dean 2013, 201).
 
 ## Backlinks
-* [[Ahrens, How to Take Smart Notes]]
-	* [[Creative work need enabling constraints]]
 * [[Limiting the length of your zettels can make them atomic]]
-	* Constraining your notes to a certain length may sound very restrictive for a creative work like writing, but [[Creative work need enabling constraints]].
+	* Constraining your notes to a certain length may sound very restrictive for a creative work like writing, but [[Creativity needs enabling constraints]].
 
 <!-- #evergreen #counterintuitive #constraint -->
 

@@ -208,8 +208,6 @@ Immediate todo:
 	* [[Ahrens, How to Take Smart Notes]] (pp. 50-51).
 * [[Zettels should not have ephemeral tags]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 41).
-* [[Creative work need enabling constraints]]
-	* [[Ahrens, How to Take Smart Notes]] (pp. 130-132).
 * [[Evergreen note-writing disregards planning]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 6)
 	* [[Ahrens, How to Take Smart Notes]] (p. 11)
@@ -234,6 +232,8 @@ Immediate todo:
 	* [[Ahrens, How to Take Smart Notes]] (pp. 129-130).
 * [[Writing digitally may reduce understanding]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 78).
+* [[Creativity needs enabling constraints]]
+	* [[Ahrens, How to Take Smart Notes]] (pp. 130-132).
 * [[Slow-motion multitasking]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 14).
 * [[Positive thinking can result in negative outcome if it is not translated into actions]]

@@ -3,7 +3,7 @@
 
 A6 paper is a good size when you're writing your notes physically. It is trickier to set a constraint your note length when you're writing your notes digitally though. One trick is to cont the number of words, or characters, or see if your note fits in a screen (Ahrens 130).
 
-Constraining your notes to a certain length may sound very restrictive for a creative work like writing, but [[Creative work need enabling constraints]].
+Constraining your notes to a certain length may sound very restrictive for a creative work like writing, but [[Creativity needs enabling constraints]].
 
 ---
 ## References
