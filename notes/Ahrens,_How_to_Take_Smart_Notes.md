@@ -19,9 +19,12 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 - [[Limiting the length of your zettels can make them atomic]]
 - [[Creative work need enabling constraints]]
 - [[Write about what you read]]
+- [[The number of zettels written per day as a better lead measure for learning]]
+
+[[Praising for being smart tend to motivate people to be protective of that impression]]
 
 In progress: 
-- [[The number of zettels written per day as a better lead measure for learning]]
+
 - Therefore [[Zettels must have links]] 
 
 
@@ -63,9 +66,7 @@ In progress:
 		- This is a very interesting concept. Basically some says: if you want to understand a whole, you have to understand its parts, to understand its parts, you have to understand a whole.
 			- It reminded me of how to read a book book, don't get stuck in one section, but move through and read on, then come back, this has proven to be useful for how to take smart notes
 
-- how to praise
-	- Having been praised for what they are (talented and gifted) rather than for what they do, they tend to focus on keeping this impression intact, rather than learning from failure. p53
-		- Link to scientific child book as well
+
 
 - Writing is a self feedback loop p55
 	- "The same goes for writing permanent notes, which have another feedback loop built-in: Expressing our own thoughts in writing makes us realise if really thought them through. The moment we try to combine them with previously written notes, the system will unambiguously show us contradictions, inconsistencies and repetitions".  P55
@@ -193,14 +194,17 @@ In progress:
 	* [[Ahrens, How to Take Smart Notes]] (pp. 2-3).
 	* [[Ahrens, How to Take Smart Notes]] (pp. 3).
 	* [[Ahrens, How to Take Smart Notes]] (pp. 16).
+* [[Write about what you read]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 86).
 * [[Evergreen note-writing enables constant focus on interesting materials]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 25).
 	* [[Ahrens, How to Take Smart Notes]] (p. 26).
 	* [[Ahrens, How to Take Smart Notes]] (pp. 50-51).
+* [[Understanding requires elaboration]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 86).
+	* [[Ahrens, How to Take Smart Notes]] (p. 120).
 * [[Zettels should not have ephemeral tags]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 41).
-* [[Write about what you read]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 86).
 * [[Evergreen note-writing disregards planning]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 6)
 	* [[Ahrens, How to Take Smart Notes]] (p. 11)
@@ -209,9 +213,6 @@ In progress:
 	* [[Ahrens, How to Take Smart Notes]] (pp. 18-19).
 * [[DNA structure was discovered on cancer treatment research]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 138).
-* [[Understanding requires elaboration]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 86).
-	* [[Ahrens, How to Take Smart Notes]] (p. 120).
 * [[Self-control is a good indicator for academic success]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 2).
 * [[Context switching helps when you get stuck]]
@@ -226,6 +227,8 @@ In progress:
 	* [[Ahrens, How to Take Smart Notes]]
 * [[Limiting the length of your zettels can make them atomic]]
 	* [[Ahrens, How to Take Smart Notes]] (pp. 129-130).
+* [[The number of zettels written per day as a better lead measure for learning]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 94).
 * [[Writing digitally may reduce understanding]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 78).
 * [[Creativity needs enabling constraints]]

@@ -16,6 +16,8 @@ If what you want to achieve is understanding, you will have to elaborate what yo
 ## Backlinks
 * [[Write about what you read]]
 	* [[Understanding requires elaboration]], therefore if you want to understand what you read, you'll have to elaborate. Writing is one good way to elaborate what you read. Writing about what you read may sound like a lot of work, but if you don't deliberately elaborate, the time that you have dedicated for reading is also going to be wasted. You have to think about writing about what you read as a process to close the loop of your learning. If that's not enough, double the benefit of your writing by organising them well so that your note-writing is not going to be wasted (for example by adopting a method like Zettelkasten).
+* [[The number of zettels written per day as a better lead measure for learning]]
+	* The amount of accessible mediums where we can learn today is unprecedented, there are more books, audiobooks, videos, podcasts, or articles than ever before. You may try to learn more by consuming all these contents, but this is a mistake because [[Understanding requires elaboration]]. Using the number of books you have read, or the number of audiobooks you have listened to, as the lead measure of your learning therefore is futile.
 
 <!-- #evergreen #learning #mastery -->
 

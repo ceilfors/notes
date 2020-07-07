@@ -8,12 +8,12 @@ Constraints also allow us to compare one idea with another. When you can't compa
 ---
 ## References
 [[Ahrens, How to Take Smart Notes]] (pp. 130-132).
-> Thinking and creativity can flourish under restricted conditions and there are plenty of studies to back that claim (cf. Stokes 2001; Rheinberger 1997). The scientific revolution started with the standardisation and controlling of experiments, which made them comparable and repeatable (cf. Shapin, 1996). Or think of poetry: It imposes restrictions in terms of rhythm, syllables or rhymes.
-> [...]
-> We can write novels, theories, love letters or court orders - just by rearranging these 26 letters. This is certainly not possible despite the restriction to 26 letters, but because of it. Nobody will open a book and wish it contains more types of letters or be disappointed because it is, again, just another variation of the same alphabet.
-> [...]
-> The biggest threat to creativity and scientific progress is therefore the opposite: a lack of structure and restrictions. Without structure, we cannot differentiate, compare or experiment with ideas. Without restrictions, we would never be forced to make the decision on what is worth pursuing and what is not. Indifference is the worst environment for insight.
-> [...]
+> Thinking and creativity can flourish under restricted conditions and there are plenty of studies to back that claim (cf. Stokes 2001; Rheinberger 1997). The scientific revolution started with the standardisation and controlling of experiments, which made them comparable and repeatable (cf. Shapin, 1996). Or think of poetry: It imposes restrictions in terms of rhythm, syllables or rhymes.  
+> [...]  
+> We can write novels, theories, love letters or court orders - just by rearranging these 26 letters. This is certainly not possible despite the restriction to 26 letters, but because of it. Nobody will open a book and wish it contains more types of letters or be disappointed because it is, again, just another variation of the same alphabet.  
+> [...]  
+> The biggest threat to creativity and scientific progress is therefore the opposite: a lack of structure and restrictions. Without structure, we cannot differentiate, compare or experiment with ideas. Without restrictions, we would never be forced to make the decision on what is worth pursuing and what is not. Indifference is the worst environment for insight.  
+> [...]  
 > One thing is for sure: the common idea that we should liberate ourselves from any restrictions and "open ourselves up" to be more creative is very misleading indeed (Dean 2013, 201).
 
 ## Backlinks
