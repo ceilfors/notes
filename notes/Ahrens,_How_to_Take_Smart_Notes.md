@@ -18,10 +18,12 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 - [[Zettels should capture an atomic concept]]
 - [[Limiting the length of your zettels can make them atomic]]
 - [[Creative work need enabling constraints]]
+- [[Write about what you read]]
 
-Immediate todo: 
-- Therefore [[Zettels should have at least one link]]  (probably the exception is for notes that are root? Rename this)
-- [[Write what you read]]
+In progress: 
+- [[The number of zettels written per day as a better lead measure for learning]]
+- Therefore [[Zettels must have links]] 
+
 
 ---
 ## Unsorted
@@ -39,6 +41,7 @@ Immediate todo:
 		- [Asch conformity experiments - Wikipedia](https://en.wikipedia.org/wiki/Asch_conformity_experiments)
 
 - Unintuitively / Preconceieved / preconception of writing
+	- title: Zettelkasten is not widely adopted because it is too simple for a complex problem
 	- Great outcome requires great effort, is wrong p 16
 	- zettelkasten not being picked up because
 		- Neglect that workflow is required
@@ -48,7 +51,6 @@ Immediate todo:
 
 - Good way to organise things 
 	- Similar to architecture, Kon mari?
-	- "If you sort by topic, you are faced with the dilemma of either adding more and more notes to one topic, which makes them increasingly hard to find, or adding more and more topics and subtopics to it, which only shifts the mess to another level. The first system id designed to find things you deliberately search for, putting all the responsibility on your brain. The slip-box is designed to present you with ideas you have already forgotten, allowing your brain o focus on thinking instead of remembering p41.
 	- "Optimise for search and context" p42
 		- It is not surprising that my friend has a book shelf filled with notebooks full of wonderful ideas, but not a single publication to show
 	- "Organise for retrieval, not storage" .. ?
@@ -60,12 +62,6 @@ Immediate todo:
 		- "Every intellectual endeavour starts from an already existing preconception, which then can be transformed during further inquires and can serve as a starting point for following endeavours. Basically that is what Hans-Georg Gadamer called the hermeneutic circle." - p48
 		- This is a very interesting concept. Basically some says: if you want to understand a whole, you have to understand its parts, to understand its parts, you have to understand a whole.
 			- It reminded me of how to read a book book, don't get stuck in one section, but move through and read on, then come back, this has proven to be useful for how to take smart notes
-
-- Unordered..
-	- Simplicity is paramount p38
-		- The idea of shipping container, where the idea is really simple, but to make the change it's really expensive, which is why the idea was not adopted early. People couldn't let go of what they're used to.
-			- But for people to let go, the idea must be simpler?
-		- One interesting thing about this story is Docker container, 
 
 - how to praise
 	- Having been praised for what they are (talented and gifted) rather than for what they do, they tend to focus on keeping this impression intact, rather than learning from failure. p53
@@ -94,8 +90,6 @@ Immediate todo:
 			- childlike minds, analytical, 
 			- wide open playful mind vs narrow analytical frame
 		- This is similar to software design as well, or double diamond,
-
-- Limit c4 level to 7 chunks [[Working memory limits]]
 
 - Zeigarnik effect p70
 	- Open tasks will occupy short term memory more p70
@@ -127,10 +121,7 @@ Immediate todo:
 	- students attempt to do cramming
 		- "If learning is your goal, cramming is an irrational act"
 	- Go and play ping pong, reduce stress, which inhibits learning process. Also it helps transfer info into long term memory (rate 2008)(garam 2008) p89
-	- "We learn something not only when we connect it to prior knowledge and try to understand its broader implication (elaboration), but also when we try to retrieve it at different times (spacing) in different contexts (variation), ideally with the help of chance (contextual interference) and with a deliberate effort (retrieval) "p120
 
-- Writing is a better lead measure for learning than reading
-	- > You could therefore measure your daily productivity by the number of notes written. - p94
 
 - Forgetting is not a bad thing
 	- I always concerned about forgetting as my wife seems to remember more stuff than me.
@@ -189,8 +180,6 @@ Immediate todo:
 	* [[Ahrens, How to Take Smart Notes]] (p. 5).
 	* [[Ahrens, How to Take Smart Notes]] (p. 90).
 	* [[Ahrens, How to Take Smart Notes]] (pp. 95-96).
-* [[Working memory limits]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 68).
 * [[Luhmann always worked on something easier and interesting]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 14).
 	* [[Ahrens, How to Take Smart Notes]] (p. 15).
@@ -198,6 +187,8 @@ Immediate todo:
 * [[Well-defined workflow forms positive feedback loop]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 52).
 	* [[Ahrens, How to Take Smart Notes]] (p. 52).
+* [[Working memory limits]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 68).
 * [[Workflow trumps willpower]]
 	* [[Ahrens, How to Take Smart Notes]] (pp. 2-3).
 	* [[Ahrens, How to Take Smart Notes]] (pp. 3).
@@ -208,6 +199,8 @@ Immediate todo:
 	* [[Ahrens, How to Take Smart Notes]] (pp. 50-51).
 * [[Zettels should not have ephemeral tags]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 41).
+* [[Write about what you read]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 86).
 * [[Evergreen note-writing disregards planning]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 6)
 	* [[Ahrens, How to Take Smart Notes]] (p. 11)
@@ -216,6 +209,9 @@ Immediate todo:
 	* [[Ahrens, How to Take Smart Notes]] (pp. 18-19).
 * [[DNA structure was discovered on cancer treatment research]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 138).
+* [[Understanding requires elaboration]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 86).
+	* [[Ahrens, How to Take Smart Notes]] (p. 120).
 * [[Self-control is a good indicator for academic success]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 2).
 * [[Context switching helps when you get stuck]]

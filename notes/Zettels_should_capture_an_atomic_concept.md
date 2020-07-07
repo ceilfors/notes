@@ -1,5 +1,5 @@
 # Zettels should capture an atomic concept
-The core intention of practicing Zettelkasten is so that you can connect and build on top of other concepts, generating insights. To make this happen, naturally, every notes that you write should be oriented around a concept. Capturing notes by concept will also force you to elaborate what you have read ([[Write what you read]]).
+The core intention of practicing Zettelkasten is so that you can connect and build on top of other concepts, generating insights. To make this happen, naturally, every notes that you write should be oriented around a concept. Capturing notes by concept will also force you to elaborate what you have read ([[Write about what you read]]).
 
 Capturing your notes by books, in contrast, is straightforward but will not encourage notes linkage and therefore will not generate new ideas (see also: [[Zettels should not have ephemeral tags]]). 
 

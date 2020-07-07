@@ -18,8 +18,6 @@ Cowan, Nelson. ‘The Magical Number 4 in Short-Term Memory: A Reconsideration o
 > We have a short-term memory that is limited in size to something like seven digits, words, or other units. The only way to hang on to information for a longer time period is to create a more durable representation, either by writing it down or encoding a long-term memory of it. 
 
 ## Backlinks
-* [[Ahrens, How to Take Smart Notes]]
-	* Limit c4 level to 7 chunks [[Working memory limits]]
 * [[Writing makes thinking possible]]
 	* We need a good method to think because we have [[Working memory limits]]. If [[Effective tool circumvents human limits]], we need to find a tool that circumvents our working memory limit. The tool, or method of thinking that has been proven by science is note-writing. Many would think that writing helps our thinking, but contemporary handbook of neuroscientists argues that writing is what makes thinking possible. Scientists with different specialisation, like psychologists, educators, or philosophers, may disagree on how our brain works, but most of them agree that real thinking will require a form of writing (Ahrens 95-96).
 * [[To write is to rubber duck]]
