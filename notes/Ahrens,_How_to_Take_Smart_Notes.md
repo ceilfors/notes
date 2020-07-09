@@ -20,9 +20,8 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 - [[Creative work need enabling constraints]]
 - [[Write about what you read]]
 - [[The number of zettels written per day as a better lead measure for learning]]
-
-[[Praising for being smart tend to motivate people to be protective of that impression]]
-
+- [[Praising for intelligence may stop learners from learning]]
+- [[Zettelkasten is not widely adopted because it is too simple for a complex problem]]
 In progress: 
 
 - Therefore [[Zettels must have links]] 
@@ -30,6 +29,12 @@ In progress:
 
 ---
 ## Unsorted
+- Forgetting is not a bad thing
+	- I always concerned about forgetting as my wife seems to remember more stuff than me.
+	- it allows us to transfer ideas and facilitate long term learning p99
+	- the whole story about sheresvsky is a very interesting notes! Take that as an evergreen note p99
+	- forgetting is the erection of mental barrier, so that we can focus on the moment, otherwise we'll be having associateastion, etc etc, we won't be able to focus on our surroundings (MacLeod, 2007) p99
+
 
 - §Why meetings don't work - Does workshops really work?
 	- Read more here as well: [Why Group Brainstorming Is a Waste of Time](https://hbr.org/2015/03/why-group-brainstorming-is-a-waste-of-time)
@@ -42,15 +47,6 @@ In progress:
 	- There is also a reference to this in Theory of Constraints audiobook, where the daughter of the author asked his daughter that's a psychologist, on how to influence people in a meeting. His daughter isn't it obvious? There's already an experiment for this where people tend to agree with more people who have given the wrong answer.
 		- Found it! [Famous Social Psychology Experiments](https://www.verywellmind.com/famous-social-psychology-experiments-2795667)
 		- [Asch conformity experiments - Wikipedia](https://en.wikipedia.org/wiki/Asch_conformity_experiments)
-
-- Unintuitively / Preconceieved / preconception of writing
-	- title: Zettelkasten is not widely adopted because it is too simple for a complex problem
-	- Great outcome requires great effort, is wrong p 16
-	- zettelkasten not being picked up because
-		- Neglect that workflow is required
-			- you need to make time for any routine you introduce
-				- [[Time is a universal constraint]]
-		- Most people don't expect much from simple ideas p 18
 
 - Good way to organise things 
 	- Similar to architecture, Kon mari?
@@ -65,8 +61,6 @@ In progress:
 		- "Every intellectual endeavour starts from an already existing preconception, which then can be transformed during further inquires and can serve as a starting point for following endeavours. Basically that is what Hans-Georg Gadamer called the hermeneutic circle." - p48
 		- This is a very interesting concept. Basically some says: if you want to understand a whole, you have to understand its parts, to understand its parts, you have to understand a whole.
 			- It reminded me of how to read a book book, don't get stuck in one section, but move through and read on, then come back, this has proven to be useful for how to take smart notes
-
-
 
 - Writing is a self feedback loop p55
 	- "The same goes for writing permanent notes, which have another feedback loop built-in: Expressing our own thoughts in writing makes us realise if really thought them through. The moment we try to combine them with previously written notes, the system will unambiguously show us contradictions, inconsistencies and repetitions".  P55
@@ -115,20 +109,12 @@ In progress:
 	- Reflecting back, it seems like when we start a product development with a hypotheses, not only we'll have confirmation bias, but we'll have a sunk cost fallacy as we'll start the development in parallel. 
 		- There are many things in product development that utilises hypothesis, like LVT, or lean start up
 
-
 - The learning fallacy p88-89
 	- Teachers putting attempt to make learning easier. It's like fast food.
 		- Don't understand why a structure makes student dumber
 	- students attempt to do cramming
 		- "If learning is your goal, cramming is an irrational act"
 	- Go and play ping pong, reduce stress, which inhibits learning process. Also it helps transfer info into long term memory (rate 2008)(garam 2008) p89
-
-
-- Forgetting is not a bad thing
-	- I always concerned about forgetting as my wife seems to remember more stuff than me.
-	- it allows us to transfer ideas and facilitate long term learning p99
-	- the whole story about sheresvsky is a very interesting notes! Take that as an evergreen note p99
-	- forgetting is the erection of mental barrier, so that we can focus on the moment, otherwise we'll be having associateastion, etc etc, we won't be able to focus on our surroundings (MacLeod, 2007) p99
 
 - The importance of mental models
 	- [[§Why TDD works]]
@@ -188,12 +174,12 @@ In progress:
 * [[Well-defined workflow forms positive feedback loop]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 52).
 	* [[Ahrens, How to Take Smart Notes]] (p. 52).
-* [[Working memory limits]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 68).
 * [[Workflow trumps willpower]]
 	* [[Ahrens, How to Take Smart Notes]] (pp. 2-3).
 	* [[Ahrens, How to Take Smart Notes]] (pp. 3).
 	* [[Ahrens, How to Take Smart Notes]] (pp. 16).
+* [[Working memory limits]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 68).
 * [[Write about what you read]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 86).
 * [[Evergreen note-writing enables constant focus on interesting materials]]
@@ -213,8 +199,6 @@ In progress:
 	* [[Ahrens, How to Take Smart Notes]] (pp. 18-19).
 * [[DNA structure was discovered on cancer treatment research]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 138).
-* [[Self-control is a good indicator for academic success]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 2).
 * [[Context switching helps when you get stuck]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 68).
 * [[Documentation is the side effect of thinking]]
@@ -227,10 +211,16 @@ In progress:
 	* [[Ahrens, How to Take Smart Notes]]
 * [[Limiting the length of your zettels can make them atomic]]
 	* [[Ahrens, How to Take Smart Notes]] (pp. 129-130).
+* [[Praising for intelligence may stop learners from learning]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 53).
 * [[The number of zettels written per day as a better lead measure for learning]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 94).
 * [[Writing digitally may reduce understanding]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 78).
+* [[Zettelkasten is not widely adopted because it is too simple for a complex problem]]
+	* [[Ahrens, How to Take Smart Notes]] (pp. 16-18)
+* [[Self-control is a good indicator for academic success]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 2).
 * [[Creativity needs enabling constraints]]
 	* [[Ahrens, How to Take Smart Notes]] (pp. 130-132).
 * [[Slow-motion multitasking]]
