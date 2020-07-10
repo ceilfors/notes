@@ -22,18 +22,26 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 - [[The number of zettels written per day as a better lead measure for learning]]
 - [[Praising for intelligence may stop learners from learning]]
 - [[Zettelkasten is not widely adopted because it is too simple for a complex problem]]
+
 In progress: 
+[[Solomon Shereshevsky]]
+- Forgetting is not a bad thing
+	- Seems like there are multiple posts here
+		- 1. Forgetting is a erection of mental barrier
+			- Same like dream
+		- 2. To write is to forget (forget is not a bad thing). Forgetting is an act to make space for the current moment. 
+		- From Wikipedia: Inability to forget can cause distress
+	- I always concerned about forgetting as my wife seems to remember more stuff than me.
+	- it allows us to transfer ideas and facilitate long term learning p99
+	- forgetting is the erection of mental barrier, so that we can focus on the moment, otherwise we'll be having associateastion, etc etc, we won't be able to focus on our surroundings (MacLeod, 2007) p99
+
 
 - Therefore [[Zettels must have links]] 
 
 
 ---
 ## Unsorted
-- Forgetting is not a bad thing
-	- I always concerned about forgetting as my wife seems to remember more stuff than me.
-	- it allows us to transfer ideas and facilitate long term learning p99
-	- the whole story about sheresvsky is a very interesting notes! Take that as an evergreen note p99
-	- forgetting is the erection of mental barrier, so that we can focus on the moment, otherwise we'll be having associateastion, etc etc, we won't be able to focus on our surroundings (MacLeod, 2007) p99
+
 
 
 - §Why meetings don't work - Does workshops really work?
@@ -213,6 +221,8 @@ In progress:
 	* [[Ahrens, How to Take Smart Notes]] (pp. 129-130).
 * [[Praising for intelligence may stop learners from learning]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 53).
+* [[Solomon Shereshevsky]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 99)
 * [[The number of zettels written per day as a better lead measure for learning]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 94).
 * [[Writing digitally may reduce understanding]]
