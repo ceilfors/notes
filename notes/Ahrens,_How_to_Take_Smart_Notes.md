@@ -22,21 +22,18 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 - [[The number of zettels written per day as a better lead measure for learning]]
 - [[Praising for intelligence may stop learners from learning]]
 - [[Zettelkasten is not widely adopted because it is too simple for a complex problem]]
+- [[Forgetting is a healthy process of inhibiting irrelevant information]]
+	- [[Solomon Shereshevsky]]
+	- [[Writing allows us to deliberately forget]]
+- [[Zeigarnik Effect]]
+
 
 In progress: 
-[[Solomon Shereshevsky]]
-- Forgetting is not a bad thing
-	- Seems like there are multiple posts here
-		- 1. Forgetting is a erection of mental barrier
-			- Same like dream
-		- 2. To write is to forget (forget is not a bad thing). Forgetting is an act to make space for the current moment. 
-		- From Wikipedia: Inability to forget can cause distress
-	- I always concerned about forgetting as my wife seems to remember more stuff than me.
-	- it allows us to transfer ideas and facilitate long term learning p99
-	- forgetting is the erection of mental barrier, so that we can focus on the moment, otherwise we'll be having associateastion, etc etc, we won't be able to focus on our surroundings (MacLeod, 2007) p99
+- [[Zettels should be optimised for retrieval]]
+	- [[Zettels should be linked]]
+	- Zettels should be tagged??
 
-
-- Therefore [[Zettels must have links]] 
+- Organise thoughts for retrieval, not storage (see written notes)
 
 
 ---
@@ -94,12 +91,8 @@ In progress:
 			- wide open playful mind vs narrow analytical frame
 		- This is similar to software design as well, or double diamond,
 
-- Zeigarnik effect p70
-	- Open tasks will occupy short term memory more p70
+- [[Zeigarnik Effect]]
 	- Q: Is this the same with working memory? What's the difference between working memory and short term memory
-	- Zeirgarik: We don't have to finish the task to let it go from the brain, just write it down!
-		- [[To resume flow, stop in the middle]]
-	- GTD mind like water - make space for new information by writing things down p70
 	- Optimise shower thought, write things less important, don't write important things p71
 
 - Walking helps thinking
@@ -179,6 +172,8 @@ In progress:
 	* [[Ahrens, How to Take Smart Notes]] (p. 14).
 	* [[Ahrens, How to Take Smart Notes]] (p. 15).
 	* [[Ahrens, How to Take Smart Notes]] (p. 141).
+* [[Working memory limits]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 68).
 * [[Well-defined workflow forms positive feedback loop]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 52).
 	* [[Ahrens, How to Take Smart Notes]] (p. 52).
@@ -186,14 +181,14 @@ In progress:
 	* [[Ahrens, How to Take Smart Notes]] (pp. 2-3).
 	* [[Ahrens, How to Take Smart Notes]] (pp. 3).
 	* [[Ahrens, How to Take Smart Notes]] (pp. 16).
-* [[Working memory limits]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 68).
 * [[Write about what you read]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 86).
 * [[Evergreen note-writing enables constant focus on interesting materials]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 25).
 	* [[Ahrens, How to Take Smart Notes]] (p. 26).
 	* [[Ahrens, How to Take Smart Notes]] (pp. 50-51).
+* [[Solomon Shereshevsky]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 99)
 * [[Understanding requires elaboration]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 86).
 	* [[Ahrens, How to Take Smart Notes]] (p. 120).
@@ -207,6 +202,10 @@ In progress:
 	* [[Ahrens, How to Take Smart Notes]] (pp. 18-19).
 * [[DNA structure was discovered on cancer treatment research]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 138).
+* [[Forgetting is a healthy process of inhibiting irrelevant information]]
+	* [[Ahrens, How to Take Smart Notes]] (pp. 100-101).
+* [[Zeigarnik Effect]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 69).
 * [[Context switching helps when you get stuck]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 68).
 * [[Documentation is the side effect of thinking]]
@@ -221,10 +220,11 @@ In progress:
 	* [[Ahrens, How to Take Smart Notes]] (pp. 129-130).
 * [[Praising for intelligence may stop learners from learning]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 53).
-* [[Solomon Shereshevsky]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 99)
 * [[The number of zettels written per day as a better lead measure for learning]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 94).
+* [[Writing allows us to deliberately forget]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 70)
+	* [[Ahrens, How to Take Smart Notes]] (p. 99)
 * [[Writing digitally may reduce understanding]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 78).
 * [[Zettelkasten is not widely adopted because it is too simple for a complex problem]]

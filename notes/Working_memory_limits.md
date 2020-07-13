@@ -24,6 +24,8 @@ Cowan, Nelson. ‘The Magical Number 4 in Short-Term Memory: A Reconsideration o
 	* Perhaps, one reason I felt stuck is because there are too many variables I’m playing in my head when I was presented with the architectural problem. I was hitting my [[Working memory limits]]. By writing them down, it’s as if I have more working memory to play with. [[Writing makes thinking possible]].
 * [[Humans are constrained by biological limits]]
 	* Whether we like or not, we are all constrained by our biological limits. We have [[Working memory limits]], we can’t imagine a five-dimensional cube, and our circadian rhythm will tell our sleep pattern. Even [[Usain Bolt can’t outrun a domestic cat]].
+* [[Writing allows us to deliberately forget]]
+	* We have [[Working memory limits]], therefore making sure that we can populate our working memory with what's relevant in the current circumstances is necessary for us to be effective. Unfortunately we don't really have a full control over what we have in our working memory, other irrelevant thoughts might linger (like open tasks) and will reduce our ability to focus. (See also: [[Zeigarnik Effect]])
 
 <!-- #evergreen #cognitive -->
 
