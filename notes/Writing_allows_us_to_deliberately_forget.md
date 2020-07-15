@@ -1,7 +1,7 @@
 # Writing allows us to deliberately forget
 We have [[Working memory limits]], therefore making sure that we can populate our working memory with what's relevant in the current circumstances is necessary for us to be effective. Unfortunately we don't really have a full control over what we have in our working memory, other irrelevant thoughts might linger (like open tasks) and will reduce our ability to focus. (See also: [[Zeigarnik Effect]])
 
-We need to able to deliberately forget about the irrelevant thoughts. [[Forgetting is a healthy process of inhibiting irrelevant information]]. Writing makes us have an external system, and it will help us forget about those lingering irrelevant thoughts.
+We need to able to deliberately forget about the irrelevant thoughts. [[Forgetting is a healthy process of inhibiting irrelevant memory]]. Writing makes us have an external system, and it will help us forget about those lingering irrelevant thoughts.
 
 ---
 ## References

@@ -22,24 +22,24 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 - [[The number of zettels written per day as a better lead measure for learning]]
 - [[Praising for intelligence may stop learners from learning]]
 - [[Zettelkasten is not widely adopted because it is too simple for a complex problem]]
-- [[Forgetting is a healthy process of inhibiting irrelevant information]]
+- [[Forgetting is a healthy process of inhibiting irrelevant memory]]
 	- [[Solomon Shereshevsky]]
 	- [[Writing allows us to deliberately forget]]
 - [[Zeigarnik Effect]]
-
+- [[Remembering can be improved by deliberately creating cues]]
 
 In progress: 
-- [[Zettels should be optimised for retrieval]]
+- [[Zettels should be optimised for retrieval]] (should have a lot of retrieval cues)
 	- [[Zettels should be linked]]
 	- Zettels should be tagged??
 
-- Organise thoughts for retrieval, not storage (see written notes)
+- [[Organise zettels for retrieval, not storage]]
+
+
 
 
 ---
 ## Unsorted
-
-
 
 - §Why meetings don't work - Does workshops really work?
 	- Read more here as well: [Why Group Brainstorming Is a Waste of Time](https://hbr.org/2015/03/why-group-brainstorming-is-a-waste-of-time)
@@ -53,12 +53,7 @@ In progress:
 		- Found it! [Famous Social Psychology Experiments](https://www.verywellmind.com/famous-social-psychology-experiments-2795667)
 		- [Asch conformity experiments - Wikipedia](https://en.wikipedia.org/wiki/Asch_conformity_experiments)
 
-- Good way to organise things 
-	- Similar to architecture, Kon mari?
-	- "Optimise for search and context" p42
-		- It is not surprising that my friend has a book shelf filled with notebooks full of wonderful ideas, but not a single publication to show
-	- "Organise for retrieval, not storage" .. ?
-		- This is so good... Do we have any other quotes for this?
+
 
 - You learn from what you already know
 	- [[New skills are built as a sum of other skills]]
@@ -181,14 +176,16 @@ In progress:
 	* [[Ahrens, How to Take Smart Notes]] (pp. 2-3).
 	* [[Ahrens, How to Take Smart Notes]] (pp. 3).
 	* [[Ahrens, How to Take Smart Notes]] (pp. 16).
+* [[Solomon Shereshevsky]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 99)
 * [[Write about what you read]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 86).
+* [[Forgetting is a healthy process of inhibiting irrelevant memory]]
+	* [[Ahrens, How to Take Smart Notes]] (pp. 100-101).
 * [[Evergreen note-writing enables constant focus on interesting materials]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 25).
 	* [[Ahrens, How to Take Smart Notes]] (p. 26).
 	* [[Ahrens, How to Take Smart Notes]] (pp. 50-51).
-* [[Solomon Shereshevsky]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 99)
 * [[Understanding requires elaboration]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 86).
 	* [[Ahrens, How to Take Smart Notes]] (p. 120).
@@ -202,8 +199,6 @@ In progress:
 	* [[Ahrens, How to Take Smart Notes]] (pp. 18-19).
 * [[DNA structure was discovered on cancer treatment research]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 138).
-* [[Forgetting is a healthy process of inhibiting irrelevant information]]
-	* [[Ahrens, How to Take Smart Notes]] (pp. 100-101).
 * [[Zeigarnik Effect]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 69).
 * [[Context switching helps when you get stuck]]
@@ -220,6 +215,9 @@ In progress:
 	* [[Ahrens, How to Take Smart Notes]] (pp. 129-130).
 * [[Praising for intelligence may stop learners from learning]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 53).
+* [[Remembering can be improved by deliberately creating cues]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 42)
+	* [[Ahrens, How to Take Smart Notes]] (p. 101)
 * [[The number of zettels written per day as a better lead measure for learning]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 94).
 * [[Writing allows us to deliberately forget]]
