@@ -10,10 +10,6 @@ Praising is a way to reinforce a behaviour, hence the behaviour that will be rei
 > [...]  
 > Several studies have compared children who are praised after success for “being smart” to those who are praised for “working hard.” When researchers look at the academic achievement of children praised for effort, they consistently outperform those praised for being smart.
 
-## Backlinks
-* [[Ahrens, How to Take Smart Notes]]
-	* [[Praising for intelligence may stop learners from learning]]
-
 <!-- #evergreen #counterintuitive #coach -->
 
 <!-- {BearID:4EBF7481-5FB3-4ABF-BF27-AE59592B3A23-71920-0001CE899DA27928} -->

@@ -16,8 +16,6 @@ Taking an example of this note, the ephemeral tags that should be avoided would 
 > If you sort by topic, you are faced with the dilemma of either adding more and more notes to one topic, which makes them increasingly hard to find, or adding more and more topics and subtopics to it, which only shifts the mess to another level.
 
 ## Backlinks
-* [[Ahrens, How to Take Smart Notes]]
-	* [[Zettels should not have ephemeral tags]]
 * [[Zettels should capture an atomic concept]]
 	* Capturing your notes by books, in contrast, is straightforward but will not encourage notes linkage and therefore will not generate new ideas (see also: [[Zettels should not have ephemeral tags]]). 
 

@@ -9,7 +9,6 @@ Zeigarnik effect is a psychological tendency to occupy our short term memory wit
 ## Backlinks
 * [[Ahrens, How to Take Smart Notes]]
 	* [[Zeigarnik Effect]]
-	* [[Zeigarnik Effect]]
 * [[Writing allows us to deliberately forget]]
 	* We have [[Working memory limits]], therefore making sure that we can populate our working memory with what's relevant in the current circumstances is necessary for us to be effective. Unfortunately we don't really have a full control over what we have in our working memory, other irrelevant thoughts might linger (like open tasks) and will reduce our ability to focus. (See also: [[Zeigarnik Effect]])
 

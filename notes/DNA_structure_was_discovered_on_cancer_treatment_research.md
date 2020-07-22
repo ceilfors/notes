@@ -7,10 +7,8 @@ The DNA structure was discovered by scientists who were supposed to do a researc
 > The beginning of the research project that led to the discovery of DNA's structure was the application for a grant. The grant was not to discover DNA's structure, but find a treatment for cancer. If the scientists had stuck to their promises, not only would they probably not have found a cure for cancer, but they definitely would not have discovered the structure of DNA. Most likely, they would have lost interest in their work. Luckily, they did not stick to their plan, but followed their intuition and interest and took the most promising path to insight whenever one opened up. The actual research program developed along the way (Rheinberger 1997).
 
 ## Backlinks
-* [[Ahrens, How to Take Smart Notes]]
-	* [[DNA structure was discovered on cancer treatment research]]
-* [[Evergreen note-writing disregards planning]]
-	* Sticking to a plan, however, requires willpower (Ahrens 6). Willpower is not a sustainable way to writing, especially when what you write takes a multi year of research ([[Workflow trumps willpower]]). Sticking to a plan will also disregard new discoveries (Ahrens 11). The DNA structure won't be discovered if the scientists sticked to their plan ([[DNA structure was discovered on cancer treatment research]]). You want to gain enjoyment from writing, and [[Evergreen note-writing enables constant focus on interesting materials]].
+* [[Zettelkasten disregards planning]]
+	* Sticking to a plan, however, requires willpower (Ahrens 6). Willpower is not a sustainable way to writing, especially when what you write takes a multi year of research ([[Workflow trumps willpower]]). Sticking to a plan will also disregard new discoveries (Ahrens 11). The DNA structure won't be discovered if the scientists sticked to their plan ([[DNA structure was discovered on cancer treatment research]]). You want to gain enjoyment from writing, and [[Zettelkasten enables constant focus on interesting materials]].
 
 <!-- #evergreen #serendipity -->
 

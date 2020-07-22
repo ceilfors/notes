@@ -12,8 +12,6 @@ The feat of this remarkable memory however doesn't come without a trade-off. He 
 [Solomon Shereshevsky - Wikipedia](https://en.wikipedia.org/wiki/Solomon_Shereshevsky)
 
 ## Backlinks
-* [[Ahrens, How to Take Smart Notes]]
-	* [[Solomon Shereshevsky]]
 * [[Forgetting is a healthy process of inhibiting irrelevant memory]]
 	* [[Solomon Shereshevsky]] is a famous figure for this topic. He is having a difficulty to forget. Even though not being able to forget has brought an amazing feat, not having the ability to inhibit irrelevant memory may had affected his daily life more than the benefit of not forgetting.
 

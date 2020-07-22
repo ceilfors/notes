@@ -13,11 +13,11 @@ An attempt to form the feedback externally, not from the work itself, on the oth
 
 ## Backlinks
 * [[Ahrens, How to Take Smart Notes]]
-	* Evergreen note-writing works because [[Well-defined workflow forms positive feedback loop]]
+	* Zettelkasten has a workflow, and [[Well-defined workflow forms positive feedback loop]]
 * [[Workflow trumps willpower]]
 	* When it comes to creative works, workflow is a way for us to define our environment. [[Well-defined workflow forms positive feedback loop]], hence, not only having a good workflow will help us perform our tasks, but it will also provide a motivational loop for us to continue the tasks.
-* [[Evergreen note-writing enables constant focus on interesting materials]]
-	* [[Luhmann always worked on something easier and interesting]], and that is made possible because [[Well-defined workflow forms positive feedback loop]]. The evergreen note-writing (which is inspired by Luhmann) consists of a well-defined workflow, therefore allowing the practitioners to focus on interesting and easier things. This is good to keep yourselves motivated.
+* [[Zettelkasten enables constant focus on interesting materials]]
+	* [[Luhmann always worked on something easier and interesting]], and that is made possible because [[Well-defined workflow forms positive feedback loop]]. The zettelkasten consists of a well-defined workflow, therefore allowing the practitioners to focus on interesting and easier things. This is good to keep yourselves motivated.
 
 <!-- #evergreen #habit -->
 

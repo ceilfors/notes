@@ -13,8 +13,8 @@ There are two types of memory strengths: retrieval strength and storage strength
 > Learning would be not so much about saving information, like on a hard disk, but about building connections and bridges between pieces of information to circumvent the inhibition mechanism in the right moment. It is about making sure that the right "cues" trigger the right memory, about how we can think strategically to remember the most useful information when we need it.  
 
 ## Backlinks
-* [[Ahrens, How to Take Smart Notes]]
-	* [[Remembering can be improved by deliberately creating cues]]
+* [[Zettels should be optimised for retrieval strength]]
+	* [[Understanding requires elaboration]], and elaboration is an act of connecting ideas to as many contexts as possible. Connecting new ideas will be difficult if you can't retrieve your previous notes easily. [[Remembering can be improved by deliberately creating cues]], therefore zettels must be optimised for their retrieval by creating more cues. These are the approach that you should take to make them more retrievable:
 
 <!-- #evergreen #organising #memory -->
 

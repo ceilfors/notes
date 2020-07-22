@@ -19,7 +19,7 @@ DeMarco, Tom, and Timothy R. Lister. *Peopleware: Productive Projects and Teams*
 
 ## Backlinks
 * [[Ahrens, How to Take Smart Notes]]
-	* [[Context switching helps when you get stuck]] 
+	* Focusing on various interesting materials will increase context switch, and [[Context switching helps when you get stuck]] 
 
 <!-- #evergreen #productivity -->
 

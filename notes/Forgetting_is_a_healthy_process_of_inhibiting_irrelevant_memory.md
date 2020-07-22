@@ -11,12 +11,10 @@ You may associate forgetting as something bad, like a memory loss. Even though f
 > We are very dependent on a subconscious mechanism that reliably inhibits almost every memory every moment except the very, very few that are truly helpful in a situation.
 
 ## Backlinks
-* [[Ahrens, How to Take Smart Notes]]
-	* [[Forgetting is a healthy process of inhibiting irrelevant memory]]
-* [[Remembering can be improved by deliberately creating cues]]
-	* If [[Forgetting is a healthy process of inhibiting irrelevant memory]], remembering then is about circumventing the inhibition so that we can pull relevant memory. Based on this definition, if we want to remember more important information when we need it, we have to make those memories more relatable to others.
 * [[Writing allows us to deliberately forget]]
 	* We need to able to deliberately forget about the irrelevant thoughts. [[Forgetting is a healthy process of inhibiting irrelevant memory]]. Writing makes us have an external system, and it will help us forget about those lingering irrelevant thoughts.
+* [[Remembering can be improved by deliberately creating cues]]
+	* If [[Forgetting is a healthy process of inhibiting irrelevant memory]], remembering then is about circumventing the inhibition so that we can pull relevant memory. Based on this definition, if we want to remember more important information when we need it, we have to make those memories more relatable to others.
 
 <!-- #evergreen #memory -->
 

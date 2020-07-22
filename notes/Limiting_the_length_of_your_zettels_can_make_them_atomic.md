@@ -10,10 +10,6 @@ Constraining your notes to a certain length may sound very restrictive for a cre
 [[Ahrens, How to Take Smart Notes]] (pp. 129-130).
 > I highly recommend treating a digital note as if the space were limited. By restricting ourselves to one format, we also restrict ourselves to just one idea per note and force ourselves to be as precise and brief as possible The restriction to one idea per note is also the precondition to recombine them freely later, Luhmann choose notes in the format A6. A good rule of thumb for working with the program is: Each note should fit onto the screen and there should be no need of scrolling.
 
-## Backlinks
-* [[Ahrens, How to Take Smart Notes]]
-	* [[Limiting the length of your zettels can make them atomic]]
-
 <!-- #evergreen #constraint -->
 
 <!-- {BearID:28FF2E70-DB19-4562-9A4C-B590297C0C43-71920-00017F9CBDCA9C1B} -->

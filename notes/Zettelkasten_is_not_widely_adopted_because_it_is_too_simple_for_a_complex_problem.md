@@ -10,7 +10,7 @@ There have been many researches done on Zettelkasten to be a proven way to make 
 
 ## Backlinks
 * [[Ahrens, How to Take Smart Notes]]
-	* [[Zettelkasten is not widely adopted because it is too simple for a complex problem]]
+	* Also [[Zettelkasten is not widely adopted because it is too simple for a complex problem]]
 
 <!-- #evergreen #counterintuitive -->
 

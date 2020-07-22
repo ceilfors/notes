@@ -1,7 +1,7 @@
-# Evergreen note-writing requires a balanced routine
-Even though [[Evergreen note-writing enables constant focus on interesting materials]], you wouldn't capture interesting materials (transient notes) and evergreen notes if you don't dedicate time or make a habit for it. A routine, therefore, is a necessary element in the practice of evergreen note-writing (Ahrens 10).
+# Zettelkasten requires a balanced routine
+Even though [[Zettelkasten enables constant focus on interesting materials]], you wouldn't capture interesting materials (transient notes) and zettels if you don't dedicate time or make a habit for it. A routine, therefore, is a necessary element in the practice of zettelkasten (Ahrens 10).
 
-Secondly, even though [[Evergreen note-writing disregards planning]], you will need to plan a good balance in your routine, especially on your material collection vs note-writing time. If you fail to dedicate enough time to note-writing, your archive might start to turn into chaos, a graveyard of ideas (Ahrens 32).
+Secondly, even though [[Zettelkasten disregards planning]], you will need to plan a good balance in your routine, especially on your material collection vs note-writing time. If you fail to dedicate enough time to note-writing, your archive might start to turn into chaos, a graveyard of ideas (Ahrens 32).
 
 ---
 ## References
@@ -16,7 +16,7 @@ Secondly, even though [[Evergreen note-writing disregards planning]], you will n
 
 ## Backlinks
 * [[Ahrens, How to Take Smart Notes]]
-	* [[Evergreen note-writing requires a balanced routine]]
+	* [[Zettelkasten requires a balanced routine]]
 
 <!-- #evergreen #writing #habit -->
 

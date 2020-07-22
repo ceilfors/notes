@@ -17,10 +17,6 @@ On the second reaction, even though I write as I think, it's true that my writin
 > 
 > "No, it's not a record, not really. It's working. You have to work on paper, and this is the paper." (Genius: The Life And Science of Richard Feynman," James Gleick, Pantheon Books, 1992 (see pg. 409))
 
-## Backlinks
-* [[Ahrens, How to Take Smart Notes]]
-	* [[Documentation is the side effect of thinking]]
-
 <!-- #evergreen #writing #documentation #architecture -->
 
 <!-- {BearID:AAE45A95-4AB7-4515-9701-12B6842EB00F-464-00007B7BFA5D334B} -->

@@ -9,10 +9,10 @@
 ## Backlinks
 * [[Ahrens, How to Take Smart Notes]]
 	* [[Write about what you read]]
-* [[Zettels should capture an atomic concept]]
-	* The core intention of practicing Zettelkasten is so that you can connect and build on top of other concepts, generating insights. To make this happen, naturally, every notes that you write should be oriented around a concept. Capturing notes by concept will also force you to elaborate what you have read ([[Write about what you read]]).
 * [[The number of zettels written per day as a better lead measure for learning]]
 	* When you [[Write about what you read]], you'll force yourself to get a better understanding about what you're learning. Writing your zettels therefore is a better lead measure for your learning. Once you do this, you'll soon realise that you can only write so much in a day because the process of elaboration requires effort. You should also put a brake to what you consume, knowing that the process of elaboration is the only way to close your learning loop.
+* [[Zettels should capture an atomic concept]]
+	* The core intention of practicing Zettelkasten is so that you can connect and build on top of other concepts, generating insights. To make this happen, naturally, every notes that you write should be oriented around a concept. Capturing notes by concept will also force you to elaborate what you have read ([[Write about what you read]]).
 
 <!-- #evergreen #reading #learning #mastery -->
 

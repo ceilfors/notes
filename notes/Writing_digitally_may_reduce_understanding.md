@@ -12,7 +12,7 @@ Personally I would still prefer to write my notes digitally as I wouldn't be abl
 
 ## Backlinks
 * [[Ahrens, How to Take Smart Notes]]
-	* [[Writing digitally may reduce understanding]]
+	* Watch out for: [[Writing digitally may reduce understanding]]
 
 <!-- #evergreen #writing -->
 

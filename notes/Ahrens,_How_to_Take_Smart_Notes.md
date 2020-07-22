@@ -1,46 +1,36 @@
 # Ahrens, How to Take Smart Notes
 Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking: For Students, Academics and Nonfiction Book Writers*. CreateSpace, 2017
 
-- [[Writing makes thinking possible]]
-	- We need a workflow for note-writing, because [[Workflow trumps willpower]]
-	- Evergreen note-writing works because [[Well-defined workflow forms positive feedback loop]]
-	- [[Luhmann always worked on something easier and interesting]]
-		- [[Context switching helps when you get stuck]] 
-		- [[Evergreen note-writing enables constant focus on interesting materials]]
-
-- [[Documentation is the side effect of thinking]]
-- [[Writing digitally may reduce understanding]]
-- [[DNA structure was discovered on cancer treatment research]]
-- [[Evergreen note-writing disregards planning]]
-- [[Evergreen note-writing requires a balanced routine]]
-
-- [[Zettels should not have ephemeral tags]]
-- [[Zettels should capture an atomic concept]]
-- [[Limiting the length of your zettels can make them atomic]]
-- [[Creative work need enabling constraints]]
-- [[Write about what you read]]
-- [[The number of zettels written per day as a better lead measure for learning]]
-- [[Praising for intelligence may stop learners from learning]]
-- [[Zettelkasten is not widely adopted because it is too simple for a complex problem]]
-- [[Forgetting is a healthy process of inhibiting irrelevant memory]]
-	- [[Solomon Shereshevsky]]
+- Why zettelkasten works
+	- [[[[Write about what you read]]
+	- Zettelkasten has a workflow, and [[Well-defined workflow forms positive feedback loop]]
+		- Workflow works because [[Workflow trumps willpower]]
+	- [[New learnings rarely start from zero]]
+	- Also [[Zettelkasten is not widely adopted because it is too simple for a complex problem]]
+	- [[The number of zettels written per day as a better lead measure for learning]]
+- The benefit of zettelkasten
+	- [[Writing makes thinking possible]]
+		- [[Understanding requires elaboration]], and writing is an act of elaboration
+	- [[Zettelkasten disregards planning]]
+	- [[Zettelkasten enables constant focus on interesting materials]]
+		- Focusing on various interesting materials will increase context switch, and [[Context switching helps when you get stuck]] 
 	- [[Writing allows us to deliberately forget]]
-- [[Zeigarnik Effect]]
-- [[Remembering can be improved by deliberately creating cues]]
+- The principles needed for zettelkasten to work
+	- [[Zettelkasten requires a balanced routine]]
+	- [[Zettels should be optimised for retrieval strength]]
+	- [[Write about what you read]]
+		- 	Watch out for: [[Writing digitally may reduce understanding]]
 
-In progress: 
-- [[Zettels should be optimised for retrieval]] (should have a lot of retrieval cues)
+- In progress: 
+	- Why zettelkasten works
+		- [[Zettelkasten splits tasks to use different attention types]]
+			- [[Creative process requires both divergent and convergent thinking]]
+		- Zettelkasten workflow split activities that require different attention
 	- [[Zettels should be linked]]
-	- Zettels should be tagged??
-
-- [[Organise zettels for retrieval, not storage]]
-
-
-
+	- [[Zettels should be tagged]]
 
 ---
 ## Unsorted
-
 - §Why meetings don't work - Does workshops really work?
 	- Read more here as well: [Why Group Brainstorming Is a Waste of Time](https://hbr.org/2015/03/why-group-brainstorming-is-a-waste-of-time)
 		- Wow lot's of new material here, Social loafing, Social anxiety, Regression to the mean, and production blocking
@@ -53,15 +43,6 @@ In progress:
 		- Found it! [Famous Social Psychology Experiments](https://www.verywellmind.com/famous-social-psychology-experiments-2795667)
 		- [Asch conformity experiments - Wikipedia](https://en.wikipedia.org/wiki/Asch_conformity_experiments)
 
-
-
-- You learn from what you already know
-	- [[New skills are built as a sum of other skills]]
-	- Hermeneutic circle p48
-		- "Every intellectual endeavour starts from an already existing preconception, which then can be transformed during further inquires and can serve as a starting point for following endeavours. Basically that is what Hans-Georg Gadamer called the hermeneutic circle." - p48
-		- This is a very interesting concept. Basically some says: if you want to understand a whole, you have to understand its parts, to understand its parts, you have to understand a whole.
-			- It reminded me of how to read a book book, don't get stuck in one section, but move through and read on, then come back, this has proven to be useful for how to take smart notes
-
 - Writing is a self feedback loop p55
 	- "The same goes for writing permanent notes, which have another feedback loop built-in: Expressing our own thoughts in writing makes us realise if really thought them through. The moment we try to combine them with previously written notes, the system will unambiguously show us contradictions, inconsistencies and repetitions".  P55
 
@@ -70,24 +51,14 @@ In progress:
 		- We have a limited focussed attention, and breaking down things smaller will help us gain focus. Read more at p60
 	- "The slip-box provides not only a clear structure to work in, but also forces us to shift our attention consciously as we can complete tasks in reasonable time before moving on to the next one." p60
 		- This is similar to the idea of breaking down tasks in JIRA.
-
-- There are many types of attention, breaking task into smaller chunks will us utilise different types of attention
-	- 	- [[Effective tool circumvents human limits]]
+	- - There are many types of attention, breaking task into smaller chunks will us utilise different types of attention
+	- 	[[Effective tool circumvents human limits]]
 		- Therefore to have an effective tools  we need to understand our limits (how we think, learn and, generate ideas) p20
-	- "having trouble finding the right topic is the symptom of the wrong attempt to rely heavily on the limitations of the brain, not the inevitable problematic starting point, as most study guide insinuate" p50
 	- This is also a [[Humans are constrained by biological limits]]
 		- we can't multi task p58
 	- Good tools do not add features and more options to what we already have, but help to reduce distractions from the main work, which here is thinking - p 29
-	- [[TDD chunks memory]]
-		- "Proofreading, formulating and outlining are also different from the task of combining and developing thoughts. Working with the slip-box means playing with ideas and looking out for interesting connections and comparisons. It means building clusters, combining them with other clusters and preparing the order of notes for a project. Here, we need to puzzle with notes and find the best fit. It is much more associative, playful and creative than the other tasks and require a very different kind of attention as well." p62
-	- "In short, academic writing requires the whole spectrum of attention. To master the art of writing, we need to be able to apply whatever kind of attention and focus is needed." p63
-		- Creative people need both kind of attention, more Dean, 2013, 152 and Vartanian 2009, 57 reference p 63
-			- childlike minds, analytical, 
-			- wide open playful mind vs narrow analytical frame
-		- This is similar to software design as well, or double diamond,
 
 - [[Zeigarnik Effect]]
-	- Q: Is this the same with working memory? What's the difference between working memory and short term memory
 	- Optimise shower thought, write things less important, don't write important things p71
 
 - Walking helps thinking
@@ -159,65 +130,46 @@ In progress:
 	- This is quite a root post, constraints will depend on abstraction
 
 ## Backlinks
+* [[Understanding requires elaboration]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 86).
+	* [[Ahrens, How to Take Smart Notes]] (p. 120).
+* [[Well-defined workflow forms positive feedback loop]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 52).
+	* [[Ahrens, How to Take Smart Notes]] (p. 52).
 * [[Writing makes thinking possible]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 5).
 	* [[Ahrens, How to Take Smart Notes]] (p. 90).
 	* [[Ahrens, How to Take Smart Notes]] (pp. 95-96).
-* [[Luhmann always worked on something easier and interesting]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 14).
-	* [[Ahrens, How to Take Smart Notes]] (p. 15).
-	* [[Ahrens, How to Take Smart Notes]] (p. 141).
-* [[Working memory limits]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 68).
-* [[Well-defined workflow forms positive feedback loop]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 52).
-	* [[Ahrens, How to Take Smart Notes]] (p. 52).
 * [[Workflow trumps willpower]]
 	* [[Ahrens, How to Take Smart Notes]] (pp. 2-3).
 	* [[Ahrens, How to Take Smart Notes]] (pp. 3).
 	* [[Ahrens, How to Take Smart Notes]] (pp. 16).
-* [[Solomon Shereshevsky]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 99)
-* [[Write about what you read]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 86).
-* [[Forgetting is a healthy process of inhibiting irrelevant memory]]
-	* [[Ahrens, How to Take Smart Notes]] (pp. 100-101).
-* [[Evergreen note-writing enables constant focus on interesting materials]]
+* [[Working memory limits]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 68).
+* [[Zettelkasten enables constant focus on interesting materials]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 25).
 	* [[Ahrens, How to Take Smart Notes]] (p. 26).
 	* [[Ahrens, How to Take Smart Notes]] (pp. 50-51).
-* [[Understanding requires elaboration]]
+* [[Write about what you read]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 86).
-	* [[Ahrens, How to Take Smart Notes]] (p. 120).
-* [[Zettels should not have ephemeral tags]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 41).
-* [[Evergreen note-writing disregards planning]]
+* [[Creative process requires both divergent and convergent thinking]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 63).
+* [[Luhmann always worked on something easier and interesting]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 14).
+	* [[Ahrens, How to Take Smart Notes]] (p. 15).
+	* [[Ahrens, How to Take Smart Notes]] (p. 141).
+* [[Zettelkasten disregards planning]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 6)
 	* [[Ahrens, How to Take Smart Notes]] (p. 11)
 	* [[Ahrens, How to Take Smart Notes]] (p. 14)
-* [[Zettels should capture an atomic concept]]
-	* [[Ahrens, How to Take Smart Notes]] (pp. 18-19).
-* [[DNA structure was discovered on cancer treatment research]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 138).
 * [[Zeigarnik Effect]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 69).
 * [[Context switching helps when you get stuck]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 68).
-* [[Documentation is the side effect of thinking]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 95).
-* [[Evergreen note-writing requires a balanced routine]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 10).
-	* [[Ahrens, How to Take Smart Notes]] (p. 32).
-	* [[Ahrens, How to Take Smart Notes]] (p. 43).
 * [[Humans are constrained by biological limits]]
 	* [[Ahrens, How to Take Smart Notes]]
-* [[Limiting the length of your zettels can make them atomic]]
-	* [[Ahrens, How to Take Smart Notes]] (pp. 129-130).
-* [[Praising for intelligence may stop learners from learning]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 53).
-* [[Remembering can be improved by deliberately creating cues]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 42)
-	* [[Ahrens, How to Take Smart Notes]] (p. 101)
+* [[New learnings rarely start from zero]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 48).
 * [[The number of zettels written per day as a better lead measure for learning]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 94).
 * [[Writing allows us to deliberately forget]]
@@ -227,14 +179,39 @@ In progress:
 	* [[Ahrens, How to Take Smart Notes]] (p. 78).
 * [[Zettelkasten is not widely adopted because it is too simple for a complex problem]]
 	* [[Ahrens, How to Take Smart Notes]] (pp. 16-18)
+* [[Zettelkasten requires a balanced routine]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 10).
+	* [[Ahrens, How to Take Smart Notes]] (p. 32).
+	* [[Ahrens, How to Take Smart Notes]] (p. 43).
+* [[Zettelkasten splits tasks to use different attention types]]
+	* [[Ahrens, How to Take Smart Notes]] (pp. 62 - 63).
 * [[Self-control is a good indicator for academic success]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 2).
-* [[Creativity needs enabling constraints]]
-	* [[Ahrens, How to Take Smart Notes]] (pp. 130-132).
+* [[Forgetting is a healthy process of inhibiting irrelevant memory]]
+	* [[Ahrens, How to Take Smart Notes]] (pp. 100-101).
+* [[Solomon Shereshevsky]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 99)
 * [[Slow-motion multitasking]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 14).
+* [[Zettels should capture an atomic concept]]
+	* [[Ahrens, How to Take Smart Notes]] (pp. 18-19).
+* [[DNA structure was discovered on cancer treatment research]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 138).
+* [[Zettels should not have ephemeral tags]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 41).
+* [[Remembering can be improved by deliberately creating cues]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 42)
+	* [[Ahrens, How to Take Smart Notes]] (p. 101)
+* [[Creativity needs enabling constraints]]
+	* [[Ahrens, How to Take Smart Notes]] (pp. 130-132).
+* [[Documentation is the side effect of thinking]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 95).
+* [[Limiting the length of your zettels can make them atomic]]
+	* [[Ahrens, How to Take Smart Notes]] (pp. 129-130).
 * [[Positive thinking can result in negative outcome if it is not translated into actions]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 142)
+* [[Praising for intelligence may stop learners from learning]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 53).
 
 <!-- #literature #^inbox/book -->
 

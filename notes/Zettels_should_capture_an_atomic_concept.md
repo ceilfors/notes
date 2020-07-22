@@ -14,8 +14,8 @@ The concept that you capture must be atomic, meaning it must not have multiple i
 > It’s not just about accumulation. There’s also no pressure to synthesize your new ideas on the concept with your prior thoughts about it.
 
 ## Backlinks
-* [[Ahrens, How to Take Smart Notes]]
-	* [[Zettels should capture an atomic concept]]
+* [[Zettels should be optimised for retrieval strength]]
+	* [[Zettels should capture an atomic concept]]. Not only a well thought concepts are more linkable, they are also more retrievable as the title itself is a cue
 * [[Limiting the length of your zettels can make them atomic]]
 	* [[Zettels should capture an atomic concept]], but knowing whether the concept that you have captured is atomic may be difficult. Limiting the length of your zettels will help make them atomic. When you can't fit your note into a predefined length, it's a good indicator that your concept contains multiple ideas and should be split into multiple zettels.
 
