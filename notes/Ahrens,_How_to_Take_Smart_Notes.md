@@ -7,6 +7,7 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 		- Workflow works because [[Workflow trumps willpower]]
 	- [[New learnings rarely start from zero]]
 	- Also [[Zettelkasten is not widely adopted because it is too simple for a complex problem]]
+	- [[Zettelkasten splits tasks to use different attention types]]
 	- [[The number of zettels written per day as a better lead measure for learning]]
 - The benefit of zettelkasten
 	- [[Writing makes thinking possible]]
@@ -22,15 +23,23 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 		- 	Watch out for: [[Writing digitally may reduce understanding]]
 
 - In progress: 
-	- Why zettelkasten works
-		- [[Zettelkasten splits tasks to use different attention types]]
-			- [[Creative process requires both divergent and convergent thinking]]
-		- Zettelkasten workflow split activities that require different attention
 	- [[Zettels should be linked]]
 	- [[Zettels should be tagged]]
 
 ---
 ## Unsorted
+- Zettelkasten works because it breaks things into smaller
+	- [[Humans are constrained by biological limits]]
+		- We have a limited focussed attention, and breaking down things smaller will help us gain focus. Read more at p60
+	- "The slip-box provides not only a clear structure to work in, but also forces us to shift our attention consciously as we can complete tasks in reasonable time before moving on to the next one." p60
+		- This is similar to the idea of breaking down tasks in JIRA.
+	- - There are many types of attention, breaking task into smaller chunks will us utilise different types of attention
+	- 	[[Effective tool circumvents human limits]]
+		- Therefore to have an effective tools  we need to understand our limits (how we think, learn and, generate ideas) p20
+	- This is also a [[Humans are constrained by biological limits]]
+		- we can't multi task p58
+	- Good tools do not add features and more options to what we already have, but help to reduce distractions from the main work, which here is thinking - p 29
+
 - §Why meetings don't work - Does workshops really work?
 	- Read more here as well: [Why Group Brainstorming Is a Waste of Time](https://hbr.org/2015/03/why-group-brainstorming-is-a-waste-of-time)
 		- Wow lot's of new material here, Social loafing, Social anxiety, Regression to the mean, and production blocking
@@ -45,18 +54,6 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 
 - Writing is a self feedback loop p55
 	- "The same goes for writing permanent notes, which have another feedback loop built-in: Expressing our own thoughts in writing makes us realise if really thought them through. The moment we try to combine them with previously written notes, the system will unambiguously show us contradictions, inconsistencies and repetitions".  P55
-
-- Zettelkasten works because it breaks things into smaller
-	- [[Humans are constrained by biological limits]]
-		- We have a limited focussed attention, and breaking down things smaller will help us gain focus. Read more at p60
-	- "The slip-box provides not only a clear structure to work in, but also forces us to shift our attention consciously as we can complete tasks in reasonable time before moving on to the next one." p60
-		- This is similar to the idea of breaking down tasks in JIRA.
-	- - There are many types of attention, breaking task into smaller chunks will us utilise different types of attention
-	- 	[[Effective tool circumvents human limits]]
-		- Therefore to have an effective tools  we need to understand our limits (how we think, learn and, generate ideas) p20
-	- This is also a [[Humans are constrained by biological limits]]
-		- we can't multi task p58
-	- Good tools do not add features and more options to what we already have, but help to reduce distractions from the main work, which here is thinking - p 29
 
 - [[Zeigarnik Effect]]
 	- Optimise shower thought, write things less important, don't write important things p71
@@ -152,16 +149,14 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 	* [[Ahrens, How to Take Smart Notes]] (pp. 50-51).
 * [[Write about what you read]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 86).
-* [[Creative process requires both divergent and convergent thinking]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 63).
-* [[Luhmann always worked on something easier and interesting]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 14).
-	* [[Ahrens, How to Take Smart Notes]] (p. 15).
-	* [[Ahrens, How to Take Smart Notes]] (p. 141).
 * [[Zettelkasten disregards planning]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 6)
 	* [[Ahrens, How to Take Smart Notes]] (p. 11)
 	* [[Ahrens, How to Take Smart Notes]] (p. 14)
+* [[Luhmann always worked on something easier and interesting]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 14).
+	* [[Ahrens, How to Take Smart Notes]] (p. 15).
+	* [[Ahrens, How to Take Smart Notes]] (p. 141).
 * [[Zeigarnik Effect]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 69).
 * [[Context switching helps when you get stuck]]
@@ -189,6 +184,8 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 	* [[Ahrens, How to Take Smart Notes]] (p. 2).
 * [[Forgetting is a healthy process of inhibiting irrelevant memory]]
 	* [[Ahrens, How to Take Smart Notes]] (pp. 100-101).
+* [[Creative process requires both divergent and convergent thinking]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 63).
 * [[Solomon Shereshevsky]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 99)
 * [[Slow-motion multitasking]]
