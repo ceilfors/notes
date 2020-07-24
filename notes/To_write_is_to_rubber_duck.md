@@ -7,7 +7,7 @@ The note that I took is not at all a tidy writing. It’s my running thought tha
 
 ## Backlinks
 * [[Compare technical solution with business language]]
-	* I was designing [a technical solution](https://strategy.upmooffices.io/decisions/0008-introduce-aggregate-api.html), and I couldn’t weigh the options effectively by myself. [[To write is to rubber duck]] is really helpful, but it wasn’t enough for me to weigh the options I have come up with. Normally in this situation, I would grab my colleague and start to brainstorm.
+	* I was designing [a technical solution](https://www.upmo.dev/decisions/0008-introduce-aggregate-api.html), and I couldn’t weigh the options effectively by myself. [[To write is to rubber duck]] is really helpful, but it wasn’t enough for me to weigh the options I have come up with. Normally in this situation, I would grab my colleague and start to brainstorm.
 * [[Writing out loud helps resume flow]]
 	* Not only I discovered that just writing out loud in my daily log is good for self-brainstorming ([[To write is to rubber duck]]), I also found that I could easily context switch, and resume my flow once I’ve played with her. I could download all of my previously saved working memory back, which is my notes, and start working again.
 

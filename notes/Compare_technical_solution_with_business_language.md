@@ -1,5 +1,5 @@
 # Compare technical solution with business language
-I was designing [a technical solution](https://strategy.upmooffices.io/decisions/0008-introduce-aggregate-api.html), and I couldn’t weigh the options effectively by myself. [[To write is to rubber duck]] is really helpful, but it wasn’t enough for me to weigh the options I have come up with. Normally in this situation, I would grab my colleague and start to brainstorm.
+I was designing [a technical solution](https://www.upmo.dev/decisions/0008-introduce-aggregate-api.html), and I couldn’t weigh the options effectively by myself. [[To write is to rubber duck]] is really helpful, but it wasn’t enough for me to weigh the options I have come up with. Normally in this situation, I would grab my colleague and start to brainstorm.
 
 It then occurred to me that I couldn’t weight the options properly because I have written the comparison with technical language:
 1. The client side will be too smart
@@ -16,4 +16,4 @@ Writing them in business language also turns the options into business decisions
 
 <!-- #evergreen #architecture -->
 
-<!-- {BearID:A367412E-F85C-4D54-8CF3-92BCEEDEA04D-9954-000042561D5F0F52} -->
+<!-- {BearID:69C1F99F-1066-45E1-BF26-9069018BC860-1211-000031C0B10BC279} -->
