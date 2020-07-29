@@ -22,7 +22,7 @@ Link to the interview (Ahrens 16 footnote): [Niklas Luhmann - Beobachter im Krä
 
 ## Backlinks
 * [[Zettelkasten enables constant focus on interesting materials]]
-	* [[Luhmann always worked on something easier and interesting]], and that is made possible because [[Well-defined workflow forms positive feedback loop]]. The zettelkasten consists of a well-defined workflow, therefore allowing the practitioners to focus on interesting and easier things. This is good to keep yourselves motivated.
+	* [[Luhmann always worked on something easier and interesting]], and that is made possible because [[Effective workflow forms positive feedback loop]]. The zettelkasten consists of a well-defined workflow, therefore allowing the practitioners to focus on interesting and easier things. This is good to keep yourselves motivated.
 * [[Context switching helps when you get stuck]]
 	* When Luhmann got stuck, he will write on a different book ([[Luhmann always worked on something easier and interesting]]). Authors, who are [[Slow-motion multitasking]], also switched context when they got stuck. In the [Stack Overflow Developer Survey 2020](https://insights.stackoverflow.com/survey/2020#technology-what-do-you-do-when-you-get-stuck), 54.4% of the respondents would *Do other work and come back later* when they got stuck; considering that this is the highest option after *Visit Stack Overflow*, it is quite a significant number. Context switching, therefore, can be helpful when you get stuck. If getting stuck is unproductive, then context switching is *not always* harmful for productivity.
 * [[Slow-motion multitasking]]

@@ -16,9 +16,8 @@ Whether we like or not, we are all constrained by our biological limits. We have
 > Nestled deep in the folds of your brain is a primeval timepiece, an internal clock that ticks out your body’s personal circadian rhythm - a 24-hour cycle that, regardless of morning alarms and evening appointments, your body is naturally inclined to follow.
 
 ## Backlinks
-* [[Ahrens, How to Take Smart Notes]]
-	* [[Humans are constrained by biological limits]]
-	* This is also a [[Humans are constrained by biological limits]]
+* [[Only one type of attention can be given to one thing at one time]]
+	* [[Humans are constrained by biological limits]], and we are also limited to how we can use our attention:
 
 <!-- #evergreen -->
 

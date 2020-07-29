@@ -1,5 +1,5 @@
 # Zettelkasten enables constant focus on interesting materials
-[[Luhmann always worked on something easier and interesting]], and that is made possible because [[Well-defined workflow forms positive feedback loop]]. The zettelkasten consists of a well-defined workflow, therefore allowing the practitioners to focus on interesting and easier things. This is good to keep yourselves motivated.
+[[Luhmann always worked on something easier and interesting]], and that is made possible because [[Effective workflow forms positive feedback loop]]. The zettelkasten consists of a well-defined workflow, therefore allowing the practitioners to focus on interesting and easier things. This is good to keep yourselves motivated.
 
 Focusing just on the interesting things at the moment may sound like a risky approach, where there is a risk to not produce any output. Counterintuitively, the top down approach (where you'll start with a hypotheses and find relevant materials) will pose a greater risk due to the heavy reliance on willpower ([[Workflow trumps willpower]]). Pursuing anything that you'll find interesting at the moment doesn't mean that you'll not produce any output, but you'll have multiple things that are going on in parallel. Producing the output will also be a lot easier that you have collected a lot of materials.
 

@@ -5,7 +5,7 @@ Most of us recognise the significant breakthrough Charles Darwin's ideas bring. 
 - The Descent of Man: 32 years (1839 - 1871)
 - The Formation Of Vegetable Mold Through The Action Of Worms: 44 years (1837 - 1881)
 
-Notice how not only these ideas took time to develop, but they were also developing in parallel. Tim Hardford calls this idea slow-motion multitasking.
+Notice how not only these ideas took time to develop, but they were also developing in parallel. Tim Hardford calls this idea slow-motion multitasking. Slow-motion is the emphasis here as the non slow-motion mode in contrast is counterproductive ([[Multitasking is an impossible task]])
 
 Niklas Luhmann has also demonstrated pattern where it took him 29.5 years to finally publish "The Society of Society", whilst working on other ideas simultaneously in his slip-box. ([[Luhmann always worked on something easier and interesting]])
 
