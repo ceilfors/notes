@@ -22,10 +22,10 @@ Cowan, Nelson. ‘The Magical Number 4 in Short-Term Memory: A Reconsideration o
 	* We need a good method to think because we have [[Working memory limits]]. If [[Effective tool circumvents human limits]], we need to find a tool that circumvents our working memory limit. The tool, or method of thinking that has been proven by science is note-writing. Many would think that writing helps our thinking, but contemporary handbook of neuroscientists argues that writing is what makes thinking possible. Scientists with different specialisation, like psychologists, educators, or philosophers, may disagree on how our brain works, but most of them agree that real thinking will require a form of writing (Ahrens 95-96).
 * [[Writing allows us to deliberately forget]]
 	* We have [[Working memory limits]], therefore making sure that we can populate our working memory with what's relevant in the current circumstances is necessary for us to be effective. Unfortunately we don't really have a full control over what we have in our working memory, other irrelevant thoughts might linger (like open tasks) and will reduce our ability to focus. (See also: [[Zeigarnik Effect]])
-* [[To write is to rubber duck]]
-	* Perhaps, one reason I felt stuck is because there are too many variables I’m playing in my head when I was presented with the architectural problem. I was hitting my [[Working memory limits]]. By writing them down, it’s as if I have more working memory to play with. [[Writing makes thinking possible]].
 * [[Humans are constrained by biological limits]]
 	* Whether we like or not, we are all constrained by our biological limits. We have [[Working memory limits]], we can’t imagine a five-dimensional cube, and our circadian rhythm will tell our sleep pattern. Even [[Usain Bolt can’t outrun a domestic cat]].
+* [[To write is to rubber duck]]
+	* Perhaps, one reason I felt stuck is because there are too many variables I’m playing in my head when I was presented with the architectural problem. I was hitting my [[Working memory limits]]. By writing them down, it’s as if I have more working memory to play with. [[Writing makes thinking possible]].
 
 <!-- #evergreen #cognitive -->
 

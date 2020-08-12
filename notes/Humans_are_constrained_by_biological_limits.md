@@ -18,6 +18,8 @@ Whether we like or not, we are all constrained by our biological limits. We have
 ## Backlinks
 * [[Only one type of attention can be given to one thing at one time]]
 	* [[Humans are constrained by biological limits]], and we are also limited to how we can use our attention:
+* [[Effective tool circumvents human limits]]
+	* [[Humans are constrained by biological limits]], and one way we could circumvent these limits is by the use of tools. [[Usain Bolt can’t outrun a domestic cat]], but you could be faster than a domestic cat by riding a bicycle.
 
 <!-- #evergreen -->
 

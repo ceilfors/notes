@@ -2,7 +2,6 @@
 Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking: For Students, Academics and Nonfiction Book Writers*. CreateSpace, 2017
 
 - Why zettelkasten works
-	- [[[[Write about what you read]]
 	- Zettelkasten has a workflow, and [[Effective workflow forms positive feedback loop]]
 		- Workflow works because [[Workflow trumps willpower]]
 	- [[New learnings rarely start from zero]]
@@ -23,8 +22,6 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 		- 	Watch out for: [[Writing digitally may reduce understanding]]
 
 - In progress: 
-	- [[Effective workflow breaks tasks by attention types]]
-	- Attention type 
 	- [[Zettels should be linked]]
 	- [[Zettels should be tagged]]
 
@@ -48,9 +45,6 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 - [[Zeigarnik Effect]]
 	- Optimise shower thought, write things less important, don't write important things p71
 
-- Walking helps thinking
-	- "To have a walk (Ratey, 2008) or even a nap supports learning and thinking"
-
 - When is a good time to hypothesise?
 	- In "how to take smart notes", Sonke argues that a hypotheses will induce confirmation bias. p79
 	- This idea conflicts with hypothesis driven development, does that mean that hypothesis driven development is bad? When is the right context to have a hypothesis? Does Cynefin help?
@@ -69,16 +63,6 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 	- students attempt to do cramming
 		- "If learning is your goal, cramming is an irrational act"
 	- Go and play ping pong, reduce stress, which inhibits learning process. Also it helps transfer info into long term memory (rate 2008)(garam 2008) p89
-
-- The importance of mental models
-	- [[§Why TDD works]]
-	- Lots of material at page 118
-		- Lot's of references to Charlie Munger
-		- "If you only have a hammer, everything is nail"
-		- "A really wise person is not someone who knows everything, but someone who is able to make sense of things by drawing from an extended resource of interpretation themes. This stands in harsh contrast to the common not-so-wise belief that we need to learn from experience. It is much better to learn from the experiences of others - especially when this experience is reflected on and turned into versatile "mental models" that can be used in different situations. "
-			- What does this mean?? This contradicts a lot
-			- Conflict with Bloom's Taxonomy of understanding? Don't you have to learn first? Or is it really a conflict?
-			- Does this conflict with learning from failure?
 
 - Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn't really do it, they just saw something" (Steve jobs)
 	- Many references in TED Radio Hour for creativity here!
@@ -112,10 +96,6 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 ## Weak references
 - The best way to deal with complexity is to keep things as simple as possible and to follow a few basic principles (Ahrens 9)
 
-- The idea of abstraction
-	- Analogy, transference of idea through different fields, etc
-	- This is quite a root post, constraints will depend on abstraction
-
 ## Backlinks
 * [[Understanding requires elaboration]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 86).
@@ -123,32 +103,30 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 * [[Effective workflow forms positive feedback loop]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 52).
 	* [[Ahrens, How to Take Smart Notes]] (p. 52).
-* [[Writing makes thinking possible]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 5).
-	* [[Ahrens, How to Take Smart Notes]] (p. 90).
-	* [[Ahrens, How to Take Smart Notes]] (pp. 95-96).
 * [[Workflow trumps willpower]]
 	* [[Ahrens, How to Take Smart Notes]] (pp. 2-3).
 	* [[Ahrens, How to Take Smart Notes]] (pp. 3).
 	* [[Ahrens, How to Take Smart Notes]] (pp. 16).
+* [[Writing makes thinking possible]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 5).
+	* [[Ahrens, How to Take Smart Notes]] (p. 90).
+	* [[Ahrens, How to Take Smart Notes]] (pp. 95-96).
 * [[Zettelkasten enables constant focus on interesting materials]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 25).
 	* [[Ahrens, How to Take Smart Notes]] (p. 26).
 	* [[Ahrens, How to Take Smart Notes]] (pp. 50-51).
-* [[Working memory limits]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 68).
 * [[Write about what you read]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 86).
+* [[Working memory limits]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 68).
 * [[Zettelkasten disregards planning]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 6)
 	* [[Ahrens, How to Take Smart Notes]] (p. 11)
 	* [[Ahrens, How to Take Smart Notes]] (p. 14)
 * [[Zeigarnik Effect]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 69).
-* [[Luhmann always worked on something easier and interesting]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 14).
-	* [[Ahrens, How to Take Smart Notes]] (p. 15).
-	* [[Ahrens, How to Take Smart Notes]] (p. 141).
+* [[Only one type of attention can be given to one thing at one time]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 58).
 * [[Context switching helps when you get stuck]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 68).
 * [[New learnings rarely start from zero]]
@@ -168,29 +146,36 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 	* [[Ahrens, How to Take Smart Notes]] (p. 43).
 * [[Zettelkasten splits tasks to use different attention types]]
 	* [[Ahrens, How to Take Smart Notes]] (pp. 62 - 63).
-* [[Only one type of attention can be given to one thing at one time]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 58).
+* [[Luhmann always worked on something easier and interesting]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 14).
+	* [[Ahrens, How to Take Smart Notes]] (p. 15).
+	* [[Ahrens, How to Take Smart Notes]] (p. 141).
+* [[Humans are constrained by biological limits]]
+	* [[Ahrens, How to Take Smart Notes]]
+* [[Effective tool circumvents human limits]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 20).
+	* [[Ahrens, How to Take Smart Notes]] (p. 29).
 * [[Self-control is a good indicator for academic success]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 2).
 * [[Forgetting is a healthy process of inhibiting irrelevant memory]]
 	* [[Ahrens, How to Take Smart Notes]] (pp. 100-101).
-* [[Humans are constrained by biological limits]]
-	* [[Ahrens, How to Take Smart Notes]]
 * [[Multitasking is an impossible task]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 57).
 * [[Solomon Shereshevsky]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 99)
+* [[Effective workflow should break tasks down by attention types]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 60).
 * [[DNA structure was discovered on cancer treatment research]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 138).
 * [[Zettels should capture an atomic concept]]
 	* [[Ahrens, How to Take Smart Notes]] (pp. 18-19).
 * [[Slow-motion multitasking]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 14).
-* [[Zettels should not have ephemeral tags]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 41).
 * [[Remembering can be improved by deliberately creating cues]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 42)
 	* [[Ahrens, How to Take Smart Notes]] (p. 101)
+* [[Zettels should not have ephemeral tags]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 41).
 * [[Creativity needs enabling constraints]]
 	* [[Ahrens, How to Take Smart Notes]] (pp. 130-132).
 * [[Creative process requires both divergent and convergent thinking]]
