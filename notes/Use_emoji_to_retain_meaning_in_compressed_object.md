@@ -20,7 +20,14 @@ Now, compare this with:
 
 Not only the object is more readable when you are browsing through your database, but all of the database features should still work.
 
-I personally still wouldn’t use this as a first class object in my code, so if you want to experiment with this idea, do it in your data transfer objects.
+## Byte-size caveat
+Despite the readability, you shouldn't neglect the byte-size of each emojis you use. See the following options compared in size:
+1. walkDur: 7B
+2. 🚶⏰: 7B
+3. walkingDuration: 15B
+4. 🚶‍♂️⏱️: 19B (🚶‍♂️: 13B)
+
+Option 2 obviously is smaller than `walkingDuration`. If you have accidentally chosen Option 4 however, your object unfortunately will become bigger. It seems that the gendered walking emoji (option 4) has an extra variation sequences that has been added to the non-gendered walking emoji (option 2).
 
 ---
 ## References
