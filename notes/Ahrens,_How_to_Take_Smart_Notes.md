@@ -22,25 +22,17 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 		- 	Watch out for: [[Writing digitally may reduce understanding]]
 
 - In progress: 
+	- Do not brainstorm for a topic p25 p134
+		- [[Anchoring effect]]
+		- [[Production blocking]]
 	- [[Zettels should be linked]]
 	- [[Zettels should be tagged]]
 
 ---
 ## Unsorted
-- §Why meetings don't work - Does workshops really work?
-	- Read more here as well: [Why Group Brainstorming Is a Waste of Time](https://hbr.org/2015/03/why-group-brainstorming-is-a-waste-of-time)
-		- Wow lot's of new material here, Social loafing, Social anxiety, Regression to the mean, and production blocking
-	- Do not brainstorm for a topic p25
-	- "In oral presentations, we easily get away with unfounded claims. We can distract from argumentative gaps with confident gestures or drop a casual "you know what I mean" irrespective of whether we know what we meant. In writing, these manoeuvres are a little too obvious. It is easy to check a statement like: "But that is what I said!" . p85
-	- > It makes things worse that we tend to like our first ideas the best and are very reluctant to let go of the, irrespective of their actual relevance (Strack and Mussweiler 1997). And before you now wonder if it would be a good idea to overcome the limitations of brainstorming by assembling a group of friends to brainstorm together, forget it: More people in a brainstorming group usually come up with less good ideas and restrict themselves inadvertently to a narrower range of topics (Mullen, Johnson, and Salas 1991). p.134
-		- This can be counterreacted
-		- Is workshop only useful because... Consultancy?
-	- There is also a reference to this in Theory of Constraints audiobook, where the daughter of the author asked his daughter that's a psychologist, on how to influence people in a meeting. His daughter isn't it obvious? There's already an experiment for this where people tend to agree with more people who have given the wrong answer.
-		- Found it! [Famous Social Psychology Experiments](https://www.verywellmind.com/famous-social-psychology-experiments-2795667)
-		- [Asch conformity experiments - Wikipedia](https://en.wikipedia.org/wiki/Asch_conformity_experiments)
-
 - Writing is a self feedback loop p55
 	- "The same goes for writing permanent notes, which have another feedback loop built-in: Expressing our own thoughts in writing makes us realise if really thought them through. The moment we try to combine them with previously written notes, the system will unambiguously show us contradictions, inconsistencies and repetitions".  P55
+	- "In oral presentations, we easily get away with unfounded claims. We can distract from argumentative gaps with confident gestures or drop a casual "you know what I mean" irrespective of whether we know what we meant. In writing, these manoeuvres are a little too obvious. It is easy to check a statement like: "But that is what I said!" . p85
 
 - [[Zeigarnik Effect]]
 	- Optimise shower thought, write things less important, don't write important things p71
@@ -115,10 +107,10 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 	* [[Ahrens, How to Take Smart Notes]] (p. 25).
 	* [[Ahrens, How to Take Smart Notes]] (p. 26).
 	* [[Ahrens, How to Take Smart Notes]] (pp. 50-51).
-* [[Write about what you read]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 86).
 * [[Working memory limits]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 68).
+* [[Write about what you read]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 86).
 * [[Zettelkasten disregards planning]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 6)
 	* [[Ahrens, How to Take Smart Notes]] (p. 11)
@@ -127,10 +119,16 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 	* [[Ahrens, How to Take Smart Notes]] (p. 69).
 * [[Only one type of attention can be given to one thing at one time]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 58).
+* [[Humans are constrained by biological limits]]
+	* [[Ahrens, How to Take Smart Notes]]
+* [[Anchoring effect]]
+	* [[Ahrens, How to Take Smart Notes]]  (p. 134).
 * [[Context switching helps when you get stuck]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 68).
 * [[New learnings rarely start from zero]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 48).
+* [[Production blocking]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 134).
 * [[The number of zettels written per day as a better lead measure for learning]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 94).
 * [[Writing allows us to deliberately forget]]
@@ -150,8 +148,6 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 	* [[Ahrens, How to Take Smart Notes]] (p. 14).
 	* [[Ahrens, How to Take Smart Notes]] (p. 15).
 	* [[Ahrens, How to Take Smart Notes]] (p. 141).
-* [[Humans are constrained by biological limits]]
-	* [[Ahrens, How to Take Smart Notes]]
 * [[Effective tool circumvents human limits]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 20).
 	* [[Ahrens, How to Take Smart Notes]] (p. 29).

@@ -1,5 +1,5 @@
 # Understanding requires elaboration
-We often mistake familiarity for understanding. When you listen to a talk or read a book about a topic that you're familiar with, it's a mistake to think that you understand that topic. Re-reading is especially dangerous as not only you'll believe that you understand what you are re-reading, but you'll also tend to like them more due to the mere-exposure effect (Ahrens 86).
+We often mistake familiarity for understanding. When you listen to a talk or read a book about a topic that you're familiar with, it's a mistake to think that you understand that topic. Re-reading is especially dangerous as not only you'll believe that you understand what you are re-reading, but you'll also tend to like them more due to the [[Mere-exposure effect]] (Ahrens 86).
 
 If what you want to achieve is understanding, you will have to elaborate what you have learnt in your own words. You'll also have to relate about new concepts to your own experience and prior knowledge, and question what you have read or listened. Elaboration is also a good test for understanding. Try to explain what you have just read, you'd quickly notice that there's a gap in your understanding if you can't explain them.  (Ahrens 120).
 

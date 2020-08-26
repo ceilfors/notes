@@ -10,6 +10,6 @@ Psychologists used to associate divergent thinking exclusively to art, and conve
 > [...]  
 > These studies help to solve a puzzle that has bothered psychologists who study creative people as well. "On one hand, those with wandering defocused, childlike minds seem to be the most creative; on the other, it seems to be analysis and application that's important. The answer to this conundrum is that creative people need both ... The key to creativity is being able to switch between a wide-open, playful mind and a narrow analytical frame." (Dean, 2013, 152)
 
-<!-- #evergreen #creative -->
+<!-- #evergreen #creativity -->
 
 <!-- {BearID:D03D1C9C-20B7-4591-B933-F5E5C26AB402-16598-00015F8166731DD9} -->

@@ -20,6 +20,6 @@ Niklas Luhmann has also demonstrated pattern where it took him 29.5 years to fin
 * [[Context switching helps when you get stuck]]
 	* When Luhmann got stuck, he will write on a different book ([[Luhmann always worked on something easier and interesting]]). Authors, who are [[Slow-motion multitasking]], also switched context when they got stuck. In the [Stack Overflow Developer Survey 2020](https://insights.stackoverflow.com/survey/2020#technology-what-do-you-do-when-you-get-stuck), 54.4% of the respondents would *Do other work and come back later* when they got stuck; considering that this is the highest option after *Visit Stack Overflow*, it is quite a significant number. Context switching, therefore, can be helpful when you get stuck. If getting stuck is unproductive, then context switching is *not always* harmful for productivity.
 
-<!-- #evergreen #creative -->
+<!-- #evergreen #creativity -->
 
 <!-- {BearID:64771644-3FE8-44DE-BEA4-048F53DB968E-464-000031FB207C435B} -->
