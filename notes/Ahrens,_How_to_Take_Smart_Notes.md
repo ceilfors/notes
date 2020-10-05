@@ -7,86 +7,33 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 	- [[New learnings rarely start from zero]]
 	- Also [[Zettelkasten is not widely adopted because it is too simple for a complex problem]]
 	- [[Zettelkasten splits tasks to use different attention types]]
-	- [[The number of zettels written per day as a better lead measure for learning]]
 - The benefit of zettelkasten
 	- [[Writing makes thinking possible]]
 		- [[Understanding requires elaboration]], and writing is an act of elaboration
+		- [[Elaborate in writing to test your understanding]]
 	- [[Zettelkasten disregards planning]]
 	- [[Zettelkasten enables constant focus on interesting materials]]
 		- Focusing on various interesting materials will increase context switch, and [[Context switching helps when you get stuck]] 
 	- [[Writing allows us to deliberately forget]]
+	- [[Zettelkasten helps counter confirmation bias]]
 - The principles needed for zettelkasten to work
 	- [[Zettelkasten requires a balanced routine]]
+	- [[Find writing topic in your zettelkasten]]
 	- [[Zettels should be optimised for retrieval strength]]
 	- [[Write about what you read]]
 		- 	Watch out for: [[Writing digitally may reduce understanding]]
-
-- In progress: 
-	- Do not brainstorm for a topic p25 p134
-		- [[Anchoring effect]]
-		- [[Production blocking]]
-	- [[Zettels should be linked]]
-	- [[Zettels should be tagged]]
+	- [[The number of zettels written per day as a better lead measure for learning]]
 
 ---
 ## Unsorted
-- Writing is a self feedback loop p55
-	- "The same goes for writing permanent notes, which have another feedback loop built-in: Expressing our own thoughts in writing makes us realise if really thought them through. The moment we try to combine them with previously written notes, the system will unambiguously show us contradictions, inconsistencies and repetitions".  P55
-	- "In oral presentations, we easily get away with unfounded claims. We can distract from argumentative gaps with confident gestures or drop a casual "you know what I mean" irrespective of whether we know what we meant. In writing, these manoeuvres are a little too obvious. It is easy to check a statement like: "But that is what I said!" . p85
-
-- [[Zeigarnik Effect]]
-	- Optimise shower thought, write things less important, don't write important things p71
-
-- When is a good time to hypothesise?
-	- In "how to take smart notes", Sonke argues that a hypotheses will induce confirmation bias. p79
-	- This idea conflicts with hypothesis driven development, does that mean that hypothesis driven development is bad? When is the right context to have a hypothesis? Does Cynefin help?
-	- "The very moment we decide on a hypothesis, our brains automatically go into search mode, scanning our surroundings for supporting data, which is neither a good way to learn nor research. Worse, we are usually no even aware of this confirmation bias (or myside bias) that surreptitiously meddles with our life. P79
-	- "If on were to attempt to identify a single problematic aspect of human reasons that deserves attention above all others, the confirmation bias would have to be among the candidates for consideration" (Nickerson 198, 175) - p79
-	- Zettelkasten reverses this notion, you find argument to support something, not finding the argument to support the other thing
-	- Best scientist are not free from it, the counter this by "acknowledging" that they are aware and they do something about it
-		- Similar to Culture map "French's saying": Once you know the sickness, you're halfway to cure
-	- "The linear process promoted by most .... Start with hypothesis ... is a surefire way to let information bias run rampant" p80
-	- Reflecting back, it seems like when we start a product development with a hypotheses, not only we'll have confirmation bias, but we'll have a sunk cost fallacy as we'll start the development in parallel. 
-		- There are many things in product development that utilises hypothesis, like LVT, or lean start up
-
-- The learning fallacy p88-89
-	- Teachers putting attempt to make learning easier. It's like fast food.
-		- Don't understand why a structure makes student dumber
-	- students attempt to do cramming
-		- "If learning is your goal, cramming is an irrational act"
-	- Go and play ping pong, reduce stress, which inhibits learning process. Also it helps transfer info into long term memory (rate 2008)(garam 2008) p89
-
-- Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn't really do it, they just saw something" (Steve jobs)
-	- Many references in TED Radio Hour for creativity here!
-
-- All changes are small, therefore search for the small differences
-	- [[All changes require marginal adjustment]]
-	- Other post: Big changes in an illusion?
-	- "Most often, innovation is not the result of a sudden moment of realisation, anyway, but incremental steps toward improvement. Even groundbreaking paradigm shifts are most often the consequence of many small moves in the right direction instead of one big idea. This is why the search for small differences is key" p122
-
-- When is it a good idea to defer, and when is it a good idea to start small?
-	- If we start a product development by applying all the things that we know, it might be a waste.
-	- It seems like things that require practices, need to be started early, but things that can be scanned by robot, does not.
-	- Practices are things that we have to question ourself every time, "Is this important?" Is this test important?
-	- This is similar to the idea of how to take smart notes
-		- > We don't need to worry about the question of what to write about because we have answered the question already - many times on a daily basis. Every time we read something, we make a decision on what is worth writing down and what is not. -- p134
-		- > If we accompany every step of our with the question, "What is interesting about this? " and everything we read with the question, "What is so relevant about this that is it is worth nothing down?" We do not just choose information according to our interest -- p137
-
-- Software estimation doesn't work due to overconfidence bias
-	- the whole story at p142, where students estimation on when they'll finish their paper is always wrong
-	- This has been cracked in the software industry though, where you have to break things down into something smaller.
-		- "Just break it down" -- more motivational, estimatable, progress, etc
-	- (Buehler, Griffin and Ross 1994)
-	- Even the people who study this phenomenon, which is called the overconfidence bias, admit that they too fall for it (Kahneman 2013, 245ff)
-
-- Do we need literature notes?
-	- More explanation at p24 and convention at p30
-	- Since we are capturing evergreen notes with references section already, literature notes seems optional
-	- Andy Matuschak's thoughts: [here](https://notes.andymatuschak.org/zhmLXArqiCMDr9Q13ViqN3hh3SmrKzjQxWAr?stackedNotes=z2Eg5jPPg8nBJWLGqJwNo5d15TAoEAXamYV7n&stackedNotes=z5nyVpkrLxYNNfRcsFfLGyYoGEwvC5qaiFogQ&stackedNotes=z2D6w86eKLuVdmk5icMJ5L6av1nG62HaF7ref)
+- The problem with cramming pp. 88-89
+	- "If learning is your goal, cramming is an irrational act"
+	- Exercise reduces stress, which inhibits learning process. Also it helps transfer info into long term memory.
 
 ---
 ## Weak references
 - The best way to deal with complexity is to keep things as simple as possible and to follow a few basic principles (Ahrens 9)
+- We could utilise Zeigarnik effect to solve crucial problems whilst running errands (by not writing them down). (Ahrens 71)
 
 ## Backlinks
 * [[Understanding requires elaboration]]
@@ -99,36 +46,31 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 	* [[Ahrens, How to Take Smart Notes]] (pp. 2-3).
 	* [[Ahrens, How to Take Smart Notes]] (pp. 3).
 	* [[Ahrens, How to Take Smart Notes]] (pp. 16).
-* [[Writing makes thinking possible]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 5).
-	* [[Ahrens, How to Take Smart Notes]] (p. 90).
-	* [[Ahrens, How to Take Smart Notes]] (pp. 95-96).
 * [[Zettelkasten enables constant focus on interesting materials]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 25).
 	* [[Ahrens, How to Take Smart Notes]] (p. 26).
 	* [[Ahrens, How to Take Smart Notes]] (pp. 50-51).
-* [[Working memory limits]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 68).
+* [[Writing makes thinking possible]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 5).
+	* [[Ahrens, How to Take Smart Notes]] (p. 90).
+	* [[Ahrens, How to Take Smart Notes]] (pp. 95-96).
 * [[Write about what you read]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 86).
 * [[Zettelkasten disregards planning]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 6)
 	* [[Ahrens, How to Take Smart Notes]] (p. 11)
 	* [[Ahrens, How to Take Smart Notes]] (p. 14)
-* [[Zeigarnik Effect]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 69).
-* [[Only one type of attention can be given to one thing at one time]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 58).
-* [[Humans are constrained by biological limits]]
-	* [[Ahrens, How to Take Smart Notes]]
-* [[Anchoring effect]]
-	* [[Ahrens, How to Take Smart Notes]]  (p. 134).
+* [[Working memory limits]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 68).
 * [[Context switching helps when you get stuck]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 68).
+* [[Elaborate in writing to test your understanding]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 55).
+	* [[Ahrens, How to Take Smart Notes]] (p. 85).
+* [[Find writing topic in your zettelkasten]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 25).
 * [[New learnings rarely start from zero]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 48).
-* [[Production blocking]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 134).
 * [[The number of zettels written per day as a better lead measure for learning]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 94).
 * [[Writing allows us to deliberately forget]]
@@ -136,6 +78,8 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 	* [[Ahrens, How to Take Smart Notes]] (p. 99)
 * [[Writing digitally may reduce understanding]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 78).
+* [[Zettelkasten helps counter confirmation bias]]
+	* [[Ahrens, How to Take Smart Notes]] (pp. 79-80).
 * [[Zettelkasten is not widely adopted because it is too simple for a complex problem]]
 	* [[Ahrens, How to Take Smart Notes]] (pp. 16-18)
 * [[Zettelkasten requires a balanced routine]]
@@ -148,6 +92,10 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 	* [[Ahrens, How to Take Smart Notes]] (p. 14).
 	* [[Ahrens, How to Take Smart Notes]] (p. 15).
 	* [[Ahrens, How to Take Smart Notes]] (p. 141).
+* [[Only one type of attention can be given to one thing at one time]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 58).
+* [[Humans are constrained by biological limits]]
+	* [[Ahrens, How to Take Smart Notes]]
 * [[Effective tool circumvents human limits]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 20).
 	* [[Ahrens, How to Take Smart Notes]] (p. 29).
@@ -155,29 +103,43 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 	* [[Ahrens, How to Take Smart Notes]] (p. 2).
 * [[Forgetting is a healthy process of inhibiting irrelevant memory]]
 	* [[Ahrens, How to Take Smart Notes]] (pp. 100-101).
+* [[Remembering can be improved by deliberately creating cues]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 42)
+	* [[Ahrens, How to Take Smart Notes]] (p. 101)
+* [[Zettels should be linked]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 101).
 * [[Multitasking is an impossible task]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 57).
 * [[Solomon Shereshevsky]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 99)
-* [[Effective workflow should break tasks down by attention types]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 60).
-* [[DNA structure was discovered on cancer treatment research]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 138).
-* [[Zettels should capture an atomic concept]]
-	* [[Ahrens, How to Take Smart Notes]] (pp. 18-19).
-* [[Slow-motion multitasking]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 14).
-* [[Remembering can be improved by deliberately creating cues]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 42)
-	* [[Ahrens, How to Take Smart Notes]] (p. 101)
 * [[Zettels should not have ephemeral tags]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 41).
+* [[Confirmation bias]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 79).
+* [[Effective workflow should break tasks down by attention types]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 60).
+* [[Zettels should capture an atomic concept]]
+	* [[Ahrens, How to Take Smart Notes]] (pp. 18-19).
+* [[Anchoring effect]]
+	* [[Ahrens, How to Take Smart Notes]]  (p. 134).
+* [[Production blocking]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 134).
+* [[Slow-motion multitasking]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 14).
+* [[Zeigarnik Effect]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 69).
+* [[DNA structure was discovered on cancer treatment research]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 138).
+* [[Overconfidence bias]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 142).
 * [[Creativity needs enabling constraints]]
 	* [[Ahrens, How to Take Smart Notes]] (pp. 130-132).
 * [[Creative process requires both divergent and convergent thinking]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 63).
 * [[Documentation is the side effect of thinking]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 95).
+* [[Innovation is often the consequence of many small changes]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 122).
 * [[Limiting the length of your zettels can make them atomic]]
 	* [[Ahrens, How to Take Smart Notes]] (pp. 129-130).
 * [[Positive thinking can result in negative outcome if it is not translated into actions]]

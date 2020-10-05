@@ -18,6 +18,8 @@ Taking an example of this note, the ephemeral tags that should be avoided would 
 ## Backlinks
 * [[Zettels should capture an atomic concept]]
 	* Capturing your notes by books, in contrast, is straightforward but will not encourage notes linkage and therefore will not generate new ideas (see also: [[Zettels should not have ephemeral tags]]). 
+* [[Zettels should be tagged]]
+	* [[Zettels should not have ephemeral tags]]
 
 <!-- #evergreen #organising -->
 

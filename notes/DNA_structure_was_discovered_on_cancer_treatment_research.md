@@ -8,7 +8,7 @@ The DNA structure was discovered by scientists who were supposed to do a researc
 
 ## Backlinks
 * [[Zettelkasten disregards planning]]
-	* Sticking to a plan, however, requires willpower (Ahrens 6). Willpower is not a sustainable way to writing, especially when what you write takes a multi year of research ([[Workflow trumps willpower]]). Sticking to a plan will also disregard new discoveries (Ahrens 11). The DNA structure won't be discovered if the scientists sticked to their plan ([[DNA structure was discovered on cancer treatment research]]). You want to gain enjoyment from writing, and [[Zettelkasten enables constant focus on interesting materials]].
+	* Sticking to a plan, however, requires willpower (Ahrens 6) and willpower is not a sustainable way to writing, especially when what you write takes a multi year of research ([[Workflow trumps willpower]]); you want to gain enjoyment from writing instead, and [[Zettelkasten enables constant focus on interesting materials]]. We have [[Overconfidence bias]] too which means our plan tend not to work out as we expected. Sticking to a plan will also disregard new discoveries (Ahrens 11). The DNA structure won't be discovered if the scientists sticked to their plan ([[DNA structure was discovered on cancer treatment research]]).
 
 <!-- #evergreen #serendipity -->
 

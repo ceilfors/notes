@@ -14,8 +14,8 @@ Production blocking is one of the reason why a brainstorming session, especially
 > Generally people in interactive, brainstorming groups produce fewer ideas and ones that are less creative than those same people would if they were working individually, in what is known as nominal groups. Production blocking, the tendency for one individual during a group discussion to block or inhibit other people from offering ideas, is a major reason.
 
 ## Backlinks
-* [[Ahrens, How to Take Smart Notes]]
-	* [[Production blocking]]
+* [[Find writing topic in your zettelkasten]]
+	* Due to [[Production blocking]], you may not develop better ideas (or may come up worse)
 
 <!-- #evergreen #creativity -->
 
