@@ -1,11 +1,11 @@
 # §What's top of mind
-Copied from Andy Matuschak's [§What’s top of mind](https://notes.andymatuschak.org/%C2%A7What%E2%80%99s_top_of_mind).
+Inspired by Andy Matuschak's [§What’s top of mind](https://notes.andymatuschak.org/%C2%A7What%E2%80%99s_top_of_mind).
 
 - [[Write about what you read]]
 	- Writing on [[Ahrens, How to Take Smart Notes]]
 	- Writing on [[Mihaly, Flow]]
 - [[Open software design]]
-	- upmo.com/dev/
+	- [upmo.com/dev/](https://upmo.com/dev/)
 - [[Cloud sandbox]]
 
 <!-- #evergreen #outline -->
