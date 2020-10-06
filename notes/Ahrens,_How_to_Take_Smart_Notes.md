@@ -146,6 +146,8 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 	* [[Ahrens, How to Take Smart Notes]] (p. 142)
 * [[Praising for intelligence may stop learners from learning]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 53).
+* [[§What's top of mind]]
+	* Writing on [[Ahrens, How to Take Smart Notes]]
 
 <!-- #literature #^inbox/book -->
 

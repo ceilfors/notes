@@ -12,6 +12,10 @@ Open software design is the idea that software design must be available for publ
 [The Architecture of Open Source Applications: Introduction](http://www.aosabook.org/en/intro1.html)
 > While architects study thousands of buildings in their training and during their careers, most software developers only ever get to know a handful of large programs well. And more often than not, those are programs they wrote themselves. They never get to see the great programs of history, or read critiques of those programs' designs written by experienced practitioners. As a result, they repeat one another's mistakes rather than building on one another's successes.
 
+## Backlinks
+* [[§What's top of mind]]
+	* [[Open software design]]
+
 <!-- #evergreen #softwaredesign -->
 
 <!-- {BearID:73AF9DD6-056E-4AA9-8051-A7739132CE2A-1543-0000914A0AAFA8C6} -->
