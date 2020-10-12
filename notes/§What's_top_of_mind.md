@@ -6,6 +6,9 @@ Inspired by Andy Matuschak's [§What’s top of mind](https://notes.andymatuscha
 	- Writing on [[Mihaly, Flow]]
 - [[Open software design]]
 	- [upmo.com/dev/](https://upmo.com/dev/)
+	- Embedding documentation as development workflow
+		- [[Documentation is the side effect of thinking]]
+		- [[Workflow trumps willpower]]
 - [[Cloud sandbox]]
 
 <!-- #evergreen #outline -->

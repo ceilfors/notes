@@ -9,7 +9,7 @@ Why does switching context help us get unstuck? It seems like not only it's slow
 ## References
 @AnneLoVerso drew the pair programming version of Heeris why shouldn't interrupt a programmer: https://twitter.com/AnneLoVerso/status/973421282707505152
 
- [Tim Harford: How Can "Slow Motion Multitasking" Boost Our Creativity?  | TED Radio Hour](https://www.npr.org/2019/05/10/719575727/tim-harford-how-can-slow-motion-multitasking-boost-our-creativity) ([transcript](https://www.npr.org/transcripts/719575727)
+ [Tim Harford: How Can "Slow Motion Multitasking" Boost Our Creativity?  | TED Radio Hour](https://www.npr.org/2019/05/10/719575727/tim-harford-how-can-slow-motion-multitasking-boost-our-creativity) ([transcript](https://www.npr.org/transcripts/719575727))
 > The first is that when you switch out of a problem where you're a bit stuck, the new context helps you forget your old wrong answer. You know, you're - it's the crossword puzzle problem. You know, you're stuck on a crossword puzzle. You've got the wrong answer in your head. All you need to do is forget it for a second. So just a change of context helps you solve a problem.
 
 [[Ahrens, How to Take Smart Notes]] (p. 68).

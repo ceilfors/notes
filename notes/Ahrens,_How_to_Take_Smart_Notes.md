@@ -39,13 +39,13 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 * [[Understanding requires elaboration]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 86).
 	* [[Ahrens, How to Take Smart Notes]] (p. 120).
-* [[Effective workflow forms positive feedback loop]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 52).
-	* [[Ahrens, How to Take Smart Notes]] (p. 52).
 * [[Workflow trumps willpower]]
 	* [[Ahrens, How to Take Smart Notes]] (pp. 2-3).
 	* [[Ahrens, How to Take Smart Notes]] (pp. 3).
 	* [[Ahrens, How to Take Smart Notes]] (pp. 16).
+* [[Effective workflow forms positive feedback loop]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 52).
+	* [[Ahrens, How to Take Smart Notes]] (p. 52).
 * [[Zettelkasten enables constant focus on interesting materials]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 25).
 	* [[Ahrens, How to Take Smart Notes]] (p. 26).
@@ -134,10 +134,10 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 	* [[Ahrens, How to Take Smart Notes]] (p. 142).
 * [[Creativity needs enabling constraints]]
 	* [[Ahrens, How to Take Smart Notes]] (pp. 130-132).
-* [[Creative process requires both divergent and convergent thinking]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 63).
 * [[Documentation is the side effect of thinking]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 95).
+* [[Creative process requires both divergent and convergent thinking]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 63).
 * [[Innovation is often the consequence of many small changes]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 122).
 * [[Limiting the length of your zettels can make them atomic]]

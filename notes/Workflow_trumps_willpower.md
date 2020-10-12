@@ -27,6 +27,8 @@ When it comes to creative works, workflow is a way for us to define our environm
 	* The best thinkers are not free from confirmation bias either. Although being aware of the problem helps you do something about it, you don’t really want to rely on your willpower.  You want to embed a mechanism in your workflow to counter confirmation bias because [[Workflow trumps willpower]]. Zettelkasten embeds this mechanism so that your writing is done bottom-up.
 * [[Positive thinking can result in negative outcome if it is not translated into actions]]
 	* Unfortunately many people would stop on the imagination step and not pursue the intended goal, because it feels good in the short term. In the long term, you will feel demotivated as you wouldn't see any progress, resulting in a negative outcome. This is not to say that positive thinking is bad as it is still a good way to start something, the emphasis here is you should not stop on the imagination step ([[When you know your sickness, you are halfway cured]]). You have to translate them into actions, because [[Workflow trumps willpower]].
+* [[§What's top of mind]]
+	* [[Workflow trumps willpower]]
 
 <!-- #evergreen #habit -->
 
