@@ -62,6 +62,10 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 	* [[Ahrens, How to Take Smart Notes]] (p. 14)
 * [[Working memory limits]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 68).
+* [[Luhmann always worked on something easier and interesting]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 14).
+	* [[Ahrens, How to Take Smart Notes]] (p. 15).
+	* [[Ahrens, How to Take Smart Notes]] (p. 141).
 * [[Context switching helps when you get stuck]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 68).
 * [[Elaborate in writing to test your understanding]]
@@ -88,10 +92,6 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 	* [[Ahrens, How to Take Smart Notes]] (p. 43).
 * [[Zettelkasten splits tasks to use different attention types]]
 	* [[Ahrens, How to Take Smart Notes]] (pp. 62 - 63).
-* [[Luhmann always worked on something easier and interesting]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 14).
-	* [[Ahrens, How to Take Smart Notes]] (p. 15).
-	* [[Ahrens, How to Take Smart Notes]] (p. 141).
 * [[Only one type of attention can be given to one thing at one time]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 58).
 * [[Humans are constrained by biological limits]]
@@ -149,6 +149,6 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 * [[§What's top of mind]]
 	* Writing on [[Ahrens, How to Take Smart Notes]]
 
-<!-- #literature #^inbox/book -->
+<!-- #literature -->
 
 <!-- {BearID:B72954BD-125C-4A91-A0A2-45BE3D12F0C9-88256-0001A873B7780B19} -->

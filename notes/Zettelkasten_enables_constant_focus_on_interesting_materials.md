@@ -23,6 +23,8 @@ Focusing just on the interesting things at the moment may sound like a risky app
 	* Instead of brainstorming, you should find a writing topic in your zettelkasten instead. Your zettelkasten would contain all of the interesting materials as you’ve been capturing them as part of your workflow already. Not only you’ll find an interesting idea by combining all those interesting zettels ([[Zettelkasten enables constant focus on interesting materials]]), you’ll also not be starting from zero as most of the research had been done before.
 * [[Zettelkasten requires a balanced routine]]
 	* Even though [[Zettelkasten enables constant focus on interesting materials]], you wouldn't capture interesting materials (transient notes) and zettels if you don't dedicate time or make a habit for it. A routine, therefore, is a necessary element in the practice of zettelkasten (Ahrens 10).
+* [[What makes something interesting?]]
+	* [[Zettelkasten enables constant focus on interesting materials]], but what does interesting material mean? How do you know know if you have come across an interesting material? [[Luhmann always worked on something easier and interesting]], but what if there are too much of interesting things that you have come across during the day? Would you take notes for them all? Perhaps what we need to better definition of ‘interesting’.
 
 <!-- #evergreen #writing -->
 

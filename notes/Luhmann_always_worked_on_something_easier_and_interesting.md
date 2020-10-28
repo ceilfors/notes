@@ -27,6 +27,8 @@ Link to the interview (Ahrens 16 footnote): [Niklas Luhmann - Beobachter im Krä
 	* When Luhmann got stuck, he will write on a different book ([[Luhmann always worked on something easier and interesting]]). Authors, who are [[Slow-motion multitasking]], also switched context when they got stuck. In the [Stack Overflow Developer Survey 2020](https://insights.stackoverflow.com/survey/2020#technology-what-do-you-do-when-you-get-stuck), 54.4% of the respondents would *Do other work and come back later* when they got stuck; considering that this is the highest option after *Visit Stack Overflow*, it is quite a significant number. Context switching, therefore, can be helpful when you get stuck. If getting stuck is unproductive, then context switching is *not always* harmful for productivity.
 * [[Slow-motion multitasking]]
 	* Niklas Luhmann has also demonstrated pattern where it took him 29.5 years to finally publish "The Society of Society", whilst working on other ideas simultaneously in his slip-box. ([[Luhmann always worked on something easier and interesting]])
+* [[What makes something interesting?]]
+	* [[Zettelkasten enables constant focus on interesting materials]], but what does interesting material mean? How do you know know if you have come across an interesting material? [[Luhmann always worked on something easier and interesting]], but what if there are too much of interesting things that you have come across during the day? Would you take notes for them all? Perhaps what we need to better definition of ‘interesting’.
 
 <!-- #evergreen #thinking #writing -->
 
