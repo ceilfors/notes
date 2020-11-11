@@ -56,12 +56,12 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 	* [[Ahrens, How to Take Smart Notes]] (pp. 95-96).
 * [[Write about what you read]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 86).
+* [[Working memory limits]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 68).
 * [[Zettelkasten disregards planning]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 6)
 	* [[Ahrens, How to Take Smart Notes]] (p. 11)
 	* [[Ahrens, How to Take Smart Notes]] (p. 14)
-* [[Working memory limits]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 68).
 * [[Luhmann always worked on something easier and interesting]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 14).
 	* [[Ahrens, How to Take Smart Notes]] (p. 15).
@@ -92,10 +92,10 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 	* [[Ahrens, How to Take Smart Notes]] (p. 43).
 * [[Zettelkasten splits tasks to use different attention types]]
 	* [[Ahrens, How to Take Smart Notes]] (pp. 62 - 63).
-* [[Only one type of attention can be given to one thing at one time]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 58).
 * [[Humans are constrained by biological limits]]
 	* [[Ahrens, How to Take Smart Notes]]
+* [[Only one type of attention can be given to one thing at one time]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 58).
 * [[Effective tool circumvents human limits]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 20).
 	* [[Ahrens, How to Take Smart Notes]] (p. 29).
@@ -114,6 +114,8 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 	* [[Ahrens, How to Take Smart Notes]] (p. 99)
 * [[Zettels should not have ephemeral tags]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 41).
+* [[Zeigarnik Effect]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 69).
 * [[Confirmation bias]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 79).
 * [[Effective workflow should break tasks down by attention types]]
@@ -126,8 +128,6 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 	* [[Ahrens, How to Take Smart Notes]] (p. 134).
 * [[Slow-motion multitasking]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 14).
-* [[Zeigarnik Effect]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 69).
 * [[DNA structure was discovered on cancer treatment research]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 138).
 * [[Overconfidence bias]]

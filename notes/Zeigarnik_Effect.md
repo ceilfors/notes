@@ -9,6 +9,8 @@ Zeigarnik effect is a psychological tendency to occupy our short term memory wit
 ## Backlinks
 * [[Writing allows us to deliberately forget]]
 	* We have [[Working memory limits]], therefore making sure that we can populate our working memory with what's relevant in the current circumstances is necessary for us to be effective. Unfortunately we don't really have a full control over what we have in our working memory, other irrelevant thoughts might linger (like open tasks) and will reduce our ability to focus. (See also: [[Zeigarnik Effect]])
+* [[Attentional habits]]
+	* Attentional habits are the [[Psychic energy]] that we spend not by our own intention. Attentional habit could formed by either biological or social instructions. [[Cognitive bias]] bias is probably a good example of how our attention could be spent not consciously by our choice. [[Zeigarnik Effect]], for example, would take our attention to unfinished tasks.
 
 <!-- #evergreen #memory #thinking #cognitive/bias -->
 

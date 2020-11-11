@@ -1,5 +1,5 @@
 # Meditation is a practice to control consciousness
-[[Controlling consciousness is a learnable skill]], and meditation is a form of practice to control consciousness. It is a fallacy to think that meditation is a practice to empty your mind, it’s a practice that focuses your attention on something at will ([[To control consciousness is to be able to focus attention at will]]). Think about meditation as a gym for mental control. Yogi would meditate by focusing their attention on their breathing. Other meditation trainer would encourage meditation by focusing on counting from 1 to 10. It doesn’t seem to matter what you focus on, as long as you are training your focus. 
+[[Controlling consciousness is learnable]], and meditation is a form of practice to control consciousness. It is a fallacy to think that meditation is a practice to empty your mind, it’s a practice that focuses your attention on something at will ([[To control consciousness is to be able to focus attention at will]]). Think about meditation as a gym for mental control. Yogi would meditate by focusing their attention on their breathing. Other meditation trainer would encourage meditation by focusing on counting from 1 to 10. It doesn’t seem to matter what you focus on, as long as you are training your focus. 
 
 ---
 ## References
