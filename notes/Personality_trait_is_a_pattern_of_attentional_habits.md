@@ -1,4 +1,4 @@
-# Personality trait is the pattern of attentional habits
+# Personality trait is a pattern of attentional habits
 Given there are two people with different personality traits in a party, the extrovert would typically be energised after socialising, while the introvert would normally end up quite exhausted. These two different personality traits differ in how they decide to spend their [[Psychic energy]]. The extrovert has the [[Attentional habits]] to look for enjoyment with others, the introvert decide to spend their energy to avoid danger or being self-conscious all the time.
 
 The extrovert is not tired because the enjoyment they get with others gives them flow experience, and [[Flow experience consumes less energy]]. Yes, having a conversation, even gossiping, is a flow activity as skills are required .
