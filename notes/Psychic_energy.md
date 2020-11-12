@@ -7,8 +7,12 @@ Psychic energy is a form of energy that we use to think, remember, make decision
 > Because attention determines what will of will not appear in consciousness, and because it is also required to make any other mental events - such as remembering, thinking, feeling, and making decisions - happen there, it is useful to think of it as psychic energy. Attention is like energy in that without it no work can be done, and in doing work it is dissipated. We create ourselves by how we invest this energy.
 
 ## Backlinks
+* [[Pleasure can be converted to enjoyment]]
+	* Let’s take eating food, which by default, is a pleasure because we’re just fulfilling what our biological program is asking us to do. You take eating as enjoyment, you could spend a lot more [[Psychic energy]] by developing a certain interest in a specific item. Perhaps you can set into a mission to find the best instant noodles available. The involvement of trying every different instant noodles, tasting them really carefully, and share your findings to others will turn eating into enjoyment.
 * [[Attentional habits]]
 	* Attentional habits are the [[Psychic energy]] that we spend not by our own intention. Attentional habit could formed by either biological or social instructions. [[Cognitive bias]] bias is probably a good example of how our attention could be spent not consciously by our choice. [[Zeigarnik Effect]], for example, would take our attention to unfinished tasks.
+* [[The difference between pleasure and enjoyment is the amount of psychic energy spent]]
+	* The difference between pleasure and enjoyment is the amount of [[Psychic energy]] spent on an activity. Pleasure normally is a passive activity. When you watch a TV, for example, your brain doesn’t have to work as hard as when you’re reading.
 * [[Personality trait is a pattern of attentional habits]]
 	* Given there are two people with different personality traits in a party, the extrovert would typically be energised after socialising, while the introvert would normally end up quite exhausted. The reason why these two people feel differently can be explained by how they spend their [[Psychic energy]]. The extrovert has the [[Attentional habits]] to spend their energy looking for enjoyment with others, whilst the introvert might spend their energy being self-conscious and questioning why they are in a party, which is a habit that might be formed due to their bad experience in socialising.
 * [[The key to flow is to control consciousness]]
