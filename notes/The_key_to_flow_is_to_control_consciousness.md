@@ -9,6 +9,6 @@ Fortunately, we don’t really have to waste our psychic energy to such disorder
 [[Mihaly, Flow]] (p. 39).
 > When a person is able to organise his or her consciousness so as to experience flow as often as possible, the quality of life is inevitably going to improve […] even the usually boring routines of work become purposeful and enjoyable. In flow we are in control of our psychic energy, and everything we do adds order to consciousness.
 
-<!-- #evergreen #flow #mastery -->
+<!-- #evergreen #flow #mastery #^inbox/flow -->
 
 <!-- {BearID:CDD810A3-C5D2-4754-BBF6-07F43F6DD03A-805-00000013550F877E} -->

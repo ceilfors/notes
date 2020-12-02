@@ -2,6 +2,9 @@
 Csikszentmihalyi, Mihaly. *Flow: The Classic Work on How to Achieve Happiness*. Rev. ed, Rider, 2002
 
 ## Backlinks
+* [[The components of flow experience]]
+	* [[Mihaly, Flow]] (p. 49).
+	* [[Mihaly, Flow]] (p. 66).
 * [[Psychic energy]]
 	* [[Mihaly, Flow]] (p. 33).
 * [[Consciousness is intentionally ordered information]]
@@ -12,6 +15,8 @@ Csikszentmihalyi, Mihaly. *Flow: The Classic Work on How to Achieve Happiness*. 
 	* [[Mihaly, Flow]] (p. 46).
 * [[To control consciousness is to be able to focus attention at will]]
 	* [[Mihaly, Flow]] (p. 31).
+* [[Flow experience is an autotelic experience]]
+	* [[Mihaly, Flow]] (p. 67).
 * [[Attentional habits]]
 	* [[Mihaly, Flow]] (p. 30).
 * [[To control consciousness is to override biological and social instruction]]
@@ -25,6 +30,11 @@ Csikszentmihalyi, Mihaly. *Flow: The Classic Work on How to Achieve Happiness*. 
 	* [[Mihaly, Flow]] (pp. 46 - 47).
 * [[Controlling consciousness is learnable]]
 	* [[Mihaly, Flow]] (p. 25).
+* [[Creative work requires clear goals and feedback to become a flow activity]]
+	* [[Mihaly, Flow]] (pp. 55 - 56).
+	* [[Mihaly, Flow]] (p. 72).
+* [[Flow activities are exotelic first before they become autotelic]]
+	* [[Mihaly, Flow]] (p. 68).
 * [[The treadmill of rising expectation]]
 	* [[Mihaly, Flow]] (p. 10).
 * [[Complexity is a result of differentiation and integration]]
@@ -43,6 +53,8 @@ Csikszentmihalyi, Mihaly. *Flow: The Classic Work on How to Achieve Happiness*. 
 	* [[Mihaly, Flow]] (pp. 74 - 75).
 * [[The key to flow is to control consciousness]]
 	* [[Mihaly, Flow]] (p. 39).
+* [[The prerequisites of flow are needed to flood working memory]]
+	* [[Mihaly, Flow]] (p. 59).
 * [[§What's top of mind]]
 	* Writing on [[Mihaly, Flow]]
 

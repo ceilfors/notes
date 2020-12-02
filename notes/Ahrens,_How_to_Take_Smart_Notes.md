@@ -39,13 +39,13 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 * [[Understanding requires elaboration]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 86).
 	* [[Ahrens, How to Take Smart Notes]] (p. 120).
+* [[Effective workflow forms positive feedback loop]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 52).
+	* [[Ahrens, How to Take Smart Notes]] (p. 52).
 * [[Workflow trumps willpower]]
 	* [[Ahrens, How to Take Smart Notes]] (pp. 2-3).
 	* [[Ahrens, How to Take Smart Notes]] (pp. 3).
 	* [[Ahrens, How to Take Smart Notes]] (pp. 16).
-* [[Effective workflow forms positive feedback loop]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 52).
-	* [[Ahrens, How to Take Smart Notes]] (p. 52).
 * [[Zettelkasten enables constant focus on interesting materials]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 25).
 	* [[Ahrens, How to Take Smart Notes]] (p. 26).
@@ -54,14 +54,14 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 	* [[Ahrens, How to Take Smart Notes]] (p. 5).
 	* [[Ahrens, How to Take Smart Notes]] (p. 90).
 	* [[Ahrens, How to Take Smart Notes]] (pp. 95-96).
-* [[Write about what you read]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 86).
 * [[Working memory limits]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 68).
 * [[Zettelkasten disregards planning]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 6)
 	* [[Ahrens, How to Take Smart Notes]] (p. 11)
 	* [[Ahrens, How to Take Smart Notes]] (p. 14)
+* [[Write about what you read]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 86).
 * [[Luhmann always worked on something easier and interesting]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 14).
 	* [[Ahrens, How to Take Smart Notes]] (p. 15).
@@ -75,8 +75,6 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 	* [[Ahrens, How to Take Smart Notes]] (p. 25).
 * [[New learnings rarely start from zero]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 48).
-* [[The number of zettels written per day as a better lead measure for learning]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 94).
 * [[Writing allows us to deliberately forget]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 70)
 	* [[Ahrens, How to Take Smart Notes]] (p. 99)
@@ -134,6 +132,8 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 	* [[Ahrens, How to Take Smart Notes]] (p. 142).
 * [[Creativity needs enabling constraints]]
 	* [[Ahrens, How to Take Smart Notes]] (pp. 130-132).
+* [[The number of zettels written per day is a better lead measure for learning]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 94).
 * [[Documentation is the side effect of thinking]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 95).
 * [[Creative process requires both divergent and convergent thinking]]
@@ -146,6 +146,8 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 	* [[Ahrens, How to Take Smart Notes]] (p. 142)
 * [[Praising for intelligence may stop learners from learning]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 53).
+* [[Zettelkasten makes writing a flow activity]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 93).
 * [[§What's top of mind]]
 	* Writing on [[Ahrens, How to Take Smart Notes]]
 

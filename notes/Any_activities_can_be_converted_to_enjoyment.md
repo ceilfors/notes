@@ -2,7 +2,7 @@
 See:
 - [[Boring routine can be converted to enjoyment]]
 - [[Pleasure can be converted to enjoyment]]
-- [[Imprisonment can be converted to enjoyment]]
+- [[Adversity can be converted to enjoyment]]
 
 <!-- #evergreen #flow -->
 
