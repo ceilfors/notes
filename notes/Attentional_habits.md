@@ -10,7 +10,7 @@ Attentional habits are the [[Psychic energy]] that we spend not by our own inten
 * [[To control consciousness is to be able to focus attention at will]]
 	* These idea don’t come without challenges. We grew up building [[Attentional habits]] which are hard to change, and our attention may be demanded by goals that are not ours.
 * [[Personality trait is a pattern of attentional habits]]
-	* Given there are two people with different personality traits in a party, the extrovert would typically be energised after socialising, while the introvert would normally end up quite exhausted. The reason why these two people feel differently can be explained by how they spend their [[Psychic energy]]. The extrovert has the [[Attentional habits]] to spend their energy looking for enjoyment with others, whilst the introvert might spend their energy being self-conscious and questioning why they are in a party, which is a habit that might be formed due to their bad experience in socialising.
+	* Given there are two people with different personality traits in a party, the extrovert would typically be energised after socialising, while the introvert would normally end up quite exhausted. The reason why these two people feel differently can be explained by how they spend their [[Psychic energy]]. The extrovert has the [[Attentional habits]] to spend their energy looking for enjoyment with others, whilst the introvert might spend their energy being self-conscious and questioning why they are in a party, which is a habit that might be formed due to their bad experience in socialising ([[Narcissism blocks flow]]).
 
 <!-- #evergreen #attention -->
 

@@ -13,21 +13,28 @@ Csikszentmihalyi, Mihaly. *Flow: The Classic Work on How to Achieve Happiness*. 
 	* [[Mihaly, Flow]] (p. 27).
 * [[Pleasure can be converted to enjoyment]]
 	* [[Mihaly, Flow]] (p. 46).
-* [[To control consciousness is to be able to focus attention at will]]
-	* [[Mihaly, Flow]] (p. 31).
 * [[Flow experience is an autotelic experience]]
 	* [[Mihaly, Flow]] (p. 67).
-* [[Attentional habits]]
-	* [[Mihaly, Flow]] (p. 30).
+* [[To control consciousness is to be able to focus attention at will]]
+	* [[Mihaly, Flow]] (p. 31).
 * [[To control consciousness is to override biological and social instruction]]
 	* [[Mihaly, Flow]] (p. 24).
 	* [[Mihaly, Flow]] (pp. 27 - 28).
 * [[Boring routine can be converted to enjoyment]]
 	* [[Mihaly, Flow]] (p. 39).
+* [[Attentional habits]]
+	* [[Mihaly, Flow]] (p. 30).
+* [[Alienation blocks flow]]
+	* [[Mihaly, Flow]] (p. 86).
 * [[The limits of consciousness]]
 	* [[Mihaly, Flow]] (pp. 28 - 29).
 * [[The difference between pleasure and enjoyment is the amount of psychic energy spent]]
 	* [[Mihaly, Flow]] (pp. 46 - 47).
+* [[The prerequisites of flow are needed to flood working memory]]
+	* [[Mihaly, Flow]] (p. 59).
+* [[Narcissism blocks flow]]
+	* [[Mihaly, Flow]] (p. 84).
+	* [[Mihaly, Flow]] (pp. 92-93).
 * [[Controlling consciousness is learnable]]
 	* [[Mihaly, Flow]] (p. 25).
 * [[Creative work requires clear goals and feedback to become a flow activity]]
@@ -35,17 +42,25 @@ Csikszentmihalyi, Mihaly. *Flow: The Classic Work on How to Achieve Happiness*. 
 	* [[Mihaly, Flow]] (p. 72).
 * [[Flow activities are exotelic first before they become autotelic]]
 	* [[Mihaly, Flow]] (p. 68).
+* [[Anomie blocks flow]]
+	* [[Mihaly, Flow]] (p. 86).
+* [[Attentional disorder blocks flow]]
+	* [[Mihaly, Flow]] (p. 84).
+* [[Personality trait is a pattern of attentional habits]]
+	* [[Mihaly, Flow]] (p. 33).
+	* [[Mihaly, Flow]] (p. 50).
 * [[The treadmill of rising expectation]]
 	* [[Mihaly, Flow]] (p. 10).
+* [[Autotelic personality]]
+	* [[Mihaly, Flow]] (p. 90).
+	* [[Mihaly, Flow]] (p. 92).
+	* [[Mihaly, Flow]] (p. 93).
 * [[Complexity is a result of differentiation and integration]]
 	* [[Mihaly, Flow]] (p. 41).
 * [[Information is interesting when it’s relatable]]
 	* [[Mihaly, Flow]] (p. 52).
 * [[Meditation is a practice to control consciousness]]
 	* [[Mihaly, Flow]] (p. 104).
-* [[Personality trait is a pattern of attentional habits]]
-	* [[Mihaly, Flow]] (p. 33).
-	* [[Mihaly, Flow]] (p. 50).
 * [[Pleasure does not lead to flow experience]]
 	* [[Mihaly, Flow]] (pp. 45 - 46).
 * [[Repeating flow activities may stop flow experiences]]
@@ -53,8 +68,6 @@ Csikszentmihalyi, Mihaly. *Flow: The Classic Work on How to Achieve Happiness*. 
 	* [[Mihaly, Flow]] (pp. 74 - 75).
 * [[The key to flow is to control consciousness]]
 	* [[Mihaly, Flow]] (p. 39).
-* [[The prerequisites of flow are needed to flood working memory]]
-	* [[Mihaly, Flow]] (p. 59).
 * [[§What's top of mind]]
 	* Writing on [[Mihaly, Flow]]
 

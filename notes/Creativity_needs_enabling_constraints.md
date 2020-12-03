@@ -17,6 +17,8 @@ Constraints also allow us to compare one idea with another. When you can't compa
 > One thing is for sure: the common idea that we should liberate ourselves from any restrictions and "open ourselves up" to be more creative is very misleading indeed (Dean 2013, 201).
 
 ## Backlinks
+* [[Anomie blocks flow]]
+	* Anomie is an interesting paradox where we may think that the lack of rule means freedom, which may be correlated to enjoyment. [[Creativity needs enabling constraints]].
 * [[Limiting the length of your zettels can make them atomic]]
 	* Constraining your notes to a certain length may sound very restrictive for a creative work like writing, but [[Creativity needs enabling constraints]].
 

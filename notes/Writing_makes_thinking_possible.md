@@ -19,12 +19,12 @@ When there are too many variables that we're thinking about, note-writing let go
 	* [[Writing makes thinking possible]]
 * [[To write is to rubber duck]]
 	* Perhaps, one reason I felt stuck is because there are too many variables I’m playing in my head when I was presented with the architectural problem. I was hitting my [[Working memory limits]]. By writing them down, it’s as if I have more working memory to play with. [[Writing makes thinking possible]].
+* [[The prerequisites of flow are needed to flood working memory]]
+	* First, the activity that is being executed must require skills, because a more passive activity will not be able to flood your working memory. Any activity that requires skill will demand more information to be in your working memory, hence you can quickly flood them up. A good example of an activity that will flood your working memory is thinking, which is why an external tool like writing is needed to aid our working memory limits [[Writing makes thinking possible]].
 * [[To diagram is to model]]
 	* I’ve attempted to follow this principle but it has never really worked for me, I resorted to drawing the diagrams manually. The reason I do this manually is because of the same reason of I write, it helps me think ([[Writing makes thinking possible]]). Moving and creating boxes and lines help me think about boundaries, whether the system is getting too complicated, or is it evolving in the right direction.
 * [[Documentation is the side effect of thinking]]
 	* On the first reaction, I don't actually write or draw them for keeping records, I do it because [[Writing makes thinking possible]]. And because the primary reason I write is for thinking (and draw for modelling - [[To diagram is to model]]), the documents are just the side effect of the thinking process. As Feynman said (Ahrens 95):
-* [[The prerequisites of flow are needed to flood working memory]]
-	* First, the activity that is being executed must require skills, because a more passive activity will not be able to flood your working memory. Any activity that requires skill will demand more information to be in your working memory, hence you can quickly flood them up. A good example of an activity that will flood your working memory is thinking, which is why an external tool like writing is needed to aid our working memory limits [[Writing makes thinking possible]].
 
 <!-- #evergreen #writing #thinking -->
 
