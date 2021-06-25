@@ -61,10 +61,10 @@
 		</dict>
 	</array>
 	<key>WorkingDirectory</key>
-	<string>/Users/wisentanasa/github/notes</string>
+	<string>/Users/wisentanasa/github/ceilfors/notes</string>
 	<key>StandardOutPath</key>
-	<string>/Users/wisentanasa/github/notes/.script/cron-output/out.log</string>
+	<string>/Users/wisentanasa/github/ceilfors/notes/.script/cron-output/out.log</string>
 	<key>StandardErrorPath</key>
-	<string>/Users/wisentanasa/github/notes/.script/cron-output/err.log</string>
+	<string>/Users/wisentanasa/github/ceilfors/notes/.script/cron-output/err.log</string>
 </dict>
 </plist>
