@@ -151,6 +151,6 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 * [[§What's top of mind]]
 	* Writing on [[Ahrens, How to Take Smart Notes]]
 
-<!-- #literature -->
+<!-- #evergreen #literature -->
 
 <!-- {BearID:B72954BD-125C-4A91-A0A2-45BE3D12F0C9-88256-0001A873B7780B19} -->

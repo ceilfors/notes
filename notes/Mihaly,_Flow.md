@@ -71,6 +71,6 @@ Csikszentmihalyi, Mihaly. *Flow: The Classic Work on How to Achieve Happiness*. 
 * [[§What's top of mind]]
 	* Writing on [[Mihaly, Flow]]
 
-<!-- #literature #^inbox/book -->
+<!-- #evergreen# #literature #^inbox/book -->
 
 <!-- {BearID:04DE2361-A5BB-488B-9F9D-33B58F91D0E5-12820-00000E335296DFED} -->
