@@ -9,6 +9,8 @@ It's a fallacy to assume that website users will be reading the content of a web
 ## Backlinks
 * [[Following convention helps scanning]]
 	* Users would have visited a lot of websites by the time they get to yours, and following the existing conventions will give the sense of familiarity to your users. This familiarity is important as it will allow users to scan your web pages, deciding what they could click and what they could ignore very quickly ([[Websites should be designed for scanning]]).
+* [[Usable websites require less psychic energy]]
+	* The reason why [[Websites should be designed for scanning]] is important is because it reduces the amount of [[Psychic energy]] used for looking at the website. There is only a limited amount of psychic energy that we can use in a day, therefore websites that are designed for scanning will conserve our energy to be spent elsewhere.
 * [[Visual hierarchy helps scanning]]
 	* [[Websites should be designed for scanning]]. Visual hierarchy helps users scan a web page by visualising how the web elements are being organised. Imaging how hard would it be to scan a book without chapters, headings, or any font weight difference, where all the text look the same.
 

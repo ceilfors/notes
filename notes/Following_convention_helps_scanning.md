@@ -1,7 +1,7 @@
 # Following convention helps scanning
 Users would have visited a lot of websites by the time they get to yours, and following the existing conventions will give the sense of familiarity to your users. This familiarity is important as it will allow users to scan your web pages, deciding what they could click and what they could ignore very quickly ([[Websites should be designed for scanning]]).
 
-For example, most users will have the preconceived ideas of how buttons would look like, so ensuring that buttons look clickable will give users familiarity. Designing links that look clickable will have the same effect.
+For example, most users will have the preconceived ideas of how buttons would look like, so ensuring that buttons look clickable will give users familiarity. Designing links that look clickable will have the same effect. Navigation bar is most commonly located on the top, and the same to websites logo as well.
 
 ---
 ## References
