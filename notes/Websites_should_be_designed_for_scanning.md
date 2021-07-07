@@ -7,8 +7,12 @@ It's a fallacy to assume that website users will be reading the content of a web
 > One of the very few well-documented facts about Web use is that people tend to spend very little time reading most Web pages. Instead, we scan (or skim) them, looking for words or phrases that catch our eyes
 
 ## Backlinks
+* [[Effective website navigation helps navigating non-psychical space]]
+	* Unlike physical space, a website is not inherently navigable. Website navigation is an element that needs to be intentionally designed, which not only to provide a means for users to use their spatial ability to work out where they, but also to allow them to find what they're looking for quickly ([[Websites should be designed for scanning]]).
 * [[Following convention helps scanning]]
 	* Users would have visited a lot of websites by the time they get to yours, and following the existing conventions will give the sense of familiarity to your users. This familiarity is important as it will allow users to scan your web pages, deciding what they could click and what they could ignore very quickly ([[Websites should be designed for scanning]]).
+* [[Persistent web navigation may cause distraction]]
+	* Even though [[Web navigation should be persistent and consistent]], web navigation can also be a distraction, especially when users have switched the way they think from scanning ([[Websites should be designed for scanning]]) into focusing on a task. When users are trying to focus on completing a form, for example, they may or may not intentionally click on web navigation therefore not completing the intended form. In the scenario where a persistent web navigation becomes a distraction, the web navigation should be kept to the minimum, such as just the Site ID.
 * [[Usable websites require less psychic energy]]
 	* The reason why [[Websites should be designed for scanning]] is important is because it reduces the amount of [[Psychic energy]] used for looking at the website. There is only a limited amount of psychic energy that we can use in a day, therefore websites that are designed for scanning will conserve our energy to be spent elsewhere.
 * [[Visual hierarchy helps scanning]]
