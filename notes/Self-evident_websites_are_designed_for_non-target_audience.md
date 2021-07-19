@@ -1,7 +1,8 @@
 # Self-evident websites are designed for non-target audience
 It's a common mistake to design websites for the target audience, the domain experts. Domain experts typically would have domain specific languages, which when used would make websites harder to be understood by beginners. Even worse, the domain specific language that you have used for the design might not actually be used by other domain experts.
 
-[[Usable websites should be self-evident and self-explanatory]], and to achieve this you'll need to design for the beginners instead. The languages used by beginners would make the website be self-evident for both the beginners and the experts.
+[[Usable websites are self-evident]], and to achieve this you'll need to design for the beginners instead. The languages used by beginners would make the website be self-evident for both the beginners and the experts.
+
 ---
 ## References
 [[Krug, Don’t make me think]] (p. 18).
