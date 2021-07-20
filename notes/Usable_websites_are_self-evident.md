@@ -16,6 +16,10 @@ Whilst unusable websites would normally raise a lot of questions in the users' h
 	* It's a fallacy to assume that website users will be reading the content of a website thoroughly, whilst the most users will be scanning instead. Users will not open up a webpage then start reading from left to right, top to bottom, with rigour. What they will do instead is they will start to look into something that have managed to caught their attention, based on what they're looking for. The design effort that we should spend is to optimise this scanning process, therefore making the websites self-evident ([[Usable websites are self-evident]]).
 * [[Self-evident websites are designed for non-target audience]]
 	* [[Usable websites are self-evident]], and to achieve this you'll need to design for the beginners instead. The languages used by beginners would make the website be self-evident for both the beginners and the experts.
+* [[Self-evident websites do not need instructions]]
+	* [[Usable websites are self-evident]], therefore time to build websites should proportionately being spent on making them self-evident rather than writing instructions on how to use them. If self-evidence is not achievable, try to make it self-explanatory first ([[Websites should be self-explanatory when not self-evident]]). Lastly, when something could not be made self-explanatory, a short instruction could be written.
+* [[Websites should be self-explanatory when not self-evident]]
+	* Even though [[Usable websites are self-evident]], not every elements of a website can be made self-evident. When there is a concept that can't be made obvious or self-evident, resort to making them self-explanatory.
 
 <!-- #evergreen -->
 

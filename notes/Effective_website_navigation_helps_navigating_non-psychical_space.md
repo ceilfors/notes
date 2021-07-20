@@ -20,6 +20,8 @@ Unlike physical space, a website is not inherently navigable. Website navigation
 ## Backlinks
 * [[Web navigation should be persistent and consistent]]
 	* [[Effective website navigation helps navigating non-psychical space]]. Given that the users will be moving from one page to another, the navigation should also be persistent and look the same throughout their journey.
+* [[Does making non-psychical thing more psychical makes it more navigable?]]
+	* [[Effective website navigation helps navigating non-psychical space]].
 
 <!-- #evergreen -->
 
