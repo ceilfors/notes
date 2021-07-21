@@ -19,6 +19,8 @@ It's a fallacy to assume that website users will be reading the content of a web
 	* The reason why [[Websites should be designed for scanning]] is important is because it reduces the amount of [[Psychic energy]] used for looking at the website. There is only a limited amount of psychic energy that we can use in a day, therefore websites that are designed for scanning will conserve our energy to be spent elsewhere.
 * [[Visual hierarchy helps scanning]]
 	* [[Websites should be designed for scanning]]. Visual hierarchy helps users scan a web page by visualising how the web elements are being organised. Imaging how hard would it be to scan a book without chapters, headings, or any font weight difference, where all the text look the same.
+* [[Web usability is achieved by designing for the intended attention types]]
+	* Users will usually come into a website looking for something. In this scenario, users will be using the playful attention type, therefore the web pages should be designed for scanning ([[Websites should be designed for scanning]]).
 
 <!-- #evergreen -->
 
