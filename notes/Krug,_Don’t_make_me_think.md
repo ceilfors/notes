@@ -25,12 +25,16 @@ Krug, Steve. *Don’t Make Me Think, Revisited: A Common Sense Approach to Web U
 * [[Following convention helps scanning]]
 	* [[Krug, Don’t make me think]] (p. 31).
 	* [[Krug, Don’t make me think]] (p.  101).
+* [[Good design optimises for constraints and trade-offs]]
+	* [[Krug, Don’t make me think]] (p. 145).
 * [[Persistent web navigation may cause distraction]]
 	* [[Krug, Don’t make me think]] (p. 67).
 * [[Running frequent usability tests can be done by recruiting loosely]]
 	* [[Krug, Don’t make me think]] (p. 117).
 * [[Visual hierarchy helps scanning]]
 	* [[Krug, Don’t make me think]] (p. 35).
+* [[Websites designed for mobile screens should be performant than usual]]
+	* [[Krug, Don’t make me think]] (p. 148).
 * [[§What's top of mind]]
 	* Writing on [[Krug, Don’t make me think]]
 
