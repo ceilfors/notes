@@ -19,8 +19,8 @@ Psychic energy is a form of energy that we use to think, remember, make decision
 	* Given there are two people with different personality traits in a party, the extrovert would typically be energised after socialising, while the introvert would normally end up quite exhausted. The reason why these two people feel differently can be explained by how they spend their [[Psychic energy]]. The extrovert has the [[Attentional habits]] to spend their energy looking for enjoyment with others, whilst the introvert might spend their energy being self-conscious and questioning why they are in a party, which is a habit that might be formed due to their bad experience in socialising ([[Narcissism blocks flow]]).
 * [[The key to flow is to control consciousness]]
 	* Making new information congruent with your goal is difficult. We live with biological and social instruction which may cause psychic disorder in our consciousness, and may trap us in [[The treadmill of rising expectation]]. Dealing with such disorder will deplete our [[Psychic energy]], which is essential for experiencing flow ([[The difference between pleasure and enjoyment is the amount of psychic energy spent]])
-* [[Usable websites require less psychic energy]]
-	* The reason why [[Websites should be designed for scanning]] is important is because it reduces the amount of [[Psychic energy]] used for looking at the website. There is only a limited amount of psychic energy that we can use in a day, therefore websites that are designed for scanning will conserve our energy to be spent elsewhere.
+* [[Usable websites require less psychic energy to be used]]
+	* Users will typically be coming into your websites to accomplish a certain task. The easier it is for your websites to be used, the less [[Psychic energy]] is going to be used by the users. When the more psychic energy is needed, users will get frustrated and leave.
 
 <!-- #evergreen #attention #thinking -->
 

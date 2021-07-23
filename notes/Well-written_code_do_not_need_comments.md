@@ -6,7 +6,7 @@
 
 ## Backlinks
 * [[Self-evident design removes explanation]]
-	* [[Self-evident websites do not need instructions]]
+	* [[Well-written code do not need comments]]
 
 <!-- #evergreen -->
 

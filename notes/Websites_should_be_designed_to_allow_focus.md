@@ -7,10 +7,10 @@ There are normally a lot of stakeholders who's involved in deciding what should 
 > Too many cooks. Because the Home page is so important, it's the one page that everybody (event the CEO) has an opinion about.
 
 ## Backlinks
-* [[Persistent web navigation may cause distraction]]
-	* Even though [[Web navigation should be persistent and consistent]], web navigation can also be a distraction, especially when users have switched the way they think from scanning into focusing on a task ([[Websites should be designed to allow focus]]). When users are trying to focus on completing a form, for example, they may or may not intentionally click on web navigation therefore not completing the intended form. In the scenario where a persistent web navigation becomes a distraction, the web navigation should be kept to the minimum, such as just the Site ID.
 * [[Web usability is achieved by designing for the intended attention types]]
 	* Once users have found what they are looking for, they will usually be required to spend an effort, like filling a form, for example. In this scenario, users will be using the analytical attention type, therefore the web pages should help the users focus ([[Websites should be designed to allow focus]]).
+* [[Persistent web navigation may cause distraction]]
+	* Even though [[Web navigation should be persistent and consistent]], web navigation can also be a distraction, especially when users have switched the way they think from scanning into focusing on a task ([[Websites should be designed to allow focus]]). When users are trying to focus on completing a form, for example, they may or may not intentionally click on web navigation therefore not completing the intended form. In the scenario where a persistent web navigation becomes a distraction, the web navigation should be kept to the minimum, such as just the Site ID.
 
 <!-- #evergreen -->
 

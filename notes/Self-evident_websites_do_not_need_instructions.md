@@ -9,6 +9,8 @@
 ## Backlinks
 * [[Self-evident design removes explanation]]
 	* [[Self-evident websites do not need instructions]]
+* [[Usable websites require less psychic energy to be used]]
+	* This is why [[Web usability is achieved by designing for the intended attention types]]. Adding long instructions, for example, will drain the users energy unnecessarily ([[Self-evident websites do not need instructions]]).
 
 <!-- #evergreen -->
 

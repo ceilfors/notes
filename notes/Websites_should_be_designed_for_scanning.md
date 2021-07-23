@@ -11,16 +11,14 @@ It's a fallacy to assume that website users will be reading the content of a web
 	* Unlike physical space, a website is not inherently navigable. Website navigation is an element that needs to be intentionally designed, which not only to provide a means for users to use their spatial ability to work out where they, but also to allow them to find what they're looking for quickly ([[Websites should be designed for scanning]]).
 * [[Websites should be designed to allow focus]]
 	* There are normally a lot of stakeholders who's involved in deciding what should go in a website. These stakeholders will have their own incentives and goals, which will cause a lot of clutter in a website. Even though [[Websites should be designed for scanning]], there are other parts of a website where the priority should be helping users complete their tasks. For example, when a user is trying to complete a checkout in an e-commerce website, they have made a decision on what they'd like to do. In this situation, scanning is no longer the mode of their thinking, and we should design the web pages in a way that reduce distraction.
+* [[Web usability is achieved by designing for the intended attention types]]
+	* Users will usually come into a website looking for something. In this scenario, users will be using the playful attention type, therefore the web pages should be designed for scanning ([[Websites should be designed for scanning]]).
 * [[Following convention helps scanning]]
 	* Users would have visited a lot of websites by the time they get to yours, and following the existing conventions will give the sense of familiarity to your users. This familiarity is important as it will allow users to scan your web pages, deciding what they could click and what they could ignore very quickly ([[Websites should be designed for scanning]]).
 * [[To design usable things, understand how they're being used]]
 	* The key to designing a usable website is to understand how websites are used. It's a mistake to think that users will be reading everything in a page from top to bottom, where users are actually scanning web pages ([[Websites should be designed for scanning]]).
-* [[Usable websites require less psychic energy to be used]]
-	* The reason why [[Websites should be designed for scanning]] is important is because it reduces the amount of [[Psychic energy]] used for looking at the website. There is only a limited amount of psychic energy that we can use in a day, therefore websites that are designed for scanning will conserve our energy to be spent elsewhere.
 * [[Visual hierarchy helps scanning]]
 	* [[Websites should be designed for scanning]]. Visual hierarchy helps users scan a web page by visualising how the web elements are being organised. Imaging how hard would it be to scan a book without chapters, headings, or any font weight difference, where all the text look the same.
-* [[Web usability is achieved by designing for the intended attention types]]
-	* Users will usually come into a website looking for something. In this scenario, users will be using the playful attention type, therefore the web pages should be designed for scanning ([[Websites should be designed for scanning]]).
 
 <!-- #evergreen -->
 
