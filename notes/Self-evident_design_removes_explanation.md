@@ -1,6 +1,6 @@
 # Self-evident design removes explanation
-[[Self-evident websites do not need instructions]]
-[[Well-written code do not need comments]]
+- [[Self-evident websites do not need instructions]]
+- [[Well-written code do not need comments]]
 
 <!-- #connection -->
 
