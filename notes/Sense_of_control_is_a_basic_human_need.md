@@ -14,6 +14,10 @@ When we think about human needs, we most commonly think about our biological nee
 [Maslow’s hierarchy of needs - Simple English Wikipedia, the free encyclopedia](https://simple.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
 > Adults, much like children, prefer the world to be organized. This ensures a level of safety. However, some adults are too focused on organization. People may also attempt to control the world around them in all ways possible.
 
+## Backlinks
+* [[Home should restore children’s sense of control]]
+	* [[Sense of control is a basic human need]]. Unfortunately, [[School reduces children sense of control]].  Given that the majority of children’s time is being spent in school, they have to have a different place where their sense of control could be balanced out.
+
 <!-- #evergreen -->
 
 <!-- {BearID:B0FCEF31-0DA2-4664-855F-BF8F16561187-41464-00004D59E5BA5C54} -->
