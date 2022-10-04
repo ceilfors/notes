@@ -9,6 +9,9 @@ To restore children’s sense of control, adopt [[Authoritative parenting style]
 [[The Self-Driven Child]] (p. 39)
 > Teachers can teach, coaches can coach […], but there’s one thing only parents can do: love their kids unconditionally and provide them with a safe base at home. For children who are stressed at school or in other parts of their lives, home should be a safe haven, a place to rest and recover.
 
+[[The Self-Driven Child]] (p.48)
+> Remember, while teachers can teach and coaches can coach (and cut your kid from the team), only you can be the safe base.
+
 <!-- #evergreen -->
 
 <!-- {BearID:D5531AA7-7387-4C93-9D72-701F7854FC88-41464-00004D70C39F66F6} -->
