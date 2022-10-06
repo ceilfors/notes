@@ -12,12 +12,12 @@ We always think that children will not be able to make good decisions in their l
 > Once properly informed, kids usually do make good decisions for themselves - and their decisions are almost ways as good as or better than our own.
 
 [[The Self-Driven Child]] (p. 64)
-> […] a fascinating study looked at the decision-making abilities of kids from ages nine to twenty-one.*(3)*
+> […] a fascinating study looked at the decision-making abilities of kids from ages nine to twenty-one.<sup>3</sup>
 > […]
 > And those decisions resembled the recommendation made by most experts. […] Interestingly, half of the nine-year-olds chose that option, too.[…] We think this shows not only that nine-year-olds are capable decision makers, but also that when they come up short it’s because of lack of knowledge, not necessarily judgement.
 
 [[The Self-Driven Child]] (pp. 64-65)
-> […] He found that teens generally perform as well on this test as adults do.*(4)* […] Research has found that by the time kids are fourteen or fifteen, they generally have adult-level ability to make rational decisions. In fact, most cognitive processes reach adult levels by midadolescence.*(5)*
+> […] He found that teens generally perform as well on this test as adults do.<sup>4</sup> […] Research has found that by the time kids are fourteen or fifteen, they generally have adult-level ability to make rational decisions. In fact, most cognitive processes reach adult levels by midadolescence.<sup>5</sup>
 
 <!-- #evergreen -->
 

@@ -16,6 +16,10 @@ The other prerequisites of flow that is related to autotelic personality is clea
 [[Mihaly, Flow]] (p. 93).
 > Without interest in the world, a desire to be actively related to it, a person becomes isolated into himself. Bertrand Russell, one of the greatest philosophers of our century described how he achieved personal happiness: “Gradually I learned to be indifferent to myself and my deficiencies; I came to centre my attention increasingly upon external objects: the state of the world, various branches of knowledge, individuals for whom I felt affection.” There could be no better short description of how to build for oneself an autotelic personality.
 
+## Backlinks
+* [[Frequent exposure to flow states builds self-motivation]]
+	* The flow state is correlated to happiness and joy. When you’re exposed to the flow state frequently, that state of mind will be an experience that you’d like to get more again. This ends up becoming a motivational factor to do a task for the sake of it, building up the ([[Autotelic personality]]).
+
 <!-- #evergreen #flow #autotelic -->
 
 <!-- {BearID:85E7C6C1-C0AC-453E-B49D-3A80A58EC14B-50666-000096926A96E80E} -->

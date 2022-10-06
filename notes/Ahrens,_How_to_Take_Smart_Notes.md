@@ -132,6 +132,8 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 	* [[Ahrens, How to Take Smart Notes]] (p. 142).
 * [[Creativity needs enabling constraints]]
 	* [[Ahrens, How to Take Smart Notes]] (pp. 130-132).
+* [[Praising for intelligence may stop learners from learning]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 53).
 * [[The number of zettels written per day is a better lead measure for learning]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 94).
 * [[Documentation is the side effect of thinking]]
@@ -144,8 +146,6 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 	* [[Ahrens, How to Take Smart Notes]] (pp. 129-130).
 * [[Positive thinking can result in negative outcome if it is not translated into actions]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 142)
-* [[Praising for intelligence may stop learners from learning]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 53).
 * [[Zettelkasten makes writing a flow activity]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 93).
 * [[§What's top of mind]]

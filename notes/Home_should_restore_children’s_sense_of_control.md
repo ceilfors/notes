@@ -12,6 +12,9 @@ To restore children’s sense of control, adopt [[Authoritative parenting style]
 [[The Self-Driven Child]] (p.48)
 > Remember, while teachers can teach and coaches can coach (and cut your kid from the team), only you can be the safe base.
 
+[[The Self-Driven Child]] (p.110)
+> The very best thing you can do to help your children develop self-motivation is to give them as much control over their choices as possible, including asking them what is they want to be competent at and in charge of.
+
 <!-- #evergreen -->
 
 <!-- {BearID:D5531AA7-7387-4C93-9D72-701F7854FC88-41464-00004D70C39F66F6} -->

@@ -7,6 +7,8 @@ Even though [[Flow experience is an autotelic experience]], the reality is you c
 > Most enjoyable activities are not natural; they demand an effort that initially one is reluctant to make. But once the interaction starts to provide feedback to the person’s skills, it usually begins to be intrinsically rewarding.
 
 ## Backlinks
+* [[Extrinsic motivation could undermine children’s self-motivation]]
+	* Realistically speaking, though, most in things in life started extrinsically. My 6-year-old now brush her teeth without anymore stickers. See also: [[Flow activities are exotelic first before they become autotelic]]
 * [[How is intrinsic motivation related to autotelic?]]
 	* For example, a person who is learning to code may be motivated to start a business. This person is therefore intrinsically motivated, but the coding activity is not autotelic (it’s exotelic). But any [[Flow activities are exotelic first before they become autotelic]], so this person may eventually find coding to be autotelic.
 

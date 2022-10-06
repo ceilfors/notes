@@ -7,14 +7,14 @@ Csikszentmihalyi, Mihaly. *Flow: The Classic Work on How to Achieve Happiness*. 
 	* [[Mihaly, Flow]] (p. 66).
 * [[Psychic energy]]
 	* [[Mihaly, Flow]] (p. 33).
+* [[Flow experience is an autotelic experience]]
+	* [[Mihaly, Flow]] (p. 67).
 * [[Consciousness is intentionally ordered information]]
 	* [[Mihaly, Flow]] (p. 24).
 	* [[Mihaly, Flow]] (p. 26).
 	* [[Mihaly, Flow]] (p. 27).
 * [[Pleasure can be converted to enjoyment]]
 	* [[Mihaly, Flow]] (p. 46).
-* [[Flow experience is an autotelic experience]]
-	* [[Mihaly, Flow]] (p. 67).
 * [[To control consciousness is to be able to focus attention at will]]
 	* [[Mihaly, Flow]] (p. 31).
 * [[To control consciousness is to override biological and social instruction]]
@@ -24,24 +24,28 @@ Csikszentmihalyi, Mihaly. *Flow: The Classic Work on How to Achieve Happiness*. 
 	* [[Mihaly, Flow]] (p. 39).
 * [[Attentional habits]]
 	* [[Mihaly, Flow]] (p. 30).
+* [[Flow activities are exotelic first before they become autotelic]]
+	* [[Mihaly, Flow]] (p. 68).
+* [[Narcissism blocks flow]]
+	* [[Mihaly, Flow]] (p. 84).
+	* [[Mihaly, Flow]] (pp. 92-93).
 * [[Alienation blocks flow]]
 	* [[Mihaly, Flow]] (p. 86).
+* [[Controlling consciousness is learnable]]
+	* [[Mihaly, Flow]] (p. 25).
 * [[The limits of consciousness]]
 	* [[Mihaly, Flow]] (pp. 28 - 29).
 * [[The difference between pleasure and enjoyment is the amount of psychic energy spent]]
 	* [[Mihaly, Flow]] (pp. 46 - 47).
 * [[The prerequisites of flow are needed to flood working memory]]
 	* [[Mihaly, Flow]] (p. 59).
-* [[Narcissism blocks flow]]
-	* [[Mihaly, Flow]] (p. 84).
-	* [[Mihaly, Flow]] (pp. 92-93).
-* [[Controlling consciousness is learnable]]
-	* [[Mihaly, Flow]] (p. 25).
+* [[Autotelic personality]]
+	* [[Mihaly, Flow]] (p. 90).
+	* [[Mihaly, Flow]] (p. 92).
+	* [[Mihaly, Flow]] (p. 93).
 * [[Creative work requires clear goals and feedback to become a flow activity]]
 	* [[Mihaly, Flow]] (pp. 55 - 56).
 	* [[Mihaly, Flow]] (p. 72).
-* [[Flow activities are exotelic first before they become autotelic]]
-	* [[Mihaly, Flow]] (p. 68).
 * [[Anomie blocks flow]]
 	* [[Mihaly, Flow]] (p. 86).
 * [[Attentional disorder blocks flow]]
@@ -51,10 +55,6 @@ Csikszentmihalyi, Mihaly. *Flow: The Classic Work on How to Achieve Happiness*. 
 	* [[Mihaly, Flow]] (p. 50).
 * [[The treadmill of rising expectation]]
 	* [[Mihaly, Flow]] (p. 10).
-* [[Autotelic personality]]
-	* [[Mihaly, Flow]] (p. 90).
-	* [[Mihaly, Flow]] (p. 92).
-	* [[Mihaly, Flow]] (p. 93).
 * [[Complexity is a result of differentiation and integration]]
 	* [[Mihaly, Flow]] (p. 41).
 * [[Information is interesting when it’s relatable]]
