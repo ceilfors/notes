@@ -2,13 +2,13 @@
 Csikszentmihalyi, Mihaly. *Flow: The Classic Work on How to Achieve Happiness*. Rev. ed, Rider, 2002
 
 ## Backlinks
+* [[Flow experience is an autotelic experience]]
+	* [[Mihaly, Flow]] (p. 67).
 * [[The components of flow experience]]
 	* [[Mihaly, Flow]] (p. 49).
 	* [[Mihaly, Flow]] (p. 66).
 * [[Psychic energy]]
 	* [[Mihaly, Flow]] (p. 33).
-* [[Flow experience is an autotelic experience]]
-	* [[Mihaly, Flow]] (p. 67).
 * [[Consciousness is intentionally ordered information]]
 	* [[Mihaly, Flow]] (p. 24).
 	* [[Mihaly, Flow]] (p. 26).

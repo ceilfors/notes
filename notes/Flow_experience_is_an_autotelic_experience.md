@@ -8,6 +8,8 @@ Flow experience is an autotelic experience, this means an activity is enjoyable 
 > Teaching children in order to turn them into good citizens is not autotelic, whereas teaching them because one joys interacting with children is.
 
 ## Backlinks
+* [[Flow experience]]
+	* [[Flow experience is an autotelic experience]]
 * [[Flow activities are exotelic first before they become autotelic]]
 	* Even though [[Flow experience is an autotelic experience]], the reality is you can’t possibly know if you would enjoy an activity in an autotelic way before trying them out first. Most people will naturally be reluctant to spend effort in an activity that they don’t know if they will like. This means any activities, don’t matter how well designed they are for flow, will be exotelic first. Once you have tried an activity and the feedback you receive is intrinsically rewarding, that’s the point when the future experience you have in the activity may turn into an autotelic experience.
 * [[Autotelic personality]]

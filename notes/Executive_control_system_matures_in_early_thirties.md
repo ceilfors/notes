@@ -1,5 +1,5 @@
 # Executive control system matures in early thirties
-Prefrontal cortex, the primary part of the brain that supports planning and decision making process is only mature when you hit your thirties.
+[[Executive control system (brain)]] (the prefrontal cortex), is only mature when you hit your thirties.
 
 ## References
 [[The Self-Driven Child]] (p. 37)

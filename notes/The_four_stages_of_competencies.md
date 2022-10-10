@@ -1,14 +1,18 @@
 # The four stages of competencies
 1. Unconsciously incompetent
+
 The individual doesn’t know what they are not good at.
 
 2. Consciously incompetent
+
 The individual knows that what they’re not good at. This means they can start to learn.
 
 3. Consciously competent
+
 The individual learnt and know what they’re good at.
 
 4. Unconsciously competent
+
 The competent individual forgets about what they’re good at. Their skills become an intuition.
 
 ## References
