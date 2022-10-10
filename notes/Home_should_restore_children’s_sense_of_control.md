@@ -15,6 +15,10 @@ To restore children’s sense of control, adopt [[Authoritative parenting style]
 [[The Self-Driven Child]] (p.110)
 > The very best thing you can do to help your children develop self-motivation is to give them as much control over their choices as possible, including asking them what is they want to be competent at and in charge of.
 
+## Backlinks
+* [[Role of parents in raising self-driven children]]
+	* [[Home should restore children’s sense of control]]
+
 <!-- #evergreen -->
 
 <!-- {BearID:D5531AA7-7387-4C93-9D72-701F7854FC88-41464-00004D70C39F66F6} -->

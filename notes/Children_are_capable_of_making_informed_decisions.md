@@ -19,6 +19,10 @@ We always think that children will not be able to make good decisions in their l
 [[The Self-Driven Child]] (pp. 64-65)
 > […] He found that teens generally perform as well on this test as adults do.<sup>4</sup> […] Research has found that by the time kids are fourteen or fifteen, they generally have adult-level ability to make rational decisions. In fact, most cognitive processes reach adult levels by midadolescence.<sup>5</sup>
 
+## Backlinks
+* [[Role of parents in raising self-driven children]]
+	* Providing information, knowledge, and perspective, because [[Children are capable of making informed decisions]] and [[Lack of knowledge makes poor judgement]].
+
 <!-- #evergreen -->
 
 <!-- {BearID:2FC97BDD-9891-48DE-A92F-5689A8C48349-41464-000054FB9BF169D5} -->

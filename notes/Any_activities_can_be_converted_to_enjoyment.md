@@ -3,6 +3,7 @@ See:
 - [[Boring routine can be converted to enjoyment]]
 - [[Pleasure can be converted to enjoyment]]
 - [[Adversity can be converted to enjoyment]]
+- [[Anxiety can be converted to enjoyment]]
 
 ## Backlinks
 * [[Autotelic personality]]

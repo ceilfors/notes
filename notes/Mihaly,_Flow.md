@@ -13,6 +13,9 @@ Csikszentmihalyi, Mihaly. *Flow: The Classic Work on How to Achieve Happiness*. 
 	* [[Mihaly, Flow]] (p. 24).
 	* [[Mihaly, Flow]] (p. 26).
 	* [[Mihaly, Flow]] (p. 27).
+* [[Narcissism blocks flow]]
+	* [[Mihaly, Flow]] (p. 84).
+	* [[Mihaly, Flow]] (pp. 92-93).
 * [[Pleasure can be converted to enjoyment]]
 	* [[Mihaly, Flow]] (p. 46).
 * [[To control consciousness is to be able to focus attention at will]]
@@ -20,25 +23,22 @@ Csikszentmihalyi, Mihaly. *Flow: The Classic Work on How to Achieve Happiness*. 
 * [[To control consciousness is to override biological and social instruction]]
 	* [[Mihaly, Flow]] (p. 24).
 	* [[Mihaly, Flow]] (pp. 27 - 28).
-* [[Boring routine can be converted to enjoyment]]
-	* [[Mihaly, Flow]] (p. 39).
 * [[Attentional habits]]
 	* [[Mihaly, Flow]] (p. 30).
 * [[Flow activities are exotelic first before they become autotelic]]
 	* [[Mihaly, Flow]] (p. 68).
-* [[Narcissism blocks flow]]
-	* [[Mihaly, Flow]] (p. 84).
-	* [[Mihaly, Flow]] (pp. 92-93).
+* [[Boring routine can be converted to enjoyment]]
+	* [[Mihaly, Flow]] (p. 39).
 * [[Alienation blocks flow]]
 	* [[Mihaly, Flow]] (p. 86).
 * [[Controlling consciousness is learnable]]
 	* [[Mihaly, Flow]] (p. 25).
 * [[The limits of consciousness]]
 	* [[Mihaly, Flow]] (pp. 28 - 29).
-* [[The difference between pleasure and enjoyment is the amount of psychic energy spent]]
-	* [[Mihaly, Flow]] (pp. 46 - 47).
 * [[The prerequisites of flow are needed to flood working memory]]
 	* [[Mihaly, Flow]] (p. 59).
+* [[The difference between pleasure and enjoyment is the amount of psychic energy spent]]
+	* [[Mihaly, Flow]] (pp. 46 - 47).
 * [[Autotelic personality]]
 	* [[Mihaly, Flow]] (p. 90).
 	* [[Mihaly, Flow]] (p. 92).
@@ -69,7 +69,7 @@ Csikszentmihalyi, Mihaly. *Flow: The Classic Work on How to Achieve Happiness*. 
 * [[The key to flow is to control consciousness]]
 	* [[Mihaly, Flow]] (p. 39).
 * [[§What's top of mind]]
-	* Writing on [[Mihaly, Flow]]
+	* [[Mihaly, Flow]]
 
 <!-- #evergreen# #literature #^inbox/book -->
 

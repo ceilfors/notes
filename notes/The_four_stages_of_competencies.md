@@ -23,6 +23,10 @@ The competent individual forgets about what they’re good at. Their skills beco
 > Stage 2: […] “Okay, wow. That was harder than I thought. I guess I need to study math.” […]
 > Stage 3: […] “I’ve studied really hard, I know my math, this test will be fine.” […]
 
+## Backlinks
+* [[Role of parents in raising self-driven children]]
+	* Trust that [[The four stages of competencies]] model, and help the child get to stage 3 (stage 1 might be the most difficult part)
+
 <!-- #evergreen -->
 
 <!-- {BearID:882B5804-D5DA-4176-AB0D-60BDA56961F4-41464-00005674D87A2101} -->
