@@ -1,11 +1,12 @@
 # §What's top of mind
 Inspired by Andy Matuschak's [§What’s top of mind](https://notes.andymatuschak.org/%C2%A7What%E2%80%99s_top_of_mind).
 
-- [[Write about what you read]]
-	- [[The Self-Driven Child]]
-	- [[Krug, Don’t make me think]]
+- The autotelic developer
 	- [[Ahrens, How to Take Smart Notes]]
 	- [[Mihaly, Flow]]
+	- [[Krug, Don’t make me think]]
+- Education and parenting
+	- [[The Self-Driven Child]]
 - [[Open software design]]
 	- [upmo.com/dev/](https://upmo.com/dev/)
 	- Embedding documentation as development workflow
