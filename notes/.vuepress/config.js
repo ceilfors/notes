@@ -10,8 +10,9 @@ module.exports = {
     },
   },
   plugins: {
-    'sitemap': {
-      hostname: 'https://notes.ceilfors.com/'
+    plausible: { domain: "notes.ceilfors.com" },
+    sitemap: {
+      hostname: "https://notes.ceilfors.com/",
     },
   },
   themeConfig: {
@@ -21,5 +22,5 @@ module.exports = {
         link: "/§What's_top_of_mind.html",
       },
     ],
-  }
+  },
 };

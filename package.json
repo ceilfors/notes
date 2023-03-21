@@ -3,7 +3,9 @@
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "vuepress-plugin-plausible": "0.0.4"
+  },
   "devDependencies": {
     "@ceilfors/markdown-it-wikilinks": "file:./notes/.vuepress/markdown-it-wikilinks",
     "@ceilfors/note-link-janitor": "file:./.script/note-link-janitor",
