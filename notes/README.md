@@ -1,6 +1,7 @@
 ---
 home: true
 heroText: Welcome
+tagLine: ""
 ---
 
 Welcome to my personal working notes. This is an ongoing project to organise my thoughts around how I'm making sense of the world I am in, which may or may not meander around programming, software architecture, startups, consulting, and leadership.
