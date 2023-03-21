@@ -14,6 +14,8 @@
 	* We need a good method to think because we have [[Working memory limits]]. If [[Effective tool circumvents human limits]], we need to find a tool that circumvents our working memory limit. The tool, or method of thinking that has been proven by science is note-writing. Many would think that writing helps our thinking, but contemporary handbook of neuroscientists argues that writing is what makes thinking possible. Scientists with different specialisation, like psychologists, educators, or philosophers, may disagree on how our brain works, but most of them agree that real thinking will require a form of writing (Ahrens 95-96).
 * [[Effective workflow should break tasks down by attention types]]
 	* [[Effective tool circumvents human limits]], therefore we have to understand what limit we are faced with if we want to make a workflow more effective. Especially in a creative work, [[Only one type of attention can be given to one thing at one time]]. Given the limit of attention we have, an effective workflow should break task down into smaller chunks by different attention types.
+* [[§What's top of mind]]
+	* Defining atomic workflow because [[Effective tool circumvents human limits]].
 
 <!-- #evergreen #tool -->
 

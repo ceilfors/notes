@@ -11,6 +11,8 @@
 	* [[Use of innovations often precedes understanding]]. The Fosbury flop was not designed or came out of an analysis. Today, there are many explanation of why the Fosbury flop works such as how it allows our body to lower our centre of mass when our body is bent backwards.
 * [[Continuous Delivery precedes DORA]]
 	* Another example of how the [[Use of innovations often precedes understanding]].
+* [[§What's top of mind]]
+	* Contextually coach and apply evidence-based practices and experience-based practices ([[Use of innovations often precedes understanding]]).
 
 <!-- #evergreen -->
 

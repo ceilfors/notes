@@ -35,8 +35,6 @@ Krug, Steve. *Don’t Make Me Think, Revisited: A Common Sense Approach to Web U
 	* [[Krug, Don’t make me think]] (p. 35).
 * [[Websites designed for mobile screens should be performant than usual]]
 	* [[Krug, Don’t make me think]] (p. 148).
-* [[§What's top of mind]]
-	* [[Krug, Don’t make me think]]
 
 <!-- #evergreen #literature -->
 

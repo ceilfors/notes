@@ -21,6 +21,8 @@ I first discovered this when I saw Dave Snowden’s talk in the Craft Conference
 ## Backlinks
 * [[Exaptive Practice]]
 	* A practice for complex domain from [[Cynefin framework]].
+* [[§What's top of mind]]
+	* [[Cynefin framework]]
 
 <!-- #evergreen #thinking -->
 

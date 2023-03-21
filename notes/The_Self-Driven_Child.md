@@ -53,8 +53,6 @@ PhD, W. S., & Johnson, N. (2019). *The Self-Driven Child: The science and sense 
 	* [[The Self-Driven Child]] (p.38)
 	* [[The Self-Driven Child]] (p. 55)
 	* [[The Self-Driven Child]] (p.113)
-* [[§What's top of mind]]
-	* [[The Self-Driven Child]]
 
 <!-- #evergreen -->
 

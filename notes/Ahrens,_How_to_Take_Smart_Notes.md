@@ -148,8 +148,6 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 	* [[Ahrens, How to Take Smart Notes]] (p. 142)
 * [[Zettelkasten makes writing a flow activity]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 93).
-* [[§What's top of mind]]
-	* [[Ahrens, How to Take Smart Notes]]
 
 <!-- #evergreen #literature -->
 

@@ -1,18 +1,13 @@
 # §What's top of mind
-Inspired by Andy Matuschak's [§What’s top of mind](https://notes.andymatuschak.org/%C2%A7What%E2%80%99s_top_of_mind).
-
-- The autotelic developer
-	- [[Ahrens, How to Take Smart Notes]]
-	- [[Mihaly, Flow]]
-	- [[Krug, Don’t make me think]]
-- Education and parenting
-	- [[The Self-Driven Child]]
-- [[Open software design]]
-	- [upmo.com/dev/](https://upmo.com/dev/)
-	- Embedding documentation as development workflow
-		- [[Documentation is the side effect of thinking]]
+- What is an autotelic engineer?
+	- Defining atomic workflow because [[Effective tool circumvents human limits]].
 		- [[Workflow trumps willpower]]
-- [[Cloud sandbox]]
+		- [[A new technique could be an innovation]]
+		- [[Documentation is the side effect of thinking]]
+		- [[Cynefin framework]]
+- Playing the long term game
+	- Founding Clask, a edtech startup. I don't take notes in this area, I livestream my deep work in [Twitch](https://www.twitch.tv/ceilfors)
+	- Contextually coach and apply evidence-based practices and experience-based practices ([[Use of innovations often precedes understanding]]).
 
 <!-- #evergreen #outline -->
 

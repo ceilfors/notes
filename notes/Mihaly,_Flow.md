@@ -68,8 +68,6 @@ Csikszentmihalyi, Mihaly. *Flow: The Classic Work on How to Achieve Happiness*. 
 	* [[Mihaly, Flow]] (pp. 74 - 75).
 * [[The key to flow is to control consciousness]]
 	* [[Mihaly, Flow]] (p. 39).
-* [[§What's top of mind]]
-	* [[Mihaly, Flow]]
 
 <!-- #evergreen# #literature #^inbox/book -->
 
