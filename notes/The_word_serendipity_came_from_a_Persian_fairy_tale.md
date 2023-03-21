@@ -1,6 +1,8 @@
 # The word serendipity came from a Persian fairy tale
 The Three Princes of Serendip is a Persian fairy tale where the princes were always stumbling upon discoveries by accident that was not part of their main quest.
 
+[[Innovation is often serendipitous]]
+
 ## References
 [[How Innovation Works]] (p. 247).
 > The word serendipity was coined by Horace Walpole in 1754 to explain how he had tracked down a lost painting. He took it from a Persian fairy tale, 'The Three Princes of Serendip' […].

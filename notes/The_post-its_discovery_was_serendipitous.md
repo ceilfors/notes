@@ -7,6 +7,10 @@ In 1968, in a search for a strong and permanent adhesive, a scientist (Spencer S
 [[How Innovation Works]] (p. 248).
 > In the search for a strong and permanent glue […]
 
+## Backlinks
+* [[Innovation is often serendipitous]]
+	* [[The post-its discovery was serendipitous]].
+
 <!-- #evergreen -->
 
 <!-- {BearID:60F55BD7-E863-4C33-BA2F-D17454316DD7-7275-00000C5C17447CDE} -->
