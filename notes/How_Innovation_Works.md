@@ -17,9 +17,9 @@ Ridley, Matt. *How Innovation Works: And Why It Flourishes in Freedom*. Harper, 
 	* [[How Innovation Works]] (p. 4).
 * [[GPS were repurposed from the military]]
 	* [[How Innovation Works]] (p. 262).
-* [[Innovation involves trial and errors]]
-	* [[How Innovation Works]] (p. 253).
 * [[Edison and team tested 6,000 filaments to perfect light bulb]]
+	* [[How Innovation Works]] (p. 253).
+* [[Innovation involves trial and errors]]
 	* [[How Innovation Works]] (p. 253).
 * [[Amara’s law]]
 	* [[How Innovation Works]] (p. 261)

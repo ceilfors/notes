@@ -1,6 +1,7 @@
 # Characteristics of innovators
 - Innovators should have high tolerance for errors, because [[Innovation involves trial and errors]].
-- Innovators should be playful because [[Innovation is often serendipitous]]
+- Innovators should be playful because [[Innovation is often serendipitous]].
+	- [[Effective workflow should break tasks down by attention types]]
 
 ## References
 [[How Innovation Works]] (p. 253).

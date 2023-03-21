@@ -2,13 +2,6 @@ const wikilinks = require("@ceilfors/markdown-it-wikilinks")({
   baseURL: "/",
 });
 
-const getAllPageNames = (directory) => {
-  return glob
-    .sync(`${directory}/*.md`)
-    .map((f) => f.replace(`${directory}/`, ""))
-    .filter((f) => f !== "README.md");
-};
-
 module.exports = {
   title: "Wisen's notes",
   markdown: {

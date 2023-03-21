@@ -108,6 +108,8 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 	* [[Ahrens, How to Take Smart Notes]] (p. 101).
 * [[Multitasking is an impossible task]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 57).
+* [[Effective workflow should break tasks down by attention types]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 60).
 * [[Solomon Shereshevsky]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 99)
 * [[Zettels should not have ephemeral tags]]
@@ -116,8 +118,6 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 	* [[Ahrens, How to Take Smart Notes]] (p. 69).
 * [[Confirmation bias]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 79).
-* [[Effective workflow should break tasks down by attention types]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 60).
 * [[Zettels should capture an atomic concept]]
 	* [[Ahrens, How to Take Smart Notes]] (pp. 18-19).
 * [[Anchoring effect]]
