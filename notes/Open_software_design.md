@@ -1,5 +1,5 @@
 # Open software design
-Open-source software has made it easier for software developers to study and learn programming by looking at real-world working software. But what about software design? Building architects (not software) study thousands of buildings in their training and career. Software developers, in contrast, only study a handful of other large software designs. This means we repeat mistakes that we would have been able to avoid, should we be able to learn from others.
+[[Open-source software]] has made it easier for software developers to study and learn programming by looking at real-world working software. But what about software design? Building architects (not software) study thousands of buildings in their training and career. Software developers, in contrast, only study a handful of other large software designs. This means we repeat mistakes that we would have been able to avoid, should we be able to learn from others.
 
 Many architectural patterns are publicly available, but these are normally captured as finished products. Software design is a continuous process and we need to allow software developers to study how software evolves. When the public is the main audience of the materials, they risk not reflecting the real-world anymore too ([Spotify doesn't use "the Spotify Model"](https://www.jeremiahlee.com/posts/failed-squad-goals/)).
 
