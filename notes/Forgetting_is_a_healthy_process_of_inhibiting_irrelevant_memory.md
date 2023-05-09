@@ -15,6 +15,8 @@ You may associate forgetting as something bad, like a memory loss. Even though f
 	* We need to able to deliberately forget about the irrelevant thoughts. [[Forgetting is a healthy process of inhibiting irrelevant memory]]. Writing makes us have an external system, and it will help us forget about those lingering irrelevant thoughts.
 * [[Remembering can be improved by deliberately creating cues]]
 	* If [[Forgetting is a healthy process of inhibiting irrelevant memory]], remembering then is about circumventing the inhibition so that we can pull relevant memory. Based on this definition, if we want to remember more important information when we need it, we have to make those memories more relatable to others.
+* [[DRY helps forgetting]]
+	* Remembering is hard as that's a cognitive load for us. Having the ability to forget about those duplication, means we'll spend less energy remembering them. Also [[Forgetting is a healthy process of inhibiting irrelevant memory]]. 
 
 <!-- #evergreen #memory -->
 
