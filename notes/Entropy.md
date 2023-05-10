@@ -1,7 +1,7 @@
 # Entropy
 ## Backlinks
 * [[Software entropy]]
-	* ## Software entropy applies the idea of [[Entropy]] (thermodynamics) into software, which have a similar effect to [[Technical debt]] (economics).
+	* Software entropy applies the idea of [[Entropy]] (thermodynamics) into software, which have a similar effect to [[Technical debt]] (economics).
 
 <!-- #evergreen -->
 

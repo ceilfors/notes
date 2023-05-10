@@ -1,7 +1,7 @@
 # Technical debt
 ## Backlinks
 * [[Software entropy]]
-	* ## Software entropy applies the idea of [[Entropy]] (thermodynamics) into software, which have a similar effect to [[Technical debt]] (economics).
+	* Software entropy applies the idea of [[Entropy]] (thermodynamics) into software, which have a similar effect to [[Technical debt]] (economics).
 * [[Failure to influence change may cause burnout]]
 	* Throughout my career, I have noticed, the top common reason my mentees got burnout is from trying to get their managers/teams to prioritise [[Technical debt]], or improve their codebase in general.
 

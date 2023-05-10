@@ -1,5 +1,6 @@
 # Software entropy
 Software entropy applies the idea of [[Entropy]] (thermodynamics) into software, which have a similar effect to [[Technical debt]] (economics).
+
 ---
 ## References
 [[The Pragmatic Programmer]] (p. 6).
