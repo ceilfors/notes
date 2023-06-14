@@ -27,6 +27,8 @@ Csikszentmihalyi, Mihaly. *Flow: The Classic Work on How to Achieve Happiness*. 
 	* [[Mihaly, Flow]] (p. 30).
 * [[Flow activities are exotelic first before they become autotelic]]
 	* [[Mihaly, Flow]] (p. 68).
+* [[The prerequisites of flow are needed to flood working memory]]
+	* [[Mihaly, Flow]] (p. 59).
 * [[Boring routine can be converted to enjoyment]]
 	* [[Mihaly, Flow]] (p. 39).
 * [[Alienation blocks flow]]
@@ -35,8 +37,6 @@ Csikszentmihalyi, Mihaly. *Flow: The Classic Work on How to Achieve Happiness*. 
 	* [[Mihaly, Flow]] (p. 25).
 * [[The limits of consciousness]]
 	* [[Mihaly, Flow]] (pp. 28 - 29).
-* [[The prerequisites of flow are needed to flood working memory]]
-	* [[Mihaly, Flow]] (p. 59).
 * [[The difference between pleasure and enjoyment is the amount of psychic energy spent]]
 	* [[Mihaly, Flow]] (pp. 46 - 47).
 * [[Autotelic personality]]

@@ -26,10 +26,12 @@ Cowan, Nelson. ‘The Magical Number 4 in Short-Term Memory: A Reconsideration o
 	* Whether we like or not, we are all constrained by our biological limits. We have [[Working memory limits]], we can’t imagine a five-dimensional cube, and our circadian rhythm will tell our sleep pattern. Even [[Usain Bolt can’t outrun a domestic cat]].
 * [[To write is to rubber duck]]
 	* Perhaps, one reason I felt stuck is because there are too many variables I’m playing in my head when I was presented with the architectural problem. I was hitting my [[Working memory limits]]. By writing them down, it’s as if I have more working memory to play with. [[Writing makes thinking possible]].
-* [[The limits of consciousness]]
-	* Mihaly seems to indicate that this is related to working memory, but I don’t really understand how consciousness is related to the concept of working memory. See [[Working memory limits]].
 * [[The prerequisites of flow are needed to flood working memory]]
 	* The [[The prerequisites of flow experience]] are needed to enable continuous concentration on a task. These prerequisites are seemingly related to the fact that we have [[Working memory limits]].
+* [[The limits of consciousness]]
+	* Mihaly seems to indicate that this is related to working memory, but I don’t really understand how consciousness is related to the concept of working memory. See [[Working memory limits]].
+* [[Developer workflow may affect DevEx]]
+	* Cognitive load
 
 <!-- #evergreen #cognitive -->
 
