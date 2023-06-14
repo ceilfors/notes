@@ -1,4 +1,4 @@
-# Code duplication can either be a knowledge duplication or coincidence
+# Code duplication can either be a knowledge duplication or similarities
 ---
 ## References
 [[The Pragmatic Programmer]] (p. 34).
@@ -22,7 +22,9 @@ END.
 
 ## Backlinks
 * [[DRY misconceptions]]
-	* [[Code duplication can either be a knowledge duplication or coincidence]]
+	* [[Code duplication can either be a knowledge duplication or similarities]]
+* [[When should we remove duplication?]]
+	* We should only DRY code when it's a knowledge duplication. Unfortunately, [[Code duplication can either be a knowledge duplication or similarities]]. It's hard to tell whether a duplication is a knowledge.
 
 <!-- #evergreen -->
 

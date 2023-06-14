@@ -15,7 +15,7 @@ The castle were not completed due to the lack of funding, constant disruptions, 
 
 ## Backlinks
 * [[ETC can help architectural judgement]]
-	* When it comes to technical design, what's important is to pick an option that's easier to change later ([[ETC]]). In absence of a good criteria, software engineers may opt for something that's more artistic ([[Peacock architecture]] [[Beaumaris architecture]]).
+	* When it comes to technical design, what's important is to pick an option that's easier to change later ([[ETC]]). In absence of a good criteria, software engineers may opt for something that's more artistic ([[§Peacock architecture]] [[Beaumaris architecture]]).
 * [[How might design-thinking be applied to technical design?]]
 	* As a terminology, technical design, is rarely used in the software industry. Whenever the terminology is used, the community might confuse that with UX design. The more commonly used term is software architecture. The problem I find with the word architecture is people are becoming quite focused on the just the product of the work which may lead to [[Beaumaris architecture]].
 

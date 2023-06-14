@@ -8,20 +8,20 @@ Thomas, David, and Andrew Hunt. *The Pragmatic Programmer: Your Journey to Maste
 	* [[The Pragmatic Programmer]] (pp. 217-218).
 * [[Broken windows accelerates software entropy]]
 	* [[The Pragmatic Programmer]] (pp. 6-7).
+* [[Code duplication can either be a knowledge duplication or similarities]]
+	* [[The Pragmatic Programmer]] (p. 34).
 * [[Software entropy]]
 	* [[The Pragmatic Programmer]] (p. 6).
+* [[DRY helps forgetting]]
+	* [[The Pragmatic Programmer]] (p. 31).
 * [[Knowledge workers process knowledge into knowledge]]
 	* [[The Pragmatic Programmer]] (p. 74).
 * [[Tracer bullets]]
 	* [[The Pragmatic Programmer]] (p. 50).
-* [[Code duplication can either be a knowledge duplication or coincidence]]
-	* [[The Pragmatic Programmer]] (p. 34).
 * [[Data structure can contain knowledge duplication]]
 	* [[The Pragmatic Programmer]] (p. 35).
 * [[ETC]]
 	* [[The Pragmatic Programmer]] (p. 29).
-* [[DRY helps forgetting]]
-	* [[The Pragmatic Programmer]] (p. 31).
 * [[ETC can help architectural judgement]]
 	* [[The Pragmatic Programmer]] (p. 28).
 * [[Knowledge Portfolio]]

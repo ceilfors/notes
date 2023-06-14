@@ -7,7 +7,7 @@ Easier To Change, ETC, is a principle from the pragmatic programmer that helps p
 
 ## Backlinks
 * [[ETC can help architectural judgement]]
-	* When it comes to technical design, what's important is to pick an option that's easier to change later ([[ETC]]). In absence of a good criteria, software engineers may opt for something that's more artistic ([[Peacock architecture]] [[Beaumaris architecture]]).
+	* When it comes to technical design, what's important is to pick an option that's easier to change later ([[ETC]]). In absence of a good criteria, software engineers may opt for something that's more artistic ([[§Peacock architecture]] [[Beaumaris architecture]]).
 
 <!-- #evergreen -->
 
