@@ -9,6 +9,8 @@
 ## Backlinks
 * [[Fosbury flop was discovered out of trial and errors]]
 	* [[Use of innovations often precedes understanding]]. The Fosbury flop was not designed or came out of an analysis. Today, there are many explanation of why the Fosbury flop works such as how it allows our body to lower our centre of mass when our body is bent backwards.
+* [[Cognitive revolution were inspired by digital computers]]
+	* I found this to be an interesting phenomenon as our mind ([[The mind]]) is something that our ancestors have been using for a long time, but we don't really understand it, until psychologists were inspired by how digital computer works, which are things that we invent later. This seemed to have a similar theme to [[Use of innovations often precedes understanding]].
 * [[Continuous Delivery precedes DORA]]
 	* Another example of how the [[Use of innovations often precedes understanding]].
 * [[§What's top of mind]]

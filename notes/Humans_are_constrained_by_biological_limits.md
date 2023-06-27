@@ -20,6 +20,8 @@ Whether we like or not, we are all constrained by our biological limits. We have
 	* [[Humans are constrained by biological limits]], and we are also limited to how we can use our attention:
 * [[Effective tool circumvents human limits]]
 	* [[Humans are constrained by biological limits]], and one way we could circumvent these limits is by the use of tools. [[Usain Bolt can’t outrun a domestic cat]], but you could be faster than a domestic cat by riding a bicycle.
+* [[Cognitive functions have a limited capacity]]
+	* [[Humans are constrained by biological limits]]. In the context of cognitive psychology, what limits us are our cognitive functions or [[Cognitive processes]].
 * [[The limits of consciousness]]
 	* [[Humans are constrained by biological limits]], and our consciousness has its limits too. Because [[Consciousness is intentionally ordered information]], the limit that we want to understand is how many bits of information can we process. Apparently, we can only handle 110 bits of information per second. For us to understand what another person is talking about, we must also process roughly about 60 bits of information per second, which is why we can’t simultaneously listen to 2 people talking that well.
 

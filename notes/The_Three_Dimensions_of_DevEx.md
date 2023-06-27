@@ -9,10 +9,12 @@
 > Taken together, feedback loops, cognitive load, and flow state, encapsulate the full range of friction types encountered by developers.
 
 ## Backlinks
-* [[Developer workflow may affect DevEx]]
-	* Following through [[The Three Dimensions of DevEx]]:
+* [[Developer workflow may improve DevEx]]
+	* Based on [[The Three Dimensions of DevEx]]:
 * [[Improving DevEx increases developer productivity]]
 	* An organisation can focus on [[The Three Dimensions of DevEx]] to determine what are the areas that they can improve and measure on.
+* [[TDD may improve developer productivity]]
+	* Using [[The Three Dimensions of DevEx]]:
 
 <!-- #evergreen -->
 

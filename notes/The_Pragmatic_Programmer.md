@@ -4,6 +4,8 @@ Thomas, David, and Andrew Hunt. *The Pragmatic Programmer: Your Journey to Maste
 ## Backlinks
 * [[Ask for forgiveness, not permission]]
 	* [[The Pragmatic Programmer]] (p.9)
+* [[Knowledge workers process knowledge into knowledge]]
+	* [[The Pragmatic Programmer]] (p. 74).
 * [[Ron Jeffries gave up TDD to solve sudoku]]
 	* [[The Pragmatic Programmer]] (pp. 217-218).
 * [[Broken windows accelerates software entropy]]
@@ -14,8 +16,6 @@ Thomas, David, and Andrew Hunt. *The Pragmatic Programmer: Your Journey to Maste
 	* [[The Pragmatic Programmer]] (p. 6).
 * [[DRY helps forgetting]]
 	* [[The Pragmatic Programmer]] (p. 31).
-* [[Knowledge workers process knowledge into knowledge]]
-	* [[The Pragmatic Programmer]] (p. 74).
 * [[Tracer bullets]]
 	* [[The Pragmatic Programmer]] (p. 50).
 * [[Data structure can contain knowledge duplication]]

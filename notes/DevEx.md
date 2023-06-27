@@ -9,8 +9,8 @@ The term developer experience (DevEx) is born in an attempt to study what actual
 ## Backlinks
 * [[The Three Dimensions of DevEx]]
 	* [[Noda, DevEx: What Actually Drives Productivity]] outlines a framework that can be used to think about [[DevEx]], this framework consists of three area:
-* [[Developer workflow may affect DevEx]]
-	* There are a lot of research that has gone into [[DevEx]] and it's centred it's  study around organisational improvements.
+* [[Developer workflow may improve DevEx]]
+	* There are research that has gone into [[DevEx]] and it's centred it's study around organisational improvements.
 * [[Improving DevEx increases developer productivity]]
 	* Improving [[DevEx]] will not only improve productivity, but various benefits for an organization.
 

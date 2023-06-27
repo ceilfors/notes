@@ -11,10 +11,10 @@ Secondly, having a clear goal and immediate feedback make sure that you can reta
 > This feature of flow is an important by-product of the fact that enjoyable activities require a complete focusing of attention on the task at hand - thus leaving no room in the mind for irrelevant information.
 
 ## Backlinks
+* [[Developer workflow may improve DevEx]]
+	* Flow state
 * [[Attentional disorder blocks flow]]
 	* A person with attentional disorder will unfortunately struggle to experience flow as their attention are fragmented. They will not be able to flood their working memory with information that are relevant at hand, because irrelevant information will involuntarily be processed ([[The prerequisites of flow are needed to flood working memory]]). The cause of attentional disorder are usually genetic, but may also be caused by childhood experiences.
-* [[Developer workflow may affect DevEx]]
-	* Flow state
 
 <!-- #evergreen #flow -->
 

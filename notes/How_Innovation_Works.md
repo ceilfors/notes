@@ -2,11 +2,11 @@
 Ridley, Matt. *How Innovation Works: And Why It Flourishes in Freedom*. Harper, 2020.
 
 ## Backlinks
-* [[The post-its discovery was serendipitous]]
-	* [[How Innovation Works]] (p. 248).
 * [[Use of innovations often precedes understanding]]
 	* [[How Innovation Works]] (p. 55).
 	* [[How Innovation Works]] (p. 282).
+* [[The post-its discovery was serendipitous]]
+	* [[How Innovation Works]] (p. 248).
 * [[Characteristics of resistance to innovation]]
 	* [[How Innovation Works]] (p. 327).
 * [[Fosbury flop was discovered out of trial and errors]]

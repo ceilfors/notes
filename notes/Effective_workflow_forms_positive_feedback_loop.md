@@ -20,7 +20,7 @@ An attempt to form the feedback externally, not from the work itself, on the oth
 	* [[Luhmann always worked on something easier and interesting]], and that is made possible because [[Effective workflow forms positive feedback loop]]. The zettelkasten consists of a well-defined workflow, therefore allowing the practitioners to focus on interesting and easier things. This is good to keep yourselves motivated.
 * [[Creative work requires clear goals and feedback to become a flow activity]]
 	* In creative works, you must develop your own goal to understand if you’re doing good or bad to enter the flow state. Designing your workflow is one way to convert your creative work into flow activities as they can provide immediate feedback ([[Effective workflow forms positive feedback loop]]).
-* [[Developer workflow may affect DevEx]]
+* [[Developer workflow may improve DevEx]]
 	* Feedback loops
 
 <!-- #evergreen #habit -->

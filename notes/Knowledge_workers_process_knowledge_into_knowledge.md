@@ -8,6 +8,8 @@
 ## Backlinks
 * [[Knowledge Portfolio]]
 	* [[Knowledge workers process knowledge into knowledge]]. Knowing what type of knowledge to consume therefore is quite important. To help knowledge workers, prioritise what knowledge to acquire, the idea of well balanced financial portfolio is helpful to draw from:
+* [[Knowledge workers are limited by their cognitive processes]]
+	* [[Cognitive functions have a limited capacity]]. Given that [[Knowledge workers process knowledge into knowledge]], we are constrained by those limits.
 
 <!-- #evergreen -->
 
