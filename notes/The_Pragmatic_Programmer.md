@@ -2,10 +2,10 @@
 Thomas, David, and Andrew Hunt. *The Pragmatic Programmer: Your Journey to Mastery, 20th Anniversary Edition*. Addison-Wesley Professional, 2019.
 
 ## Backlinks
-* [[Ask for forgiveness, not permission]]
-	* [[The Pragmatic Programmer]] (p.9)
 * [[Knowledge workers process knowledge into knowledge]]
 	* [[The Pragmatic Programmer]] (p. 74).
+* [[Ask for forgiveness, not permission]]
+	* [[The Pragmatic Programmer]] (p.9)
 * [[Ron Jeffries gave up TDD to solve sudoku]]
 	* [[The Pragmatic Programmer]] (pp. 217-218).
 * [[Broken windows accelerates software entropy]]

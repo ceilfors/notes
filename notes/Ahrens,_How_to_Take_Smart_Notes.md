@@ -36,12 +36,12 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 - We could utilise Zeigarnik effect to solve crucial problems whilst running errands (by not writing them down). (Ahrens 71)
 
 ## Backlinks
-* [[Understanding requires elaboration]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 86).
-	* [[Ahrens, How to Take Smart Notes]] (p. 120).
 * [[Effective workflow forms positive feedback loop]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 52).
 	* [[Ahrens, How to Take Smart Notes]] (p. 52).
+* [[Understanding requires elaboration]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 86).
+	* [[Ahrens, How to Take Smart Notes]] (p. 120).
 * [[Workflow trumps willpower]]
 	* [[Ahrens, How to Take Smart Notes]] (pp. 2-3).
 	* [[Ahrens, How to Take Smart Notes]] (pp. 3).
@@ -60,19 +60,19 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 	* [[Ahrens, How to Take Smart Notes]] (p. 6)
 	* [[Ahrens, How to Take Smart Notes]] (p. 11)
 	* [[Ahrens, How to Take Smart Notes]] (p. 14)
+* [[Context switching helps when you get stuck]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 68).
 * [[Write about what you read]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 86).
 * [[Luhmann always worked on something easier and interesting]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 14).
 	* [[Ahrens, How to Take Smart Notes]] (p. 15).
 	* [[Ahrens, How to Take Smart Notes]] (p. 141).
-* [[Humans are constrained by biological limits]]
-	* [[Ahrens, How to Take Smart Notes]]
-* [[Context switching helps when you get stuck]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 68).
 * [[Elaborate in writing to test your understanding]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 55).
 	* [[Ahrens, How to Take Smart Notes]] (p. 85).
+* [[Humans are constrained by biological limits]]
+	* [[Ahrens, How to Take Smart Notes]]
 * [[Find writing topic in your zettelkasten]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 25).
 * [[New learnings rarely start from zero]]
@@ -97,35 +97,35 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 * [[Effective tool circumvents human limits]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 20).
 	* [[Ahrens, How to Take Smart Notes]] (p. 29).
-* [[Self-control is a good indicator for academic success]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 2).
 * [[Forgetting is a healthy process of inhibiting irrelevant memory]]
 	* [[Ahrens, How to Take Smart Notes]] (pp. 100-101).
+* [[Self-control is a good indicator for academic success]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 2).
 * [[Remembering can be improved by deliberately creating cues]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 42)
 	* [[Ahrens, How to Take Smart Notes]] (p. 101)
-* [[Zettels should be linked]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 101).
 * [[Multitasking is an impossible task]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 57).
-* [[Effective workflow should break tasks down by attention types]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 60).
+* [[Zettels should be linked]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 101).
 * [[Solomon Shereshevsky]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 99)
+* [[Effective workflow should break tasks down by attention types]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 60).
 * [[Zeigarnik Effect]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 69).
 * [[Zettels should not have ephemeral tags]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 41).
 * [[Confirmation bias]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 79).
+* [[Slow-motion multitasking]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 14).
 * [[Zettels should capture an atomic concept]]
 	* [[Ahrens, How to Take Smart Notes]] (pp. 18-19).
 * [[Anchoring effect]]
 	* [[Ahrens, How to Take Smart Notes]]  (p. 134).
 * [[Production blocking]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 134).
-* [[Slow-motion multitasking]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 14).
 * [[DNA structure was discovered on cancer treatment research]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 138).
 * [[Overconfidence bias]]

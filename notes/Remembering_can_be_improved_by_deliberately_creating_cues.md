@@ -17,6 +17,8 @@ There are two types of memory strengths: retrieval strength and storage strength
 	* [[Understanding requires elaboration]], and elaboration is an act of connecting ideas to as many contexts as possible. Connecting new ideas will be difficult if you can't retrieve your previous notes easily. [[Remembering can be improved by deliberately creating cues]], therefore zettels must be optimised for their retrieval by creating more cues. These are the approach that you should take to make them more retrievable:
 * [[Zettels should be linked]]
 	* You need to connect and build on top of other concepts to generate insights. To connect one concept to another, you’ll need a mechanism to remember the previous concepts that you have written before. Links are good cues to finding your previous notes ([[Remembering can be improved by deliberately creating cues]]). Your cues will be even stronger with contextual backlinks.
+* [[Retrieving memories makes them easier to retrieve]]
+	* Retrieving the memory can be easier when you have a mechanism for it, such as making the time to review what you've learnt, or perhaps creating cues for it ([[Remembering can be improved by deliberately creating cues]]).
 
 <!-- #evergreen #organising #memory -->
 

@@ -11,8 +11,13 @@ Instead of just using an oral communication, we should elaborate by writing too.
 [[Ahrens, How to Take Smart Notes]] (p. 85).
 > In oral presentations, we easily get away with unfounded claims. We can distract from argumentative gaps with confident gestures or drop a casual "you know what I mean" irrespective of whether we know what we meant. In writing, these manoeuvres are a little too obvious. It is easy to check a statement like: "But that is what I said!”. The most important advantage of writing is that it helps us to confront ourselves when we do not understand something as well as we would like to believe.
 
+[[Goldstein, Cognitive Psychology]] (p. 19).
+> The most important one was that the laptop notes showed greater verbatim overlap with the lecture than the longhand notes, suggesting that students who used their laptop for note taking were just simply transcribing content without thinking about it.
+
 ## Backlinks
 * [[Ahrens, How to Take Smart Notes]]
+	* [[Elaborate in writing to test your understanding]]
+* [[Cognitive strategies for more effective learning]]
 	* [[Elaborate in writing to test your understanding]]
 
 <!-- #evergreen #thinking -->
