@@ -68,11 +68,11 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 	* [[Ahrens, How to Take Smart Notes]] (p. 14).
 	* [[Ahrens, How to Take Smart Notes]] (p. 15).
 	* [[Ahrens, How to Take Smart Notes]] (p. 141).
+* [[Humans are constrained by biological limits]]
+	* [[Ahrens, How to Take Smart Notes]]
 * [[Elaborate in writing to test your understanding]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 55).
 	* [[Ahrens, How to Take Smart Notes]] (p. 85).
-* [[Humans are constrained by biological limits]]
-	* [[Ahrens, How to Take Smart Notes]]
 * [[Find writing topic in your zettelkasten]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 25).
 * [[New learnings rarely start from zero]]
@@ -106,10 +106,10 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 	* [[Ahrens, How to Take Smart Notes]] (p. 101)
 * [[Multitasking is an impossible task]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 57).
-* [[Zettels should be linked]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 101).
 * [[Solomon Shereshevsky]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 99)
+* [[Zettels should be linked]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 101).
 * [[Effective workflow should break tasks down by attention types]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 60).
 * [[Zeigarnik Effect]]
