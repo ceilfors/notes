@@ -1,6 +1,9 @@
 # What's the most psychologically effective way to organise code?
 - See [[Multiple approaches to perception]]
 	- [[The Gestalt principles of organization]]
+- Allowing movement
+	- [[Movement increases accuracy of perception]]
+	- [[Effective website navigation helps navigating non-psychical space]]
 
 <!-- #evergreen -->
 

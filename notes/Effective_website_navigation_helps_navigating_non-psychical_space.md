@@ -3,6 +3,8 @@ Navigating a website is difficult because we don't get the same sense of directi
 
 Unlike physical space, a website is not inherently navigable. Website navigation is an element that needs to be intentionally designed, which not only to provide a means for users to use their spatial ability to work out where they, but also to allow them to find what they're looking for quickly ([[Websites should be designed for scanning]]).
 
+Great navigation helps users move better, and this is important because [[Movement increases accuracy of perception]].
+
 ---
 ## References
 [[Krug, Don’t make me think]]  (p. 61).
@@ -22,6 +24,8 @@ Unlike physical space, a website is not inherently navigable. Website navigation
 	* [[Effective website navigation helps navigating non-psychical space]]. Given that the users will be moving from one page to another, the navigation should also be persistent and look the same throughout their journey.
 * [[Does making non-psychical thing more psychical makes it more navigable?]]
 	* [[Effective website navigation helps navigating non-psychical space]].
+* [[What's the most psychologically effective way to organise code?]]
+	* [[Effective website navigation helps navigating non-psychical space]]
 
 <!-- #evergreen -->
 
