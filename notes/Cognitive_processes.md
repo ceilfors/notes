@@ -11,6 +11,8 @@ The following are our cognitive processes: perception, memory, attention, proble
 	* Perception is one of the [[Cognitive processes]] in our mind. It is defined as the experience we're getting as a result of stimulation to the senses.
 * [[Cognitive functions have a limited capacity]]
 	* [[Humans are constrained by biological limits]]. In the context of cognitive psychology, what limits us are our cognitive functions or [[Cognitive processes]].
+* [[§What's top of mind]]
+	* Understanding [[Cognitive processes]] and their limits.
 
 <!-- #evergreen -->
 
