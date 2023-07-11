@@ -21,10 +21,16 @@ Adapted from Cognitive Psychology, 5th Edition, by E. Bruce Goldstein.
 	* [[Goldstein, Cognitive Psychology]] (p. 18)
 * [[Bayesian inference]]
 	* [[Goldstein, Cognitive Psychology]] (p. 68).
+* [[Information-processing approach]]
+	* [[Goldstein, Cognitive Psychology]] (p. 12)
 * [[Retrieving memories makes them easier to retrieve]]
 	* [[Goldstein, Cognitive Psychology]] (p. 19)
+* [[Cognitive revolution were inspired by digital computers]]
+	* [[Goldstein, Cognitive Psychology]] (p. 12)
 * [[Multiple approaches to perception]]
 	* [[Goldstein, Cognitive Psychology]] (p. 69).
+* [[The mind]]
+	* [[Goldstein, Cognitive Psychology]] (p. 3)
 * [[Perception of pain can be affected by expectation]]
 	* [[Goldstein, Cognitive Psychology]] (p. 61).
 	* [[Goldstein, Cognitive Psychology]] (p. 61).
@@ -32,16 +38,12 @@ Adapted from Cognitive Psychology, 5th Edition, by E. Bruce Goldstein.
 	* [[Goldstein, Cognitive Psychology]] (p. 15)
 * [[The Gestalt principles of organization]]
 	* [[Goldstein, Cognitive Psychology]] (p. 63).
-* [[The mind]]
-	* [[Goldstein, Cognitive Psychology]] (p. 3)
 * [[Interleaved learning]]
 	* [[Goldstein, Cognitive Psychology]] (p. 18)
 * [[Light-from-above assumption]]
 	* [[Goldstein, Cognitive Psychology]] (p. 66).
 * [[Oblique effect]]
 	* [[Goldstein, Cognitive Psychology]] (p. 65).
-* [[Cognitive revolution were inspired by digital computers]]
-	* [[Goldstein, Cognitive Psychology]] (p. 12)
 * [[Spacing and interleaving]]
 	* [[Goldstein, Cognitive Psychology]] (p .18)
 * [[Helmholtz's theory of unconscious inference]]
@@ -49,8 +51,6 @@ Adapted from Cognitive Psychology, 5th Edition, by E. Bruce Goldstein.
 	* [[Goldstein, Cognitive Psychology]] (p. 62).
 * [[Perception is influenced by regularities in the environment]]
 	* [[Goldstein, Cognitive Psychology]] (p. 65).
-* [[Information-processing approach]]
-	* [[Goldstein, Cognitive Psychology]] (p. 12)
 * [[Listening to foreign language requires top-down processing]]
 	* [[Goldstein, Cognitive Psychology]] (p. 60).
 * [[Models help explain cognitive psychology]]

@@ -9,6 +9,8 @@ These idea don’t come without challenges. We grew up building [[Attentional ha
 > The mark of a person who is in control of consciousness is the ability to focus attention at will, to be oblivious to distractions, to concentrate for as long as it takes to achieve a goal, and not longer. And the person who can do this usually enjoys the normal course of everyday life.
 
 ## Backlinks
+* [[Intention directs attention]]
+	* Seems related to [[To control consciousness is to be able to focus attention at will]].
 * [[The treadmill of rising expectation]]
 	* In the pursuit of happiness, the treadmill of rising expectation is one of the biggest cause of discontent our life. They normally come from social instruction, which in turn will abuse our genetic programming - getting us to do something that we don’t plan to do. The only way to escape this is to have the ability to control our consciousness and liberate ourselves. ([[To control consciousness is to be able to focus attention at will]])
 * [[Meditation is a practice to control consciousness]]
