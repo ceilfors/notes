@@ -6,8 +6,12 @@ The approach that makes an attempt to describe [[the mind]] by how information i
 > One of the characteristics of computers that captured the attention in the 1950s was that they processed information in stages [...]
 
 ## Backlinks
+* [[Broadbent's filter model of attention]]
+	* ## This is the earliest [[Information-processing approach]] .
 * [[Consciousness is intentionally ordered information]]
 	* As there is no single branch of science that deals with how consciousness works, Mihaly simplifies the concept of consciousness by presenting it based on phenomenology (think phenomena, events) and information theory which can be summarised as *intentionally ordered information* (Mihaly 26). He removes the complexity of how consciousness works, and focus from the perspective of the information themselves and how we can direct their course by intent (See: [[Information-processing approach]]).
+* [[Dichotic listening can be explained by different attention models]]
+	* [[Broadbent's filter model of attention]] or [[Information-processing approach]]
 
 <!-- #evergreen -->
 

@@ -1,5 +1,5 @@
 # Mere-exposure effect
-A psychological phenomenon where we tend to develop a preference for things because we're familiar with them.
+A [[Cognitive bias]] where we tend to develop a preference for things because we're familiar with them.
 
 ## References
 [[Doty, Into The Magic Shop]] (p. 135).

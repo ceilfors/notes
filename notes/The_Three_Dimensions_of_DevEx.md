@@ -2,7 +2,7 @@
 [[Noda, DevEx: What Actually Drives Productivity]] outlines a framework that can be used to think about [[DevEx]], this framework consists of three area:
 
 1. Feedback loops
-2. Cognitive load
+2. [[Cognitive load]]
 3. Flow state
 ---
 [[Noda, DevEx: What Actually Drives Productivity]]
@@ -13,6 +13,8 @@
 	* Based on [[The Three Dimensions of DevEx]]:
 * [[Improving DevEx increases developer productivity]]
 	* An organisation can focus on [[The Three Dimensions of DevEx]] to determine what are the areas that they can improve and measure on.
+* [[Being aware of software engineers Pomodoro activity might reduce distraction]]
+	* [[Flow experience]] is an important dimension from [[The Three Dimensions of DevEx]] for software engineer productivity.
 * [[TDD may improve developer productivity]]
 	* Using [[The Three Dimensions of DevEx]]:
 

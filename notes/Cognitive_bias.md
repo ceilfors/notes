@@ -1,6 +1,8 @@
 # Cognitive bias
 
 ## Backlinks
+* [[Mere-exposure effect]]
+	* A [[Cognitive bias]] where we tend to develop a preference for things because we're familiar with them.
 * [[Confirmation bias]]
 	* Confirmation bias is a type of [[Cognitive bias]] where there is a tendency for people to find an information to confirm their own preconception. We will search for an information that supports our own arguments, rather than the information that will challenge what we already have in our mind.
 * [[Anchoring effect]]

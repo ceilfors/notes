@@ -73,6 +73,8 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 * [[Elaborate in writing to test your understanding]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 55).
 	* [[Ahrens, How to Take Smart Notes]] (p. 85).
+* [[Only one type of attention can be given to one thing at one time]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 58).
 * [[Find writing topic in your zettelkasten]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 25).
 * [[New learnings rarely start from zero]]
@@ -92,8 +94,6 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 	* [[Ahrens, How to Take Smart Notes]] (p. 43).
 * [[Zettelkasten splits tasks to use different attention types]]
 	* [[Ahrens, How to Take Smart Notes]] (pp. 62 - 63).
-* [[Only one type of attention can be given to one thing at one time]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 58).
 * [[Effective tool circumvents human limits]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 20).
 	* [[Ahrens, How to Take Smart Notes]] (p. 29).

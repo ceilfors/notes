@@ -7,6 +7,8 @@
 ## Backlinks
 * [[Models help explain cognitive psychology]]
 	* We understood cognitive psychology by having models. [[The purpose of a model is to simplify]].
+* [[Which attention model should be used?]]
+	* Given that [[The purpose of a model is to simplify]], some models seems to be simpler to understand than other. The introduction of [[Attenuation model of attention]] for example feels very complex, but this doesn't necessarily mean that [[Broadbent's filter model of attention]] is wrong.
 
 <!-- #evergreen -->
 

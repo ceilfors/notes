@@ -1,5 +1,7 @@
 # System 1
 ## Backlinks
+* [[Automatic processing]]
+	* Seems related to [[System 1]].
 * [[Helmholtz's theory of unconscious inference]]
 	* Based on this approach, Helmholtz theorise that we perceive objects unconsciously based on our past experiences. This idea seems to be the related to [[System 1]].
 

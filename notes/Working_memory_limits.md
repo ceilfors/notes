@@ -34,6 +34,8 @@ Cowan, Nelson. ‘The Magical Number 4 in Short-Term Memory: A Reconsideration o
 	* The [[The prerequisites of flow experience]] are needed to enable continuous concentration on a task. These prerequisites are seemingly related to the fact that we have [[Working memory limits]].
 * [[Developer workflow may improve DevEx]]
 	* Cognitive load
+* [[Comparing side-by-side circumvents our cognitive limits]]
+	* When windows or screens are rapidly switched, what you're doing is you're committing the details into your working memory, we have [[Working memory limits]], and which make [[Cognitive load]] higher.
 
 <!-- #evergreen #cognitive -->
 
