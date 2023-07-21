@@ -1,4 +1,5 @@
 # Broadbent's filter model of attention
+
 This is the earliest [[Information-processing approach]].
 ---
 ## References

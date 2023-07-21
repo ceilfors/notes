@@ -1,4 +1,5 @@
 # Attenuation model of attention
+
 Because the cocktail party effect can't be explained by the [[Broadbent's filter model of attention]], this model introduces an attenuator.
 ---
 ## References
