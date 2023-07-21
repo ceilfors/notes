@@ -1,7 +1,7 @@
 # Cognitive functions have a limited capacity
 [[Humans are constrained by biological limits]]. In the context of cognitive psychology, what limits us are our cognitive functions or [[Cognitive processes]].
 
-For example, we have [[Working memory limits]].
+For example, we have [[Working memory limits]], [[Attention limits]].
 
 ---
 ## References

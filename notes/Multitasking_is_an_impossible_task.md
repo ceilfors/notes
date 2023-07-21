@@ -13,7 +13,7 @@ Not only we can only pay attention to one task at a time, we can also only utili
 	* Context switching is bad for productivity. It's the reason why [[Multitasking is an impossible task]]. It's the reason why you should prefer to measure your productivity by uninterrupted hours (DeMarco and Lister 63). It's also the reason why you [shouldn't interrupt a programmer](https://heeris.id.au/2013/this-is-why-you-shouldnt-interrupt-a-programmer/). But is context switching *always* harmful for productivity?
 * [[Slow-motion multitasking]]
 	* Notice how not only these ideas took time to develop, but they were also developing in parallel. Tim Hardford calls this idea slow-motion multitasking. Slow-motion is the emphasis here as the non slow-motion mode in contrast is counterproductive ([[Multitasking is an impossible task]])
-* [[Multitasking is possible]]
+* [[Multitasking is possible when we have extra capacity]]
 	* [[Multitasking is an impossible task]], but it is achievable when the conditions permit it.
 
 <!-- #evergreen #thinking -->

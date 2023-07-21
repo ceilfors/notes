@@ -27,7 +27,7 @@ Cowan, Nelson. ‘The Magical Number 4 in Short-Term Memory: A Reconsideration o
 * [[To write is to rubber duck]]
 	* Perhaps, one reason I felt stuck is because there are too many variables I’m playing in my head when I was presented with the architectural problem. I was hitting my [[Working memory limits]]. By writing them down, it’s as if I have more working memory to play with. [[Writing makes thinking possible]].
 * [[Cognitive functions have a limited capacity]]
-	* For example, we have [[Working memory limits]].
+	* For example, we have [[Working memory limits]], [[Attention limits]].
 * [[The limits of consciousness]]
 	* Mihaly seems to indicate that this is related to working memory, but I don’t really understand how consciousness is related to the concept of working memory. See [[Working memory limits]].
 * [[The prerequisites of flow are needed to flood working memory]]

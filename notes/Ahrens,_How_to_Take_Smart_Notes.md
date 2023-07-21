@@ -70,11 +70,11 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 	* [[Ahrens, How to Take Smart Notes]] (p. 141).
 * [[Humans are constrained by biological limits]]
 	* [[Ahrens, How to Take Smart Notes]]
+* [[Only one type of attention can be given to one thing at one time]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 58).
 * [[Elaborate in writing to test your understanding]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 55).
 	* [[Ahrens, How to Take Smart Notes]] (p. 85).
-* [[Only one type of attention can be given to one thing at one time]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 58).
 * [[Find writing topic in your zettelkasten]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 25).
 * [[New learnings rarely start from zero]]

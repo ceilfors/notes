@@ -6,7 +6,7 @@ This can be understood from [[Perceptual load theory]]. When a task is so hard i
 > An example of divided attention becoming difficult when the task is made too hard is actually provided by driving. You may find it easy to drive and talk at the same time if traffic is light on a familiar road. But if traffic increases, you see a flashing "Construction Ahead" sign, and the road suddenly becomes rutted, you might have to stop your conversation to devote all of your cognitive resources to driving.
 
 ## Backlinks
-* [[Multitasking is possible]]
+* [[Multitasking is possible when we have extra capacity]]
 	* The difficulty of the task: [[The ability to divide attention depends on difficulty of the task]]
 
 <!-- #evergreen -->

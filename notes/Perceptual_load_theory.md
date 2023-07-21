@@ -11,13 +11,13 @@ The theory proposes that we have a limited capacity of what we can pay attention
 ## Backlinks
 * [[Distraction has low impact on tasks with high perceptual load]]
 	* Based on the [[Perceptual load theory]], we have a limited capacity on our attention. If there's a complex information that we need to perceive, that may consume all of our attention, therefore us not notice distraction (we can't notice it, e.g. [[Inattentional blindess]]).
+* [[Attention limits]]
+	* [[Perceptual load theory]] (Capacity)
 * [[The evolution of model to understand attention]]
-	* [[Perceptual load theory]]
-* [[Dichotic listening can be explained by different attention models]]
 	* [[Perceptual load theory]]
 * [[The ability to divide attention depends on difficulty of the task]]
 	* ## This can be understood from [[Perceptual load theory]]. When a task is so hard it consumes all of our attention capacity, we'll not be able to use our attention for anything else.
-* [[Attention limits]]
+* [[Dichotic listening can be explained by different attention models]]
 	* [[Perceptual load theory]]
 
 <!-- #evergreen -->

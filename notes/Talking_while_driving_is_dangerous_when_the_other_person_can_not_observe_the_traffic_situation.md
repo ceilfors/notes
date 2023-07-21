@@ -15,10 +15,10 @@ Unfortunately, when the person we're talking to is on the phone, regardless of w
 > As a passenger, you would be aware of the traffic situation and would be able to react by pausing the conversation when things get tricky. However, when you are not sitting in the car, you probably continue talking since you are not aware of potential upcoming hazards.
 
 ## Backlinks
+* [[Multitasking is possible when we have extra capacity]]
+	* For example, I'm able to safely drive and have a conversation at the same time. However, [[Talking while driving is dangerous when the other person can not observe the traffic situation]].
 * [[Being aware of software engineers Pomodoro activity might reduce distraction]]
 	* Connection: Handsfree doesn't reduce danger in talking while driving. [[Talking while driving is dangerous when the other person can not observe the traffic situation]].
-* [[Multitasking is possible]]
-	* For example, I'm able to safely drive and have a conversation at the same time. However, [[Talking while driving is dangerous when the other person can not observe the traffic situation]].
 
 <!-- #evergreen -->
 

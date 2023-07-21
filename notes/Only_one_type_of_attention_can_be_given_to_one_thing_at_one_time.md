@@ -17,6 +17,8 @@
 	* Not only we can only pay attention to one task at a time, we can also only utilise one of our many types of attention at one time ([[Only one type of attention can be given to one thing at one time]]). These two limitations render multitasking as an impossible task.
 * [[Effective workflow should break tasks down by attention types]]
 	* [[Effective tool circumvents human limits]], therefore we have to understand what limit we are faced with if we want to make a workflow more effective. Especially in a creative work, [[Only one type of attention can be given to one thing at one time]]. Given the limit of attention we have, an effective workflow should break task down into smaller chunks by different attention types.
+* [[Attention limits]]
+	* [[Only one type of attention can be given to one thing at one time]]
 * [[Web usability is achieved by designing for the intended attention types]]
 	* [[Only one type of attention can be given to one thing at one time]], and this is a constraint that should be considered to make usable websites.
 

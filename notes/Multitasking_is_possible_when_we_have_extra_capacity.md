@@ -1,4 +1,4 @@
-# Multitasking is possible
+# Multitasking is possible when we have extra capacity
 [[Multitasking is an impossible task]], but it is achievable when the conditions permit it.
 
 For example, I'm able to safely drive and have a conversation at the same time. However, [[Talking while driving is dangerous when the other person can not observe the traffic situation]].
@@ -11,6 +11,10 @@ From this example, there are two factors that make multitasking possible:
 ## References
 [[Goldstein, Cognitive Psychology]] (p. 107).
 > Also, people can simultaneously drive, have conversations, listen to music, and think about what they're going to be doing later that day.
+
+## Backlinks
+* [[Attention limits]]
+	* [[Multitasking is possible when we have extra capacity]]
 
 <!-- #evergreen -->
 

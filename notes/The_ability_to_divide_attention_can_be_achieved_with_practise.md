@@ -2,7 +2,7 @@
 When a particular task is well-practised, the amount of load it takes in our head reduces as it becomes automatic. [[Automatic processing]]. This allows us to divide our attention.
 
 ## Backlinks
-* [[Multitasking is possible]]
+* [[Multitasking is possible when we have extra capacity]]
 	* How well-practised the task is: [[The ability to divide attention can be achieved with practise]]
 
 <!-- #evergreen -->

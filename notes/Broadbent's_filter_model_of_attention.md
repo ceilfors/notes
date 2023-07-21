@@ -11,9 +11,11 @@ This is the earliest [[Information-processing approach]] .
 	* ## Because the cocktail party effect can't be explained by the [[Broadbent's filter model of attention]], this model introduces an attenuator.
 * [[The evolution of model to understand attention]]
 	* [[Broadbent's filter model of attention]]
+* [[Atkison-Shiffrin Memory Model]]
+	* 10 years after [[Broadbent's filter model of attention]] was introduced...
 * [[Dichotic listening can be explained by different attention models]]
 	* [[Broadbent's filter model of attention]] or [[Information-processing approach]]
-* [[Which attention model should be used?]]
+* [[Which cognitive model should be used?]]
 	* Given that [[The purpose of a model is to simplify]], some models seems to be simpler to understand than other. The introduction of [[Attenuation model of attention]] for example feels very complex, but this doesn't necessarily mean that [[Broadbent's filter model of attention]] is wrong.
 
 <!-- #evergreen -->

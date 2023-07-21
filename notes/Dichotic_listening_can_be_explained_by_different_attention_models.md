@@ -12,7 +12,7 @@ The participant could not hear what's being said in the unattended ear because i
 The participant could not hear what's being said in the unattended ear because they have fully utilised their processing capacity for the attended ear.
 
 ## Backlinks
-* [[Which attention model should be used?]]
+* [[Which cognitive model should be used?]]
 	* [[Dichotic listening can be explained by different attention models]], but which model should be used?
 
 <!-- #evergreen -->
