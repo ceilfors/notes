@@ -22,16 +22,22 @@ Adapted from Cognitive Psychology, 5th Edition, by E. Bruce Goldstein.
 	* [[Goldstein, Cognitive Psychology]] (p. 134).
 * [[Movement increases accuracy of perception]]
 	* [[Goldstein, Cognitive Psychology]] (p. 75).
-* [[Perceptual load theory]]
-	* [[Goldstein, Cognitive Psychology]] (p. 95).
 * [[Working memory]]
 	* [[Goldstein, Cognitive Psychology]] (p. 139).
+* [[Perceptual load theory]]
+	* [[Goldstein, Cognitive Psychology]] (p. 95).
 * [[Short-term memory]]
 	* [[Goldstein, Cognitive Psychology]] (p. 132).
+* [[Chunking increases working memory capacity]]
+	* [[Goldstein, Cognitive Psychology]] (p. 135).
+	* [[Goldstein, Cognitive Psychology]] (p. 135).
 * [[Automatic processing]]
 	* [[Goldstein, Cognitive Psychology]] (p. 108).
 * [[Distraction has low impact on tasks with high perceptual load]]
 	* [[Goldstein, Cognitive Psychology]] (p. 97).
+* [[The name short-term memory gives too much emphasis on storage]]
+	* [[Goldstein, Cognitive Psychology]] (p. 138).
+	* [[Goldstein, Cognitive Psychology]] (p. 140).
 * [[Perception combines bottom-up and top-down processing]]
 	* [[Goldstein, Cognitive Psychology]]  (p.57).
 	* [[Goldstein, Cognitive Psychology]] (p. 58).
@@ -39,9 +45,6 @@ Adapted from Cognitive Psychology, 5th Edition, by E. Bruce Goldstein.
 	* [[Goldstein, Cognitive Psychology]] (p. 13)
 * [[Cognitive revolution were inspired by digital computers]]
 	* [[Goldstein, Cognitive Psychology]] (p. 12)
-* [[The name short-term memory gives too much emphasis on storage]]
-	* [[Goldstein, Cognitive Psychology]] (p. 138).
-	* [[Goldstein, Cognitive Psychology]] (p. 140).
 * [[Retrieval-based learning]]
 	* [[Goldstein, Cognitive Psychology]] (p. 18)
 * [[Bayesian inference]]
@@ -50,6 +53,8 @@ Adapted from Cognitive Psychology, 5th Edition, by E. Bruce Goldstein.
 	* [[Goldstein, Cognitive Psychology]] (p. 19)
 * [[Change blindness]]
 	* [[Goldstein, Cognitive Psychology]] (p. 114).
+* [[Working memory is efficient when it stores relevant information]]
+	* [[Goldstein, Cognitive Psychology]] (pp. 148-149).
 * [[The purpose of a model is to simplify]]
 	* [[Goldstein, Cognitive Psychology]] (p. 15)
 * [[The mind]]
@@ -67,15 +72,17 @@ Adapted from Cognitive Psychology, 5th Edition, by E. Bruce Goldstein.
 	* [[Goldstein, Cognitive Psychology]] (p. 63).
 * [[Attenuation model of attention]]
 	* [[Goldstein, Cognitive Psychology]] (p. 90).
+* [[Deploying attentional control reduces irrelevant information in working memory]]
+	* [[Goldstein, Cognitive Psychology]] (p. 151).
+	* [[Goldstein, Cognitive Psychology]] (p. 154).
+* [[Negative thoughts consumes working memory capacity]]
+	* [[Goldstein, Cognitive Psychology]] (p. 158).
 * [[Interleaved learning]]
 	* [[Goldstein, Cognitive Psychology]] (p. 18)
 * [[Light-from-above assumption]]
 	* [[Goldstein, Cognitive Psychology]] (p. 66).
 * [[Oblique effect]]
 	* [[Goldstein, Cognitive Psychology]] (p. 65).
-* [[Chunking increases working memory capacity]]
-	* [[Goldstein, Cognitive Psychology]] (p. 135).
-	* [[Goldstein, Cognitive Psychology]] (p. 135).
 * [[Models help explain cognitive psychology]]
 	* [[Goldstein, Cognitive Psychology]] (p. 14)
 * [[Multitasking is possible when we have extra capacity]]
@@ -89,13 +96,12 @@ Adapted from Cognitive Psychology, 5th Edition, by E. Bruce Goldstein.
 	* [[Goldstein, Cognitive Psychology]] (p. 62).
 * [[Perception is influenced by regularities in the environment]]
 	* [[Goldstein, Cognitive Psychology]] (p. 65).
-* [[Working memory is efficient when it stores relevant information]]
-	* [[Goldstein, Cognitive Psychology]] (pp. 148-149).
+* [[Meditation training improves attentional control]]
+	* [[Goldstein, Cognitive Psychology]] (p. 159).
+* [[Writing your worries may increase working memory capacity]]
+	* [[Goldstein, Cognitive Psychology]] (p. 159).
 * [[Continuity errors in movies]]
 	* [[Goldstein, Cognitive Psychology]] (p. 114).
-* [[Deploying attentional control reduces irrelevant information in working memory]]
-	* [[Goldstein, Cognitive Psychology]] (p. 151).
-	* [[Goldstein, Cognitive Psychology]] (p. 154).
 * [[Listening to foreign language requires top-down processing]]
 	* [[Goldstein, Cognitive Psychology]] (p. 60).
 * [[Memory]]

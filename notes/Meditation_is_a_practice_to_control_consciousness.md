@@ -9,6 +9,10 @@
 *Blinkist*: Puddicombe, Andy. *10 Minutes Can Make All the Difference*. Hodder & Stoughton Ltd : [distributor] Bookpoint, 2011.
 > As you let your eyes close, take five minutes to draw your awareness to your body. […] Now it’s time to begin focusing on breathing. […] Silently count as the in-breath as one and the out-breath as two and continue breathing and counting until you reach ten.
 
+## Backlinks
+* [[Meditation training improves attentional control]]
+	* Similar idea to [[Meditation is a practice to control consciousness]]. This is important as [[Deploying attentional control reduces irrelevant information in working memory]].
+
 <!-- #evergreen #mastery -->
 
 <!-- {BearID:495B7277-FD44-4AD2-AFB4-BD33F22E38CE-63461-00001D83AF6BCC73} -->

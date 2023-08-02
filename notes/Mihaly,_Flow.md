@@ -15,11 +15,11 @@ Csikszentmihalyi, Mihaly. *Flow: The Classic Work on How to Achieve Happiness*. 
 	* [[Mihaly, Flow]] (p. 24).
 	* [[Mihaly, Flow]] (p. 26).
 	* [[Mihaly, Flow]] (p. 27).
+* [[Attentional habits]]
+	* [[Mihaly, Flow]] (p. 30).
 * [[Narcissism blocks flow]]
 	* [[Mihaly, Flow]] (p. 84).
 	* [[Mihaly, Flow]] (pp. 92-93).
-* [[Attentional habits]]
-	* [[Mihaly, Flow]] (p. 30).
 * [[Pleasure can be converted to enjoyment]]
 	* [[Mihaly, Flow]] (p. 46).
 * [[The limits of consciousness]]
@@ -33,16 +33,18 @@ Csikszentmihalyi, Mihaly. *Flow: The Classic Work on How to Achieve Happiness*. 
 	* [[Mihaly, Flow]] (p. 68).
 * [[Boring routine can be converted to enjoyment]]
 	* [[Mihaly, Flow]] (p. 39).
-* [[Alienation blocks flow]]
-	* [[Mihaly, Flow]] (p. 86).
 * [[Controlling consciousness is learnable]]
 	* [[Mihaly, Flow]] (p. 25).
+* [[Alienation blocks flow]]
+	* [[Mihaly, Flow]] (p. 86).
 * [[The difference between pleasure and enjoyment is the amount of psychic energy spent]]
 	* [[Mihaly, Flow]] (pp. 46 - 47).
 * [[Autotelic personality]]
 	* [[Mihaly, Flow]] (p. 90).
 	* [[Mihaly, Flow]] (p. 92).
 	* [[Mihaly, Flow]] (p. 93).
+* [[Meditation is a practice to control consciousness]]
+	* [[Mihaly, Flow]] (p. 104).
 * [[Creative work requires clear goals and feedback to become a flow activity]]
 	* [[Mihaly, Flow]] (pp. 55 - 56).
 	* [[Mihaly, Flow]] (p. 72).
@@ -59,8 +61,6 @@ Csikszentmihalyi, Mihaly. *Flow: The Classic Work on How to Achieve Happiness*. 
 	* [[Mihaly, Flow]] (p. 41).
 * [[Information is interesting when it’s relatable]]
 	* [[Mihaly, Flow]] (p. 52).
-* [[Meditation is a practice to control consciousness]]
-	* [[Mihaly, Flow]] (p. 104).
 * [[Pleasure does not lead to flow experience]]
 	* [[Mihaly, Flow]] (pp. 45 - 46).
 * [[Repeating flow activities may stop flow experiences]]

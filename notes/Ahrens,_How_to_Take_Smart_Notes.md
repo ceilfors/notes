@@ -36,14 +36,14 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 * We could utilise Zeigarnik effect to solve crucial problems whilst running errands (by not writing them down). (Ahrens 71)
 
 ## Backlinks
+* [[Working memory limits]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 68).
 * [[Effective workflow forms positive feedback loop]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 52).
 	* [[Ahrens, How to Take Smart Notes]] (p. 52).
 * [[Understanding requires elaboration]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 86).
 	* [[Ahrens, How to Take Smart Notes]] (p. 120).
-* [[Working memory limits]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 68).
 * [[Workflow trumps willpower]]
 	* [[Ahrens, How to Take Smart Notes]] (pp. 2-3).
 	* [[Ahrens, How to Take Smart Notes]] (pp. 3).
@@ -72,6 +72,9 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 	* [[Ahrens, How to Take Smart Notes]]
 * [[Only one type of attention can be given to one thing at one time]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 58).
+* [[Writing allows us to deliberately forget]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 70)
+	* [[Ahrens, How to Take Smart Notes]] (p. 99)
 * [[Elaborate in writing to test your understanding]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 55).
 	* [[Ahrens, How to Take Smart Notes]] (p. 85).
@@ -79,9 +82,6 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 	* [[Ahrens, How to Take Smart Notes]] (p. 25).
 * [[New learnings rarely start from zero]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 48).
-* [[Writing allows us to deliberately forget]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 70)
-	* [[Ahrens, How to Take Smart Notes]] (p. 99)
 * [[Writing digitally may reduce understanding]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 78).
 * [[Zettelkasten helps counter confirmation bias]]

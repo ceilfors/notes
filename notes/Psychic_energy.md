@@ -7,10 +7,10 @@ Psychic energy is a form of energy that we use to think, remember, make decision
 > Because attention determines what will of will not appear in consciousness, and because it is also required to make any other mental events - such as remembering, thinking, feeling, and making decisions - happen there, it is useful to think of it as psychic energy. Attention is like energy in that without it no work can be done, and in doing work it is dissipated. We create ourselves by how we invest this energy.
 
 ## Backlinks
-* [[Narcissism blocks flow]]
-	* There are two forms of narcissism that prevents one from experiencing flow, excessive self-centeredness and self-consciousness. People with either of these attitudes will have little opportunity to flow as their attention is too rigid, and they’ll spend too much of [[Psychic energy]] to focus on the self and its current goals, rather than exploring on new ones.
 * [[Attentional habits]]
 	* Attentional habits are the [[Psychic energy]] that we spend not by our own intention. Attentional habit could formed by either biological or social instructions. [[Cognitive bias]] bias is probably a good example of how our attention could be spent not consciously by our choice. [[Zeigarnik Effect]], for example, would take our attention to unfinished tasks.
+* [[Narcissism blocks flow]]
+	* There are two forms of narcissism that prevents one from experiencing flow, excessive self-centeredness and self-consciousness. People with either of these attitudes will have little opportunity to flow as their attention is too rigid, and they’ll spend too much of [[Psychic energy]] to focus on the self and its current goals, rather than exploring on new ones.
 * [[Pleasure can be converted to enjoyment]]
 	* Let’s take eating food, which by default, is a pleasure because we’re just fulfilling what our biological program is asking us to do. You take eating as enjoyment, you could spend a lot more [[Psychic energy]] by developing a certain interest in a specific item. Perhaps you can set into a mission to find the best instant noodles available. The involvement of trying every different instant noodles, tasting them really carefully, and share your findings to others will turn eating into enjoyment.
 * [[The difference between pleasure and enjoyment is the amount of psychic energy spent]]
