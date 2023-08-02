@@ -5,11 +5,12 @@ Given that [[The purpose of a model is to simplify]], some models seems to be si
 
 The similar thinking is applied for [[Atkison-Shiffrin Memory Model]].
 
----
+- - -
 ## References
 [[Goldstein, Cognitive Psychology]] (p. 127).
 > With respect to current standards, this model is fairly basic, but it is a useful starting point to illustrate important principles about how different types of memory operate and interact. Indeed, this model has influenced researchers for more than 50 years and it is one of the most cited models in cognitive psychology (Baddeley, Hitch & Allen, 2019).
 > 
+
 <!-- #evergreen -->
 
 <!-- {BearID:65C9C17C-1403-4DE4-903A-45AC91E5ACF5-81026-00000C209DAC4008} -->

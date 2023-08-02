@@ -5,7 +5,7 @@ Anomie is an interesting paradox where we may think that the lack of rule means 
 
 Anomic is the opposite of alienation, [[Alienation blocks flow]] too.
 
----
+- - -
 ## References
 [[Mihaly, Flow]] (p. 86).
 > Anomie-literally, “lack of rules” […] when it is no longer clear what is permitted and what is not, when it is uncertain what public opinion values, behaviour becomes erratic and meaningless. People who depend on the rules of society to give order to their consciousness become anxious.

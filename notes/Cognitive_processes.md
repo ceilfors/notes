@@ -1,7 +1,7 @@
 # Cognitive processes
 The following are our cognitive processes: perception, memory, attention, problem-solving, language, deciding, etc.
 
----
+- - -
 ## References
 [[Goldstein, Cognitive Psychology]] (p. 4)
 > Mental processes such as perception, attention, and memory [...]
@@ -11,6 +11,8 @@ The following are our cognitive processes: perception, memory, attention, proble
 	* Perception is one of the [[Cognitive processes]] in our mind. It is defined as the experience we're getting as a result of stimulation to the senses.
 * [[Cognitive functions have a limited capacity]]
 	* [[Humans are constrained by biological limits]]. In the context of cognitive psychology, what limits us are our cognitive functions or [[Cognitive processes]].
+* [[Memory]]
+	* Memory is one of the [[Cognitive processes]] that is involved in storing and retrieving information about something after the original information is no longer present.
 * [[§What's top of mind]]
 	* Understanding [[Cognitive processes]] and their limits.
 

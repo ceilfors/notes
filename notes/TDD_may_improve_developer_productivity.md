@@ -3,11 +3,11 @@
 
 Using [[The Three Dimensions of DevEx]]:
 1. Feedback loops
-	- Making red tests turn green.
+   * Making red tests turn green.
 2. Cognitive loads
-	- Chunks abstraction of testing, user needs, design, refactoring, programming, into different chunks.
+   * Chunks abstraction of testing, user needs, design, refactoring, programming, into different chunks.
 3. Flow state
-	- The prerequisite of flow state is smaller goals, and TDD helps with that.
+   * The prerequisite of flow state is smaller goals, and TDD helps with that.
 
 <!-- #evergreen -->
 

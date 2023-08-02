@@ -3,7 +3,7 @@ The difference between pleasure and enjoyment is the amount of [[Psychic energy]
 
 See: [[Pleasure can be converted to enjoyment]].
 
----
+- - -
 ## References
 [[Mihaly, Flow]] (pp. 46 - 47).
 > […], we can experience pleasure without any investment of psychic energy, whereas enjoyment happens only as a result of unusual investment of attention.

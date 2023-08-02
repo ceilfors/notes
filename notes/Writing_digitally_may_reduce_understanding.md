@@ -3,7 +3,7 @@ Writing digitally is a lot faster than writing by hands. The speed of typing the
 
 Personally I would still prefer to write my notes digitally as I wouldn't be able to afford a space to store all my physical notes. [[When you know your sickness, you are halfway cured]]. Be conscious that you shouldn't copy even when you're writing your notes digitally.
 
----
+- - -
 ## References
 [[Ahrens, How to Take Smart Notes]] (p. 78).
 > You can type a literature note directly into Zotero, where it will be stored with the bibliographic details. You might want to write them by hand, though. Different independent studies indicate that writing by hand facilitates understanding. In a small but fascinating study, two psychologists tried to find out if it made a different if students in a lecture took notes by hand or by typing them into their laptops (Mueller and Oppenheimer 2014). They were not able to find any difference in term of the number of facts the students were able to remember. But in terms of understanding the content of the lecture, the students who took their notes by hand came out much, much better. After a week, this difference in understanding was still clearly measurable.

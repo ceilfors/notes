@@ -1,9 +1,9 @@
 # Attention limits
-- [[Perceptual load theory]] (Capacity)
-	- [[Multitasking is possible when we have extra capacity]]
-- [[Inattentional blindess]]
-- [[Change blindness]]
-- [[Only one type of attention can be given to one thing at one time]]
+* [[Perceptual load theory]] (Capacity)
+  * [[Multitasking is possible when we have extra capacity]]
+* [[Inattentional blindess]]
+* [[Change blindness]]
+* [[Only one type of attention can be given to one thing at one time]]
 
 
 ## Backlinks

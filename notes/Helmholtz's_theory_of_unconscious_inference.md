@@ -5,7 +5,7 @@ Based on this approach, Helmholtz theorise that we perceive objects unconsciousl
 
 Also associated with the likelihood principle.
 
----
+- - -
 ## References
 [[Goldstein, Cognitive Psychology]] (p. 62).
 > This judgement of what is most likely occurs, according to Helmholtz by a process called unconscious inference, in which our perceptions are the result of unconscious assumptions, or inferences, that we make about the environment.

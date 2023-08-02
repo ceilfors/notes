@@ -7,7 +7,7 @@ Despite the abnormally impressive productivity that Luhmann demonstrated, he nev
 What is "something else" in Luhmann's world? If he's stuck, he would switch context and write on something easier (Ahrens 141). From his interview:
 > Well, writing other books. I always work on different manuscripts at the same time. With this method, to work on different things simultaneously, I never encounter any blockages.
 
----
+- - -
 ## References
 [[Ahrens, How to Take Smart Notes]] (p. 14).
 > When he finished the final chapter, almost exactly 29 and a half years later, as a two-volume book with the title of "The Society of Society" (1997), it stirred up the scientific community. It was a radical new theory that not only changed sociology, but stirred heated discussions in philosophy, education, political theory and psychology as well. Not everyone was able to follow the discussions, though. What he did was unusually sophisticated, very different and highly complex.

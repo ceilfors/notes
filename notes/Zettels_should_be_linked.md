@@ -3,7 +3,7 @@ You need to connect and build on top of other concepts to generate insights. To 
 
 Especially when your zettelkasten is no longer empty, you should always link new notes to previous notes. By deliberately finding links to your previous notes, you’ll make sure that the previous notes are not lost, and understand better of how they’re interconnected together.
 
----
+- - -
 ## References
 [[Ahrens, How to Take Smart Notes]] (p. 101).
 > What does help for true, useful learning is to connect a piece of information to as many meaningful contexts as possible, which is what we do when we connect our notes in the slip-box with other notes. Making these connections deliberately means building up a self-supporting network of interconnected ideas and facts that work reciprocally as cues for each other.

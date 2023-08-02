@@ -1,7 +1,7 @@
 # Overconfidence bias
 Overconfidence bias is a type of [[Cognitive bias]] where people’s subjective confidence towards their judgements is greater than the objective accuracy of those judgements. This bias often make people underestimate a task, especially tasks that aren’t broken down. Interestingly, even the people who study this phenomenon admit they that fell for it too.
 
----
+- - -
 ## References
 [[Ahrens, How to Take Smart Notes]] (p. 142).
 > But there is one consolation: It has nothing to do with being a student. It has something to do with being human. Even the people who study this phenomenon, which is called the overconfidence bias, admit that they too fall for it (Kahneman 2013, 245ff).

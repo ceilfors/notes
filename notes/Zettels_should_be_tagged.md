@@ -2,8 +2,8 @@
 I have not found a good way to tag zettels yet. For now, the better approach is linkage: [[Zettels should be linked]]
 
 See also:
-- [[Zettels should not have ephemeral tags]]
-- [Tags are an ineffective association structure](https://notes.andymatuschak.org/Tags_are_an_ineffective_association_structure)
+* [[Zettels should not have ephemeral tags]]
+* [Tags are an ineffective association structure](https://notes.andymatuschak.org/Tags_are_an_ineffective_association_structure)
 
 ## Backlinks
 * [[Zettels should be optimised for retrieval strength]]

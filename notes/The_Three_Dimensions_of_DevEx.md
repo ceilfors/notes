@@ -4,7 +4,8 @@
 1. Feedback loops
 2. [[Cognitive load]]
 3. Flow state
----
+
+- - -
 [[Noda, DevEx: What Actually Drives Productivity]]
 > Taken together, feedback loops, cognitive load, and flow state, encapsulate the full range of friction types encountered by developers.
 

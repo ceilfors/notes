@@ -1,6 +1,6 @@
 # All changes require marginal adjustment
 
----
+- - -
 ## References
 [Kent Beck’s tweet](https://twitter.com/KentBeck/status/1148263160006107136)
 > Big changes are an illusion. All changes are small. There are only longer and shorter feedback cycles.

@@ -1,7 +1,7 @@
 # ETC
 Easier To Change, ETC, is a principle from the pragmatic programmer that helps programmer evaluate what good design is.
 
----
+- - -
 [[The Pragmatic Programmer]] (p. 29).
 > A thing is well designed if it adapts to the people who use it. For code, that means it must adapt by changing. So we believe in the ETC principle: Easier to Change. ETC. That's it.
 

@@ -2,13 +2,13 @@
 The number of notes in your Zettelkasten will be a lot (Luhmann had 90000 notes). When you are working through an idea, you would want to find the right zettels in a timely manner. One common mistake to tag notes by something ephemeral, for example, by a project, or date.
 
 Taking an example of this note, the ephemeral tags that should be avoided would be:
-- The day of it being written
-- The month of it being written
-- Where as it written
-- The name of the book where the idea is from
-- The book's author where the idea is from
+* The day of it being written
+* The month of it being written
+* Where as it written
+* The name of the book where the idea is from
+* The book's author where the idea is from
 
----
+- - -
 ## References
 [[Ahrens, How to Take Smart Notes]] (p. 41).
 > Most students sort material by topic or event by seminars and semester. From the perspective of someone who writes, that makes as much sense as sorting your errands by purchase date and the store they were bought from. Can't find your trousers? Maybe they are with the bleach you bought the same day at your department store.

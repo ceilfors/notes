@@ -5,7 +5,7 @@ One of the principle from XP is if something is painful, we should do it more of
 
 [[Cloud sandbox]] brings the pain of your infrastructure automation forward. Taking the example of a new product development again, the number of developers you have will scale faster than the number of deployment environments you have. It’s quite common for a team to have 4 - 6 developers, even when a product is not launched yet. Making infrastructure change manually to every sandboxes will be a pain. Cloud sandbox therefore necessitates infrastructure as code, and you should invest in IaC as early as possible.
 
----
+- - -
 ## References
 [Macro trends in the tech industry | May 2020 | ThoughtWorks](https://www.thoughtworks.com/insights/blog/macro-trends-tech-industry-may-2020)
 > Today, we’re seeing many organizations get into trouble with their cloud migrations in part because they aren’t applying enough rigor to cloud infrastructure definitions, management and automation. 

@@ -7,7 +7,7 @@ The improvement of performance is attributed to the practice of discrimination b
 
 This idea seems to be related to [[Context switching helps when you get stuck]].
 
----
+- - -
 ## Reference
 [[Goldstein, Cognitive Psychology]] (p. 18)
 > Can we start revising another topic or would this interfere and deteriorate our performance? To answer this latter question, research suggests that intermixing different topics within a particular domain (this is called interleaving) will not deteriorate but actually improve performance! (Reedier & Pic, 2012; Rohrer, 2012).

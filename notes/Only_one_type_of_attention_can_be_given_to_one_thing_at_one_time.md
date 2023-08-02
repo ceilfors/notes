@@ -1,9 +1,9 @@
 # Only one type of attention can be given to one thing at one time
 [[Humans are constrained by biological limits]], and we are also limited to how we can use our attention:
-- We can only give our attention to one thing at a time
-- We can only utilise one of our many kinds of attention at one time
+* We can only give our attention to one thing at a time
+* We can only utilise one of our many kinds of attention at one time
 
----
+- - -
 ## References
 [[Ahrens, How to Take Smart Notes]] (p. 58).
 > Multitasking is not what we think it is. It is not focusing attention on more than one thing at a time. Nobody can do that. When we think we multitask, what we really do is shift our attention quickly between two (or more) things. And every shift is a drain on our ability to shift and delays the moment we manage to get focused again.  

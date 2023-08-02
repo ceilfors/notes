@@ -1,7 +1,7 @@
 # The mind
 From cognitive psychology point of view, the mind controls our [[Cognitive functions have a limited capacity]] so that we can achieve our goals.
 
----
+- - -
 ## References
 [[Goldstein, Cognitive Psychology]] (p. 3)
 > The mind creates and controls mental functions such as perception, attention, memory, emotions, language, deciding, thinking, and reasoning.

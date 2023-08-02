@@ -1,7 +1,7 @@
 # Oblique effect
 The idea that we can perceive psychical objects when they're vertical or horizontal rather than any other orientation, given that that's the most regularly occurring orientation in our environment.
 
----
+- - -
 ## References
 [[Goldstein, Cognitive Psychology]] (p. 65).
 > It is therefore no coincidence that people can perceive horizontals and verticals more easily than other orientations, an effect called the oblique effect (Appelle, 1972; Campbell, Kulikowski, & Levinson, 1966; Urban, Vandenbussche, & Vogels, 1984).

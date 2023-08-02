@@ -3,7 +3,7 @@
 
 Psychologists used to associate divergent thinking exclusively to art, and convergent thinking exclusively to science. Studies have proven that both art and science requires both kind of thinking. Alternating from one type of thinking to another is the key to creativity. The [[Double diamond]] model, for example, has put an emphasis to alternate this different kind of thinking.
 
----
+- - -
 ## References
 [[Ahrens, How to Take Smart Notes]] (p. 63).
 > "Specifically, the problem-solving behaviour of eminent scientists can alternate between extraordinary levels of focus on specific concepts and playful exploration of ideas. This suggests that successful problem solving may b a function of flexible strategy application in relation to task demands." (Vartanian 2009, 57).  

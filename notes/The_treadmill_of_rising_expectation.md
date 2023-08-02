@@ -3,7 +3,7 @@ A person may think that they’ll be happy once they have bought a new car. Once
 
 In the pursuit of happiness, the treadmill of rising expectation is one of the biggest cause of discontent our life. They normally come from social instruction, which in turn will abuse our genetic programming - getting us to do something that we don’t plan to do. The only way to escape this is to have the ability to control our consciousness and liberate ourselves. ([[To control consciousness is to be able to focus attention at will]])
 
----
+- - -
 ## References
 [[Mihaly, Flow]] (p. 10).
 > But as soon as these basic problems of survival are solved, merely having enough food and a comfortable shelter is no longer sufficient to make people content. New needs are felt, new desires arise. […] Though the evidence suggests that most people are caught up on this frustrating treadmill of rising expectations, many individuals have found ways to escape it. The are people who, regardless of their material conditions, have been able to improve the quality of their lives, who are satisfied, and who have a way of making those around them also a bit more happy.

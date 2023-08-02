@@ -5,7 +5,7 @@ Constraints allow us to be productive on top of what's been established. The amo
 
 Constraints also allow us to compare one idea with another. When you can't compare ideas, all of them will be indifferent, hence we'll not be able to decide if any ideas are worth pursuing at all. Making sure that scientific experiments are comparable and repeatable, is the constraint that has been set that started the scientific revolution.
 
----
+- - -
 ## References
 [[Ahrens, How to Take Smart Notes]] (pp. 130-132).
 > Thinking and creativity can flourish under restricted conditions and there are plenty of studies to back that claim (cf. Stokes 2001; Rheinberger 1997). The scientific revolution started with the standardisation and controlling of experiments, which made them comparable and repeatable (cf. Shapin, 1996). Or think of poetry: It imposes restrictions in terms of rhythm, syllables or rhymes.  

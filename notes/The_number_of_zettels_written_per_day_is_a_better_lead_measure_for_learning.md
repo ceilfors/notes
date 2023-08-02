@@ -3,7 +3,7 @@ The amount of accessible mediums where we can learn today is unprecedented, ther
 
 When you [[Write about what you read]], you'll force yourself to get a better understanding about what you're learning. Writing your zettels therefore is a better lead measure for your learning. Once you do this, you'll soon realise that you can only write so much in a day because the process of elaboration requires effort. You should also put a brake to what you consume, knowing that the process of elaboration is the only way to close your learning loop.
 
----
+- - -
 ## References
 [[Ahrens, How to Take Smart Notes]] (p. 94).
 > And that is because taking a note and sorting it into the slip-box can be done in one go, while writing a manuscript page could involve weeks and months of preparation involving other tasks as well. You could therefore measure your daily productivity by the number of notes written.

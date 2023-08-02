@@ -1,7 +1,7 @@
 # Broken windows accelerates software entropy
 [[Software entropy]] needs active energy to be exerted to be fought (you need energy to move hot air - fridge). Unfortunately, fighting this entropy off from teams' perspective is difficult when there is a broken window ([[Broken windows theory]]) because people feel less hopeful about the effort they put in. Worse, when neglect kicks in (resulting in more broken windows), software entropy will grow faster.
 
----
+- - -
 ## References
 [[The Pragmatic Programmer]] (pp. 6-7).
 > We've seen clean, functional systems deteriorate pretty quickly once windows start breaking. There are other factors that can contribute to software rot, and we'll touch on some of them elsewhere, but. Neglect accelerates the rot faster than any other factor.

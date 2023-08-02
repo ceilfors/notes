@@ -1,7 +1,7 @@
 # Humans are constrained by biological limits
 Whether we like or not, we are all constrained by our biological limits. We have [[Working memory limits]], we can’t imagine a five-dimensional cube, and our circadian rhythm will tell our sleep pattern. Even [[Usain Bolt can’t outrun a domestic cat]].
 
----
+- - -
 ## References
 [[Ahrens, How to Take Smart Notes]]
 > Our short-term memory is also limited. We need strategies not to waste its capacity with thoughts we can better delegate to an external system. While the estimations of our long-term memory capacity are wildly diverse and rather speculative, psychologists used to tend to agree on a very specific number when it came to short-term memory: We can hold a maximum of seven things in our head at the same time, plus/minus two (Miller 1956).

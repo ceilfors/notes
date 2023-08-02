@@ -5,7 +5,7 @@ This story is famous because at the same time, Peter Norvik, which is another pr
 
 This story sometimes has been interpreted as TDD being useless, but it's worth narrowing the understanding down that TDD might not help much in a problem that requires complex algorithm.
 
----
+- - -
 
 ## References
 

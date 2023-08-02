@@ -3,7 +3,7 @@
 
 Focusing just on the interesting things at the moment may sound like a risky approach, where there is a risk to not produce any output. Counterintuitively, the top down approach (where you'll start with a hypotheses and find relevant materials) will pose a greater risk due to the heavy reliance on willpower ([[Workflow trumps willpower]]). Pursuing anything that you'll find interesting at the moment doesn't mean that you'll not produce any output, but you'll have multiple things that are going on in parallel. Producing the output will also be a lot easier that you have collected a lot of materials.
 
----
+- - -
 ## References
 [[Ahrens, How to Take Smart Notes]] (p. 25).
 > After a while, you will have developed ideas far enough to decide on a topic to write about. Your topic is now based on what you have, not based on an unfounded idea about what the literature you are about to read might provide.

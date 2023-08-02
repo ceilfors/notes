@@ -1,7 +1,7 @@
 # Change blindness
 One of the limits of our attention, were we sometimes not able to detect changes in visual stimuli.
 
----
+- - -
 ## References
 [[Goldstein, Cognitive Psychology]] (p. 114).
 > The difficulty in detecting changes in scenes is called change blindness (Rinsing, 2002). The importance of attention (or lack of it) in determining changes blindness is demonstrated by the fact that when a cue was added indicating which part of a scene had been changed, participants detected the changes much more quickly (also see Henderson & Hollingworth, 2003). Indeed, once you know what is different you cannot imagine how you could not see it in the first place.

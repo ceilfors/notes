@@ -1,7 +1,7 @@
 # Broken windows theory
 Broken window theory is the idea that a city that have a higher number of broken windows will have a higher number of crimes, because it encourages further crime.
 
----
+- - -
 ## References
 [Broken windows theory - Wikipedia](https://en.wikipedia.org/wiki/Broken_windows_theory)
 > In criminology, the broken windows theory states that visible signs of crime, anti-social behavior and civil disorder create an urban environment that encourages further crime and disorder, including serious crimes.

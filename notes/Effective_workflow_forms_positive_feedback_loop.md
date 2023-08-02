@@ -3,7 +3,7 @@ A good way to motivate ourselves is by making a progress, and a good way to know
 
 An attempt to form the feedback externally, not from the work itself, on the other hand is not a sustainable way to keep yourself motivated because you'll not form a feedback loop (Ahrens 52). External reward creates only a single flow, not a loop. This is a similar point to why intrinsic motivation is more sustainable than extrinsic motivation.
 
----
+- - -
 ## References
 [[Ahrens, How to Take Smart Notes]] (p. 52).
 > A good workflow can easily turn into a virtuous circle, where the positive experience motivates us to take on the next task with ease, which helps us to get better at what we are doing, which in return makes it more likely for us to enjoy the work, and so on. [...] (Fishbac, Eyal and Finkelstein, 2010)
@@ -21,7 +21,7 @@ An attempt to form the feedback externally, not from the work itself, on the oth
 * [[Creative work requires clear goals and feedback to become a flow activity]]
 	* In creative works, you must develop your own goal to understand if you’re doing good or bad to enter the flow state. Designing your workflow is one way to convert your creative work into flow activities as they can provide immediate feedback ([[Effective workflow forms positive feedback loop]]).
 * [[Developer workflow may improve DevEx]]
-	* Feedback loops
+	* [[Effective workflow forms positive feedback loop]]
 
 <!-- #evergreen #habit -->
 

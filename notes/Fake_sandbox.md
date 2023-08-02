@@ -3,7 +3,7 @@ Fake sandbox is an approach of creating a [[Sandbox environment]] that fakes all
 
 This approach comes with the risk of “but it works on my machine” — where the fake external dependency might behave differently when it’s put in production. It’s a good practice to test your application on a production-like environment, therefore if your production is using MySQL for example, you should use MySQL in your sandbox.
 
----
+- - -
 ## References
 [Mocks Aren’t Stubs](https://martinfowler.com/articles/mocksArentStubs.html)
 > Fake objects actually have working implementations, but usually take some shortcut which makes them not suitable for production (an  [in memory database](https://martinfowler.com/bliki/InMemoryTestDatabase.html)  is a good example).

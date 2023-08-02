@@ -1,5 +1,5 @@
 # Cynefin framework
-![](BearImages/2C2C6BC5-077B-4A05-A401-FD1E82701E1D-1543-0000D40ADBF92D6F/Cynefin_as_of_1st_June_2014.png)
+![](Cynefin_as_of_1st_June_2014.png)
 
 The Cynefin Framework is a tool created by Dave Snowden that helps you contextualise problems. Tension between arguments tend to happen when the arguments are given for a different contexts. It is important distinguish a framework and a model: a model represents a reality, a framework makes sense of reality.
 
@@ -13,7 +13,7 @@ Disorder is a context that’s missing in the picture. You’re in disorder cont
 
 I first discovered this when I saw Dave Snowden’s talk in the Craft Conference, unfortunately I can’t find the recording of that talk. You may find this similar talk useful: [Complex Adaptive Systems - Dave Snowden - DDD Europe 2018 - YouTube](https://www.youtube.com/watch?v=l4-vpegxYPg).  I also find the article published by Liz Keogh to be the one that I visit periodically to grasp a better understanding of Cynefin: [Cynefin for Everyone! | Liz Keogh, lunivore](https://lizkeogh.com/cynefin-for-everyone/).
 
----
+- - -
 ## References
 [The quiddity of Cynefin - Cognitive Edge](http://cognitive-edge.com/blog/the-quiddity-of-cynefin/)
 > A model seeks to represent reality, a framework is a way of looking, a way of making sense which is very different

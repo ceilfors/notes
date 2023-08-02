@@ -3,11 +3,11 @@
 
 These are the traits of visual hierarchy that can be optimised for scanning:
 
-- Prominence. The more important an information is, the more prominent the element should look. This can be done, for example, by enlarging a text.
-- Grouping. Web elements that are logically interrelated to each other must be grouped visually.
-- Nesting. Child information should be visually contained together in a parent container. Example: products being sold in a e-commerce should have their product name, description, and price visually together.
+* Prominence. The more important an information is, the more prominent the element should look. This can be done, for example, by enlarging a text.
+* Grouping. Web elements that are logically interrelated to each other must be grouped visually.
+* Nesting. Child information should be visually contained together in a parent container. Example: products being sold in a e-commerce should have their product name, description, and price visually together.
 
----
+- - -
 ## References
 [[Krug, Don’t make me think]] (p. 35).
 > There's nothing new about visual hierarchies. Every newspaper page, for instance, use prominence, grouping, and nesting to give us useful information about the contents of the page before we read a word.

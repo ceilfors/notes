@@ -1,39 +1,39 @@
 # Ahrens, How to Take Smart Notes
 Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking: For Students, Academics and Nonfiction Book Writers*. CreateSpace, 2017
 
-- Why zettelkasten works
-	- Zettelkasten has a workflow, and [[Effective workflow forms positive feedback loop]]
-		- Workflow works because [[Workflow trumps willpower]]
-	- [[New learnings rarely start from zero]]
-	- Also [[Zettelkasten is not widely adopted because it is too simple for a complex problem]]
-	- [[Zettelkasten splits tasks to use different attention types]]
-- The benefit of zettelkasten
-	- [[Writing makes thinking possible]]
-		- [[Understanding requires elaboration]], and writing is an act of elaboration
-		- [[Elaborate in writing to test your understanding]]
-	- [[Zettelkasten disregards planning]]
-	- [[Zettelkasten enables constant focus on interesting materials]]
-		- Focusing on various interesting materials will increase context switch, and [[Context switching helps when you get stuck]] 
-	- [[Writing allows us to deliberately forget]]
-	- [[Zettelkasten helps counter confirmation bias]]
-- The principles needed for zettelkasten to work
-	- [[Zettelkasten requires a balanced routine]]
-	- [[Find writing topic in your zettelkasten]]
-	- [[Zettels should be optimised for retrieval strength]]
-	- [[Write about what you read]]
-		- 	Watch out for: [[Writing digitally may reduce understanding]]
-	- [[The number of zettels written per day as a better lead measure for learning]]
+* Why zettelkasten works
+  * Zettelkasten has a workflow, and [[Effective workflow forms positive feedback loop]]
+    * Workflow works because [[Workflow trumps willpower]]
+  * [[New learnings rarely start from zero]]
+  * Also [[Zettelkasten is not widely adopted because it is too simple for a complex problem]]
+  * [[Zettelkasten splits tasks to use different attention types]]
+* The benefit of zettelkasten
+  * [[Writing makes thinking possible]]
+    * [[Understanding requires elaboration]], and writing is an act of elaboration
+    * [[Elaborate in writing to test your understanding]]
+  * [[Zettelkasten disregards planning]]
+  * [[Zettelkasten enables constant focus on interesting materials]]
+    * Focusing on various interesting materials will increase context switch, and [[Context switching helps when you get stuck]] 
+  * [[Writing allows us to deliberately forget]]
+  * [[Zettelkasten helps counter confirmation bias]]
+* The principles needed for zettelkasten to work
+  * [[Zettelkasten requires a balanced routine]]
+  * [[Find writing topic in your zettelkasten]]
+  * [[Zettels should be optimised for retrieval strength]]
+  * [[Write about what you read]]
+    * Watch out for: [[Writing digitally may reduce understanding]]
+  * [[The number of zettels written per day as a better lead measure for learning]]
 
----
+- - -
 ## Unsorted
-- The problem with cramming pp. 88-89
-	- "If learning is your goal, cramming is an irrational act"
-	- Exercise reduces stress, which inhibits learning process. Also it helps transfer info into long term memory.
+* The problem with cramming pp. 88-89
+  * "If learning is your goal, cramming is an irrational act"
+  * Exercise reduces stress, which inhibits learning process. Also it helps transfer info into long term memory.
 
----
+- - -
 ## Weak references
-- The best way to deal with complexity is to keep things as simple as possible and to follow a few basic principles (Ahrens 9)
-- We could utilise Zeigarnik effect to solve crucial problems whilst running errands (by not writing them down). (Ahrens 71)
+* The best way to deal with complexity is to keep things as simple as possible and to follow a few basic principles (Ahrens 9)
+* We could utilise Zeigarnik effect to solve crucial problems whilst running errands (by not writing them down). (Ahrens 71)
 
 ## Backlinks
 * [[Effective workflow forms positive feedback loop]]
@@ -42,6 +42,8 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 * [[Understanding requires elaboration]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 86).
 	* [[Ahrens, How to Take Smart Notes]] (p. 120).
+* [[Working memory limits]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 68).
 * [[Workflow trumps willpower]]
 	* [[Ahrens, How to Take Smart Notes]] (pp. 2-3).
 	* [[Ahrens, How to Take Smart Notes]] (pp. 3).
@@ -50,8 +52,6 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 	* [[Ahrens, How to Take Smart Notes]] (p. 25).
 	* [[Ahrens, How to Take Smart Notes]] (p. 26).
 	* [[Ahrens, How to Take Smart Notes]] (pp. 50-51).
-* [[Working memory limits]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 68).
 * [[Writing makes thinking possible]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 5).
 	* [[Ahrens, How to Take Smart Notes]] (p. 90).

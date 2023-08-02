@@ -7,7 +7,7 @@ When you do it anyway, there are 2 potential outcomes:
 1. People don't agree with what you've done: Ask for forgiveness
 2. People agree with what you've done
 
----
+- - -
 ## References
 [[The Pragmatic Programmer]] (p.9)
 > 5. While doing this, you may be comforted by the line attributed to Rear Admiral Dr. Grace Hopper: "It's easier to ask forgiveness than it is to get permission."

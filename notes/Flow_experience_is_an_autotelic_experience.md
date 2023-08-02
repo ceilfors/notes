@@ -1,7 +1,7 @@
 # Flow experience is an autotelic experience
 Flow experience is an autotelic experience, this means an activity is enjoyable just for the sake of it, not because of the outcome of the activity. The word autotelic is derived from 2 Greek words, *auto* meaning self, and *telos* meaning goal. You are having an autotelic experience when you’re not doing because you are expecting a future reward, but because the activity itself is the reward. An example of autotelic experience is when a programmer codes because they enjoy creating softwares or coding, not because they have to do it to pay for the rent.
 
----
+- - -
 ## References
 [[Mihaly, Flow]] (p. 67).
 > The key element of an optimal experience is that it is an end in itself. Even if initially undertaken for other reasons, the activity that consumes us becomes intrinsically rewarding. […]  

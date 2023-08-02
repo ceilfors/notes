@@ -7,7 +7,7 @@ Perhaps one of the reason pleasure does not bring happiness, is because the feel
 
 See: [[Pleasure can be converted to enjoyment]]
 
----
+- - -
 ## References
 [[Mihaly, Flow]] (pp. 45 - 46).
 > Pleasure is a feeling of contentment that one achieves whenever information in consciousness says that expectations set by biological programs or by social conditioning have been met. […]  

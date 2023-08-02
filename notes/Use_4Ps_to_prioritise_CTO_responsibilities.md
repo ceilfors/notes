@@ -8,7 +8,7 @@ The [[4Ps of Technology]] are:
 
 In a start up, you’d typically focus on product + platform. When it goes bigger, your priority might shift into people > process > platform > product.
 
----
+- - -
 ## References
 [London CTOs: Transitioning  from the tech team to the leadership team Tickets, Thu 16 Apr 2020 at 12:30 | Eventbrite](https://www.eventbrite.co.uk/e/london-ctos-transitioning-from-the-tech-team-to-the-leadership-team-tickets-102241639496#)
 

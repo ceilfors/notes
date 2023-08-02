@@ -5,7 +5,7 @@ Sticking to a plan, however, requires willpower (Ahrens 6) and willpower is not 
 
 When you plan too much, you'll suffer from [[Sunk cost fallacy]] too, because you'll be over investing in a single topic. Many career oriented academics would squeeze many publications out of one idea (Ahrens 14), zettelkasten on the hand would squeeze many ideas into a many publications. I would definitely prefer doing the latter to keep my life more interesting.
 
----
+- - -
 ## References
 [[Ahrens, How to Take Smart Notes]] (p. 6)
 > Having a clear structure to work in is completely different from making plans about something. If you make a plan, you impose a structure on yourself; it makes you inflexible. To keep going according to plan, you have to push yourself and employ willpower.

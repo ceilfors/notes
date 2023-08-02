@@ -7,7 +7,7 @@ We do share technology stacks as an industry, but because technologies shifts al
 
 Open software design is the idea that software design must be available for public use. It's the idea that we should [Work with the garage door up](https://notes.andymatuschak.org/Work_with_the_garage_door_up). The main audience of the design is developers who built the software, and not external people. The contents are living artefacts, they naturally evolve as the software evolve. In the world where the majority of large real-world programs are closed-source, opening up our software design documentation is the least we can do to contribute back to the community.
 
----
+- - -
 ## References
 [The Architecture of Open Source Applications: Introduction](http://www.aosabook.org/en/intro1.html)
 > While architects study thousands of buildings in their training and during their careers, most software developers only ever get to know a handful of large programs well. And more often than not, those are programs they wrote themselves. They never get to see the great programs of history, or read critiques of those programs' designs written by experienced practitioners. As a result, they repeat one another's mistakes rather than building on one another's successes.

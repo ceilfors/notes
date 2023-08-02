@@ -13,6 +13,8 @@ These idea don’t come without challenges. We grew up building [[Attentional ha
 	* Seems related to [[To control consciousness is to be able to focus attention at will]].
 * [[The treadmill of rising expectation]]
 	* In the pursuit of happiness, the treadmill of rising expectation is one of the biggest cause of discontent our life. They normally come from social instruction, which in turn will abuse our genetic programming - getting us to do something that we don’t plan to do. The only way to escape this is to have the ability to control our consciousness and liberate ourselves. ([[To control consciousness is to be able to focus attention at will]])
+* [[Deploying attentional control reduces irrelevant information in working memory]]
+	* This idea is related to the idea from flow: [[To control consciousness is to be able to focus attention at will]].
 * [[Meditation is a practice to control consciousness]]
 	* [[Controlling consciousness is learnable]], and meditation is a form of practice to control consciousness. It is a fallacy to think that meditation is a practice to empty your mind, it’s a practice that focuses your attention on something at will ([[To control consciousness is to be able to focus attention at will]]). Think about meditation as a gym for mental control. Yogi would meditate by focusing their attention on their breathing. Other meditation trainer would encourage meditation by focusing on counting from 1 to 10. It doesn’t seem to matter what you focus on, as long as you are training your focus. 
 * [[The key to flow is to control consciousness]]

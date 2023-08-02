@@ -2,9 +2,9 @@
 ## Workflow
 1. Process daily note todo list
 2. Process untagged notes:
-	1. The priority is to make to tag is as an evergreen note
-	2. If the idea is not maturing yet, tidy up, and mark as a transient note for now
-	3. Add at least one link, and object tag
+   1. The priority is to make to tag is as an evergreen note
+   2. If the idea is not maturing yet, tidy up, and mark as a transient note for now
+   3. Add at least one link, and object tag
 3. Process interconnected notes into connection notes.
 4. Process all above into outline notes.
 
@@ -82,14 +82,14 @@ It’s important to keep references, so follow this format. When referencing a b
 
 ## Tagging
 Tagging should be done at the end of the post to prevent conflict with `note-link-nanitor`. These are the tags we want to use
-- Transient: transient
-- Evergreen: evergreen
-- Connection: connection evergreen
-- Outline: evergreen
+* Transient: transient
+* Evergreen: evergreen
+* Connection: connection evergreen
+* Outline: evergreen
 
 Some useful principles:
-- Don’t use nested tags
-- Tag the object, not topic
+* Don’t use nested tags
+* Tag the object, not topic
 
 [The Difference Between Good and Bad Tags • Zettelkasten Method](https://zettelkasten.de/posts/object-tags-vs-topic-tags/)
 > I try to come up with a similar problem in my programming notes. I learned a lot of Python in recent weeks, but it doesn’t make sense to put # Python anywhere I *talk about* the language. Or say I come up with an algorithm to illustrate something, and the algorithm is written in Python — I wouldn’t tag the note with # python at all, since it’s not a note *about* Python. When I compare code snippets in 5 different languages, I apply tags for all 5 languages, though.
@@ -98,11 +98,11 @@ Some useful principles:
 
 ## Inspiration
 This system has been inspired by these systems:
-- Zettelkasten:
-	- [Zettelkasten knowledge and info management • Zettelkasten Method](https://zettelkasten.de/)
-	- [Zettelkasten — How One German Scholar Was So Freakishly Productive](https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125)
-- Evergreen notes: [About these notes](https://notes.andymatuschak.org/About_these_notes)
-- Bliki: [WhatIsaBliki](https://www.martinfowler.com/bliki/WhatIsaBliki.html)
+* Zettelkasten:
+  * [Zettelkasten knowledge and info management • Zettelkasten Method](https://zettelkasten.de/)
+  * [Zettelkasten — How One German Scholar Was So Freakishly Productive](https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125)
+* Evergreen notes: [About these notes](https://notes.andymatuschak.org/About_these_notes)
+* Bliki: [WhatIsaBliki](https://www.martinfowler.com/bliki/WhatIsaBliki.html)
 
 Initially, the system started as an attempt for copy the Zettelkasten method ([[2020-05-20 Discovering Zettelkasten]]), until I realise that [Andy Matuschak’s evergreen note is different to Zettelkasten](https://notes.andymatuschak.org/z4AX7pHAu5uUfmrq4K4zig9x8jmmF62XgaMXm):
 > the primary purpose of my system is to develop ideas in my core creative projects. Most people in the contemporary Zettelkasten culture seem to use their systems primarily to write notes about others’ ideas. If they’re developing their own ideas with them, those ideas are an interesting hobby, not their core creative work.

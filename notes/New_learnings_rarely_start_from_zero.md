@@ -5,7 +5,7 @@ The transferability of a skill might not as straightforward as you'd like. You h
 
 We, software engineers, could pick up a new programming language easily when we want to. Design patterns are an example of what can be transferred from one programming language to another, even though they are not part of the programming language itself.
 
----
+- - -
 ## References
 [[Ahrens, How to Take Smart Notes]] (p. 48).
 > Every intellectual endeavour starts from an already existing preconception, which then can be transformed during further inquires and can serve as a starting point for following endeavours. Basically that is what Hans-Georg Gadamer called the hermeneutic circle (Gadamer 2004).

@@ -1,7 +1,7 @@
 # Attenuation model of attention
 
 Because the cocktail party effect can't be explained by the [[Broadbent's filter model of attention]], this model introduces an attenuator.
----
+- - -
 ## References
 [[Goldstein, Cognitive Psychology]] (p. 90).
 > Because of the results such as these, Anne Treisman (1964) proposed a modification of Broadbent's model, which became known as the attenuation model of attention.

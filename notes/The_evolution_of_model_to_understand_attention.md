@@ -3,12 +3,12 @@
 
 Ordered chronologically:
 
-- Early selection model
-	- [[Broadbent's filter model of attention]]
-	- [[Attenuation model of attention]]
-- Late selection model
-- [[Perceptual load theory]]
-	- As an attempt to resolve debate in late and early selection model.
+* Early selection model
+  * [[Broadbent's filter model of attention]]
+  * [[Attenuation model of attention]]
+* Late selection model
+* [[Perceptual load theory]]
+  * As an attempt to resolve debate in late and early selection model.
 
 ## Backlinks
 * [[Dichotic listening can be explained by different attention models]]

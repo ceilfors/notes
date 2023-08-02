@@ -5,7 +5,7 @@ Capturing your notes by books, in contrast, is straightforward but will not enco
 
 The concept that you capture must be atomic, meaning it must not have multiple ideas in one note. Not only atomic notes are easier to be read in the future, but also most importantly, it will increase the link-ability of the note.
 
----
+- - -
 ## References
 [[Ahrens, How to Take Smart Notes]] (pp. 18-19).
 > He then would turn to the main slip-box and write his ideas, comments and thoughts on new pieces of paper, using only one for each idea and restricting himself to one side of the paper, to make it easier to read them later without having to take them out of the box. He kept them usually brief enough to make one idea fit on a single sheet, but would sometimes add another note to extend a thought.

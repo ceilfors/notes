@@ -5,14 +5,14 @@ First, the activity that is being executed must require skills, because a more p
 
 Secondly, having a clear goal and immediate feedback make sure that you can retain your focus on the task at hand. If an activity doesn’t provide immediate feedback, you’ll enter a wait state, and other irrelevant information will start to linger.
 
----
+- - -
 ## References
 [[Mihaly, Flow]] (p. 59).
 > This feature of flow is an important by-product of the fact that enjoyable activities require a complete focusing of attention on the task at hand - thus leaving no room in the mind for irrelevant information.
 
 ## Backlinks
 * [[Developer workflow may improve DevEx]]
-	* Flow state
+	* [[The prerequisites of flow are needed to flood working memory]]
 * [[Attentional disorder blocks flow]]
 	* A person with attentional disorder will unfortunately struggle to experience flow as their attention are fragmented. They will not be able to flood their working memory with information that are relevant at hand, because irrelevant information will involuntarily be processed ([[The prerequisites of flow are needed to flood working memory]]). The cause of attentional disorder are usually genetic, but may also be caused by childhood experiences.
 

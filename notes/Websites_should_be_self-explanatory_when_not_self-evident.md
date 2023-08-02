@@ -5,7 +5,7 @@ The difference in between self-evident and self-explanatory is in the words itse
 
 A button is a simple concept, therefore when a button is self-evident, it will not have the instruction to be clicked. When a button is self-explanatory on the other hand, it may have a text that says "Click me".
 
----
+- - -
 ## References
 [[Krug, Don’t make me think]] (p. 18).
 > Sometimes, though, particularly if you're doing something original or groundbreaking or something that's inherently complicated, you have to settle for self-explanatory. On a self-explanatory page, it takes a little thought to "get it" - but only a little. The appearance of things (like size, colour, and layout), their well-chosen names, and the small amounts of carefully crafted text should all work together to create a sense of nearly effortless understanding.

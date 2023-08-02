@@ -5,7 +5,7 @@ This is my alternate variation of the Learn, Build, Teach cycle, which I origina
 
 This cycle is not only emphasising the sequence of mastery, but also a goal to balance the things we do as a knowledge worker. Most of us are focused on the *doing the job* for probably 80% - 90% of our time, then only having the rest of the small time for *learn* and *teach*.
 
----
+- - -
 ## References 
 [Episode 39: Big Data and Serverless with Lynn Langit - Serverless Chats Podcast](https://www.serverlesschats.com/39/)
 > Lynn: And I told her, I said, “Okay, you tell me that the way that I work has been helpful to you. Now it’s your turn, you learn, build, now it’s your turn to teach.” So I try to get that idea going with people. Because I think that it’s not about an age or about a degree or whatever, it’s about what you have done. And I think that that applies even to younger people. When I’ve worked with some people even in high school that have done hackathons, if they built something learn, build, teach.

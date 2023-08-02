@@ -1,7 +1,7 @@
 # Perception
 Perception is one of the [[Cognitive processes]] in our mind. It is defined as the experience we're getting as a result of stimulation to the senses.
 
----
+- - -
 ## Reference
 [[Goldstein, Cognitive Psychology]] (p.52).
 > We define perception as experiences resulting from stimulation of the senses. As you will see, stimulation of the senses may be the starting point of perception, but it certainly is not the only thing that determines what ultimately is perceived or experienced.

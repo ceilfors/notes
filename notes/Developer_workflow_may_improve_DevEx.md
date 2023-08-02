@@ -5,10 +5,13 @@ From developer's point of view these organisational improvements are external fa
 
 Based on [[The Three Dimensions of DevEx]]:
 1. Feedback loops
+
 [[Effective workflow forms positive feedback loop]]
 2. Cognitive load
+
 [[Working memory limits]]
 3. Flow state
+
 [[The prerequisites of flow are needed to flood working memory]]
 
 ## Backlinks

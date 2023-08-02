@@ -5,7 +5,7 @@ Although everyone can learn to enter the flow state ([[Controlling consciousness
 
 The other prerequisites of flow that is related to autotelic personality is clear goals. Mihaly indicates that autotelic individuals have a specific way of setting their goals, they usually have curiosity and interest in life, and low self-centeredness ([[Narcissism blocks flow]]).
 
----
+- - -
 ## References
 [[Mihaly, Flow]] (p. 90).
 > The traits that mark an autotelic personality are most clearly revealed by people who seem to enjoy situation that ordinary persons would find unbearable.

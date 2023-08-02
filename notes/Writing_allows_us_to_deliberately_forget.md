@@ -3,7 +3,7 @@ We have [[Working memory limits]], therefore making sure that we can populate ou
 
 We need to able to deliberately forget about the irrelevant thoughts. [[Forgetting is a healthy process of inhibiting irrelevant memory]]. Writing makes us have an external system, and it will help us forget about those lingering irrelevant thoughts.
 
----
+- - -
 ## References
 [[Ahrens, How to Take Smart Notes]] (p. 70)
 > But thanks to Zeigarnik's follow-up research, we also know that we don't actually have to finish tasks to convince our brains to stop thinking about them. All we have to do is to write them down in a way that convinces us that it will be taken care of. That's right: The brain doesn't distinguish between an actual finished task and one that is postponed by taking a note. By writing something down, we literally get it out of our heads. This is why David Allen's "Getting things done" system works: The secret to have a "mind like water" is to get all the little stuff out of our short-term memory. And we can't take care of everything once and for all right now, the only way to do that is to have a reliable external system in place where we can keep all our nagging thoughts about the many things that need to be done and trust that they will not be lost.

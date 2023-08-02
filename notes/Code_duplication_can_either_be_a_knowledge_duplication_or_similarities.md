@@ -1,5 +1,5 @@
 # Code duplication can either be a knowledge duplication or similarities
----
+- - -
 ## References
 [[The Pragmatic Programmer]] (p. 34).
 > During code review, the resident know-it-all bounces this code, claiming it's a DRY violation: both function bodies are the same.

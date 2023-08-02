@@ -6,7 +6,7 @@ On the first reaction, I don't actually write or draw them for keeping records, 
 
 On the second reaction, even though I write as I think, it's true that my writing cost me extra time. But most of the extra time I'd spent, though, would be on the editing process. The time for editing is justifiable as we'll allow our writing to be readable by other people over and over again.
 
----
+- - -
 ## References
 [[Ahrens, How to Take Smart Notes]] (p. 95).
 > Richard Feynman once had a visitor in his office, as historian who wanted to interview him. When he spotted Feynman's notebooks, he said how delighted he was to see such "wonderful records of Feynman's thinking.".

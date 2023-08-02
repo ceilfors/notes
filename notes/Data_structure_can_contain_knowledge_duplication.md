@@ -1,5 +1,5 @@
 # Data structure can contain knowledge duplication
----
+- - -
 ## References
 [[The Pragmatic Programmer]] (p. 35).
 > DRY Violations in Data

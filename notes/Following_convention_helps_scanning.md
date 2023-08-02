@@ -3,7 +3,7 @@ Users would have visited a lot of websites by the time they get to yours, and fo
 
 For example, most users will have the preconceived ideas of how buttons would look like, so ensuring that buttons look clickable will give users familiarity. Designing links that look clickable will have the same effect. Navigation bar is most commonly located on the top, and the same to websites logo as well.
 
----
+- - -
 ## References
 [[Krug, Don’t make me think]] (p. 31).
 > When applied well, Web conventions make life easier for users because they don't have to constantly figure out what things are and how they're supposed to work as they go from site to site.

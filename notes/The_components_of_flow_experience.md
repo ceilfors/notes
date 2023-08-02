@@ -16,7 +16,7 @@ These are the rest of the subjective experience that you may notice once you hav
 7. The disappearance of self: You forget about the ‘self’.
 8. The transformation of time: Hours may feel like minutes, or vice-versa. Exception applies to a task that requires precision of time like surgery.
 
----
+- - -
 ## References
 [[Mihaly, Flow]] (p. 49).
 > As our studies have suggested, the phenomenology of enjoyment has eight major components.

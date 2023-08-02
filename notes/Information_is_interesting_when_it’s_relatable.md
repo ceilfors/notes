@@ -3,7 +3,7 @@
 
 You can think about two of the examples above as an opposite extreme of a spectrum, therefore something is interesting when a piece of information is falling in the sweet spot of that spectrum. It’s something that you can relate to, but you haven’t fully grasped it yet. You may find them relevant to you because of your personal goal or to your previous experience.
 
----
+- - -
 ## Ref
 [[Mihaly, Flow]] (p. 52).
 > Sam liked it - the experience resonated with previous things he had enjoyed doing, with feelings he had about nature and beauty, with priorities about what was important that he had established over the years. He felt the experience was something good, something worth seeking out again. Thus he built this accidental event into a structure of goals - […]

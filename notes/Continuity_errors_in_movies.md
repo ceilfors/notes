@@ -1,7 +1,7 @@
 # Continuity errors in movies
 Continuity errors in movies is one of the example of [[Change blindness]] where the scenes from one to another seemed to have an important detail that was not continuous. See reference for example.
 
----
+- - -
 ## References
 [[Goldstein, Cognitive Psychology]] (p. 114).
 > Rusty is holding a cocktail glass full of shrimp in his hand, but in the next shot, which moves in closer and is from a slightly different angle, the glass has turned into a plate of fruit, and then in the next shot the plate changes back to the cocktail glass full of shrimp!

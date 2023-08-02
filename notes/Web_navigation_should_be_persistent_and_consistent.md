@@ -1,7 +1,7 @@
 # Web navigation should be persistent and consistent
 [[Effective website navigation helps navigating non-psychical space]]. Given that the users will be moving from one page to another, the navigation should also be persistent and look the same throughout their journey.
 
----
+- - -
 ## References
 [[Krug, Don’t make me think]] (p. 61).
 > Just having the navigation appear in the same place on every page with a consistent look gives you instant confirmation that you're still in the same site - which is more important than you might think. And keeping the same throughout the site means that (hopefully) you only have to figure out how it works once.

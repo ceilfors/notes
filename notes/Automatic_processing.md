@@ -3,7 +3,7 @@ Automatic processing happens subconsciously without our attention. Think about t
 
 Seems related to [[System 1]].
 
----
+- - -
 ## References
 [[Goldstein, Cognitive Psychology]] (p. 108).
 > Real-life experiences are filled with examples of automatic processing because there are many things that we have been practising for years. For example, have you ever wondered, after leaving home, whether you had locked the door and returned to find that you had? Locking the door has, for many people, become such an automatic response that they do it without paying attention.

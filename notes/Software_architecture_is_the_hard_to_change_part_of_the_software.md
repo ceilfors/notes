@@ -1,6 +1,6 @@
 # Software architecture is the hard to change part of the software
 There are many definitions of software architecture out there. When people talks about software architecture, people would normally stop and think. Some people may approach the thinking part differently where they'll put all the thinking upfront, even when the change to it is easy. This front loading of everything can be unnecessary because software products tend to change over time when being put in front to the user. Therefore differentiating what's hard and what's easy in terms of the change is important, and defining it only to capture the hard part helps reduce that front loading.
----
+- - -
 ## References
 [Who Needs an Architect | Martin Fowler](https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf)
 > “things that people perceive as hard to change."

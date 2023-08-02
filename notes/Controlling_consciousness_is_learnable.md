@@ -1,7 +1,7 @@
 # Controlling consciousness is learnable
 Just because [[To control consciousness is to override biological and social instruction]] is not something that we could tangibly see, it doesn’t mean that they’re not trainable (Similar to relative pitch ear training). Many discipline or culture have proven how controlling consciousness can be learnt. Yoga is a good example of a discipline that involves or requires the mastery of consciousness. The fact that yogi are able to do them after years of practice is no different to how a software developer could create softwares after years of practice.
 
----
+- - -
 ## References
 [[Mihaly, Flow]] (p. 25).
 > After all, mystical explanations are not necessary to account for the performance of a great violinist, or a great athlete, even though most of us could not even begin to approach their powers. The yogi, similarly, is a virtuoso of the control of consciousness. Like all virtuosi, he must spend many years learning, and he must keep constantly in training. […] The skills he yogi gains are at the expense of the more mundane abilities that other people learn to develop and take for granted. What an individual yogi can do is amazing - but so is what a plumber can do, or a good mechanic.

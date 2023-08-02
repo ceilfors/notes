@@ -1,6 +1,6 @@
 # Knowledge workers process knowledge into knowledge
 
----
+- - -
 ## References
 [[The Pragmatic Programmer]] (p. 74).
 > As Pragmatic Programmers, our base material isn't wood or iron, it's knowledge. We gather requirements as knowledge, and then express that knowledge in our designs, implementations, tests, and documents.

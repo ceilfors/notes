@@ -3,7 +3,7 @@ We need a good method to think because we have [[Working memory limits]]. If [[E
 
 When there are too many variables that we're thinking about, note-writing let go of some of the variables (like remembering information), so that we can focus on the real thinking (like connecting ideas or understanding) (Ahrens 90).
 
----
+- - -
 ## References
 [[Ahrens, How to Take Smart Notes]] (p. 5).
 > A good structure is something you can trust. It relieves you from the burden of remembering and keeping track of everything. If you can trust the system, you can let go of the attempt to hold everything together in your head and you can start focusing on what is important: The content, the argument and the ideas.

@@ -7,7 +7,7 @@ From this example, there are two factors that make multitasking possible:
 1. The difficulty of the task: [[The ability to divide attention depends on difficulty of the task]]
 2. How well-practised the task is: [[The ability to divide attention can be achieved with practise]]
 
----
+- - -
 ## References
 [[Goldstein, Cognitive Psychology]] (p. 107).
 > Also, people can simultaneously drive, have conversations, listen to music, and think about what they're going to be doing later that day.

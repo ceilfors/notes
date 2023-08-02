@@ -5,7 +5,7 @@ As there is no single branch of science that deals with how consciousness works,
 
 Imagine that we feel hunger, a piece of information that have just entered of our consciousness. By our genetic programming, we may form an intent to find foods when we feel hunger. But as consciousness is self-directed, we could have a stronger opposite intent not to find foods. If we have the intent to lose weight, for example, we may disregard the feeling of hunger and carry on with our day. From biological perspective, we may go into the detail of how the level of blood sugar is forcing us to find foods, but this is phenomenologically irrelevant in Mihaly’s model.
 
----
+- - -
 ## References
 [[Mihaly, Flow]] (p. 24).
 > In this sense, it functions as a clearinghouse for sensations, perceptions, feelings, and ideas, establishing priorities among all the diverse information. Without consciousness we would still “know” what is going, but we would have to react to it in a reflexive, instinctive way.
@@ -17,10 +17,10 @@ Imagine that we feel hunger, a piece of information that have just entered of ou
 > We mall intentions the force that keeps information in consciousness ordered. Intentions arise in consciousness whenever a person is aware of desiring something or wanting to accomplish something. Intentions are also bits of information, shaped either by biological needs or by internalised social goals. They act as magnetic fields, moving attention toward some objects and away from others, keeping our mind focused on some still in preference to others.
 
 ## Backlinks
-* [[To control consciousness is to override biological and social instruction]]
-	* Understanding that [[Consciousness is intentionally ordered information]] is the key to control consciousness. Most of us have our intents coming either from biological instruction or social instruction. We form goals based on these instructions, such as living a long and healthy life or to get a job. As our intents are coming from a hierarchy goals, we could actually have a higher level goal up in the hierarchy that overrides those biological instruction or social instruction.
 * [[The limits of consciousness]]
 	* [[Humans are constrained by biological limits]], and our consciousness has its limits too. Because [[Consciousness is intentionally ordered information]], the limit that we want to understand is how many bits of information can we process. Apparently, we can only handle 110 bits of information per second. For us to understand what another person is talking about, we must also process roughly about 60 bits of information per second, which is why we can’t simultaneously listen to 2 people talking that well.
+* [[To control consciousness is to override biological and social instruction]]
+	* Understanding that [[Consciousness is intentionally ordered information]] is the key to control consciousness. Most of us have our intents coming either from biological instruction or social instruction. We form goals based on these instructions, such as living a long and healthy life or to get a job. As our intents are coming from a hierarchy goals, we could actually have a higher level goal up in the hierarchy that overrides those biological instruction or social instruction.
 
 <!-- #evergreen #consciousness -->
 

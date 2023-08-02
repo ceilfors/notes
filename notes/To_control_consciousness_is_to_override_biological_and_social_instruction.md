@@ -5,7 +5,7 @@ Understanding that [[Consciousness is intentionally ordered information]] is the
 
 Martyrs, for example, voluntarily suffers death, an intent that are quite the opposite of the norms to live a long and healthy life. This intention is formed as they have their religious beliefs as their higher level goal.
 
----
+- - -
 ## References
 [[Mihaly, Flow]] (p. 24).
 > A person can make himself happy, or miserable, regardless of what is actually happening “outside,” just by changing the contents of consciousness. […] To develop this trait, one must find ways to order consciousness so as to be in control of feelings and thoughts.

@@ -1,7 +1,7 @@
 # Attentional habits
 Attentional habits are the [[Psychic energy]] that we spend not by our own intention. Attentional habit could formed by either biological or social instructions. [[Cognitive bias]] bias is probably a good example of how our attention could be spent not consciously by our choice. [[Zeigarnik Effect]], for example, would take our attention to unfinished tasks.
 
----
+- - -
 ## References
 [[Mihaly, Flow]] (p. 30).
 > Information enters consciousness either because we intend to focus attention on it or as a result of attentional habits based on biological or social instructions.

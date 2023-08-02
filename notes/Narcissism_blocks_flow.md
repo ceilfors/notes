@@ -5,7 +5,7 @@ A person who is self-centered will put their own desire over everything else. Th
 
 A person who is self-conscious is worried about what other thinks of them. When they are faced with a hard challenge, they will not be able to focus on applying their skills, which is [[The prerequisites of flow experience]], as most of the attention and energy is spent on protecting the self.
 
----
+- - -
 [[Mihaly, Flow]] (p. 84).
 > A less drastic obstacle to experiencing flow is excessive self-consciousness. A person who is constantly worried about how others will perceive her, who is afraid of creating the wrong impression, or of doing something inappropriate, is also condemned to permanent exclusion from enjoyment. So are people who are excessively self-entered. A self-entered individual is usually not self-conscious, but instead evaluates every bit of information only in terms of how it relates to her desires.
 

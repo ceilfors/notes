@@ -5,7 +5,7 @@ Instead of thinking about how we can have better willpower, we need to think abo
 
 When it comes to creative works, workflow is a way for us to define our environment. [[Effective workflow forms positive feedback loop]], hence, not only having a good workflow will help us perform our tasks, but it will also provide a motivational loop for us to continue the tasks.
 
----
+- - -
 ## References
 [[Ahrens, How to Take Smart Notes]] (pp. 2-3).
 > Willpower is, as far as we know today, a limited resource that depletes quickly and is also not that much up for improvement over the long term (Bausmeister, Bratslavsky, Muraven, and Tice, 1998; Muraven, Tice, and Baumeister, 1998; Schmeichel, Vohs, and Baumeister, 2003; Moller, 2006).

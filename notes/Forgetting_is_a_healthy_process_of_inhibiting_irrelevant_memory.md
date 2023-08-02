@@ -3,7 +3,7 @@ You may associate forgetting as something bad, like a memory loss. Even though f
 
 [[Solomon Shereshevsky]] is a famous figure for this topic. He is having a difficulty to forget. Even though not being able to forget has brought an amazing feat, not having the ability to inhibit irrelevant memory may had affected his daily life more than the benefit of not forgetting.
 
----
+- - -
 ## References
 [[Ahrens, How to Take Smart Notes]] (pp. 100-101).
 > Forgetting, then, would not be the loss of a memory, but the erection of a mental barrier between the conscious mind and our long-term memory. Psychologists call this mechanism active inhibition cf. MacLeod, 2007).  

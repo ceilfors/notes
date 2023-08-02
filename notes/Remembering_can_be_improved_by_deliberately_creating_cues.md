@@ -3,7 +3,7 @@ If [[Forgetting is a healthy process of inhibiting irrelevant memory]], remember
 
 There are two types of memory strengths: retrieval strength and storage strength. When a piece of memory has a high retrieval strength, that particular memory is easily retrievable, especially given a cue or environment. Therefore if what we're interested in is to remember important information when needed, we need to increase the information's retrieval strength. Increasing memory retrieval strength can be done by deliberately adding more cues to the memory. The easiest way for me to remind myself to post a package the next day, for example, is to put the package by the front door. Practicing zettelkasten is the practical example of deliberately creating many cues at scale, so that notes are inter-connected to each other.
 
----
+- - -
 [[Ahrens, How to Take Smart Notes]] (p. 42)
 > The collection of good ideas is diluted to insignificance by all the other notes, which are only relevant for a specific project or actually not that good on second sight. [...] It is not surprising that my friend has a bookshelf filled with notebooks full of wonderful ideas, but not a single publication to show.
 

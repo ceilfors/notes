@@ -1,7 +1,7 @@
 # Zettelkasten is not widely adopted because it is too simple for a complex problem
 There have been many researches done on Zettelkasten to be a proven way to make writing work more effectively. The reason it was not being widely adopted though because of its simplicity (Ahrens 18). It is unfortunate that we have the preconception that great outcome requires great effort, or complex problem requires complex solution, especially in the world of writing.
 
----
+- - -
 ## References
 [[Ahrens, How to Take Smart Notes]] (pp. 16-18)
 > We are still so used to the idea that a great outcome requires great effort that we tend not to believe that a simple change in our work routines could not only make us more productive, but the work also more fun.  

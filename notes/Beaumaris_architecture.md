@@ -1,5 +1,5 @@
 # Beaumaris architecture
-![](BearImages/B485E486-E75B-4776-AA2E-98662FB9B553-57831-0001028028874B2D/41753333144_2b94fbb823_b.jpg)
+![](41753333144_2b94fbb823_b.jpg)
 ([Beaumaris Castle - sign - The greatest castle never built!… | Flickr](https://www.flickr.com/photos/ell-r-brown/41753333144))
 
 I visited the Beaumaris Castle during my holiday, one of the sign immediately reminded me of many software architectures that I saw throughout my career, it says:
@@ -8,7 +8,7 @@ I visited the Beaumaris Castle during my holiday, one of the sign immediately re
 
 The castle were not completed due to the lack of funding, constant disruptions, the lack of focus, and finally remained incomplete as the money ran out. Sound familiar?
 
----
+- - -
 ## References
 [Beaumaris Castle - Wikipedia](https://en.wikipedia.org/wiki/Beaumaris_Castle)
 > Edward’s invasion of Scotland soon diverted funding from the project, however, and work stopped, only recommencing after an invasion scare in 1306. When work finally ceased around 1330 a total of £15,000 had been spent, a huge sum for the period, but the castle remained incomplete.

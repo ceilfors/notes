@@ -5,7 +5,7 @@ As we’re using “per second” as the unit of measurement, naturally how we s
 
 Mihaly seems to indicate that this is related to working memory, but I don’t really understand how consciousness is related to the concept of working memory. See [[Working memory limits]].
 
----
+- - -
 ## References
 [[Mihaly, Flow]] (pp. 28 - 29).
 > It seems we can manage at most seven bits of information - such as differentiated sounds, or visual stimuli, or recognisable nuances of emotion or thought - at any one time, and that the shortest time it takes to discriminate between one set of bits and another is about 1/18 of a second. By using these figures one concludes that it is possible to process at most 126 bits of information per second, or 7,560 per minute, or almost half a million per hour. Over a lifetime of seventy years, and counting sixteen hours of waking time each day, this amounts to about 185 billion bits of information.

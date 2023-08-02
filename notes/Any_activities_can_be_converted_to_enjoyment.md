@@ -1,9 +1,9 @@
 # Any activities can be converted to enjoyment
 See:
-- [[Boring routine can be converted to enjoyment]]
-- [[Pleasure can be converted to enjoyment]]
-- [[Adversity can be converted to enjoyment]]
-- [[Anxiety can be converted to enjoyment]]
+* [[Boring routine can be converted to enjoyment]]
+* [[Pleasure can be converted to enjoyment]]
+* [[Adversity can be converted to enjoyment]]
+* [[Anxiety can be converted to enjoyment]]
 
 ## Backlinks
 * [[Autotelic personality]]

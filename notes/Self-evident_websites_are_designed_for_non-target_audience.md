@@ -3,7 +3,7 @@ It's a common mistake to design websites for the target audience, the domain exp
 
 [[Usable websites are self-evident]], and to achieve this you'll need to design for the beginners instead. The languages used by beginners would make the website be self-evident for both the beginners and the experts.
 
----
+- - -
 ## References
 [[Krug, Don’t make me think]] (p. 18).
 > Your goal should be for each page or screen to be self-evident, so that just by looking at it the average user will know what it is and how to use it.

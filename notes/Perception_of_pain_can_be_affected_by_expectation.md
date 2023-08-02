@@ -6,7 +6,7 @@ Parents may sometime notice that their young children would only start to cry wh
 
 The similar effect is happening when a patient is given a placebo, where their expectation that they'll feel better influence their perception of pain.
 
----
+- - -
 
 ## References
 

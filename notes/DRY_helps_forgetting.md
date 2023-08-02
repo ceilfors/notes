@@ -5,7 +5,7 @@ For example, you might be documenting rigorously about how your code works, even
 
 Remembering is hard as that's a cognitive load for us. Having the ability to forget about those duplication, means we'll spend less energy remembering them. Also [[Forgetting is a healthy process of inhibiting irrelevant memory]]. 
 
----
+- - -
 ## References
 [[The Pragmatic Programmer]] (p. 31).
 > It isn't a question of whether you'll remember: it's a question of when you'll forget.

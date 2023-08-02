@@ -3,7 +3,7 @@ Multitaskers feel that they're more productive executing multiple tasks at once,
 
 Not only we can only pay attention to one task at a time, we can also only utilise one of our many types of attention at one time ([[Only one type of attention can be given to one thing at one time]]). These two limitations render multitasking as an impossible task.
 
----
+- - -
 ## References
 [[Ahrens, How to Take Smart Notes]] (p. 57).
 > Psychologists who interviewed the multitaskers did test them instead of just asking. They gave them different tasks to accomplish and compared their results with another group that was instructed to do only one thing at a time. The outcome is unambiguous: While those who multitasked felt more productive, their productivity actually decreased - a lot (Wang and Tchernev 2012; Rosen 2008; Ophir, Nass, and Wager 2009). Not only the quantity but also the quality of their accomplishments lagged significantly behind that of the control group.

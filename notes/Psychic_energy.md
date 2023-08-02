@@ -1,7 +1,7 @@
 # Psychic energy
 Psychic energy is a form of energy that we use to think, remember, make decisions, etc. The best way to think about what psychic energy is is to compare it to a better known form of energy: physical energy. To write this note, I’ll have to spend my physical energy to move my fingers and spend my psychic energy to think about my writings.
 
----
+- - -
 ## References
 [[Mihaly, Flow]] (p. 33).
 > Because attention determines what will of will not appear in consciousness, and because it is also required to make any other mental events - such as remembering, thinking, feeling, and making decisions - happen there, it is useful to think of it as psychic energy. Attention is like energy in that without it no work can be done, and in doing work it is dissipated. We create ourselves by how we invest this energy.

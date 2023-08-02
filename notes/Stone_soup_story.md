@@ -8,7 +8,7 @@ One Curious villager noticed it, came out and asked what's cooking. The soldiers
 
 Another villager noticed this... And the story repeats.
 
----
+- - -
 
 ## References
 

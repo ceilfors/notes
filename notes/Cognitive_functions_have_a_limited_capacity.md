@@ -3,7 +3,7 @@
 
 For example, we have [[Working memory limits]], [[Attention limits]].
 
----
+- - -
 ## References
 [[Goldstein, Cognitive Psychology]] (p. 13)
 > Cognitive functions have a limited capacity, and still is, a central theme in modern cognitive psychology.

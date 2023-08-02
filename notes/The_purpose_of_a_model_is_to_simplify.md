@@ -1,5 +1,5 @@
 # The purpose of a model is to simplify
----
+- - -
 ## References
 [[Goldstein, Cognitive Psychology]] (p. 15)
 > One purpose of models is to simplify. We can appreciate this purpose by considering how we might build a model of the brain.

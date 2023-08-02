@@ -7,7 +7,7 @@ The best analogy here is, if you're walking and wandering about, you're not stuc
 
 [[Context switching helps when you get stuck]]
 
----
+- - -
 ## References
 [AMA: We are the Google Brain team. We'd love to answer your questions about machine learning. : MachineLearning](https://www.reddit.com/r/MachineLearning/comments/4w6tsv/ama_we_are_the_google_brain_team_wed_love_to/d6diast/)
 > I often tell new team members about the 15 min rule (I didn't come up with it): when you're stuck on something (e.g. getting a script to run), you *have* to try to solve the problem all by yourself for 15 min, but then when the 15 minutes are up you *have* to ask for help. Failure to do the former wastes people's time, failure to ask for help wastes your time.

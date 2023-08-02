@@ -1,7 +1,7 @@
 # Sandbox environment
 Sandbox is an isolated environment where developers can safely test their code changes. The isolation protects the higher deployment environments, such the staging or production environment, to be affected by the code changes. A sandbox is also isolated only for a single developer, typically being setup in your local machine. Testing your code in a sandbox before pushing to the mainline is important, so that you can keep the mainline branch green (Continuous Integration).
 
----
+- - -
 ## References
 [Sandbox (software development) - Wikipedia](https://en.wikipedia.org/wiki/Sandbox_%28software_development%29)
 > Sandboxing protects “live” servers and their data

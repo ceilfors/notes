@@ -3,7 +3,7 @@ One of the recommended approach to writing is the top-down approach. This approa
 
 The best thinkers are not free from confirmation bias either. Although being aware of the problem helps you do something about it, you don’t really want to rely on your willpower.  You want to embed a mechanism in your workflow to counter confirmation bias because [[Workflow trumps willpower]]. Zettelkasten embeds this mechanism so that your writing is done bottom-up.
 
----
+- - -
 ## References
 [[Ahrens, How to Take Smart Notes]] (pp. 79-80).
 > The very moment we decide on a hypothesis, our brains automatically go into search mode, scanning our surroundings for supporting data, which is neither a good way to learn nor research. Worse, we are usually no even aware of this confirmation bias (or myside bias) that surreptitiously meddles with our life.  

@@ -1,12 +1,18 @@
 # Working memory limits
 A working memory is a part of our cognitive system where we hold temporary information and process them. There are limits to our working memory:
-1. How long we can hold the information
+1. How long we can hold the information (Information in working memory decays, see: [[How long would information stays in short-term memory?]])
 2. How many pieces of information we can hold and process
 
-We can't hold the information in our working memory for more than 30 seconds. There are a couple of answers to how many information we can hold and process. Many references would refer to the number 7 (Miller). A more recent study points that our limit is more like a maximum of 4 (Cowan).
+There are a couple of answers to how many information we can hold and process. Many references would refer to the number 7 (Miller). A more recent study points that our limit is more like a maximum of 4 (Cowan).
 
----
+- - -
 ## References
+[[Goldstein, Cognitive Psychology]] (p. 135).
+> Mathy and Feldman (2012) therefore claimed that the true limit of STM capacity is more likely to be four than seven. This is in accordance with outcomes of experiments using a change detection paradigm to study visual short-term memory.
+
+[[Goldstein, Cognitive Psychology]]  (p. 138).
+> There is, however, agreement that whether considering items or information, the upper limit for short-term memory capacity is about three to four items.
+
 [[Ahrens, How to Take Smart Notes]] (p. 68).
 > Our short-term memory is also limited. We need strategies not to waste its capacity with thoughts we can better delegate to an external system. While the estimations of our long-term memory capacity are wildly diverse and rather speculative, psychologists used to tend to agree on a very specific number when it came to short-term memory: We can hold a maximum of seven things in our head at the same time, plus/minus two (Miller 1956).
 
@@ -32,8 +38,12 @@ Cowan, Nelson. ‘The Magical Number 4 in Short-Term Memory: A Reconsideration o
 	* Mihaly seems to indicate that this is related to working memory, but I don’t really understand how consciousness is related to the concept of working memory. See [[Working memory limits]].
 * [[The prerequisites of flow are needed to flood working memory]]
 	* The [[The prerequisites of flow experience]] are needed to enable continuous concentration on a task. These prerequisites are seemingly related to the fact that we have [[Working memory limits]].
+* [[Chunking increases working memory capacity]]
+	* We have [[Working memory limits]], in terms of how much we can store in our memory. How then we could process more than our limits? The answer is chunking.
+* [[Working memory is limited to four chunks]]
+	* See [[Working memory limits]].
 * [[Developer workflow may improve DevEx]]
-	* Cognitive load
+	* [[Working memory limits]]
 * [[Comparing side-by-side circumvents our cognitive limits]]
 	* When windows or screens are rapidly switched, what you're doing is you're committing the details into your working memory, we have [[Working memory limits]], and which make [[Cognitive load]] higher.
 

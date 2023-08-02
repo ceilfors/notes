@@ -5,7 +5,7 @@ The Five whys method, developed and used by Toyota Production System, attempts t
 
 When you’re using this method, be explicit with your reason and intention — that you’re trying to find the root cause of a problem. This method might be ineffective if you come across to be difficult or condescending.
 
----
+- - -
 ## References
 Norman, Donald A. *The Design of Everyday Things*. Revised and Expanded edition. New York, New York: Basic Books, 2013 (p. 192).
 > Basically, it mens that when searching for the reason, even after you have found one, do not stop: ask why that was the case. And then ask why again. Keep asking until you have uncovered the true underlying causes.

@@ -3,7 +3,7 @@ Given there are two people with different personality traits in a party, the ext
 
 The extrovert is not exhausted because the enjoyment they get with others gives them flow experience, and [[Flow experience consumes less energy]]. Yes, having a conversation, even gossiping, is a flow activity as skills are required. The introvert, in contrast, would typically not have the skill to enjoy socialising.
 
----
+- - -
 ## References
 [[Mihaly, Flow]] (p. 33).
 > The names we use to describe personality traits - such as extrovert, high achiever, or paranoid - refer to the specific patterns people have used to structure their attention. At the same party, the extrovert will seek out and enjoy interactions with others […].

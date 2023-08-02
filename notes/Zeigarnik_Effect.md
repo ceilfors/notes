@@ -1,7 +1,7 @@
 # Zeigarnik Effect
 Zeigarnik effect is a psychological tendency to occupy our short term memory with unfinished tasks than completed tasks. It explains why we are distracted easily by thoughts of unfinished tasks.
 
----
+- - -
 ## References
 [[Ahrens, How to Take Smart Notes]] (p. 69).
 > Here, we have to thank Soviet psychologist Bluma Zeigarnik for her insight and observational skills. The story goes that she went for lunch with her colleagues and was very impressed by the waiter's ability to remember correctly who ordered what without the need to write anything down. It is said that she had to go back to the restaurant to get the jacket she left there. Much to her surprise, the waiter she admired just minutes ago for his great memory didn't even recognise her.

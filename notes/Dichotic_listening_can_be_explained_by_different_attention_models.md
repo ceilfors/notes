@@ -5,10 +5,12 @@ Dichotic listening is an exercise that has been used in many experiments to unde
 
 In this process, we'll notice that the participant can understand what's being articulated more in their attended ear, but less in the unattended one.
 
-- [[Broadbent's filter model of attention]] or [[Information-processing approach]]
+* [[Broadbent's filter model of attention]] or [[Information-processing approach]]
+
 The participant could not hear what's being said in the unattended ear because it's been filtered. Our attention is effectively filtering out the information from our unattended ear.
 
-- [[Perceptual load theory]]
+* [[Perceptual load theory]]
+
 The participant could not hear what's being said in the unattended ear because they have fully utilised their processing capacity for the attended ear.
 
 ## Backlinks

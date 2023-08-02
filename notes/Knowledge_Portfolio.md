@@ -6,10 +6,11 @@
 3. Manage risk
 4. etc
 
----
+- - -
 ## References
 [[The Pragmatic Programmer]] (pp. 14-15).
 > Managing a knowledge portfolio is very similar to managing a financial portfolio.
+
 <!-- #evergreen -->
 
 <!-- {BearID:338AAF9F-36E3-4ACF-8CA4-7C6EC1A9A252-91861-00001279451CC656} -->

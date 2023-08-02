@@ -3,7 +3,7 @@ Creative work is inherently challenging and require skills, which is one of the 
 
 In creative works, you must develop your own goal to understand if you’re doing good or bad to enter the flow state. Designing your workflow is one way to convert your creative work into flow activities as they can provide immediate feedback ([[Effective workflow forms positive feedback loop]]).
 
----
+- - -
 ## References
 [[Mihaly, Flow]] (pp. 55 - 56).
 > […]  less a person learns to set goals and to recognise and gauge feedback in such activities, she will not enjoy them.

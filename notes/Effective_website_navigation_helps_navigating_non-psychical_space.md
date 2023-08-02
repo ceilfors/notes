@@ -5,7 +5,7 @@ Unlike physical space, a website is not inherently navigable. Website navigation
 
 Great navigation helps users move better, and this is important because [[Movement increases accuracy of perception]].
 
----
+- - -
 ## References
 [[Krug, Don’t make me think]]  (p. 61).
 > But the Web experience is missing many of the cues we've relied on all our lives to negotiate spaces. Consider these oddities of Web space:

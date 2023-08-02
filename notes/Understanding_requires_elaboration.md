@@ -3,7 +3,7 @@ We often mistake familiarity for understanding. When you listen to a talk or rea
 
 If what you want to achieve is understanding, you will have to elaborate what you have learnt in your own words. You'll also have to relate about new concepts to your own experience and prior knowledge, and question what you have read or listened. Elaboration is also a good test for understanding. Try to explain what you have just read, you'd quickly notice that there's a gap in your understanding if you can't explain them.  (Ahrens 120).
 
----
+- - -
 ## References
 [[Ahrens, How to Take Smart Notes]] (p. 86).
 > "The principle is that you must not fool yourself, and you are the easiest person to fool," Feynman stressed in a speech to young scientists (Feynman 1985, 342). Reading, especially rereading, can easily fool us into believing we understand a text. Rereading is especially dangerous because of the mere-exposure effect. The moment we become familiar with something, we start believing we also understand it. On top of that, we also tend to like it more (Bornstein 1989).

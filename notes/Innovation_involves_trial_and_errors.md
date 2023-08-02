@@ -1,8 +1,8 @@
 # Innovation involves trial and errors
 Examples:
-- [[Edison and team tested 6,000 filaments to perfect light bulb]]
-- [[Dyson made 5,127 prototypes to perfect his vacuum]]
-- [[Fosbury flop was discovered out of trial and errors]]
+* [[Edison and team tested 6,000 filaments to perfect light bulb]]
+* [[Dyson made 5,127 prototypes to perfect his vacuum]]
+* [[Fosbury flop was discovered out of trial and errors]]
 
 ## References
 [[How Innovation Works]] (p. 253).

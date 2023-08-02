@@ -9,7 +9,7 @@ When the person we're talking to is next to us, they'll be able to pause the con
 
 Unfortunately, when the person we're talking to is on the phone, regardless of whether you're using handsfree, it's still dangerous, because they can't see the potential hazard.
 
----
+- - -
 # References
 [[Goldstein, Cognitive Psychology]] (p. 110).
 > As a passenger, you would be aware of the traffic situation and would be able to react by pausing the conversation when things get tricky. However, when you are not sitting in the car, you probably continue talking since you are not aware of potential upcoming hazards.

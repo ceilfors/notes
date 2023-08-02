@@ -1,7 +1,7 @@
 # Sexual selection
 A peacock tail is big. By the theory of natural selection, this should have made peacock survive less and less as they might get stuck more in bushes and they can't fly well with it.
 
----
+- - -
 ## References
 [Frailmales | Radiolab](https://radiolab.org/podcast/frailmales)
 > BECCA: Totally, totally.  And they really puzzled Darwin.

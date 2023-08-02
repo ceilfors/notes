@@ -5,7 +5,7 @@ When Luhmann got stuck, he will write on a different book ([[Luhmann always work
 
 Why does switching context help us get unstuck? It seems like not only it's slow to fill up our working memory, but it's also difficult to get what we have in our working memory out without switching context [citation needed]. When you're stuck with the wrong answer on a crossword puzzle, for example, you need forget the wrong answer by switching context first (Tim Harford).
 
----
+- - -
 ## References
 @AnneLoVerso drew the pair programming version of Heeris why shouldn't interrupt a programmer: https://twitter.com/AnneLoVerso/status/973421282707505152
 

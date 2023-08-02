@@ -8,7 +8,7 @@ The 4Ps of Technology is a mnemonic to remember the role of technology in a busi
 
 Upon researching, there are many slight variations of xPs out there. I personally prefer to use the word *product* rather than *project*.
 
----
+- - -
 ## References
 [London CTOs: Transitioning  from the tech team to the leadership team Tickets, Thu 16 Apr 2020 at 12:30 | Eventbrite](https://www.eventbrite.co.uk/e/london-ctos-transitioning-from-the-tech-team-to-the-leadership-team-tickets-102241639496#)
 

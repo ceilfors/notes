@@ -1,7 +1,7 @@
 # Tracer bullet development works on the riskiest area first
 When the idea of [[Tracer bullets]] is applied to code, we work on the riskiest area first.
 
----
+- - -
 ## References
 [[The Pragmatic Programmer]] (p. 51).
 > Then prioritise your development so that these are the first areas you code.

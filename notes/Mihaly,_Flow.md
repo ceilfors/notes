@@ -22,11 +22,11 @@ Csikszentmihalyi, Mihaly. *Flow: The Classic Work on How to Achieve Happiness*. 
 	* [[Mihaly, Flow]] (p. 30).
 * [[Pleasure can be converted to enjoyment]]
 	* [[Mihaly, Flow]] (p. 46).
+* [[The limits of consciousness]]
+	* [[Mihaly, Flow]] (pp. 28 - 29).
 * [[To control consciousness is to override biological and social instruction]]
 	* [[Mihaly, Flow]] (p. 24).
 	* [[Mihaly, Flow]] (pp. 27 - 28).
-* [[The limits of consciousness]]
-	* [[Mihaly, Flow]] (pp. 28 - 29).
 * [[The prerequisites of flow are needed to flood working memory]]
 	* [[Mihaly, Flow]] (p. 59).
 * [[Flow activities are exotelic first before they become autotelic]]

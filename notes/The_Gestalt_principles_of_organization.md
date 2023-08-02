@@ -1,10 +1,10 @@
 # The Gestalt principles of organization
 The principles that are part of [[Gestalt Psychology]]. It contains many principles in regards to [[Perception]], such as:
 
-- Principle of good continuation
-- Pragnanz or Principle of good figure or the principle of simplicity
+* Principle of good continuation
+* Pragnanz or Principle of good figure or the principle of simplicity
 
----
+- - -
 ## References
 [[Goldstein, Cognitive Psychology]] (p. 63).
 > About 30 years after Helmholtz proposed his theory of unconscious inference, perception became a hot topic in Psychology - and still is - mainly through the work of the Gestalt psychologists (for an extensive review of their ideas, see Wagemans et al., 2012).

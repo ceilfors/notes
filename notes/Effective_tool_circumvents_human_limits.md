@@ -1,7 +1,7 @@
 # Effective tool circumvents human limits
 [[Humans are constrained by biological limits]], and one way we could circumvent these limits is by the use of tools. [[Usain Bolt can’t outrun a domestic cat]], but you could be faster than a domestic cat by riding a bicycle.
 
----
+- - -
 ## References
 [[Ahrens, How to Take Smart Notes]] (p. 20).
 > And if I were forced to boil it down to a single bullet point, it would be this: We need a reliable and simple external structure to think in that compensates for the limitations of our brains.

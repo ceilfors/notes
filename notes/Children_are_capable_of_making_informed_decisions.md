@@ -1,8 +1,8 @@
 # Children are capable of making informed decisions
 We always think that children will not be able to make good decisions in their life, which is why we parents should be making the decisions for them. Apparently this is a misconception because:
 
-- By the age of 15, most of the cognitive processes would have reached the adult level to make rational decisions.
-- Research shown that children at the age of 9 can make the same decision given the knowledge. ([[Lack of knowledge makes poor judgement]]).
+* By the age of 15, most of the cognitive processes would have reached the adult level to make rational decisions.
+* Research shown that children at the age of 9 can make the same decision given the knowledge. ([[Lack of knowledge makes poor judgement]]).
 
 ## References
 [[The Self-Driven Child]] (p. 57)

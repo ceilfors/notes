@@ -1,7 +1,7 @@
 # Distraction has low impact on tasks with high perceptual load
 Based on the [[Perceptual load theory]], we have a limited capacity on our attention. If there's a complex information that we need to perceive, that may consume all of our attention, therefore us not notice distraction (we can't notice it, e.g. [[Inattentional blindess]]).
 
----
+- - -
 ## References
 [[Goldstein, Cognitive Psychology]] (p. 97).
 > According to the perceptual load theory (see Figure 4.12), the largest compatibility effect will be present for the condition in which participants "notice" the flanker the most (please be reminded that the aim was to ignore them). [...]

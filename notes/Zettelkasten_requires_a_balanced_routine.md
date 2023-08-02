@@ -3,7 +3,7 @@ Even though [[Zettelkasten enables constant focus on interesting materials]], yo
 
 Secondly, even though [[Zettelkasten disregards planning]], you will need to plan a good balance in your routine, especially on your material collection vs note-writing time. If you fail to dedicate enough time to note-writing, your archive might start to turn into chaos, a graveyard of ideas (Ahrens 32).
 
----
+- - -
 ## References
 [[Ahrens, How to Take Smart Notes]] (p. 10).
 > Even the best tool will not improve your productivity considerably if you don't change your daily routines the tool is embedded in, just as the fastest car won't help you much if you don't have proper roads to drive it on. [...] Routines require simple, repeatable tasks that can become automatic and fit together seamlessly (cf. Mata, Todd, and Lippke, 2010).

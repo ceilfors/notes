@@ -7,7 +7,7 @@ The difference: Even though both of the ideas are for internal rewards, the inte
 
 For example, a person who is learning to code may be motivated to start a business. This person is therefore intrinsically motivated, but the coding activity is not autotelic (it’s exotelic). But any [[Flow activities are exotelic first before they become autotelic]], so this person may eventually find coding to be autotelic.
 
----
+- - -
 ## References
 [Motivation - Wikipedia | Intrinsic motivation](https://en.wikipedia.org/wiki/Motivation#Intrinsic_motivation)
 > An example of intrinsic motivation is when an employee becomes an IT professional because he or she wants to learn about how computer users interact with computer networks. The employee has the intrinsic motivation to gain more knowledge, and will continue to want to learn even in the face of failure.

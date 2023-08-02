@@ -3,7 +3,7 @@
 
 If the blind men in the [[Blind men and an elephant]] parable can move around and feel the whole elephant, they can increase the accuracy of their perception.
 
----
+- - -
 [[Goldstein, Cognitive Psychology]] (p. 75).
 > Although movement adds a complexity to perception that isn't there when we are sitting in one place, movement also helps us perceive objects in the environment more accurately. One reason this occurs is that moving reveals aspects of objects that are not apparent from a single viewpoint.
 

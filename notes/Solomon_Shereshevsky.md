@@ -4,7 +4,7 @@ Shereshevsky were told off by his supervisor due to his lazy behaviour as he was
 The feat of this remarkable memory however doesn't come without a trade-off. He was diagnosed with a severe synaesthesia. He might be able to remember every words said in a movie, or words in poems, but he wouldn't be able to understand the meaning of them. He couldn't even order an ice cream (from the Wikipedia entry):
 > One time I went to buy some ice cream ... I walked over to the vendor and asked her what kind of ice cream she had. 'Fruit ice cream,' she said. But she answered in such a tone that a whole pile of coals, of black cinders, came bursting out of her mouth, and I couldn't bring myself to buy any ice cream after she had answered in that way ...
 
----
+- - -
 ## References
 [[Ahrens, How to Take Smart Notes]] (p. 99)
 > The reporter Solomon Shereshevsky (Lurija 1987) is one of the most famous figures in the history of psychology. When his supervisor saw that he didn't take any notes during their meetings, he first doubted Shershevsky's dedication to the job, but shortly after, it was rather his own sanity that he doubted.

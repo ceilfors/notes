@@ -1,19 +1,19 @@
 # Role of parents in raising self-driven children
 1. Cultivate self-control: The ability to stop (resist temptation)
-	- Allow children to make decisions by acting as a consultant
-		- Providing information, knowledge, and perspective, because [[Children are capable of making informed decisions]] and [[Lack of knowledge makes poor judgement]].
-		- Provide safe environment to make judgement [[Practicing judgement helps brain develops earlier]]
-		- Trust that [[The four stages of competencies]] model, and help the child get to stage 3 (stage 1 might be the most difficult part)
-	- Be a non-anxious presence, because [[Children mirror parents’ anxiety]]
-		- Help reframe problem (is this a big problem or small problem). [[Anxiety can be converted to enjoyment]].
+   * Allow children to make decisions by acting as a consultant
+     * Providing information, knowledge, and perspective, because [[Children are capable of making informed decisions]] and [[Lack of knowledge makes poor judgement]].
+     * Provide safe environment to make judgement [[Practicing judgement helps brain develops earlier]]
+     * Trust that [[The four stages of competencies]] model, and help the child get to stage 3 (stage 1 might be the most difficult part)
+   * Be a non-anxious presence, because [[Children mirror parents’ anxiety]]
+     * Help reframe problem (is this a big problem or small problem). [[Anxiety can be converted to enjoyment]].
 
 2. Cultivate self-motivation: The ability to start (without external rewards)
-	- [[Praise effort to cultivate growth mindset]]
-	- [[Frequent exposure to flow states builds self-motivation]]
+   * [[Praise effort to cultivate growth mindset]]
+   * [[Frequent exposure to flow states builds self-motivation]]
 
 3. Provide a space for recovery
-	- [[Home should restore children’s sense of control]]
-	- [[Home should provide time to do nothing]]
+   * [[Home should restore children’s sense of control]]
+   * [[Home should provide time to do nothing]]
 
 ## References
 [[The Self-Driven Child]] (p.38)

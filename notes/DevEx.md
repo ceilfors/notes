@@ -1,7 +1,7 @@
 # DevEx
 The term developer experience (DevEx) is born in an attempt to study what actually improves developers productivity. There's been many attempt in the past that measured developers productivity inaccurately and produces negative consequences.
 
----
+- - -
 ## References
 [[Noda, DevEx: What Actually Drives Productivity]]
 > Today, many organizations aiming to improve developer productivity are finding that a new developer-centric approach focused on developer experience (also known as DevEx) unlocks valuable insights and opportunities. Gartner Inc. reports that 78 percent of surveyed organizations have a formal DevEx initiative either established or planned.7 Accordingly, there has been a continued rise in dedicated DevEx and platform teams being formed to help improve developer experience within their organizations.

@@ -1,7 +1,7 @@
 # Spacing and interleaving
 A method of learning that leverages [[Spacing effect]] and [[Interleaved learning]].
 
----
+- - -
 ## Reference
 [[Goldstein, Cognitive Psychology]] (p .18)
 > Spacing and interleaving: As already demonstrated by Ebbinghaus (1885/1913)

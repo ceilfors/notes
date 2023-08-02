@@ -3,7 +3,7 @@ Writing is a creative work, and [[Creative work requires clear goals and feedbac
 
 Not only the number of zettels of written per day is great to make writing a flow activity, but also [[The number of zettels written per day is a better lead measure for learning]]
 
----
+- - -
 ## References
 [[Ahrens, How to Take Smart Notes]] (p. 93).
 > Luhmann’s slip-box contains about 90,000 notes, which sounds like an incredibly large number. But it only means that he wrote six notes a day from the day he started to work with his slip-box until he died.

@@ -2,9 +2,9 @@
 This example is useful for me to understand better of the differences.
 
 I see someone walking in with a wet umbrella:
-- [[Perception]]: Someone walked in with a wet umbrella
-- Inference: It must be raining outside
-- Judgement: I choose not to go outside
+* [[Perception]]: Someone walked in with a wet umbrella
+* Inference: It must be raining outside
+* Judgement: I choose not to go outside
 
 ## Backlinks
 * [[Bayesian inference]]

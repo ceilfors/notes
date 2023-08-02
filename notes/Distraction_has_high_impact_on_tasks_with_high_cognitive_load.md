@@ -3,7 +3,7 @@ When someone has loaded many information to their working memory, these informat
 
 This is the opposite to what happen when we have high perceptual load. [[Distraction has low impact on tasks with high perceptual load]].
 
----
+- - -
 ## References
 [[Goldstein, Cognitive Psychology]] (p. 99).
 > As it turned out, the compatibility effect, thus the influence of the flanker, was the largest in the high working memory load condition. It is important to note that this is exactly what was expected but opposite to what was observed when perceptual load was manipulated.

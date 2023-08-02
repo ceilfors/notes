@@ -29,7 +29,7 @@ Despite the readability, you shouldn't neglect the byte-size of each emojis you 
 
 Option 2 obviously is smaller than `walkingDuration`. If you have accidentally chosen Option 4 however, your object unfortunately will become bigger. It seems that the gendered walking emoji (option 4) has an extra variation sequences that has been added to the non-gendered walking emoji (option 2).
 
----
+- - -
 ## References
 [Episode 34: Advanced NoSQL Data Modeling in DynamoDB with Rick Houlihan (Part 1) - Serverless Chats Podcast](https://www.serverlesschats.com/34/)
 > Rick: As a matter of fact, one of my favorite stories is from my days at MongoDB, I was working with a university customer, I think 80% of the data they had in their system was attribute names and 64 terabytes data.

@@ -3,7 +3,7 @@ When users have landed on websites for the first time, they'll quickly scan and 
 
 Whilst unusable websites would normally raise a lot of questions in the users' head, usable websites will give understanding. The users will feel that they just get what's going on in the website. Usable websites are self-evident. This means anything that could be made obvious should be made obvious.
 
----
+- - -
 ## References
 [[Krug, Don’t make me think]] (p.11)
 > For instance, it means that as far as is humanly possible, when I look at a Web page it should be self-evident. Obvious. Self-explanatory.

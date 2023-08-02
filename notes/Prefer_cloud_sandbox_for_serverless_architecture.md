@@ -15,7 +15,7 @@ Not having an internet connection is quite a rare use case in my opinion. Unless
 
 Even though it’s impossible to induce failures when you’re using a real service, [it is possible to do them via code](https://blog.thundra.io/chaos-engineering-with-serverless). As most of the operational complexity of your service is offloaded to the cloud, the need for you to induce failures is also reduced. It is no longer necessary to randomly kill your machines as they will be fully managed by a service like AWS Lambda, for example. For that reason, downside 4 is invalid. Even though it’s possible to inject failures from code, I’d still argue that [[Testing should be the first-class citizen in the cloud]].
 
----
+- - -
 ## References
 [Why you should use temporary stacks when you do serverless | theburningmonk.com](https://theburningmonk.com/2019/09/why-you-should-use-temporary-stacks-when-you-do-serverless/)
 > Instead of spending lots of time to get tools such as  [localstack](https://github.com/localstack/localstack)  working, I find it much more productive to deploy a temporary CloudFormation stack in AWS and run against the real thing.

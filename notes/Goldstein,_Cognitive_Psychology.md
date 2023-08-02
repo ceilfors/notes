@@ -4,20 +4,30 @@ Goldstein, E. Bruce, and Johanna C. Van Hoff. *COGNITIVE PSYCHOLOGY*. 2E EMEA Ed
 Adapted from Cognitive Psychology, 5th Edition, by E. Bruce Goldstein.
 
 ## Backlinks
-* [[Elaborate in writing to test your understanding]]
-	* [[Goldstein, Cognitive Psychology]] (p. 19).
+* [[Working memory limits]]
+	* [[Goldstein, Cognitive Psychology]] (p. 135).
+	* [[Goldstein, Cognitive Psychology]]  (p. 138).
+* [[Broadbent's filter model of attention]]
+	* [[Goldstein, Cognitive Psychology]] (p. 89).
 * [[Perception]]
 	* [[Goldstein, Cognitive Psychology]] (p.52).
+* [[Elaborate in writing to test your understanding]]
+	* [[Goldstein, Cognitive Psychology]] (p. 19).
 * [[Information-processing approach]]
 	* [[Goldstein, Cognitive Psychology]] (p. 12)
 * [[Cognitive processes]]
 	* [[Goldstein, Cognitive Psychology]] (p. 4)
-* [[Broadbent's filter model of attention]]
-	* [[Goldstein, Cognitive Psychology]] (p. 89).
+* [[How long would information stays in short-term memory?]]
+	* [[Goldstein, Cognitive Psychology]] (p. 133).
+	* [[Goldstein, Cognitive Psychology]] (p. 134).
 * [[Movement increases accuracy of perception]]
 	* [[Goldstein, Cognitive Psychology]] (p. 75).
 * [[Perceptual load theory]]
 	* [[Goldstein, Cognitive Psychology]] (p. 95).
+* [[Working memory]]
+	* [[Goldstein, Cognitive Psychology]] (p. 139).
+* [[Short-term memory]]
+	* [[Goldstein, Cognitive Psychology]] (p. 132).
 * [[Automatic processing]]
 	* [[Goldstein, Cognitive Psychology]] (p. 108).
 * [[Distraction has low impact on tasks with high perceptual load]]
@@ -27,12 +37,15 @@ Adapted from Cognitive Psychology, 5th Edition, by E. Bruce Goldstein.
 	* [[Goldstein, Cognitive Psychology]] (p. 58).
 * [[Cognitive functions have a limited capacity]]
 	* [[Goldstein, Cognitive Psychology]] (p. 13)
+* [[Cognitive revolution were inspired by digital computers]]
+	* [[Goldstein, Cognitive Psychology]] (p. 12)
+* [[The name short-term memory gives too much emphasis on storage]]
+	* [[Goldstein, Cognitive Psychology]] (p. 138).
+	* [[Goldstein, Cognitive Psychology]] (p. 140).
 * [[Retrieval-based learning]]
 	* [[Goldstein, Cognitive Psychology]] (p. 18)
 * [[Bayesian inference]]
 	* [[Goldstein, Cognitive Psychology]] (p. 68).
-* [[Cognitive revolution were inspired by digital computers]]
-	* [[Goldstein, Cognitive Psychology]] (p. 12)
 * [[Retrieving memories makes them easier to retrieve]]
 	* [[Goldstein, Cognitive Psychology]] (p. 19)
 * [[Change blindness]]
@@ -60,6 +73,9 @@ Adapted from Cognitive Psychology, 5th Edition, by E. Bruce Goldstein.
 	* [[Goldstein, Cognitive Psychology]] (p. 66).
 * [[Oblique effect]]
 	* [[Goldstein, Cognitive Psychology]] (p. 65).
+* [[Chunking increases working memory capacity]]
+	* [[Goldstein, Cognitive Psychology]] (p. 135).
+	* [[Goldstein, Cognitive Psychology]] (p. 135).
 * [[Models help explain cognitive psychology]]
 	* [[Goldstein, Cognitive Psychology]] (p. 14)
 * [[Multitasking is possible when we have extra capacity]]
@@ -73,14 +89,23 @@ Adapted from Cognitive Psychology, 5th Edition, by E. Bruce Goldstein.
 	* [[Goldstein, Cognitive Psychology]] (p. 62).
 * [[Perception is influenced by regularities in the environment]]
 	* [[Goldstein, Cognitive Psychology]] (p. 65).
+* [[Working memory is efficient when it stores relevant information]]
+	* [[Goldstein, Cognitive Psychology]] (pp. 148-149).
 * [[Continuity errors in movies]]
 	* [[Goldstein, Cognitive Psychology]] (p. 114).
+* [[Deploying attentional control reduces irrelevant information in working memory]]
+	* [[Goldstein, Cognitive Psychology]] (p. 151).
+	* [[Goldstein, Cognitive Psychology]] (p. 154).
 * [[Listening to foreign language requires top-down processing]]
 	* [[Goldstein, Cognitive Psychology]] (p. 60).
+* [[Memory]]
+	* [[Goldstein, Cognitive Psychology]] (p. 125).
 * [[Paying attention may reduce task that require automatic processing]]
 	* [[Goldstein, Cognitive Psychology]] (p. 108).
 * [[Perception of pain can be affected by attention]]
 	* [[Goldstein, Cognitive Psychology]] (p. 61).
+* [[Sensory memory]]
+	* [[Goldstein, Cognitive Psychology]] (p. 129).
 * [[Understanding attention helps design control panels in cars and airplanes]]
 	* [[Goldstein, Cognitive Psychology]] (p. 17)
 * [[Which cognitive model should be used?]]
