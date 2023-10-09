@@ -12,7 +12,7 @@ We have [[Working memory is limited to four chunks]]. Even though [[Chunking inc
 	* [[Working memory is efficient when it stores relevant information]]. What information that goes in working memory is being controlled by our central executive (based on [[Baddeley's model of working memory]]). Therefore the ability to deploy our [[Attentional control]] can make our use of working memory be more efficient.
 * [[Negative thoughts consumes working memory capacity]]
 	* ## Given that we have [[Working memory limits]], negative thoughts that linger in our heads also consume that capacity, which means we'll not be able to perform as efficiently as we could ([[Working memory is efficient when it stores relevant information]])
-* [[How might we improve our working memory capacity?]]
+* [[How might we use our limited working memory capacity more effectively?]]
 	* [[Working memory is efficient when it stores relevant information]]
 
 <!-- #evergreen -->

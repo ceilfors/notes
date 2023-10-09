@@ -8,8 +8,10 @@ One of the type of memory from the [[Atkison-Shiffrin Memory Model]]. If you're 
 ## Backlinks
 * [[How long would information stays in short-term memory?]]
 	* The name [[Short-term memory]] implies that information won't live long there. But long will would information stays there?
-* [[The name short-term memory gives too much emphasis on storage]]
+* [[The name short-term memory may emphasise too much on storage]]
 	* The idea of [[Short-term memory]] which was initially introduced in the [[Atkison-Shiffrin Memory Model]] didn't manage to capture the importance of what the memory is being used for. I think researches during that time studies more about the storage aspect of this memory, such as how many info can we stored inside, how long will the info live, etc.
+* [[Three ways information is being represented in memory]]
+	* All these type of codings are applicable to [[Long-term memory]] and [[Short-term memory]].
 
 <!-- #evergreen -->
 

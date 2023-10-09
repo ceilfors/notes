@@ -20,14 +20,18 @@ Adapted from Cognitive Psychology, 5th Edition, by E. Bruce Goldstein.
 * [[How long would information stays in short-term memory?]]
 	* [[Goldstein, Cognitive Psychology]] (p. 133).
 	* [[Goldstein, Cognitive Psychology]] (p. 134).
-* [[Movement increases accuracy of perception]]
-	* [[Goldstein, Cognitive Psychology]] (p. 75).
 * [[Working memory]]
 	* [[Goldstein, Cognitive Psychology]] (p. 139).
+* [[Movement increases accuracy of perception]]
+	* [[Goldstein, Cognitive Psychology]] (p. 75).
 * [[Perceptual load theory]]
 	* [[Goldstein, Cognitive Psychology]] (p. 95).
 * [[Short-term memory]]
 	* [[Goldstein, Cognitive Psychology]] (p. 132).
+* [[The name short-term memory may emphasise too much on storage]]
+	* [[Goldstein, Cognitive Psychology]] (p. 138).
+	* [[Goldstein, Cognitive Psychology]] (p. 140).
+	* [[Goldstein, Cognitive Psychology]] (p. 165).
 * [[Chunking increases working memory capacity]]
 	* [[Goldstein, Cognitive Psychology]] (p. 135).
 	* [[Goldstein, Cognitive Psychology]] (p. 135).
@@ -35,9 +39,6 @@ Adapted from Cognitive Psychology, 5th Edition, by E. Bruce Goldstein.
 	* [[Goldstein, Cognitive Psychology]] (p. 108).
 * [[Distraction has low impact on tasks with high perceptual load]]
 	* [[Goldstein, Cognitive Psychology]] (p. 97).
-* [[The name short-term memory gives too much emphasis on storage]]
-	* [[Goldstein, Cognitive Psychology]] (p. 138).
-	* [[Goldstein, Cognitive Psychology]] (p. 140).
 * [[Perception combines bottom-up and top-down processing]]
 	* [[Goldstein, Cognitive Psychology]]  (p.57).
 	* [[Goldstein, Cognitive Psychology]] (p. 58).
@@ -63,6 +64,8 @@ Adapted from Cognitive Psychology, 5th Edition, by E. Bruce Goldstein.
 	* [[Goldstein, Cognitive Psychology]] (p. 99).
 * [[Multiple approaches to perception]]
 	* [[Goldstein, Cognitive Psychology]] (p. 69).
+* [[Clive Wearing can't form new long-term memories]]
+	* [[Goldstein, Cognitive Psychology]] (p. 171).
 * [[Perception of pain can be affected by expectation]]
 	* [[Goldstein, Cognitive Psychology]] (p. 61).
 	* [[Goldstein, Cognitive Psychology]] (p. 61).
@@ -87,6 +90,9 @@ Adapted from Cognitive Psychology, 5th Edition, by E. Bruce Goldstein.
 	* [[Goldstein, Cognitive Psychology]] (p. 14)
 * [[Multitasking is possible when we have extra capacity]]
 	* [[Goldstein, Cognitive Psychology]] (p. 107).
+* [[Information in memory is being represented not stored]]
+	* In the book [[Goldstein, Cognitive Psychology]], the author is being very careful in using the word represented, rather than stored, when talking about the [[Long-term memory]]. This is due to the similar concern of [[The name short-term memory may emphasise too much on storage]]. Information in our memory is not stored as-is, and it may be different when you recall it in the future.
+	* [[Goldstein, Cognitive Psychology]] (p. 170).
 * [[Spacing and interleaving]]
 	* [[Goldstein, Cognitive Psychology]] (p .18)
 * [[The ability to divide attention depends on difficulty of the task]]
@@ -112,6 +118,11 @@ Adapted from Cognitive Psychology, 5th Edition, by E. Bruce Goldstein.
 	* [[Goldstein, Cognitive Psychology]] (p. 61).
 * [[Sensory memory]]
 	* [[Goldstein, Cognitive Psychology]] (p. 129).
+* [[Three ways information is being represented in memory]]
+	* [[Goldstein, Cognitive Psychology]] (p. 167).
+	* [[Goldstein, Cognitive Psychology]] (p. 170).
+* [[Types of Long-term Memory]]
+	* [[Goldstein, Cognitive Psychology]] (p. 165).![](ltm.jpg)
 * [[Understanding attention helps design control panels in cars and airplanes]]
 	* [[Goldstein, Cognitive Psychology]] (p. 17)
 * [[Which cognitive model should be used?]]

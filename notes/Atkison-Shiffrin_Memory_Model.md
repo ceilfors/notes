@@ -9,7 +9,7 @@
 ## Backlinks
 * [[Short-term memory]]
 	* One of the type of memory from the [[Atkison-Shiffrin Memory Model]]. If you're reading information from this note, that information is temporarily being stored in your short-term memory.
-* [[The name short-term memory gives too much emphasis on storage]]
+* [[The name short-term memory may emphasise too much on storage]]
 	* The idea of [[Short-term memory]] which was initially introduced in the [[Atkison-Shiffrin Memory Model]] didn't manage to capture the importance of what the memory is being used for. I think researches during that time studies more about the storage aspect of this memory, such as how many info can we stored inside, how long will the info live, etc.
 * [[Sensory memory]]
 	* One of the type of memory as defined in [[Atkison-Shiffrin Memory Model]].

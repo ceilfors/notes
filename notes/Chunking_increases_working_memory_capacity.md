@@ -23,7 +23,7 @@ We have [[Working memory limits]], in terms of how much we can store in our memo
 	* We have [[Working memory is limited to four chunks]]. Even though [[Chunking increases working memory capacity]], what differentiates individuals' optimum use is the relevance of information being stored there. If you can keep what you have in your head relevant, you are more efficient than others.
 * [[Mnemonic may chunk memory]]
 	* [[Chunking increases working memory capacity]]. Not all information can be organised in a meaningful way, therefore some type of mnemonic can be useful in that situation to introduce a chunk.
-* [[How might we improve our working memory capacity?]]
+* [[How might we use our limited working memory capacity more effectively?]]
 	* [[Chunking increases working memory capacity]]
 
 <!-- #evergreen -->

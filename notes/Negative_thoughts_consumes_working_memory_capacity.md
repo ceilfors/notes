@@ -9,7 +9,7 @@ Given that we have [[Working memory limits]], negative thoughts that linger in o
 ## Backlinks
 * [[Writing your worries may increase working memory capacity]]
 	* Because [[Negative thoughts consumes working memory capacity]], writing them down may free up our capacity. See reference for the study about this.
-* [[How might we improve our working memory capacity?]]
+* [[How might we use our limited working memory capacity more effectively?]]
 	* [[Negative thoughts consumes working memory capacity]]
 
 <!-- #evergreen -->

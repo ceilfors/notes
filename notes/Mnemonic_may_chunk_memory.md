@@ -9,7 +9,7 @@
 > Mnemonics are actually just one example of a broader memory strategy having to do with organizing information. Working memory seems capable of holding onto seven “chunks” of information. A chunk is a meaningfully connected set of information.
 
 ## Backlinks
-* [[How might we improve our working memory capacity?]]
+* [[How might we use our limited working memory capacity more effectively?]]
 	* [[Mnemonic may chunk memory]]
 
 <!-- #evergreen -->

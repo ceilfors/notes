@@ -16,7 +16,7 @@ We need to able to deliberately forget about the irrelevant thoughts. [[Forgetti
 	* [[Writing allows us to deliberately forget]]
 * [[Writing your worries may increase working memory capacity]]
 	* [[Writing allows us to deliberately forget]].
-* [[How might we improve our working memory capacity?]]
+* [[How might we use our limited working memory capacity more effectively?]]
 	* [[Writing allows us to deliberately forget]]
 
 <!-- #evergreen #thinking -->

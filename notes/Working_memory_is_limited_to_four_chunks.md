@@ -4,7 +4,7 @@ See [[Working memory limits]].
 ## Backlinks
 * [[Working memory is efficient when it stores relevant information]]
 	* We have [[Working memory is limited to four chunks]]. Even though [[Chunking increases working memory capacity]], what differentiates individuals' optimum use is the relevance of information being stored there. If you can keep what you have in your head relevant, you are more efficient than others.
-* [[How might we improve our working memory capacity?]]
+* [[How might we use our limited working memory capacity more effectively?]]
 	* [[Working memory is limited to four chunks]]
 
 <!-- #evergreen -->

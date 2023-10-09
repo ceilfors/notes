@@ -48,7 +48,7 @@ Cowan, Nelson. ‘The Magical Number 4 in Short-Term Memory: A Reconsideration o
 	* [[Working memory limits]]
 * [[Comparing side-by-side circumvents our cognitive limits]]
 	* When windows or screens are rapidly switched, what you're doing is you're committing the details into your working memory, we have [[Working memory limits]], and which make [[Cognitive load]] higher.
-* [[How might we improve our working memory capacity?]]
+* [[How might we use our limited working memory capacity more effectively?]]
 	* We have [[Working memory limits]], therefore knowing how to utilise it well may improve knowledge worker's mental performance.
 
 <!-- #evergreen #cognitive -->

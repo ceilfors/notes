@@ -1,4 +1,5 @@
-# How might we improve our working memory capacity?
+# How might we use our limited working memory capacity more effectively?
+
 We have [[Working memory limits]], therefore knowing how to utilise it well may improve knowledge worker's mental performance.
 
 1. Reduce irrelevant thoughts
