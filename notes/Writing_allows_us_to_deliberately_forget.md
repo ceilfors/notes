@@ -3,6 +3,8 @@ We have [[Working memory limits]], therefore making sure that we can populate ou
 
 We need to able to deliberately forget about the irrelevant thoughts. [[Forgetting is a healthy process of inhibiting irrelevant memory]]. Writing makes us have an external system, and it will help us forget about those lingering irrelevant thoughts.
 
+Related: [[Storing information externally is not a new idea]]
+
 - - -
 ## References
 [[Ahrens, How to Take Smart Notes]] (p. 70)

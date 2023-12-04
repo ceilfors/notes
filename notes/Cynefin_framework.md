@@ -19,8 +19,14 @@ I first discovered this when I saw Dave Snowden’s talk in the Craft Conference
 > A model seeks to represent reality, a framework is a way of looking, a way of making sense which is very different
 
 ## Backlinks
+* [[Complex domain]]
+	* One of the domain from the [[Cynefin framework]].
+* [[Cynefin drew from multiple disciplines is to align reality and perception]]
+	* We often have a conflict of what we perceive and the things that exist, the [[Cynefin framework]] attempts to let you see this through multiple disciplines:
 * [[Exaptive Practice]]
 	* A practice for complex domain from [[Cynefin framework]].
+* [[Linear Cynefin]]
+	* The flat version of the [[Cynefin framework]].
 * [[§What's top of mind]]
 	* [[Cynefin framework]]
 

@@ -32,20 +32,24 @@ Adapted from Cognitive Psychology, 5th Edition, by E. Bruce Goldstein.
 	* [[Goldstein, Cognitive Psychology]] (p. 138).
 	* [[Goldstein, Cognitive Psychology]] (p. 140).
 	* [[Goldstein, Cognitive Psychology]] (p. 165).
+* [[Types of Long-term Memory]]
+	* [[Goldstein, Cognitive Psychology]] (p. 165).![](ltm.jpg)
 * [[Chunking increases working memory capacity]]
 	* [[Goldstein, Cognitive Psychology]] (p. 135).
 	* [[Goldstein, Cognitive Psychology]] (p. 135).
+* [[Episodic memory]]
+	* [[Goldstein, Cognitive Psychology]] (p. 174).
 * [[Automatic processing]]
 	* [[Goldstein, Cognitive Psychology]] (p. 108).
 * [[Distraction has low impact on tasks with high perceptual load]]
 	* [[Goldstein, Cognitive Psychology]] (p. 97).
+* [[Cognitive revolution were inspired by digital computers]]
+	* [[Goldstein, Cognitive Psychology]] (p. 12)
+* [[Cognitive functions have a limited capacity]]
+	* [[Goldstein, Cognitive Psychology]] (p. 13)
 * [[Perception combines bottom-up and top-down processing]]
 	* [[Goldstein, Cognitive Psychology]]  (p.57).
 	* [[Goldstein, Cognitive Psychology]] (p. 58).
-* [[Cognitive functions have a limited capacity]]
-	* [[Goldstein, Cognitive Psychology]] (p. 13)
-* [[Cognitive revolution were inspired by digital computers]]
-	* [[Goldstein, Cognitive Psychology]] (p. 12)
 * [[Retrieval-based learning]]
 	* [[Goldstein, Cognitive Psychology]] (p. 18)
 * [[Bayesian inference]]
@@ -54,6 +58,8 @@ Adapted from Cognitive Psychology, 5th Edition, by E. Bruce Goldstein.
 	* [[Goldstein, Cognitive Psychology]] (p. 19)
 * [[Change blindness]]
 	* [[Goldstein, Cognitive Psychology]] (p. 114).
+* [[Storing information externally is not a new idea]]
+	* [[Goldstein, Cognitive Psychology]] (p. 182).
 * [[Working memory is efficient when it stores relevant information]]
 	* [[Goldstein, Cognitive Psychology]] (pp. 148-149).
 * [[The purpose of a model is to simplify]]
@@ -64,6 +70,12 @@ Adapted from Cognitive Psychology, 5th Edition, by E. Bruce Goldstein.
 	* [[Goldstein, Cognitive Psychology]] (p. 99).
 * [[Multiple approaches to perception]]
 	* [[Goldstein, Cognitive Psychology]] (p. 69).
+* [[Explicit memory]]
+	* [[Goldstein, Cognitive Psychology]] (p. 174).
+* [[Semantic memory might be the context-less version of episodic memory]]
+	* [[Goldstein, Cognitive Psychology]] (p. 174).
+	* [[Goldstein, Cognitive Psychology]] (p. 180).
+	* [[Goldstein, Cognitive Psychology]] (p. 180).
 * [[Clive Wearing can't form new long-term memories]]
 	* [[Goldstein, Cognitive Psychology]] (p. 171).
 * [[Perception of pain can be affected by expectation]]
@@ -73,6 +85,8 @@ Adapted from Cognitive Psychology, 5th Edition, by E. Bruce Goldstein.
 	* [[Goldstein, Cognitive Psychology]] (p. 110).
 * [[The Gestalt principles of organization]]
 	* [[Goldstein, Cognitive Psychology]] (p. 63).
+* [[Semantic memory]]
+	* [[Goldstein, Cognitive Psychology]] (p. 174).
 * [[Attenuation model of attention]]
 	* [[Goldstein, Cognitive Psychology]] (p. 90).
 * [[Deploying attentional control reduces irrelevant information in working memory]]
@@ -121,8 +135,6 @@ Adapted from Cognitive Psychology, 5th Edition, by E. Bruce Goldstein.
 * [[Three ways information is being represented in memory]]
 	* [[Goldstein, Cognitive Psychology]] (p. 167).
 	* [[Goldstein, Cognitive Psychology]] (p. 170).
-* [[Types of Long-term Memory]]
-	* [[Goldstein, Cognitive Psychology]] (p. 165).![](ltm.jpg)
 * [[Understanding attention helps design control panels in cars and airplanes]]
 	* [[Goldstein, Cognitive Psychology]] (p. 17)
 * [[Which cognitive model should be used?]]

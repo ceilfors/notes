@@ -112,10 +112,10 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 	* [[Ahrens, How to Take Smart Notes]] (p. 101).
 * [[Effective workflow should break tasks down by attention types]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 60).
-* [[Zeigarnik Effect]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 69).
 * [[Zettels should not have ephemeral tags]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 41).
+* [[Zeigarnik Effect]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 69).
 * [[Confirmation bias]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 79).
 * [[Slow-motion multitasking]]

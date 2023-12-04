@@ -13,6 +13,8 @@ Perception is one of the [[Cognitive processes]] in our mind. It is defined as t
 	* [[Perception]] starts from the senses (bottom-up), but the final result of what we perceive combines what we receive from our senses and our memory, such as knowledge and experiences (top-down).
 * [[What is the difference in between perception, inference, judgement?]]
 	* [[Perception]]: Someone walked in with a wet umbrella
+* [[Cynefin drew from multiple disciplines is to align reality and perception]]
+	* Phenomenology
 * [[The Gestalt principles of organization]]
 	* The principles that are part of [[Gestalt Psychology]]. It contains many principles in regards to [[Perception]], such as:
 
