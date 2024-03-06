@@ -1,5 +1,6 @@
 # Negative thoughts consumes working memory capacity
 
+
 Given that we have [[Working memory limits]], negative thoughts that linger in our heads also consume that capacity, which means we'll not be able to perform as efficiently as we could ([[Working memory is efficient when it stores relevant information]])
 ---
 ## References
