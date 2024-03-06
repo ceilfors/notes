@@ -2,9 +2,9 @@
 
 One of the reflective method to be used for [[Complex Facilitation]]
 
-1 What was the same?
-2 What was different?
-3 What really surprised you?
+1. What was the same?
+2. What was different?
+3. What really surprised you?
 
 ---
 ## References
