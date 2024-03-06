@@ -16,6 +16,8 @@ Production blocking is one of the reason why a brainstorming session, especially
 ## Backlinks
 * [[Find writing topic in your zettelkasten]]
 	* Due to [[Production blocking]], you may not develop better ideas (or may come up worse)
+* [[Silent Listening]]
+	* As a frequent single note-taking person, I found Silent Listening to be useful in preventing [[Production blocking]].
 
 <!-- #evergreen #creativity -->
 

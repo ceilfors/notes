@@ -2,6 +2,8 @@
 Snowden, Dave (and friends). *Cynefin - Weaving Sense-Making Into the Fabric of Our World*. 2020.
 
 ## Backlinks
+* [[Complex Facilitation]]
+	* [[Snowden, Cynefin - Weaving Sense-Making Into the Fabric of Our World]] (p. 300)
 * [[Cynefin drew from multiple disciplines is to align reality and perception]]
 	* [[Snowden, Cynefin - Weaving Sense-Making Into the Fabric of Our World]] (p. 59).
 

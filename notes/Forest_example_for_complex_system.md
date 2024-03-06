@@ -1,6 +1,6 @@
 # Forest example for complex system
 
-A forest is a good analogy to understand the [[Complex domain]].
+A forest is a good analogy to understand the [[Observer effect may impact a complex system]].
 
 A complex system is defined a such:
 1. Dynamic connections
@@ -15,6 +15,11 @@ A complex system is defined a such:
 ---
 ## References
 [[Cynefin Basecamp Nov 2023]]
+
+## Backlinks
+* [[Three systems through complexity science]]
+	* Boundary is fuzzy ([[Forest example for complex system]])
+	* Cause and effect is unclear (What will happen if we chop down a tree? [[Forest example for complex system]])
 
 <!-- #evergreen -->
 

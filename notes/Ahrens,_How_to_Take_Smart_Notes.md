@@ -120,12 +120,12 @@ Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing,
 	* [[Ahrens, How to Take Smart Notes]] (p. 79).
 * [[Slow-motion multitasking]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 14).
+* [[Production blocking]]
+	* [[Ahrens, How to Take Smart Notes]] (p. 134).
 * [[Zettels should capture an atomic concept]]
 	* [[Ahrens, How to Take Smart Notes]] (pp. 18-19).
 * [[Anchoring effect]]
 	* [[Ahrens, How to Take Smart Notes]]  (p. 134).
-* [[Production blocking]]
-	* [[Ahrens, How to Take Smart Notes]] (p. 134).
 * [[DNA structure was discovered on cancer treatment research]]
 	* [[Ahrens, How to Take Smart Notes]] (p. 138).
 * [[Overconfidence bias]]
