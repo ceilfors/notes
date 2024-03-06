@@ -5,7 +5,8 @@
 
 ## Backlinks
 * [[Complex problem assumed order]]
-	* There are differrent domains in the [[Cynefin framework]]. One of the most common mistake is to think that we're operating in an [[Ordered System]], while we're actually in a [[Observer effect may impact a complex system]].
+	* One of the most common mistake is to think that we're operating in an [[Ordered System]], while we're actually in a [[Complex System]].
+	* There's a tendency to also finding a silver bullet when you assume [[Ordered System]].
 * [[Three systems through complexity science]]
 	* [[Ordered System]]
 * [[An experiment may impact a complex system]]

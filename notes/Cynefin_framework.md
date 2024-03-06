@@ -20,7 +20,7 @@ I first discovered this when I saw Dave Snowden’s talk in the Craft Conference
 
 ## Backlinks
 * [[Complex problem assumed order]]
-	* There are differrent domains in the [[Cynefin framework]]. One of the most common mistake is to think that we're operating in an [[Ordered System]], while we're actually in a [[Observer effect may impact a complex system]].
+	* There are differrent domains in the [[Cynefin framework]].
 * [[Cynefin drew from multiple disciplines is to align reality and perception]]
 	* We often have a conflict of what we perceive and the things that exist, the [[Cynefin framework]] attempts to let you see this through multiple disciplines:
 * [[Complex domain]]

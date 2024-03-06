@@ -7,6 +7,8 @@
 ## Backlinks
 * [[Observer effect may impact a complex system]]
 	* This story was shared in [[Cynefin Basecamp Nov 2023]] where they noticed that a company was shifting their behaviours when visited by McKinsey. The consultants were not even hired yet, they were there to propose something, but the entire [[Complex System]] has changed when they observe the visit ([[Observer effect]]).
+* [[Complex problem assumed order]]
+	* One of the most common mistake is to think that we're operating in an [[Ordered System]], while we're actually in a [[Complex System]].
 * [[Three systems through complexity science]]
 	* [[Complex System]]
 * [[An experiment may impact a complex system]]
