@@ -89,11 +89,11 @@ Adapted from Cognitive Psychology, 5th Edition, by E. Bruce Goldstein.
 	* [[Goldstein, Cognitive Psychology]] (p. 174).
 * [[Attenuation model of attention]]
 	* [[Goldstein, Cognitive Psychology]] (p. 90).
-* [[Negative thoughts consumes working memory capacity]]
-	* [[Goldstein, Cognitive Psychology]] (p. 158).
 * [[Deploying attentional control reduces irrelevant information in working memory]]
 	* [[Goldstein, Cognitive Psychology]] (p. 151).
 	* [[Goldstein, Cognitive Psychology]] (p. 154).
+* [[Negative thoughts consumes working memory capacity]]
+	* [[Goldstein, Cognitive Psychology]] (p. 158).
 * [[Interleaved learning]]
 	* [[Goldstein, Cognitive Psychology]] (p. 18)
 * [[Light-from-above assumption]]

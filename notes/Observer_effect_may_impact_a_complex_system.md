@@ -4,8 +4,6 @@ This story was shared in [[Cynefin Basecamp Nov 2023]] where they noticed that a
 ## Backlinks
 * [[Complex problem assumed order]]
 	* There are differrent domains in the [[Cynefin framework]]. One of the most common mistake is to think that we're operating in an [[Ordered System]], while we're actually in a [[Observer effect may impact a complex system]].
-* [[Three systems through complexity science]]
-	* [[Observer effect may impact a complex system]]
 * [[Forest example for complex system]]
 	* A forest is a good analogy to understand the [[Observer effect may impact a complex system]].
 * [[Oblique]]
