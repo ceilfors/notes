@@ -9,7 +9,7 @@
 * [[Three systems through complexity science]]
 	* [[Ordered System]]
 * [[An experiment may impact a complex system]]
-	* In an [[Ordered System]], we may experiment to figure out what's the best change that we can do to a system.
+	* In an [[Ordered System]], we may experiment to figure out what's the best change that we can do to a system, without necessarily changing the system too much.
 
 <!-- #evergreen -->
 

@@ -1,7 +1,7 @@
 # An experiment may impact a complex system
-In an [[Ordered System]], we may experiment to figure out what's the best change that we can do to a system.
+In an [[Ordered System]], we may experiment to figure out what's the best change that we can do to a system, without necessarily changing the system too much.
 
-Interestingly, in a [[Complex System]], the experimentation itself will induce a change to the system, therefore:
+Interestingly, in a [[Complex System]], the experimentation itself will induce a change to the system,  which emphasises interconnectedness of the agents, therefore:
 
 1. The experimentation itself can be an [[Oblique]] mechanism for change. [[Safe-to-try Probes]].
 2. Given that the change has been done, the best change can't be derived anymore as the system has shifted.

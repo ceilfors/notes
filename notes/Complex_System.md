@@ -10,7 +10,7 @@
 * [[Three systems through complexity science]]
 	* [[Complex System]]
 * [[An experiment may impact a complex system]]
-	* Interestingly, in a [[Complex System]], the experimentation itself will induce a change to the system, therefore:
+	* Interestingly, in a [[Complex System]], the experimentation itself will induce a change to the system,  which emphasises interconnectedness of the agents, therefore:
 * [[One finger movement may change the Earth's orbit]]
 	* This is an interesting illustration of a [[Complex System]]. (All elements is connected is one of its attribute, see [[Three systems through complexity science]]).
 * [[Verbs to act in Complex System]]
