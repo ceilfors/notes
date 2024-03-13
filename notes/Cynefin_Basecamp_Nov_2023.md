@@ -11,29 +11,49 @@ Original brief:
 	* [[Cynefin Basecamp Nov 2023]]
 * [[Observer effect may impact a complex system]]
 	* This story was shared in [[Cynefin Basecamp Nov 2023]] where they noticed that a company was shifting their behaviours when visited by McKinsey. The consultants were not even hired yet, they were there to propose something, but the entire [[Complex System]] has changed when they observe the visit ([[Observer effect]]).
+* [[How and when should the word scan be used in Cynefin?]]
+	* One of the theme I noticed from [[Cynefin framework]] practitioners is the use of word scan, which is pretty pervasive in [[Cynefin Basecamp Nov 2023]].
 * [[Bias to action could be a disease in complex domain]]
 	* First heard being framed as a disease from [[Cynefin Basecamp Nov 2023]]
-* [[Anthro-Complexity]]
-	* [[Cynefin Basecamp Nov 2023]]
 * [[3I of Anthro-Complexity]]
 	* [[Cynefin Basecamp Nov 2023]]
 * [[Three systems through complexity science]]
 	* It seems like there are different ways to define these three systems, look at the references below to differentiate them, one from the [[Cynefin 101 Getting Started]] video, one from the [[Cynefin 101 Getting Started]] text one, from the [[Cynefin Basecamp Nov 2023]], and one from the wiki.
 	* [[Cynefin Basecamp Nov 2023]]
+* [[Verbs to act in Complex System]]
+	* After studying Cynefin through [[Cynefin 101 Getting Started]] and [[Cynefin Basecamp Nov 2023]], it becomes obvious that there are different verbs that practitioners are deliberately using to act in [[Complex system]], with the intention to reflect the complex attribute (like [[Non-linear Causality]]).
+* [[Anthro-Complexity]]
+	* [[Cynefin Basecamp Nov 2023]]
 * [[Compare and contrast key questions]]
+	* [[Cynefin Basecamp Nov 2023]]
+* [[Types of constraints]]
+	* [[Cynefin Basecamp Nov 2023]]
 	* [[Cynefin Basecamp Nov 2023]]
 * [[Forest example for complex system]]
 	* [[Cynefin Basecamp Nov 2023]]
+* [[Complex system should be probed to reveal its dispositional state]]
+	* [[Cynefin Basecamp Nov 2023]]
+* [[Cynefin domains can be derived from emotions]]
+	* [[Cynefin Basecamp Nov 2023]]
+* [[Cynefin practitioners prefer hexagonal sticky notes]]
+	* One of the interesting thing I discover from [[Cynefin Basecamp Nov 2023]] is the [[Cynefin framework]] seems to prefer the hexagonal sticky notes.
+* [[Designing parallel safe-to-try probes]]
+	* [[Cynefin Basecamp Nov 2023]] | Day 4
 * [[Humans can behave as any of the three systems]]
 	* Think of an operating theatre where everyone behave like machines with clear roles (First heard from [[Cynefin Basecamp Nov 2023]])
 * [[Linear Cynefin]]
 	* [[Cynefin Basecamp Nov 2023]]
+* [[Paving desire path as an example of probing for dispositionality]]
+	* However, the idea of [[Dispositionality]] though can feel very abstract. In the [[Cynefin Basecamp Nov 2023]], the example used is the idea of a desire path.
+	* [[Cynefin Basecamp Nov 2023]]
+* [[Retrospective coherence should not be used for a complex domain]]
+	* [[Cynefin Basecamp Nov 2023]]
+* [[Safe-to-fail probes]]
+	* Learnt from the [[Cynefin Basecamp Nov 2023]] that the term Safe-to-fail probes have been giving an issue in some organisations as they don't like the word failure.
 * [[Should Cynefin be seen from a subjective or an objective lens?]]
 	* [[Cynefin Basecamp Nov 2023]]
 * [[Silent Listening]]
 	* As per how I have experienced it in [[Cynefin Basecamp Nov 2023]], a spokesperson was appointed in a group, and the rest of the participants will then be asked to remain silent and take notes in a shared board. Although this was not done in the basecamp, it typically ends with [[The Cynefin standard questions]].
-* [[Verbs to act in Complex System]]
-	* After studying Cynefin through [[Cynefin 101 Getting Started]] and [[Cynefin Basecamp Nov 2023]], it becomes obvious that there are different verbs that practitioners are deliberately using to act in [[Complex System]], with the intention to reflect the complex attribute (like [[Non-linear Causality]]).
 
 <!-- #evergreen -->
 

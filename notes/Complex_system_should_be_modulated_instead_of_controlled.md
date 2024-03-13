@@ -1,4 +1,4 @@
-# Modulate over drive in Complex System
+# Complex system should be modulated instead of controlled
 
 ---
 ## References
@@ -7,7 +7,7 @@
 
 ## Backlinks
 * [[Verbs to act in Complex System]]
-	* [[Modulate over drive in Complex System]].
+	* [[Complex system should be modulated instead of controlled]].
 
 <!-- #evergreen -->
 

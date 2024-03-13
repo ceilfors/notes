@@ -1,13 +1,13 @@
-# Non-linear Causality
+# Non-linear causality
 ## Backlinks
 * [[Three systems through complexity science]]
-	* Can also be reframed as [[Non-linear Causality]]
+	* Can also be reframed as [[Non-linear causality]]
+* [[Complex system can't be predicted]]
+	* One of the symptom of [[Complex problem assumed ordered]] is to make an attempt to predict a [[Complex system]]. Unfortunately, given that a complex system has a [[Non-linear causality]], it's inherently unpredictable.
+* [[Retrospective coherence should not be used for a complex domain]]
+	* Due to the [[Non-linear causality]] in a [[Complex system]], it's dangerous to assume that we can use [[Retrospective coherence]].
 * [[Team size and communication lines has non-linear causality]]
-	* Adding a new team member will increase cost of communication. You might think that this will have a linear input (team size) and output (communication cost), but it actually has a [[Non-linear Causality]].
-* [[Verbs to act in Complex System]]
-	* After studying Cynefin through [[Cynefin 101 Getting Started]] and [[Cynefin Basecamp Nov 2023]], it becomes obvious that there are different verbs that practitioners are deliberately using to act in [[Complex System]], with the intention to reflect the complex attribute (like [[Non-linear Causality]]).
-* [[Zoozve's orbit can't be predicted]]
-	* This is an interesting example of [[Non-linear Causality]], where just by adding one more planet, suddenly astrophysicist can't predict the orbit.
+	* Adding a new team member will increase cost of communication. You might think that this will have a linear input (team size) and output (communication cost), but it actually has a [[Non-linear causality]].
 
 <!-- #evergreen -->
 

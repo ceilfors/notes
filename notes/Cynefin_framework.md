@@ -19,12 +19,26 @@ I first discovered this when I saw Dave Snowden’s talk in the Craft Conference
 > A model seeks to represent reality, a framework is a way of looking, a way of making sense which is very different
 
 ## Backlinks
-* [[Complex problem assumed order]]
+* [[Complex problem assumed ordered]]
 	* There are differrent domains in the [[Cynefin framework]].
-* [[Cynefin drew from multiple disciplines is to align reality and perception]]
-	* We often have a conflict of what we perceive and the things that exist, the [[Cynefin framework]] attempts to let you see this through multiple disciplines:
+* [[How and when should the word scan be used in Cynefin?]]
+	* One of the theme I noticed from [[Cynefin framework]] practitioners is the use of word scan, which is pretty pervasive in [[Cynefin Basecamp Nov 2023]].
 * [[Complex domain]]
 	* One of the domain from the [[Cynefin framework]].
+* [[Probe-Sense-Respond]]
+	* The decision model from [[Cynefin framework]] for [[Complex domain]].
+* [[Cynefin domains]]
+	* The domains in the [[Cynefin framework]].
+* [[Cynefin drew from multiple disciplines is to align reality and perception]]
+	* We often have a conflict of what we perceive and the things that exist, the [[Cynefin framework]] attempts to let you see this through multiple disciplines:
+* [[Confused domain]]
+	* One of the domain from [[Cynefin framework]].
+* [[Bounded applicability]]
+	* Bounded applicability is one of the principle from [[Cynefin framework]] in highlighting that most approaches we know are valid when they're applied to the right context or domains.
+* [[Cynefin domains can be derived from emotions]]
+	* Having been thinking through the [[Cynefin framework]], I realised I'm in the [[Confused domain]] when I'm feeling confused.
+* [[Cynefin practitioners prefer hexagonal sticky notes]]
+	* One of the interesting thing I discover from [[Cynefin Basecamp Nov 2023]] is the [[Cynefin framework]] seems to prefer the hexagonal sticky notes.
 * [[Exaptive Practice]]
 	* A practice for complex domain from [[Cynefin framework]].
 * [[Linear Cynefin]]

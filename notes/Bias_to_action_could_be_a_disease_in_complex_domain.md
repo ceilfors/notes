@@ -1,5 +1,5 @@
 # Bias to action could be a disease in complex domain
-A symptom of [[Complex problem assumed order]]. Assuming order in a meeting, for example, people have the tendency to want clarity and non-ambiguity, people want solution and answers.
+A symptom of [[Complex problem assumed ordered]]. Assuming order in a meeting, for example, people have the tendency to want clarity and non-ambiguity, people want solution and answers.
 
 First heard being framed as a disease from [[Cynefin Basecamp Nov 2023]]
 

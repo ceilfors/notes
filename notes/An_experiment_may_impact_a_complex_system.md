@@ -8,6 +8,10 @@ Interestingly, in a [[Complex System]], the experimentation itself will induce a
 
 Even more interestingly, even an observation can change a complex system. See [[Observer effect may impact a complex system]].
 
+## Backlinks
+* [[Safe-to-try probes]]
+	* Experiment: Experiment is meant to be repeatable. To prove a theory, scientists will conduct the same experiment over and over again to ensure its replicability. Probe on the other hand, won't be able to be replicated or repeated, because [[An experiment may impact a complex system]].
+
 <!-- #evergreen -->
 
 <!-- {BearID:F4C49230-D5A1-42F7-9737-EE75B626FE83} -->

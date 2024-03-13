@@ -1,8 +1,8 @@
-# Chaotic System
+# Chaotic system
 
 ## Backlinks
-* [[Three systems through complexity science]]
-	* [[Chaotic System]]
+* [[Solving puzzles vs shifting patterns]]
+	* Shift patterns for [[Chaotic system]] or [[Complex system]]
 
 <!-- #evergreen -->
 

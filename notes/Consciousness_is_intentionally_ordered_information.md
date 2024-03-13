@@ -17,12 +17,12 @@ Imagine that we feel hunger, a piece of information that have just entered of ou
 > We mall intentions the force that keeps information in consciousness ordered. Intentions arise in consciousness whenever a person is aware of desiring something or wanting to accomplish something. Intentions are also bits of information, shaped either by biological needs or by internalised social goals. They act as magnetic fields, moving attention toward some objects and away from others, keeping our mind focused on some still in preference to others.
 
 ## Backlinks
+* [[3I of Anthro-Complexity]]
+	* Intent
 * [[The limits of consciousness]]
 	* [[Humans are constrained by biological limits]], and our consciousness has its limits too. Because [[Consciousness is intentionally ordered information]], the limit that we want to understand is how many bits of information can we process. Apparently, we can only handle 110 bits of information per second. For us to understand what another person is talking about, we must also process roughly about 60 bits of information per second, which is why we can’t simultaneously listen to 2 people talking that well.
 * [[To control consciousness is to override biological and social instruction]]
 	* Understanding that [[Consciousness is intentionally ordered information]] is the key to control consciousness. Most of us have our intents coming either from biological instruction or social instruction. We form goals based on these instructions, such as living a long and healthy life or to get a job. As our intents are coming from a hierarchy goals, we could actually have a higher level goal up in the hierarchy that overrides those biological instruction or social instruction.
-* [[3I of Anthro-Complexity]]
-	* Intent
 
 <!-- #evergreen #consciousness -->
 

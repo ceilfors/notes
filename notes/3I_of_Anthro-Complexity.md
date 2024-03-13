@@ -24,6 +24,8 @@ The three I mnemonic to acknowledge why humans different to other animals ([[Ant
 ## Backlinks
 * [[Anthro-Complexity]]
 	* [[3I of Anthro-Complexity]] indicates why humans are more complex and why Anthro-Complexity deserves a typology on its own.
+* [[Complex system should be probed to reveal its dispositional state]]
+	* The dispositional state of human system is analogous to human desire (or intent - [[3I of Anthro-Complexity]]).
 
 <!-- #evergreen -->
 

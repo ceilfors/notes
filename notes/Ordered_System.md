@@ -1,16 +1,16 @@
-# Ordered System
+# Ordered system
 ---
 ## References
 [[Cynefin 101 Getting Started]]
 
 ## Backlinks
-* [[Complex problem assumed order]]
-	* One of the most common mistake is to think that we're operating in an [[Ordered System]], while we're actually in a [[Complex System]].
-	* There's a tendency to also finding a silver bullet when you assume [[Ordered System]].
-* [[Three systems through complexity science]]
-	* [[Ordered System]]
-* [[An experiment may impact a complex system]]
-	* In an [[Ordered System]], we may experiment to figure out what's the best change that we can do to a system, without necessarily changing the system too much.
+* [[Complex problem assumed ordered]]
+	* One of the most common mistake is to think that we're operating in an [[Ordered system]], while we're actually in a [[Complex system]].
+	* There's a tendency to also finding a silver bullet when you assume [[Ordered system]].
+* [[Complex system should be probed to reveal its dispositional state]]
+	* Unlike [[Ordered system]], [[Complex system]] can't be analysed for solution. An easier way to navigate a [[Complex system]] to probe then understand its [[Dispositionality]] ([[Probe-Sense-Respond]]).
+* [[Solving puzzles vs shifting patterns]]
+	* Solve puzzles for [[Ordered system]]
 
 <!-- #evergreen -->
 

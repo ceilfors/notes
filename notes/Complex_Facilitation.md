@@ -26,6 +26,8 @@ This facilitation technique is difficult to practice because people tend to want
 	* One of the reflective method to be used for [[Complex Facilitation]]
 * [[Boston's Cue Questions]]
 	* One reflection method to be used in [[Complex Facilitation]].
+* [[Cynefin practitioners prefer hexagonal sticky notes]]
+	* It seems that this could be an essential tool for [[Complex Facilitation]].
 * [[Silent Listening]]
 	* Silent listening is one of the technique from [[Complex Facilitation]].
 

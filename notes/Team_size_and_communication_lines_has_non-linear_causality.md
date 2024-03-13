@@ -1,6 +1,6 @@
 # Team size and communication lines has non-linear causality
 
-Adding a new team member will increase cost of communication. You might think that this will have a linear input (team size) and output (communication cost), but it actually has a [[Non-linear Causality]].
+Adding a new team member will increase cost of communication. You might think that this will have a linear input (team size) and output (communication cost), but it actually has a [[Non-linear causality]].
 
 ---
 ## References

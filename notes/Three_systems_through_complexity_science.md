@@ -13,7 +13,7 @@ What I have understood so far, there are characteristics that we can look at to 
   - Connection is dynamic, they can change (think people relationship)
   - Boundary is fuzzy ([[Forest example for complex system]])
   - Cause and effect is unclear (What will happen if we chop down a tree? [[Forest example for complex system]])
-    - Can also be reframed as [[Non-linear Causality]]
+    - Can also be reframed as [[Non-linear causality]]
   - Enabling constraints
 - [[Chaotic System]]
   - There is no connection
@@ -55,6 +55,8 @@ What I have understood so far, there are characteristics that we can look at to 
 > * **Order** has Governing constraints - in general is contained
 
 ## Backlinks
+* [[Solving puzzles vs shifting patterns]]
+	* Considering the [[Three systems through complexity science]], it's helpful to to have a different language to deal with them:
 * [[Humans can behave as any of the three systems]]
 	* There are three systems ([[Three systems through complexity science]]). Where does human system sit according to these three definition?
 * [[One finger movement may change the Earth's orbit]]
