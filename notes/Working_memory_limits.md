@@ -43,7 +43,7 @@ Cowan, Nelson. ‘The Magical Number 4 in Short-Term Memory: A Reconsideration o
 * [[Working memory is limited to four chunks]]
 	* See [[Working memory limits]].
 * [[Negative thoughts consumes working memory capacity]]
-	* ## Given that we have [[Working memory limits]], negative thoughts that linger in our heads also consume that capacity, which means we'll not be able to perform as efficiently as we could ([[Working memory is efficient when it stores relevant information]])
+	* Given that we have [[Working memory limits]], negative thoughts that linger in our heads also consume that capacity, which means we'll not be able to perform as efficiently as we could ([[Working memory is efficient when it stores relevant information]])
 * [[Developer workflow may improve DevEx]]
 	* [[Working memory limits]]
 * [[Comparing side-by-side circumvents our cognitive limits]]
