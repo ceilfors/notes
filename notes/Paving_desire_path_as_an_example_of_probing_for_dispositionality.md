@@ -10,10 +10,10 @@ As you can see here, the architect has crated a path, but people's desire (dispo
 
 An architect, however, can reverse their sequence. Rather than paving a path first, you can reveal the desire path, then pave it ([[Sequence is a crucial attribute of a process]]). Another example from [reddit: The Oval walkways at Ohio State University were paved based on the students' desire paths
 ](https://www.reddit.com/r/DesirePath/comments/8nihbj/the_oval_walkways_at_ohio_state_university_were/) 
-![](image 2.png)
+![](BearImages/3A75678D-F486-4A0F-918B-63AA483A391B/image%202.png)
 
 Another example from [reddit](https://www.reddit.com/r/DesirePath/comments/d7r4v6/a_path_has_appeared/):
-![](image 3.png)
+![](BearImages/560F5104-0818-46C0-91B7-67DA8F39A8ED/image%203.png)
 
 ---
 ## References
