@@ -10,7 +10,7 @@ The types of [[Long-term memory]]:
 
 ---
 ## References
-[[Goldstein, Cognitive Psychology]] (p. 165).![](ltm.jpg)
+[[Goldstein, Cognitive Psychology]] (p. 165).![](BearImages/1D8B7E41-3E22-479A-BFF2-6692A7C50EC4/ltm.jpg)
 ## Backlinks
 * [[Episodic memory]]
 	* One of the [[Types of Long-term Memory]] that involves mental time travel.

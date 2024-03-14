@@ -1,5 +1,5 @@
 # What's the most psychologically effective way to debugging?
-- Understanding [[Bayesian inference]]?
+* Understanding [[Bayesian inference]]?
 
 <!-- #evergreen -->
 

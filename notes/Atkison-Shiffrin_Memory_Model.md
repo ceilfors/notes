@@ -4,7 +4,7 @@
 - - -
 ## References
 [Atkinson–Shiffrin memory model - Wikipedia](https://en.wikipedia.org/wiki/Atkinson%E2%80%93Shiffrin_memory_model)
-![](Multistore_model.png)
+![](BearImages/78F75ED4-004F-4AD7-BB0D-26412706B9C1-652-0000029498F489E2/Multistore_model.png)
 
 ## Backlinks
 * [[Short-term memory]]

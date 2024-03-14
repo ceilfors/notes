@@ -8,7 +8,7 @@ Adding a new team member will increase cost of communication. You might think th
 > Two [telephones](https://en.wikipedia.org/wiki/Telephone) can make only one [connection](https://en.wikipedia.org/wiki/Connectedness), five can make 10 connections, and twelve can make 66 connections.
 
 [Developing Leaders: 6 Keys to Identify & Develop New Leaders | Lighthouse.com](https://getlighthouse.com/blog/developing-leaders-team-grows-big/)
-> ![](image.png)
+> ![](BearImages/D1C8EBF8-1075-4CD3-BD90-2C998AD34583/image.png)
 
 
 <!-- #evergreen -->

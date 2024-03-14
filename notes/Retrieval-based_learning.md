@@ -3,7 +3,7 @@ Retrieval-based learning is a type of practice that makes learning more effectiv
 
 The results of the experiment by Reedier and Karpicke (2006), showing how groups who studied more will perform better initially, but worsen over time.
 
-![](iu.png)
+![](BearImages/75F1BBC8-D65F-49C4-BAD9-1529E2AE1C4D-64008-0000022D4010DCDF/iu.png)
 
 - - -
 ## References

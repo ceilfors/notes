@@ -1,8 +1,8 @@
 # The obstacles of flow
-- [[Narcissism blocks flow]]
-- [[Alienation blocks flow]]
-- [[Attentional disorder blocks flow]]
-- [[Anomie blocks flow]]
+* [[Narcissism blocks flow]]
+* [[Alienation blocks flow]]
+* [[Attentional disorder blocks flow]]
+* [[Anomie blocks flow]]
 
 <!-- #evergreen #flow -->
 

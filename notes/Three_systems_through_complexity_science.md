@@ -29,7 +29,7 @@ What I have understood so far, there are characteristics that we can look at to 
 > A system has certain **boundaries**, it is **constrained** by itself and its **environment** and can be described (and influenced!) by the nature of any of these properties.
 
 [[Cynefin 101 Getting Started]]
-> Modules -> Systems, Complexity, and Anthro-complexity -> Three types of systems![](image.png)
+> Modules -> Systems, Complexity, and Anthro-complexity -> Three types of systems![](BearImages/703045A7-1449-41B6-9365-528470C05FA2/image.png)
 > (Video)
 > Ordered System
 > - High level of constraint
@@ -48,7 +48,7 @@ What I have understood so far, there are characteristics that we can look at to 
 > * ***Chaotic systems****: These are sometimes called random systems, in which the agents are unconstrained and present in large numbers. For this reason, we can gain insight into the operation of such systems by the application of statistic, probability distributions, and the like. The number and the independence of the agents allow large number mathematics to come into play.*
 > * ***Complex systems****: While these systems are constrained, the constraints are loose, partial, and the nature of the constraints (and thereby the system) is constantly modified by the interaction of the agents with the system and each other; they co-evolve."*
 
-[What is a system? | Cynefin Wiki](https://cynefin.io/wiki/What_is_a_system%3F)
+[What is a system? | Cynefin Wiki](https://cynefin.io/wiki/What_is_a_system?)
 > In the world, we find three fundamental types of systems - ordered, chaotic, and complex. At Cognitive Edge, we apply a constraint-based definition of these systems: 
 > - **Chaos** no effective constraints
 > * **Complex** has enabling constraints - in general is connected
@@ -60,7 +60,7 @@ What I have understood so far, there are characteristics that we can look at to 
 * [[Humans can behave as any of the three systems]]
 	* There are three systems ([[Three systems through complexity science]]). Where does human system sit according to these three definition?
 * [[One finger movement may change the Earth's orbit]]
-	* This is an interesting illustration of a [[Complex System]]. (All elements is connected is one of its attribute, see [[Three systems through complexity science]]).
+	* This is an interesting illustration of a [[Complex system]]. (All elements is connected is one of its attribute, see [[Three systems through complexity science]]).
 
 <!-- #evergreen -->
 

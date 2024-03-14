@@ -3,7 +3,7 @@ The initial model of [[Working memory]].
 
 ## References
 [Baddeley's model of working memory - Wikipedia](https://en.wikipedia.org/wiki/Baddeley%27s_model_of_working_memory)
-![](300px-Baddeley_working_memory.jpg)
+![](BearImages/7AE44912-BA71-41A0-A285-25B93025B7D8-54416-00000AE3C24FD45B/300px-Baddeley_working_memory.jpg)
 
 ## Backlinks
 * [[Deploying attentional control reduces irrelevant information in working memory]]

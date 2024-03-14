@@ -3,8 +3,8 @@ I'm an independent consultant with 8 years of tech leadership and more than 13 y
 
 Please [contact me](mailto:hello@ceilfors.com) if you'd like to start a conversation about how I can help. You can see my recommendations on my [LinkedIn](https://www.linkedin.com/in/wisen/). 
 
-- If you're looking for permanent hire, I'll be open for it as long as you offer 4-day work week and time flexibility.
-- Especially if you are not causing harm, or making positive contribution to the world, please don't hesitate to reach out.
+* If you're looking for permanent hire, I'll be open for it as long as you offer 4-day work week and time flexibility.
+* Especially if you are not causing harm, or making positive contribution to the world, please don't hesitate to reach out.
 
 Here are some ways I can help. I can tailor these to fit your needs:
 

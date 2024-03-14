@@ -1,5 +1,5 @@
 # Cynefin framework
-![](Cynefin_as_of_1st_June_2014.png)
+![](BearImages/2C2C6BC5-077B-4A05-A401-FD1E82701E1D-1543-0000D40ADBF92D6F/Cynefin_as_of_1st_June_2014.png)
 
 The Cynefin Framework is a tool created by Dave Snowden that helps you contextualise problems. Tension between arguments tend to happen when the arguments are given for a different contexts. It is important distinguish a framework and a model: a model represents a reality, a framework makes sense of reality.
 

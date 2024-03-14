@@ -1,8 +1,8 @@
 # Cognitive strategies for more effective learning
-- [[Spacing and interleaving]]
-- [[Retrieval-based learning]]
-- [[Spaced repetition]]
-- [[Elaborate in writing to test your understanding]]
+* [[Spacing and interleaving]]
+* [[Retrieval-based learning]]
+* [[Spaced repetition]]
+* [[Elaborate in writing to test your understanding]]
 
 <!-- #evergreen -->
 

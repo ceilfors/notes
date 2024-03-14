@@ -2,7 +2,7 @@
 A practice for complex domain from [[Cynefin framework]].
 
 Example:
-- [[GPS were repurposed from the military]]
+* [[GPS were repurposed from the military]]
 
 <!-- #evergreen -->
 

@@ -6,7 +6,7 @@ This is the earliest [[Information-processing approach]].
 [[Goldstein, Cognitive Psychology]] (p. 89).
 > This is where Broadbent entered the scene and proposed, based on the results of experiments studying selective attention, his filter model of attention, which we introduced in Chapter 1( Figure 1.10) (Broadbent, 1958). 
 
-![](iu.png)
+![](BearImages/2581D799-8BF2-4E1E-AA89-59F3CD15F586-81026-00000C178EE83CA0/iu.png)
 
 ## Backlinks
 * [[Atkison-Shiffrin Memory Model]]

@@ -1,5 +1,5 @@
 # Flow model
-![](472px-Challenge_vs_skill.svg.png)
+![](BearImages/67E14B77-9C18-4D97-9921-A32AF9E74998-805-00003BD4A4528796/472px-Challenge_vs_skill.svg.png)
 - - -
 ## References
 [File:Challenge vs skill.svg - Wikipedia](https://en.wikipedia.org/wiki/File:Challenge_vs_skill.svg)

@@ -9,7 +9,7 @@
 [[Goldstein, Cognitive Psychology]] (p. 58).
 > Figure 3.10 Perception is always a combination of both top-down and bottom-up processing. Bottom-up refers to what comes from the environment and top-down refers to what the individual brings.
 
-![](IMG_1854.jpg)
+![](BearImages/1B1CD020-1B4B-45B3-9963-A1DAA1151B54-5941-00000745C46647F3/IMG_1854.jpg)
 
 ## Backlinks
 * [[Multiple approaches to perception]]

@@ -8,6 +8,8 @@
 	* Due to the [[Non-linear causality]] in a [[Complex system]], it's dangerous to assume that we can use [[Retrospective coherence]].
 * [[Team size and communication lines has non-linear causality]]
 	* Adding a new team member will increase cost of communication. You might think that this will have a linear input (team size) and output (communication cost), but it actually has a [[Non-linear causality]].
+* [[Zoozve's orbit can't be predicted]]
+	* This is an interesting example of [[Non-linear causality]], where just by adding one more planet, suddenly astrophysicist can't predict the orbit.
 
 <!-- #evergreen -->
 

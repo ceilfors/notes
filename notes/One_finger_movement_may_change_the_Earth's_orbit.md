@@ -1,6 +1,6 @@
 # One finger movement may change the Earth's orbit
 
-This is an interesting illustration of a [[Complex System]]. (All elements is connected is one of its attribute, see [[Three systems through complexity science]]).
+This is an interesting illustration of a [[Complex system]]. (All elements is connected is one of its attribute, see [[Three systems through complexity science]]).
 
 Do note that Seppo Mikkola does mention after some billions of years, although it may change the Earth's orbit, it's negligible.
 

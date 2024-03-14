@@ -22,6 +22,8 @@
 	* Shift patterns for [[Chaotic system]] or [[Complex system]]
 * [[Complex system can't be predicted]]
 	* One of the symptom of [[Complex problem assumed ordered]] is to make an attempt to predict a [[Complex system]]. Unfortunately, given that a complex system has a [[Non-linear causality]], it's inherently unpredictable.
+* [[One finger movement may change the Earth's orbit]]
+	* This is an interesting illustration of a [[Complex system]]. (All elements is connected is one of its attribute, see [[Three systems through complexity science]]).
 * [[Retrospective coherence should not be used for a complex domain]]
 	* Due to the [[Non-linear causality]] in a [[Complex system]], it's dangerous to assume that we can use [[Retrospective coherence]].
 * [[Use heuristics as a constraint]]

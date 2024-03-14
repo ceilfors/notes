@@ -38,7 +38,7 @@ One of the best way to understand the types of [[Constraint]] is to elaborate th
 ---
 ## References
 [[Snowden, Managing Complexity (and Chaos) in Times of Crisis]]
-> ![](image.png)
+> ![](BearImages/D1DCC7E1-6974-4BB0-B27B-A5853ACD5D8C/image.png)
 
 [Constraints | Cynefin Wiki](https://cynefin.io/wiki/Constraints)
 > There are many ways to categorize and describe constraints...
