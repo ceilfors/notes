@@ -52,7 +52,7 @@ Cowan, Nelson. ‘The Magical Number 4 in Short-Term Memory: A Reconsideration o
 	* We have [[Working memory limits]], therefore knowing how to utilise it well may improve knowledge worker's mental performance.
 * [[Limits of working memory may limit improvements from practice]]
 	* One of the purposes of a practice is to introduce a change to [[System 1]], but change requires slow thoughts from [[System 2]], and we have [[Working memory limits]].
-* [[Chunking should be borrowed from experts]]
+* [[Chunks should be borrowed from experts]]
 	* Given my [[Working memory limits]], I won't be able to pay attention to all of these at the same time. The chunk that I discovered from experts is the word "anticipation".
 * [[Comparing side-by-side circumvents our cognitive limits]]
 	* When windows or screens are rapidly switched, what you're doing is you're committing the details into your working memory, we have [[Working memory limits]], and which make [[Cognitive load]] higher.

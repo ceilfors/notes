@@ -4,7 +4,7 @@ One thing I noticed from my daughter's piano practice is how she's referring to 
 When I coach others in software engineering, I provide notes after each pair programming practice, detailing feedback and what my students should focus on. It seems to sink into their head more. One of my student also told me at some point that they sometimes look back into my written notes and focus on that. Others who are more intentional in their learning will take my note at heart and repeat whatever I suggested until they can do it.
 
 ## Backlinks
-* [[Chunking should be borrowed from experts]]
+* [[Chunks should be borrowed from experts]]
 	* Given that [[Practicing is an exercise of moving from System 2 to System 1 by rehearsing]], I repeated the word "anticipate anticipate anticipate", and that becomes my all encompassing attention to cover all the points above. It also becomes the word I would recall repeatedly when I practice, carrying the same effect to coaching notes ([[Coaching notes allow students to focus their individual practice]]).
 
 <!-- #evergreen -->

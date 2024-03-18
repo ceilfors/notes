@@ -1,4 +1,4 @@
-# Chunking should be borrowed from experts
+# Chunks should be borrowed from experts
 [[Limits of working memory may limit improvements from practice]].
 
 [[How might we use our limited working memory capacity more effectively?]] One of the ways to improve our working memory capacity is by [[Chunking]].
@@ -15,7 +15,7 @@ Given my [[Working memory limits]], I won't be able to pay attention to all of t
 
 Given that [[Practicing is an exercise of moving from System 2 to System 1 by rehearsing]], I repeated the word "anticipate anticipate anticipate", and that becomes my all encompassing attention to cover all the points above. It also becomes the word I would recall repeatedly when I practice, carrying the same effect to coaching notes ([[Coaching notes allow students to focus their individual practice]]).
 
-Without an expert knowledge, I wouldn't have discovered this chunk.
+Without an expert knowledge, I wouldn't have discovered this chunk. And when you borrowed the chunks from experts, it's more universal to be used, hence easier to be searched.
 
 Some chunks, such as "error rates", can be detrimental depending on the [[Practice-Perform duality]]. [[Measuring error rates may reduce performance]].
 

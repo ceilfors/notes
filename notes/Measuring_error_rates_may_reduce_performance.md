@@ -9,7 +9,7 @@
 You can easily spot this cycle happening to athletes in competitions.
 
 ## Backlinks
-* [[Chunking should be borrowed from experts]]
+* [[Chunks should be borrowed from experts]]
 	* Some chunks, such as "error rates", can be detrimental depending on the [[Practice-Perform duality]]. [[Measuring error rates may reduce performance]].
 
 <!-- #evergreen -->

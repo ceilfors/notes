@@ -19,7 +19,7 @@ We have [[Working memory limits]], therefore knowing how to utilise it well may 
      - [[To control consciousness is to be able to focus attention at will]]
 
 ## Backlinks
-* [[Chunking should be borrowed from experts]]
+* [[Chunks should be borrowed from experts]]
 	* [[How might we use our limited working memory capacity more effectively?]] One of the ways to improve our working memory capacity is by [[Chunking]].
 
 <!-- #connection -->
