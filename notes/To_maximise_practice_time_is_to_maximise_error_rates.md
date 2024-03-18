@@ -7,7 +7,7 @@ Given that she's repeating the whole song each time, this error rate can be incr
 
 When I tried to improve my badminton practice, I realise some of my drills error rates are reduced. To give one example, I can feel that my clear drills are getting more and more consistent, my error rates are too low. I started to adjust my drills to incorporate a proper footwork (rather than just standing still), I realise my error rates are increasing again.
 
-Some may associate errors to be something, so I assume:
+Some may associate errors to be something bad, so I assume:
 - [[To be antifragile is to love mistakes]]
 - Have [[Autotelic personality]]
 - Have [[Growth mindset]]

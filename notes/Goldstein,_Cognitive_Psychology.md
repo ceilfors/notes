@@ -33,7 +33,7 @@ Adapted from Cognitive Psychology, 5th Edition, by E. Bruce Goldstein.
 	* [[Goldstein, Cognitive Psychology]] (p. 140).
 	* [[Goldstein, Cognitive Psychology]] (p. 165).
 * [[Types of Long-term Memory]]
-	* [[Goldstein, Cognitive Psychology]] (p. 165).![](ltm.jpg)
+	* [[Goldstein, Cognitive Psychology]] (p. 165).![](BearImages/1D8B7E41-3E22-479A-BFF2-6692A7C50EC4/ltm.jpg)
 * [[Chunking increases working memory capacity]]
 	* [[Goldstein, Cognitive Psychology]] (p. 135).
 	* [[Goldstein, Cognitive Psychology]] (p. 135).
