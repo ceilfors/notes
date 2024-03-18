@@ -14,7 +14,7 @@ Some may associate errors to be something bad, so I assume:
 
 ## Backlinks
 * [[Measuring error rates may reduce performance]]
-	* [[To maximise practice time is to maximise error rates]]. But, unfortunately, carrying this habit from practice into perform ([[Practice\/Perform duality]]) might be detrimental, given that it may induce frustration in a high-stake environment, forming a vicious cycle:
+	* [[To maximise practice time is to maximise error rates]]. But, unfortunately, carrying this habit from practice into perform ([[Practice-Perform duality]]) might be detrimental, given that it may induce frustration in a high-stake environment, forming a vicious cycle:
 
 <!-- #evergreen -->
 

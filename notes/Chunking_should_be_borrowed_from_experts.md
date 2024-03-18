@@ -17,7 +17,7 @@ Given that [[Practicing is an exercise of moving from System 2 to System 1 by re
 
 Without an expert knowledge, I wouldn't have discovered this chunk.
 
-Some chunks, such as "error rates", can be detrimental depending on the [[Practice\/Perform duality]]. [[Measuring error rates may reduce performance]].
+Some chunks, such as "error rates", can be detrimental depending on the [[Practice-Perform duality]]. [[Measuring error rates may reduce performance]].
 
 <!-- #evergreen -->
 

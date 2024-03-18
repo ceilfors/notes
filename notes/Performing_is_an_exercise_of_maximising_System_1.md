@@ -2,7 +2,7 @@
 When System 2 is attempted to be used, performance may degrade (see: [[Paying attention may reduce task that require automatic processing]]).
 
 ## Backlinks
-* [[Practice/Perform duality]]
+* [[Practice-Perform duality]]
 	* [[Performing is an exercise of maximising System 1]]
 
 <!-- #evergreen -->

@@ -2,12 +2,12 @@
 
 
 ## Backlinks
+* [[Practice-Perform duality]]
+	* [[Practicing is an exercise of moving from System 2 to System 1 by rehearsing]]
 * [[Limits of working memory may limit improvements from practice]]
 	* [[Practicing is an exercise of moving from System 2 to System 1 by rehearsing]].
 * [[Chunking should be borrowed from experts]]
 	* Given that [[Practicing is an exercise of moving from System 2 to System 1 by rehearsing]], I repeated the word "anticipate anticipate anticipate", and that becomes my all encompassing attention to cover all the points above. It also becomes the word I would recall repeatedly when I practice, carrying the same effect to coaching notes ([[Coaching notes allow students to focus their individual practice]]).
-* [[Practice/Perform duality]]
-	* [[Practicing is an exercise of moving from System 2 to System 1 by rehearsing]]
 
 <!-- #evergreen -->
 

@@ -39,6 +39,8 @@ Adapted from Cognitive Psychology, 5th Edition, by E. Bruce Goldstein.
 	* [[Goldstein, Cognitive Psychology]] (p. 135).
 * [[Episodic memory]]
 	* [[Goldstein, Cognitive Psychology]] (p. 174).
+* [[Paying attention may reduce task that require automatic processing]]
+	* [[Goldstein, Cognitive Psychology]] (p. 108).
 * [[Automatic processing]]
 	* [[Goldstein, Cognitive Psychology]] (p. 108).
 * [[Cognitive functions have a limited capacity]]
@@ -50,8 +52,6 @@ Adapted from Cognitive Psychology, 5th Edition, by E. Bruce Goldstein.
 * [[Perception combines bottom-up and top-down processing]]
 	* [[Goldstein, Cognitive Psychology]]  (p.57).
 	* [[Goldstein, Cognitive Psychology]] (p. 58).
-* [[Paying attention may reduce task that require automatic processing]]
-	* [[Goldstein, Cognitive Psychology]] (p. 108).
 * [[Retrieval-based learning]]
 	* [[Goldstein, Cognitive Psychology]] (p. 18)
 * [[Bayesian inference]]

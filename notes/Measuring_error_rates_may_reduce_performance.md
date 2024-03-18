@@ -1,5 +1,5 @@
 # Measuring error rates may reduce performance
-[[To maximise practice time is to maximise error rates]]. But, unfortunately, carrying this habit from practice into perform ([[Practice\/Perform duality]]) might be detrimental, given that it may induce frustration in a high-stake environment, forming a vicious cycle:
+[[To maximise practice time is to maximise error rates]]. But, unfortunately, carrying this habit from practice into perform ([[Practice-Perform duality]]) might be detrimental, given that it may induce frustration in a high-stake environment, forming a vicious cycle:
 
 1. Expected to execute a high performance
 2. Seeing errors, frustration
@@ -10,7 +10,7 @@ You can easily spot this cycle happening to athletes in competitions.
 
 ## Backlinks
 * [[Chunking should be borrowed from experts]]
-	* Some chunks, such as "error rates", can be detrimental depending on the [[Practice\/Perform duality]]. [[Measuring error rates may reduce performance]].
+	* Some chunks, such as "error rates", can be detrimental depending on the [[Practice-Perform duality]]. [[Measuring error rates may reduce performance]].
 
 <!-- #evergreen -->
 
