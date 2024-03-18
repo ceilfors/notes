@@ -4,10 +4,14 @@
 * [[Inattentional blindess]]
 * [[Change blindness]]
 * [[Only one type of attention can be given to one thing at one time]]
-
+## Backlinks
+* [[Cognitive functions have a limited capacity]]
+	* For example, we have [[Working memory limits]], [[Attention limits]].
 
 ## Backlinks
 * [[Cognitive functions have a limited capacity]]
+	* For example, we have [[Working memory limits]], [[Attention limits]].
+* [[Attention limits]]
 	* For example, we have [[Working memory limits]], [[Attention limits]].
 
 <!-- #evergreen -->

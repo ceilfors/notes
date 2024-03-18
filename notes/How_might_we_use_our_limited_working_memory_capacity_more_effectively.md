@@ -18,6 +18,10 @@ We have [[Working memory limits]], therefore knowing how to utilise it well may 
      - [[Meditation training improves attentional control]]
      - [[To control consciousness is to be able to focus attention at will]]
 
+## Backlinks
+* [[Chunking should be borrowed from experts]]
+	* [[How might we use our limited working memory capacity more effectively?]] One of the ways to improve our working memory capacity is by [[chunking]].
+
 <!-- #connection -->
 
 <!-- {BearID:B7B4C480-11BA-4C96-9839-22CF05FD0B8A} -->

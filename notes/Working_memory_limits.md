@@ -32,24 +32,30 @@ Cowan, Nelson. ‘The Magical Number 4 in Short-Term Memory: A Reconsideration o
 	* We have [[Working memory limits]], therefore making sure that we can populate our working memory with what's relevant in the current circumstances is necessary for us to be effective. Unfortunately we don't really have a full control over what we have in our working memory, other irrelevant thoughts might linger (like open tasks) and will reduce our ability to focus. (See also: [[Zeigarnik Effect]])
 * [[Chunking increases working memory capacity]]
 	* We have [[Working memory limits]], in terms of how much we can store in our memory. How then we could process more than our limits? The answer is chunking.
-* [[To write is to rubber duck]]
-	* Perhaps, one reason I felt stuck is because there are too many variables I’m playing in my head when I was presented with the architectural problem. I was hitting my [[Working memory limits]]. By writing them down, it’s as if I have more working memory to play with. [[Writing makes thinking possible]].
 * [[Cognitive functions have a limited capacity]]
 	* For example, we have [[Working memory limits]], [[Attention limits]].
+* [[To write is to rubber duck]]
+	* Perhaps, one reason I felt stuck is because there are too many variables I’m playing in my head when I was presented with the architectural problem. I was hitting my [[Working memory limits]]. By writing them down, it’s as if I have more working memory to play with. [[Writing makes thinking possible]].
 * [[The limits of consciousness]]
 	* Mihaly seems to indicate that this is related to working memory, but I don’t really understand how consciousness is related to the concept of working memory. See [[Working memory limits]].
 * [[The prerequisites of flow are needed to flood working memory]]
 	* The [[The prerequisites of flow experience]] are needed to enable continuous concentration on a task. These prerequisites are seemingly related to the fact that we have [[Working memory limits]].
+* [[Attention limits]]
+	* For example, we have [[Working memory limits]], [[Attention limits]].
 * [[Working memory is limited to four chunks]]
 	* See [[Working memory limits]].
 * [[Negative thoughts consumes working memory capacity]]
 	* Given that we have [[Working memory limits]], negative thoughts that linger in our heads also consume that capacity, which means we'll not be able to perform as efficiently as we could ([[Working memory is efficient when it stores relevant information]])
 * [[Developer workflow may improve DevEx]]
 	* [[Working memory limits]]
-* [[Comparing side-by-side circumvents our cognitive limits]]
-	* When windows or screens are rapidly switched, what you're doing is you're committing the details into your working memory, we have [[Working memory limits]], and which make [[Cognitive load]] higher.
 * [[How might we use our limited working memory capacity more effectively?]]
 	* We have [[Working memory limits]], therefore knowing how to utilise it well may improve knowledge worker's mental performance.
+* [[Limits of working memory may limit improvements from practice]]
+	* One of the purposes of a practice is to introduce a change to [[System 1]], but change requires slow thoughts from [[System 2]], and we have [[Working memory limits]].
+* [[Chunking should be borrowed from experts]]
+	* Given my [[Working memory limits]], I won't be able to pay attention to all of these at the same time. The chunk that I discovered from experts is the word "anticipation".
+* [[Comparing side-by-side circumvents our cognitive limits]]
+	* When windows or screens are rapidly switched, what you're doing is you're committing the details into your working memory, we have [[Working memory limits]], and which make [[Cognitive load]] higher.
 
 <!-- #evergreen #cognitive -->
 

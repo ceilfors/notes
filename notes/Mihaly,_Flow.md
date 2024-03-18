@@ -31,18 +31,18 @@ Csikszentmihalyi, Mihaly. *Flow: The Classic Work on How to Achieve Happiness*. 
 	* [[Mihaly, Flow]] (p. 59).
 * [[Flow activities are exotelic first before they become autotelic]]
 	* [[Mihaly, Flow]] (p. 68).
-* [[Boring routine can be converted to enjoyment]]
-	* [[Mihaly, Flow]] (p. 39).
-* [[Controlling consciousness is learnable]]
-	* [[Mihaly, Flow]] (p. 25).
-* [[Alienation blocks flow]]
-	* [[Mihaly, Flow]] (p. 86).
-* [[The difference between pleasure and enjoyment is the amount of psychic energy spent]]
-	* [[Mihaly, Flow]] (pp. 46 - 47).
 * [[Autotelic personality]]
 	* [[Mihaly, Flow]] (p. 90).
 	* [[Mihaly, Flow]] (p. 92).
 	* [[Mihaly, Flow]] (p. 93).
+* [[Controlling consciousness is learnable]]
+	* [[Mihaly, Flow]] (p. 25).
+* [[Boring routine can be converted to enjoyment]]
+	* [[Mihaly, Flow]] (p. 39).
+* [[Alienation blocks flow]]
+	* [[Mihaly, Flow]] (p. 86).
+* [[The difference between pleasure and enjoyment is the amount of psychic energy spent]]
+	* [[Mihaly, Flow]] (pp. 46 - 47).
 * [[Meditation is a practice to control consciousness]]
 	* [[Mihaly, Flow]] (p. 104).
 * [[Creative work requires clear goals and feedback to become a flow activity]]

@@ -12,10 +12,10 @@ This idea is related to the idea from flow: [[To control consciousness is to be 
 > From the above studies it is evident that the prefrontal cortex plays a crucial role in working memory.
 
 ## Backlinks
-* [[Meditation training improves attentional control]]
-	* Similar idea to [[Meditation is a practice to control consciousness]]. This is important as [[Deploying attentional control reduces irrelevant information in working memory]].
 * [[How might we use our limited working memory capacity more effectively?]]
 	* [[Deploying attentional control reduces irrelevant information in working memory]]
+* [[Meditation training improves attentional control]]
+	* Similar idea to [[Meditation is a practice to control consciousness]]. This is important as [[Deploying attentional control reduces irrelevant information in working memory]].
 
 <!-- #evergreen -->
 

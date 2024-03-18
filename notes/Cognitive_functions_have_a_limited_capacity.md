@@ -11,6 +11,8 @@ For example, we have [[Working memory limits]], [[Attention limits]].
 ## Backlinks
 * [[The mind]]
 	* From cognitive psychology point of view, the mind controls our [[Cognitive functions have a limited capacity]] so that we can achieve our goals.
+* [[Attention limits]]
+	* [[Cognitive functions have a limited capacity]]
 * [[Knowledge workers are limited by their cognitive processes]]
 	* [[Cognitive functions have a limited capacity]]. Given that [[Knowledge workers process knowledge into knowledge]], we are constrained by those limits.
 

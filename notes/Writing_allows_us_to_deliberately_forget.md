@@ -16,10 +16,10 @@ Related: [[Storing information externally is not a new idea]]
 ## Backlinks
 * [[Ahrens, How to Take Smart Notes]]
 	* [[Writing allows us to deliberately forget]]
-* [[Writing your worries may increase working memory capacity]]
-	* [[Writing allows us to deliberately forget]].
 * [[How might we use our limited working memory capacity more effectively?]]
 	* [[Writing allows us to deliberately forget]]
+* [[Writing your worries may increase working memory capacity]]
+	* [[Writing allows us to deliberately forget]].
 
 <!-- #evergreen #thinking -->
 

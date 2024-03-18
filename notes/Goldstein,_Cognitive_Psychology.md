@@ -24,10 +24,10 @@ Adapted from Cognitive Psychology, 5th Edition, by E. Bruce Goldstein.
 	* [[Goldstein, Cognitive Psychology]] (p. 139).
 * [[Movement increases accuracy of perception]]
 	* [[Goldstein, Cognitive Psychology]] (p. 75).
-* [[Perceptual load theory]]
-	* [[Goldstein, Cognitive Psychology]] (p. 95).
 * [[Short-term memory]]
 	* [[Goldstein, Cognitive Psychology]] (p. 132).
+* [[Perceptual load theory]]
+	* [[Goldstein, Cognitive Psychology]] (p. 95).
 * [[The name short-term memory may emphasise too much on storage]]
 	* [[Goldstein, Cognitive Psychology]] (p. 138).
 	* [[Goldstein, Cognitive Psychology]] (p. 140).
@@ -41,25 +41,27 @@ Adapted from Cognitive Psychology, 5th Edition, by E. Bruce Goldstein.
 	* [[Goldstein, Cognitive Psychology]] (p. 174).
 * [[Automatic processing]]
 	* [[Goldstein, Cognitive Psychology]] (p. 108).
+* [[Cognitive functions have a limited capacity]]
+	* [[Goldstein, Cognitive Psychology]] (p. 13)
 * [[Distraction has low impact on tasks with high perceptual load]]
 	* [[Goldstein, Cognitive Psychology]] (p. 97).
 * [[Cognitive revolution were inspired by digital computers]]
 	* [[Goldstein, Cognitive Psychology]] (p. 12)
-* [[Cognitive functions have a limited capacity]]
-	* [[Goldstein, Cognitive Psychology]] (p. 13)
 * [[Perception combines bottom-up and top-down processing]]
 	* [[Goldstein, Cognitive Psychology]]  (p.57).
 	* [[Goldstein, Cognitive Psychology]] (p. 58).
+* [[Paying attention may reduce task that require automatic processing]]
+	* [[Goldstein, Cognitive Psychology]] (p. 108).
 * [[Retrieval-based learning]]
 	* [[Goldstein, Cognitive Psychology]] (p. 18)
 * [[Bayesian inference]]
 	* [[Goldstein, Cognitive Psychology]] (p. 68).
 * [[Retrieving memories makes them easier to retrieve]]
 	* [[Goldstein, Cognitive Psychology]] (p. 19)
-* [[Change blindness]]
-	* [[Goldstein, Cognitive Psychology]] (p. 114).
 * [[Storing information externally is not a new idea]]
 	* [[Goldstein, Cognitive Psychology]] (p. 182).
+* [[Change blindness]]
+	* [[Goldstein, Cognitive Psychology]] (p. 114).
 * [[Working memory is efficient when it stores relevant information]]
 	* [[Goldstein, Cognitive Psychology]] (pp. 148-149).
 * [[The purpose of a model is to simplify]]
@@ -81,12 +83,12 @@ Adapted from Cognitive Psychology, 5th Edition, by E. Bruce Goldstein.
 * [[Perception of pain can be affected by expectation]]
 	* [[Goldstein, Cognitive Psychology]] (p. 61).
 	* [[Goldstein, Cognitive Psychology]] (p. 61).
-* [[Talking while driving is dangerous when the other person can not observe the traffic situation]]
-	* [[Goldstein, Cognitive Psychology]] (p. 110).
 * [[The Gestalt principles of organization]]
 	* [[Goldstein, Cognitive Psychology]] (p. 63).
 * [[Semantic memory]]
 	* [[Goldstein, Cognitive Psychology]] (p. 174).
+* [[Talking while driving is dangerous when the other person can not observe the traffic situation]]
+	* [[Goldstein, Cognitive Psychology]] (p. 110).
 * [[Attenuation model of attention]]
 	* [[Goldstein, Cognitive Psychology]] (p. 90).
 * [[Deploying attentional control reduces irrelevant information in working memory]]
@@ -102,20 +104,20 @@ Adapted from Cognitive Psychology, 5th Edition, by E. Bruce Goldstein.
 	* [[Goldstein, Cognitive Psychology]] (p. 65).
 * [[Models help explain cognitive psychology]]
 	* [[Goldstein, Cognitive Psychology]] (p. 14)
-* [[Multitasking is possible when we have extra capacity]]
-	* [[Goldstein, Cognitive Psychology]] (p. 107).
 * [[Information in memory is being represented not stored]]
 	* In the book [[Goldstein, Cognitive Psychology]], the author is being very careful in using the word represented, rather than stored, when talking about the [[Long-term memory]]. This is due to the similar concern of [[The name short-term memory may emphasise too much on storage]]. Information in our memory is not stored as-is, and it may be different when you recall it in the future.
 	* [[Goldstein, Cognitive Psychology]] (p. 170).
 * [[Spacing and interleaving]]
 	* [[Goldstein, Cognitive Psychology]] (p .18)
-* [[The ability to divide attention depends on difficulty of the task]]
-	* [[Goldstein, Cognitive Psychology]] (p. 109).
 * [[Helmholtz's theory of unconscious inference]]
 	* This is one of the [[Multiple approaches to perception]] listed in [[Goldstein, Cognitive Psychology]]. I got confused because it uses the word inference, see [[What is the difference in between perception, inference, judgement?]].
 	* [[Goldstein, Cognitive Psychology]] (p. 62).
 * [[Perception is influenced by regularities in the environment]]
 	* [[Goldstein, Cognitive Psychology]] (p. 65).
+* [[The ability to divide attention depends on difficulty of the task]]
+	* [[Goldstein, Cognitive Psychology]] (p. 109).
+* [[Multitasking is possible when we have extra capacity]]
+	* [[Goldstein, Cognitive Psychology]] (p. 107).
 * [[Meditation training improves attentional control]]
 	* [[Goldstein, Cognitive Psychology]] (p. 159).
 * [[Writing your worries may increase working memory capacity]]
@@ -126,8 +128,6 @@ Adapted from Cognitive Psychology, 5th Edition, by E. Bruce Goldstein.
 	* [[Goldstein, Cognitive Psychology]] (p. 60).
 * [[Memory]]
 	* [[Goldstein, Cognitive Psychology]] (p. 125).
-* [[Paying attention may reduce task that require automatic processing]]
-	* [[Goldstein, Cognitive Psychology]] (p. 108).
 * [[Perception of pain can be affected by attention]]
 	* [[Goldstein, Cognitive Psychology]] (p. 61).
 * [[Sensory memory]]

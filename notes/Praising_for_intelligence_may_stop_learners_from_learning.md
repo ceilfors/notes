@@ -12,7 +12,7 @@ Praising is a way to reinforce a behaviour, hence the behaviour that will be rei
 
 ## Backlinks
 * [[Praise effort to cultivate growth mindset]]
-	* [[Praising for intelligence may stop learners from learning]]. This doesn’t mean that we should apply positive reinforcement to learners. We should instead praise for the learning effort to cultivate the growth mindset.
+	* [[Praising for intelligence may stop learners from learning]]. This doesn’t mean that we should apply positive reinforcement to learners. We should instead praise for the learning effort to cultivate the [[Growth mindset]].
 
 <!-- #evergreen #counterintuitive #coach -->
 

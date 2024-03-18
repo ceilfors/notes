@@ -1,5 +1,5 @@
 # Praise effort to cultivate growth mindset
-[[Praising for intelligence may stop learners from learning]]. This doesn’t mean that we should apply positive reinforcement to learners. We should instead praise for the learning effort to cultivate the growth mindset.
+[[Praising for intelligence may stop learners from learning]]. This doesn’t mean that we should apply positive reinforcement to learners. We should instead praise for the learning effort to cultivate the [[Growth mindset]].
 
 ## References
 [[The Self-Driven Child]] (p. 109)
