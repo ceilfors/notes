@@ -1,7 +1,7 @@
 # Chunking should be borrowed from experts
 [[Limits of working memory may limit improvements from practice]].
 
-[[How might we use our limited working memory capacity more effectively?]] One of the ways to improve our working memory capacity is by [[chunking]].
+[[How might we use our limited working memory capacity more effectively?]] One of the ways to improve our working memory capacity is by [[Chunking]].
 
 When I was trying to improve my badminton game, there were many points that I needed to pay attention to:
 - Where my opponent are and where my shuttle is going

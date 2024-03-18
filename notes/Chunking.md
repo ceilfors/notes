@@ -4,6 +4,8 @@ The process of which we group multiple pieces of information into a new piece of
 ## Backlinks
 * [[Chunking increases working memory capacity]]
 	* [[Chunking]] allows us to increase the capacity of our [[Working memory]].
+* [[Chunking should be borrowed from experts]]
+	* [[How might we use our limited working memory capacity more effectively?]] One of the ways to improve our working memory capacity is by [[Chunking]].
 
 <!-- #evergreen -->
 

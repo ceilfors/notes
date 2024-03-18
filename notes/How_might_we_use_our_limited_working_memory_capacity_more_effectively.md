@@ -20,7 +20,7 @@ We have [[Working memory limits]], therefore knowing how to utilise it well may 
 
 ## Backlinks
 * [[Chunking should be borrowed from experts]]
-	* [[How might we use our limited working memory capacity more effectively?]] One of the ways to improve our working memory capacity is by [[chunking]].
+	* [[How might we use our limited working memory capacity more effectively?]] One of the ways to improve our working memory capacity is by [[Chunking]].
 
 <!-- #connection -->
 
