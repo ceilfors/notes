@@ -57,6 +57,8 @@ One of the best way to understand the types of [[Constraint]] is to elaborate th
 ## Backlinks
 * [[Are there relationship in between constraint types and Cynefin domains?]]
 	* There are conflicting information around how the idea of [[Types of constraints]] and [[Cynefin domains]] are related to each other.
+* [[Traffic control as an example of constraints]]
+	* There are many [[Types of constraints]]. One good example that has been presented in the [[Cynefin Basecamp Nov 2023]] is traffic control systems.
 
 <!-- #evergreen -->
 

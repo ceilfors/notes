@@ -1,4 +1,4 @@
-# Complex Facilitation
+# Complex facilitation
 A body of work containing technique. I first discovered this from [[Cynefin Basecamp Nov 2023]].
 
 One of the core difference here is to let participants discover. This is done by the facilitator to manage process over people.
@@ -22,14 +22,8 @@ This facilitation technique is difficult to practice because people tend to want
 > Complex facilitation is "the facilitation of complex methods to make sense of complex issues in order to take action..."
 
 ## Backlinks
-* [[Compare and contrast key questions]]
-	* One of the reflective method to be used for [[Complex Facilitation]]
-* [[Boston's Cue Questions]]
-	* One reflection method to be used in [[Complex Facilitation]].
-* [[Cynefin practitioners prefer hexagonal sticky notes]]
-	* It seems that this could be an essential tool for [[Complex Facilitation]].
-* [[Silent Listening]]
-	* Silent listening is one of the technique from [[Complex Facilitation]].
+* [[Some tools are less effective in complex domain]]
+	* I haven't connected to the idea that some tools are not effective in complex domain. It's a good reminder that when I'm about to employ a certain tools or techniques, they might be less effective in [[Complex domain]]. This is probably why [[Complex facilitation]] is required.
 
 <!-- #evergreen -->
 

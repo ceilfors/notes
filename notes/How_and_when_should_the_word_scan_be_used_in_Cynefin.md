@@ -7,7 +7,7 @@ I scoured through the Cynefin Wiki as of Mar 2024 and couldn't find any definiti
 2. It seems that it's most used for [[Complex domain]], but it can be used to reset when we don't know in which domain we are.
 3. Scanning should come before the creation of [[Safe-to-try probes]]
 4. Area: In a [[Complex system]], we should scan as wide as possible to discover a better diversity of information.
-5. Granularity: Framing scanning in levels of granularity is helpful. You can scan a complex system from culture of organisation (high level) all the way to human body as a complex system (low level). This allows for better information diversity.
+5. [[Granularity]]: Framing scanning in levels of granularity is helpful. You can scan a complex system from culture of organisation (high level) all the way to human body as a complex system (low level). This allows for better information diversity.
 
 ---
 ## References

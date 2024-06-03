@@ -15,6 +15,10 @@ Design 3 probes in parallel, see an example in the reference section.
 > **3. Signs of failure (how might we recover)** Person still feels they can't speak up.
 > **4. What could be potential unintended consequences?**  Everyone else become quieter. Team becomes resentful because they have to change thing due to one person (was good before).
 
+## Backlinks
+* [[2024-03-21 Cynefin Basecamp Day 4]]
+	* [[Designing parallel safe-to-try probes]]
+
 <!-- #evergreen -->
 
 <!-- {BearID:1E1CC244-DFB2-4E8F-86D1-46F6A6AAF192} -->

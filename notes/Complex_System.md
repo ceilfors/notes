@@ -9,17 +9,19 @@
 	* One of the most common mistake is to think that we're operating in an [[Ordered system]], while we're actually in a [[Complex system]].
 * [[Safe-to-try probes]]
 	* Analyse: Analysis implies that we will understand the causality of what we do before we act. Given the nonlinear causality of a [[Complex system]], it's hard to analyse them. Rather than analysing, we probe to understand its [[Dispositionality]].
-* [[How and when should the word scan be used in Cynefin?]]
-	* Area: In a [[Complex system]], we should scan as wide as possible to discover a better diversity of information.
 * [[Complex domain]]
 	* Sometimes being used interchangeably with [[Complex system]].
-* [[Verbs to act in Complex System]]
-	* After studying Cynefin through [[Cynefin 101 Getting Started]] and [[Cynefin Basecamp Nov 2023]], it becomes obvious that there are different verbs that practitioners are deliberately using to act in [[Complex system]], with the intention to reflect the complex attribute (like [[Non-linear Causality]]).
+* [[How and when should the word scan be used in Cynefin?]]
+	* Area: In a [[Complex system]], we should scan as wide as possible to discover a better diversity of information.
 * [[Complex system should be probed to reveal its dispositional state]]
 	* Unlike [[Ordered system]], [[Complex system]] can't be analysed for solution. An easier way to navigate a [[Complex system]] to probe then understand its [[Dispositionality]] ([[Probe-Sense-Respond]]).
 	* Unlike [[Ordered system]], [[Complex system]] can't be analysed for solution. An easier way to navigate a [[Complex system]] to probe then understand its [[Dispositionality]] ([[Probe-Sense-Respond]]).
+* [[Verbs to act in Complex System]]
+	* After studying Cynefin through [[Cynefin 101 Getting Started]] and [[Cynefin Basecamp Nov 2023]], it becomes obvious that there are different verbs that practitioners are deliberately using to act in [[Complex system]], with the intention to reflect the complex attribute (like [[Non-linear Causality]]).
 * [[Solving puzzles vs shifting patterns]]
 	* Shift patterns for [[Chaotic system]] or [[Complex system]]
+* [[Constraint should be a plausible hypothesis]]
+	* When you're thinking about what [[Constraint]] are at play in a [[Complex system]], you have to generate thoughts. These constraints don't need to be proven, you can think about them as a hypothesis.
 * [[Complex system can't be predicted]]
 	* One of the symptom of [[Complex problem assumed ordered]] is to make an attempt to predict a [[Complex system]]. Unfortunately, given that a complex system has a [[Non-linear causality]], it's inherently unpredictable.
 * [[One finger movement may change the Earth's orbit]]

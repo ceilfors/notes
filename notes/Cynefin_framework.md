@@ -21,12 +21,12 @@ I first discovered this when I saw Dave Snowden’s talk in the Craft Conference
 ## Backlinks
 * [[Complex problem assumed ordered]]
 	* There are differrent domains in the [[Cynefin framework]].
-* [[How and when should the word scan be used in Cynefin?]]
-	* One of the theme I noticed from [[Cynefin framework]] practitioners is the use of word scan, which is pretty pervasive in [[Cynefin Basecamp Nov 2023]].
 * [[Complex domain]]
 	* One of the domain from the [[Cynefin framework]].
 * [[Probe-Sense-Respond]]
 	* The decision model from [[Cynefin framework]] for [[Complex domain]].
+* [[How and when should the word scan be used in Cynefin?]]
+	* One of the theme I noticed from [[Cynefin framework]] practitioners is the use of word scan, which is pretty pervasive in [[Cynefin Basecamp Nov 2023]].
 * [[Cynefin domains]]
 	* The domains in the [[Cynefin framework]].
 * [[Cynefin drew from multiple disciplines is to align reality and perception]]

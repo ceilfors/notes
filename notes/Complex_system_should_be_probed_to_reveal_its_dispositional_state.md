@@ -14,6 +14,8 @@ The dispositional state of human system is analogous to human desire (or intent 
 > Identify **desire lines** first through **experimentation** and **probing**.
 
 ## Backlinks
+* [[A system should be ready for change before being changed]]
+	* To understand the readiness of the system, [[Complex system should be probed to reveal its dispositional state]].
 * [[Paving desire path as an example of probing for dispositionality]]
 	* [[Complex system should be probed to reveal its dispositional state]].
 

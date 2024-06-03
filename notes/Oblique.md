@@ -1,6 +1,7 @@
 # Oblique
 A more effective way to influence change in a [[Observer effect may impact a complex system]], where it has the characteristic of being vague and non-direct.
 
+See also: [[Obliquity]]
 ## Backlinks
 * [[An experiment may impact a complex system]]
 	* The experimentation itself can be an [[Oblique]] mechanism for change. [[Safe-to-try Probes]].

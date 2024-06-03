@@ -13,10 +13,12 @@ After studying Cynefin through [[Cynefin 101 Getting Started]] and [[Cynefin Bas
    - [[Solving puzzles vs shifting patterns]]
 5. Amplify/dampen
    - [[Amplify or dampen to shift patterns in complex systems]]
+6. Decompose
+   - [[Scale a complex system by decomposition and recombination]]
 
 ## Backlinks
-* [[2024-03-12 Cynefin Basecamp Day 3]]
-	* [[Verbs to act in Complex System]]
+* [[Scale a complex system by decomposition and recombination]]
+	* Potentially [[Verbs to act in Complex System]]
 
 <!-- #evergreen -->
 

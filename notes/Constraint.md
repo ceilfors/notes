@@ -11,6 +11,8 @@ A system has observable behaviours. Constraints are what inform and shape those 
 	* One of the best way to understand the types of [[Constraint]] is to elaborate them by examples, these are my examples of physical and mental/knowledge. The official definition is best defined in the references.
 * [[Solving puzzles vs shifting patterns]]
 	* What's keeping the patterns in place? [[Constraint]]
+* [[Constraint should be a plausible hypothesis]]
+	* When you're thinking about what [[Constraint]] are at play in a [[Complex system]], you have to generate thoughts. These constraints don't need to be proven, you can think about them as a hypothesis.
 * [[Designing parallel safe-to-try probes]]
 	* Once there is a hypothesis of what [[Constraint]] keeping a pattern in place, you can begin designing a [[Safe-to-try probes]].
 * [[Use heuristics as a constraint]]

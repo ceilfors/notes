@@ -21,6 +21,8 @@ There's a tendency to also finding a silver bullet when you assume [[Ordered sys
 	* One of the symptom of [[Complex problem assumed ordered]] is to make an attempt to predict a [[Complex system]]. Unfortunately, given that a complex system has a [[Non-linear causality]], it's inherently unpredictable.
 * [[Retrospective coherence should not be used for a complex domain]]
 	* This tendency to use retrospective coherence could be a symptom from [[Complex problem assumed ordered]].
+* [[Some tools are less effective in complex domain]]
+	* I found this interesting given that despite my understanding of [[Bounded applicability]], I still fall to [[Complex problem assumed ordered]].
 
 <!-- #evergreen -->
 

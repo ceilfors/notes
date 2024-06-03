@@ -6,7 +6,7 @@ Probe is the first step from [[Probe-Sense-Respond]]. The best way to understand
 ---
 ## References
 
-[Cynefin for Everyone! | Liz Keogh blog](https://lizkeogh.com/cynefin-for-everyone/#:~:text=In%20the%20complex%20domain%2C%20we,repeatable%2C%20with%20a%20provable%20hypothesis.)
+[Cynefin for Everyone! | Liz Keogh blog](https://lizkeogh.com/cynefin-for-everyone/#:~:text=In the complex domain, we,repeatable, with a provable hypothesis.)
 > In the complex domain, we have to *probe* the problem. That means to try something out in a way that’s safe-to-fail. Ideally we’ll have several probes running in parallel.
 > [...]
 > It’s not quite the same as an experiment, because experiments are intended to be repeatable, with a provable hypothesis. In complex problems, though, the side-effects mean that you might not get the impact you were hoping for, even with the effect you intended… or you might find that the effect wasn’t really what you wanted after all.
@@ -16,6 +16,8 @@ Probe is the first step from [[Probe-Sense-Respond]]. The best way to understand
 	* Scanning should come before the creation of [[Safe-to-try probes]]
 * [[Verbs to act in Complex System]]
 	* [[Safe-to-try probes]]
+* [[Constraint should be a plausible hypothesis]]
+	* For example, if you're resolving an issue of someone who's not engaging well in a team meeting, a constraint that "could" be at play is "leader always right culture". You may not know if that's right, but it could be right, and that's enough to generate more ideas for [[Safe-to-try probes]].
 * [[Designing parallel safe-to-try probes]]
 	* Once there is a hypothesis of what [[Constraint]] keeping a pattern in place, you can begin designing a [[Safe-to-try probes]].
 * [[Probation period as an example of probing]]

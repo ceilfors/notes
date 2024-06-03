@@ -12,9 +12,9 @@ From [Constraints | Cynefin Wiki](https://cynefin.io/wiki/Constraints)
 
 The latter suggests that in a Clear domain, a governing constraint can also be applied.
 
-My understanding so far is, the thinking about what constraints should be applied to which domains is false. Rather, I should think about, what's the current constraints at play?
-
-The association is more about what's currently effective (what's causing an effect to the system).
+This is my understanding so far on what "associated" means:
+1. It's not about what constraints should be applied to which domain. Rather, I should think about, what's the current constraints at play? The association is more about what's currently effective (what's causing an effect to the system).
+2. It's a constraint that's dominantly playing in a domain. It doesn't mean other constraints are not at play, they're less dominant.
 
 <!-- #evergreen -->
 
